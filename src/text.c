@@ -738,7 +738,9 @@ u16 RenderText(struct TextPrinter *textPrinter)
                 currChar = *textPrinter->printerTemplate.currentChar;
                 break;
             case EXT_CTRL_CODE_SHIFT_RIGHT:
-                textPrinter->printerTemplate.currentX = textPrinter->printerTemplate.x + *textPrinter->printerTemplate.currentChar;
+                // Ofir Changed This
+                //textPrinter->printerTemplate.currentX = textPrinter->printerTemplate.x + *textPrinter->printerTemplate.currentChar;
+                textPrinter->printerTemplate.currentX = textPrinter->printerTemplate.x - *textPrinter->printerTemplate.currentChar;
                 textPrinter->printerTemplate.currentChar++;
                 return RENDER_REPEAT;
             case EXT_CTRL_CODE_SHIFT_DOWN:
@@ -853,7 +855,11 @@ u16 RenderText(struct TextPrinter *textPrinter)
             if (textPrinter->japanese)
                 textPrinter->printerTemplate.currentX += (gGlyphInfo.width + textPrinter->printerTemplate.letterSpacing);
             else
-                textPrinter->printerTemplate.currentX += gGlyphInfo.width;
+            {
+                // Ofir Changed This
+                //textPrinter->printerTemplate.currentX += gGlyphInfo.width;
+                textPrinter->printerTemplate.currentX -= gGlyphInfo.width;
+            }
         }
         return RENDER_PRINT;
     case RENDER_STATE_WAIT:
