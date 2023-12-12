@@ -406,9 +406,13 @@ u16 AddTextPrinterParameterized2(u8 windowId, u8 fontId, const u8 *str, u8 speed
     printer.currentChar = str;
     printer.windowId = windowId;
     printer.fontId = fontId;
-    printer.x = 0;
+    // Ofir Changed This
+    //printer.x = 0;
+    printer.x = 200;
     printer.y = 1;
-    printer.currentX = 0;
+    //printer.currentX = 0;
+    //test
+    printer.currentX = 200;
     printer.currentY = 1;
     printer.letterSpacing = 1;
     printer.lineSpacing = 1;
