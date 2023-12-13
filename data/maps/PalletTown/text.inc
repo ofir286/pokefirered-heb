@@ -1,67 +1,65 @@
 PalletTown_Text_OakDontGoOut::
-    .string "OAK: Hey! Wait!\n"
-    .string "Don't go out!$"
+    .string "אוק: היי! חכה רגע!\n"
+    .string "אל תלך לשם!$"
 
 PalletTown_Text_OakGrassUnsafeNeedMon::
-    .string "OAK: It's unsafe!\n"
-    .string "Wild POKéMON live in tall grass!\p"
-    .string "You need your own POKéMON for\n"
-    .string "your protection.\p"
-    .string "I know!\n"
-    .string "Here, come with me!$"
+    .string "אוק: זה מסוכן! פוקימונים פראים\l"
+    .string "חיים בדשא!\p"
+    .string "כדאי שיהיו לך פוקימונים משלך\l"
+    .string "שיגנו עליך.\p"
+    .string "יש לי רעיון!\n"
+    .string "בוא איתי!$"
 
 PalletTown_Text_RaisingMonsToo::
-    .string "I'm raising POKéMON, too.\p"
-    .string "When they get strong, they can\n"
-    .string "protect me.$"
+    .string "גם אני מאמנת פוקימונים!\p"
+    .string "כשהם יגדלו ויהיו\n"
+    .string "חזקים, הם יגנו עלי!$"
 
 PalletTown_Text_CanStoreItemsAndMonsInPC::
-    .string "Technology is incredible!\p"
-    .string "You can now store and recall items\n"
-    .string "and POKéMON as data via PC.$"
+    .string "אפשר לאחסן דיגיטלית פריטים\n"
+    .string "ואפילו פוקימונים, דרך מחשב!\p"
+    .string "ממש פלאי הטכנולוגיה!$"
 
 PalletTown_Text_OakPokemonResearchLab::
-    .string "OAK POKéMON RESEARCH LAB$"
+    .string "מעבדת הפוקימון של פרופ' אוק$"
 
 PalletTown_Text_PlayersHouse::
-    .string "{PLAYER}'s house$"
+    .string "הבית של {PLAYER}$"
 
 PalletTown_Text_RivalsHouse::
-    .string "{RIVAL}'s house$"
+    .string "הבית של {RIVAL}$"
 
 PalletTown_Text_TownSign::
-    .string "PALLET TOWN\n"
-    .string "Shades of your journey await!$"
+    .string "העיירה פאלט\n"
+    .string "המסע שלך מתחיל כאן!$"
 
 PalletTown_Text_OakLetMeSeePokedex::
-    .string "OAK: Ah, {PLAYER}!\n"
-    .string "You're back, are you?\p"
-    .string "How much have you filled in your\n"
-    .string "POKéDEX?\p"
-    .string "May I see it?\p"
-    .string "Let's see…$"
+    .string "אוק: {PLAYER}!\n"
+    .string "סוף סוף חזרת?\p"
+    .string "נו, כמה כבר מילאת את\n"
+    .string "ה-פוקידקס שלך?\p"
+    .string "אני יכול לראות אותו?\p"
+    .string "בוא נראה…$"
 
 PalletTown_Text_CaughtXPuttingInHonestEffort::
-    .string "You've caught {STR_VAR_2}…\p"
-    .string "Hm, it looks as if you're putting\n"
-    .string "in an honest effort.\p"
-    .string "When you manage to fill it some\n"
-    .string "more, come show me, please.$"
+    .string "תפסת {STR_VAR_2}…\p"
+    .string "הממ, נראה שאתה משקיע מאמץ רב.\p"
+    .string "כשתצליח למלא אותו קצת יותר,\n"
+    .string "תבוא להראות לי בבקשה.$"
 
 PalletTown_Text_CaughtXImpressiveFollowMe::
-    .string "You've caught… {STR_VAR_2}!?\n"
-    .string "Now, this is impressive!\p"
-    .string "There's something I wanted to ask\n"
-    .string "of you, {PLAYER}.\p"
-    .string "Come.\n"
-    .string "Follow me.$"
+    .string "תפסת… {STR_VAR_2}!?\n"
+    .string "וואו זה מרשים ביותר!\p"
+    .string "יש משהו שרציתי לבקש ממך\n"
+    .string "{PLAYER}.\p"
+    .string "בוא אחרי.$"
 
 PalletTown_Text_OakYouEnjoyingTraveling::
-    .string "OAK: Ah, {PLAYER}!\n"
-    .string "You seem to be enjoying traveling.\p"
-    .string "Knowing you, {PLAYER}, I can easily\n"
-    .string "imagine you going out to even more\l"
-    .string "exotic locales.\p"
-    .string "Good for you, good for you.\n"
-    .string "Hohoho.$"
+    .string "אוק: {PLAYER}!\n"
+    .string "נראה שאתה נהנה מהמסע שלך.\p"
+    .string "כמו שאני מכיר אותך, אני יכול\n"
+    .string "לדמיין אותך הולך אפילו למקומות\l"
+    .string "יותר מיוחדים.\p"
+    .string "תמשיך ככה!\n"
+	.string "אין ספק שאתה חי את החיים.$"
 
