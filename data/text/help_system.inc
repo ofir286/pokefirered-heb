@@ -1,280 +1,267 @@
 Help_Text_WhatShouldIDo::
-	.string "What should I do in this situation?$"
+    .string "מה לעשות במצב הזה?$"
 
 Help_Text_HowDoIDoThis::
-	.string "How do I do this?$"
+    .string "איך אני עושה זאת?$"
 
 Help_Text_WhatDoesThisTermMean::
-	.string "What does this term mean?$"
+    .string "מה משמעות מונח זה?$"
 
 Help_Text_AboutThisGame::
-	.string "About this game$"
+    .string "על המשחק הזה$"
 
 Help_Text_TypeMatchupList::
-	.string "Type Matchup List$"
+    .string "רשימת התאמת סוגים$"
 
 Help_Text_Exit::
-	.string "EXIT$"
+    .string "יציאה$"
 
 Help_Text_Cancel::
-	.string "CANCEL$"
+    .string "ביטול$"
 
 Help_Text_TryDoingItOnYourOwn::
-	.string "じぶんの ちからで やってみよう！$"
+.string "じぶんの ちからで やってみよう！$"
 
 Help_Text_DescWhatShouldIDo::
-	.string "Select to obtain hints for getting\n"
-	.string "over challenging situations.$"
+    .string "בחר כדי לקבל רמזים להתמודדות\n"
+    .string "עם מצבים מאתגרים.$"
 
 Help_Text_DescHowDoIDoThis::
-	.string "Detailed instructions are given for\n"
-	.string "various operations.$"
+    .string "בחר בשביל הוראות מפורטות לפעולות\n"
+    .string "שונות.$"
 
 Help_Text_DescWhatDoesThisTermMean::
-	.string "Detailed descriptions are given for\n"
-	.string "terms that appear in the game.$"
+    .string "מילות הסבר מפורטות מוצגות\n"
+    .string "למונחים שמופיעים במשחק.$"
 
 Help_Text_DescAboutThisGame::
-	.string "Detailed descriptions are given\n"
-	.string "about this game.$"
+    .string "מילות הסבר מפורטות על המשחק\n"
+    .string "הזה.$"
 
 Help_Text_DescTypeMatchupList::
-	.string "The matchups of  POKéMON types\n"
-	.string "and moves are listed.$"
+    .string "התאמות של סוגי פוקימון\n"
+    .string "ומהלכים.$"
 
 Help_Text_DescExit::
-	.string "Select to exit the HELP System.$"
+    .string "בחר לצאת ממערכת העזרה.$"
 
 Help_Text_Greetings::
-	.string "Greetings! This is the HELP System.\n"
-	.string "Call me up whenever and wherever you\l"
-	.string "need by pressing the L or R Button.\l"
-	.string "The help messages change to suit the\l"
-	.string "situation, so check them often, please.$"
+    .string "שלום! זו מערכת העזרה.\n"
+    .string "תוכל לקרוא אותי בכל זמן ובכל מקום\l"
+    .string "על ידי הקשה על כפתור ש או י.\l"
+    .string "ההודעות תתעדכנה לפי המצב, אז תבדוק\l"
+    .string "אותן בתדירות!$"
 
 Help_Text_PlayingForFirstTime::
-	.string "I'm playing for the first time. Help!$"
+    .string "אני משחק לראשונה. עזרה!$"
 
 Help_Text_WhatShouldIBeDoing::
-	.string "What should I be doing?$"
+    .string "מה אמור אני לעשות?$"
 
 Help_Text_CantGetOutOfRoom::
-	.string "I can't get out of a room!$"
+    .string "אני לא יכול לצאת מחדר!$"
 
 Help_Text_CantFindPersonIWant::
-	.string "I can't find the person I want.$"
+    .string "אני לא מוצא את האדם שאני רוצה.$"
 
 Help_Text_TalkedToEveryoneNowWhat::
-	.string "I've talked to everyone. Now what?$"
+    .string "דיברתי עם כולם. מה עכשיו?$"
 
 Help_Text_SomeoneBlockingMyWay::
-	.string "There's someone blocking my way!$"
+    .string "יש מישהו שחוסם לי את הדרך!$"
 
 Help_Text_ICantGoOn::
-	.string "I can't go on!$"
+    .string "אני לא יכול להמשיך!$"
 
 Help_Text_OutOfThingsToDo::
-	.string "I'm out of things to do.$"
+    .string "אין לי מה לעשות.$"
 
 Help_Text_WhatHappenedToItemIGot::
-	.string "What happened to the item I got?$"
+    .string "מה קרה לפריט שקיבלתי?$"
 
 Help_Text_WhatAreMyAdventureBasics::
-	.string "What are the basics of my adventure?$"
+    .string "מה הבסיס של ההרפתקה שלי?$"
 
 Help_Text_HowAreRoadsForestsDifferent::
-	.string "How are roads and forests different?$"
+    .string "מה ההבדל בין דרכים ליערות?$"
 
 Help_Text_HowAreCavesDifferent::
-	.string "How are caves different?$"
+    .string "איך מערות שונות?$"
 
 Help_Text_HowDoIProgress::
-	.string "How do I progress?$"
+    .string "איך אני הולך הלאה?$"
 
 Help_Text_WhenCanIUseItem::
-	.string "When can I use items?$"
+    .string "מתי אני יכול להשתמש בפריטים?$"
 
 Help_Text_WhatsABattle::
-	.string "What's a battle?$"
+    .string "מה זה קרב?$"
 
 Help_Text_HowDoIPrepareForBattle::
-	.string "How do I prepare for battle?$"
+    .string "איך אני מתכונן לקרב?$"
 
 Help_Text_WhatIsAMonsVitality::
-	.string "What is a POKéMON's vitality?$"
+    .string "מהו חיים של פוקימון?$"
 
 Help_Text_MyMonsAreHurt::
-	.string "My POKéMON are hurt!$"
+    .string "הפוקימונים שלי פצועים!$"
 
 Help_Text_WhatIsStatusProblem::
-	.string "What is a status problem?$"
+    .string "מהו סטאטוס של פוקימון?$"
 
 Help_Text_WhatHappensIfAllMyMonsFaint::
-	.string "What happens if all my POKéMON faint?$"
+    .string "מה קורה אם כל הפוקימונים שלי מתים?$"
 
 Help_Text_CantCatchMons::
-	.string "I can't catch POKéMON!$"
+    .string "אני לא יכול לתפוס פוקימונים!$"
 
 Help_Text_RanOutOfPotions::
-	.string "I ran out of POTIONS.$"
+    .string "נגמרו לי התרופות.$"
 
 Help_Text_CanIBuyPokeBalls::
-	.string "Can I buy POKé BALLS?$"
+    .string "אפשר לקנות פוקיבול-ים?$"
 
 Help_Text_WhatsATrainer::
-	.string "What's a TRAINER?$"
+    .string "מה זה מאמן?$"
 
 Help_Text_HowDoIWinAgainstTrainer::
-	.string "How do I win against a TRAINER?$"
+    .string "איך אני מנצח מאמן?$"
 
 Help_Text_WhereDoMonsAppear::
-	.string "Where do POKéMON appear?$"
+    .string "איפה פוקימונים מופיעים?$"
 
 Help_Text_WhatAreMoves::
-	.string "What are POKéMON moves?$"
+    .string "מה הם תכניות הפוקימון?$"
 
 Help_Text_WhatAreHiddenMoves::
-	.string "What are HIDDEN moves?$"
+    .string "מהזה מהלכים נסתרים?$"
 
 Help_Text_WhatMovesShouldIUse::
-	.string "What moves should I use?$"
+    .string "באילו מהלכים אני צריך להשתמש?$"
 
 Help_Text_WantToAddMoreMoves::
-	.string "I want to add more moves.$"
+    .string "אני רוצה להוסיף מהלכים נוספים.$"
 
 Help_Text_WantToMakeMonStronger::
-	.string "I want to make my POKéMON stronger.$"
+    .string "אני רוצה לחזק את הפוקימון שלי.$"
 
 Help_Text_FoeMonsTooStrong::
-	.string "The foe POKéMON are too strong!$"
+    .string "הפוקימונים של היריב חזקים מידי!$"
 
 Help_Text_WhatDoIDoInCave::
-	.string "What do I do in a cave?$"
+    .string "מה לעשות במערה?$"
 
 Help_Text_NothingIWantToKnow::
-	.string "There's nothing that I want to know!$"
+    .string "אין לי שום דבר שאני רוצה לדעת!$"
 
 Help_Text_WhatsPokemonCenter::
-	.string "What's a POKéMON CENTER?$"
+    .string "מה זה מרכז פוקימון?$"
 
 Help_Text_WhatsPokemonMart::
-	.string "What's a POKéMON MART?$"
+    .string "מה זה חנות פוקימון?$"
 
 Help_Text_WantToEndGame::
-	.string "I want to end the game.$"
+    .string "אני רוצה לסיים את המשחק.$"
 
 Help_Text_WhatsAMon::
-	.string "What's a POKéMON?$"
+    .string "מה זה פוקימון?$"
+
 
 Help_Text_WhatIsThatPersonLike::
-	.string "What is that person like?$"
+    .string "איך האדם ההוא?$"
 
 Help_Text_WhatDoesHiddenMoveDo::
-	.string "What does a HIDDEN move do?$"
+    .string "מה מהלך נסתר עושה?$"
 
 Help_Text_WhatDoIDoInSafari::
-	.string "What do I do in a SAFARI GAME?$"
+    .string "מה לעשות במשחק ספארי?$"
 
 Help_Text_WhatAreSafariRules::
-	.string "What are the SAFARI GAME rules?$"
+    .string "מהם כללי המשחק בספארי?$"
 
 Help_Text_WantToEndSafari::
-	.string "I want to end this SAFARI GAME!$"
+    .string "אני רוצה לסיים את משחק הספארי!$"
 
 Help_Text_WhatIsAGym::
-	.string "What is a GYM?$"
+    .string "מהו מכון?$"
 
 Help_Text_AnswerPlayingForFirstTime::
-	.string "You become the main character,\n"
-	.string "exploring the world of POKéMON.\l"
-	.string "By talking to people and solving\l"
-	.string "mysteries, new paths will open to you.\l"
-	.string "Strive for the goal together with your\l"
-	.string "wonderful POKéMON.$"
+    .string "אתה הדמות הראשית,\n"
+    .string "וחוקר את עולם הפוקימונים.\n"
+    .string "על ידי שיחה עם אנשים ופתרון\n"
+    .string "חידות, דרכים חדשות נפתחות לך.\n"
+    .string "שאף למטרה יחד עם הפוקימון הנהדר שלך.$"
 
 Help_Text_AnswerWhatShouldIBeDoing::
-	.string "When you come across another person,\n"
-	.string "go up to them and press the A Button.\l"
-	.string "That will get them to talk and interact\l"
-	.string "with your character. You may also\l"
-	.string "examine various items and objects in\l"
-	.string "the same way. Talk to people and check\l"
-	.string "things often to obtain information.$"
+    .string "כאשר אתה נתקל באדם אחר,\n"
+    .string "תפנה אליו ולחץ על הכפתור A.\n"
+    .string "זה יגרום לו לדבר ולפעול ביחד עם\n"
+    .string "דמותך. באפשרותך גם לבדוק פריטים\n"
+    .string "ועצות בדיוק באותו הדרך. שוחח עם אנשים ובדוק\n"
+    .string "דברים בתדירות כדי לקבל מידע.$"
 
 Help_Text_AnswerCantGetOutOfRoom::
-	.string "On the stairs or the exits of a\n"
-	.string "building is a red mat. Move your\l"
-	.string "character to stand on top of the\l"
-	.string "red mat. Press the {PLUS} Control Pad \l"
-	.string "toward the stairs or the exit to\l"
-	.string "advance.$"
+    .string "בסולמות או ביציאות של בניין\n"
+    .string "יש משטח אדום. הזז את דמותך\n"
+    .string "כך שתעמוד מעל המשטח האדום. לחץ על\n"
+    .string "הכפתור {PLUS} בפד השליטה אל מול הסולמות או\n"
+    .string "היציאה לכיוון המשטח כדי להתקדם.$"
 
 Help_Text_AnswerCantFindPersonIWant::
-	.string "This isn't something you should worry\n"
-	.string "about too much.\l"
-	.string "Talk to other people, check signs,\l"
-	.string "check things, and so on.\l"
-	.string "Sometimes, you may need to just move\l"
-	.string "to a new town or place.$"
+    .string "זה לא משהו שאתה אמור לדאוג\n"
+    .string "לו מדי. שוחח עם אנשים אחרים, בדוק תוויות,\n"
+    .string "בדוק דברים ועוד. לפעמים ייתכן שתצטרך\n"
+    .string "לפשוט לעבור לעיר או למקום חדש.$"
 
 Help_Text_AnswerTalkedToEveryoneNowWhat::
-	.string "Try moving on to a new road, town, or\n"
-	.string "place.$"
+    .string "נסה לעבור לדרך, עיר או מקום חדש.$"
 
 Help_Text_AnswerSomeoneBlockingMyWay::
-	.string "There could be something in the town\n"
-	.string "or inside a building that is the cause.\l"
-	.string "Try talking to the people in the area\l"
-	.string "again. If there is a problem that they\l"
-	.string "need solved, you may have to help.\l"
-	.string "Afterwards, try talking to the person\l"
-	.string "blocking your way again.$"
+    .string "יכול להיות שיש משהו בעיר\n"
+    .string "או בתוך בניין שגורם לזה. נסה לשוב לשוחח עם\n"
+    .string "אנשים באזור שוב. אם יש בעיה שצריך\n"
+    .string "לפתור, ייתכן שתצטרך לעזור. לאחר מכן,\n"
+    .string "נסה לשוב לשוחח עם האדם שחוסם לך את הדרך.$"
 
 Help_Text_AnswerICantGoOn::
-	.string "Try talking to people by going up to\n"
-	.string "them and pressing the A Button.\l"
-	.string "Also, try checking things like odd trees\l"
-	.string "and strange rocks with the A Button.\l"
-	.string "Press the {PLUS} Control Pad and try going\l"
-	.string "to places that look impassable, too.$"
+    .string "נסה לשוב לשוחח עם אנשים על ידי לגשת\n"
+    .string "אליהם וללחוץ על הכפתור A. בנוסף, נסה לבדוק\n"
+    .string "דברים כמו עצים מוזרים וסלעים מוזרים עם הכפתור A.\n"
+    .string "לחץ על {PLUS} בפד השליטה ונסה ללכת אל מקומות\n"
+    .string "שנראים כאילו אי אפשר לעבור לשם גם.$"
 
 Help_Text_AnswerOutOfThingsToDo::
-	.string "Try going to places where you \n"
-	.string "haven't visited yet.\l"
-	.string "Also, check everything that looks\l"
-	.string "suspicious by pressing the A Button.$"
+    .string "נסה ללכת למקומות שעדיין\n"
+    .string "לא ביקרת בהם. בנוסף, בדוק הכל שנראה\n"
+    .string "חשוד על ידי לחיצה על הכפתור A.$"
 
 Help_Text_AnswerWhatHappenedToItemIGot::
-	.string "Any item that you are given by another\n"
-	.string "character goes in your BAG.\l"
-	.string "The item is automatically sorted and\l"
-	.string "placed in one of three pockets.\l"
-	.string "For instructions on the BAG's use,\l"
-	.string "please refer to the HELP System's\l"
-	.string "“How do I do this?” heading.$"
+    .string "כל פריט שאתה מקבל מדמות אחרת נכנס\n"
+    .string "לתיק שלך. הפריט ממויין אוטומטית ומונח\n"
+    .string "באחת משלוש הכיסיות. להוראות לשימוש בתיק,\n"
+    .string "אנא התייחס לערך איך\n"
+    .string "“אני עושה את זה?“ במערכת העזרה.$"
 
 Help_Text_AnswerWhatAreMyAdventureBasics::
-	.string "If POKéMON are hurt in battle,\n"
-	.string "take them to a POKéMON CENTER and\l"
-	.string "have them healed by the staff.\l"
-	.string "Get in the habit of saving your\l"
-	.string "game and recording your progress.\l"
-	.string "Stock up on healing items at\l"
-	.string "POKéMON MARTS before traveling far.$"
+    .string "אם פוקימונים נפגעים בקרב,\n"
+    .string "הבא איתם למרכז פוקימונים ותחיה אותם על ידי\n"
+    .string "הצוות. תיהיה ברגע הרגיל של שמירה על המשחק\n"
+    .string "ועל התקדמות ההקלטה שלך. הצטבר פריטי הרפואה\n"
+    .string "בחנויות פוקימון לפני מסע ארוך.$"
 
 Help_Text_AnswerHowAreRoadsForestsDifferent::
-	.string "Forests are basically the same as\n"
-	.string "roads but they can be like mazes.\l"
-	.string "All forests have a way out, so don't\l"
-	.string "give up if you get lost.$"
+    .string "יערות בגדול דומים לדרכים\n"
+    .string "אך הם יכולים להיות כמו מבוך. בכל\n"
+    .string "יער יש אמצעי לצאת, אז אל תוותר אם אתה\n"
+    .string "נתקע.$"
 
 Help_Text_AnswerHowAreCavesDifferent::
-	.string "Caves are dark and dangerous. Wild\n"
-	.string "POKéMON can appear anywhere in them.\l"
-	.string "If there is an emergency, rush to a\l"
-	.string "POKéMON CENTER or use items.\l"
-	.string "New towns await discovery beyond some\l"
-	.string "caves, so don't give up.$"
+    .string "מערות הן אפלות ומסוכנות. פוקימונים פראיים\n"
+    .string "יכולים להופיע בכל מקום בהם.\n"
+    .string "מהר למרכז פוקימון או השתמש בפריטים.\n"
+    .string "ערים חדשות מחכות לגילוי מעבר למערות מסוימות, אז\n"
+    .string "אל תוותר.$"
+
 
 Help_Text_AnswerHowDoIProgress::
 	.string "The object of the game is to train\n"
