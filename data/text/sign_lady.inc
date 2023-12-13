@@ -14,7 +14,8 @@ PalletTown_Text_ReadItReadIt::
 @ Used by sign
 PalletTown_Text_PressStartToOpenMenu::
 	.string "טיפים למאמנים\p"
-	.string "לחץ על כפתור ההתחל כדי לפתוח את התפריט!$"
+	.string "לחץ על כפתור ההתחל כדי\n"
+	.string "לפתוח את התפריט!$"
 
 PalletTown_Text_SignsAreUsefulArentThey::
 	.string "שלטים הם שימושיים נכון?$"
@@ -27,4 +28,5 @@ PalletTown_Text_LookCopiedTrainerTipsSign::
 @ Used by NPC
 PalletTown_Text_PressStartToOpenMenuCopy::
 	.string "טיפים למאמנים\p"
-	.string "לחץ על כפתור ההתחל כדי לפתוח את התפריט!$"
+	.string "לחץ על כפתור ההתחל כדי\n"
+	.string "לפתוח את התפריט!$"
