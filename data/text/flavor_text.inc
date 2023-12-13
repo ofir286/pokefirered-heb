@@ -51,6 +51,10 @@ Text_Indigo_HighestAuthority::
 Text_Food::
     .string "אמורים להיות בזה כל מיני דברים\n"
     .string "טעימים שאפשר לאכול.$"
+	
+Text_Blueprints::
+    .string "זה סרטוט כלשהו.\n"
+    .string "יש שם הרבה מילים וצורות.$"
 
 Text_Painting::
     .string "זו תמונה יפה של פוקימון.\n"
