@@ -1,102 +1,98 @@
 @ Same as Hoenn's day-care text, used by the Four Island Day-Care. Unused text translated in Emerald
 
 DayCare_Text_ImDaycareManSpeakToMyWife::
-	.string "I'm the DAY-CARE MAN.\p"
-	.string "I help take care of the precious\n"
-	.string "POKéMON of TRAINERS.\p"
-	.string "If you'd like me to raise your\n"
-	.string "POKéMON, have a word with my wife.$"
+	.string "אני מנהל מעון יום.\p"
+	.string "אני עוזר לטפל בפוקימונים של\n"
+	.string "מאמנים.\p"
+	.string "אם תרצה שאעזור לגדל את אחד\n"
+	.string "הפוקימונים שלך, תדבר עם אישתי.$"
 
 DayCare_Text_DoYouWantEgg::
-	.string "Ah, it's you!\p"
-	.string "We were raising your POKéMON, and\n"
-	.string "my goodness, were we surprised!\p"
-	.string "Your POKéMON had an EGG!\p"
-	.string "We don't know how it got there,\n"
-	.string "but your POKéMON had it.\p"
-	.string "You do want it, yes?$"
+	.string "הא, הנה אתה!\p"
+	.string "גידלנו את הפוקימון שלך, ופתאום\n"
+	.string "וואו איזו הפתעה זו הייתה!\p"
+	.string "הפוקימון שלך הטיל ביצה!\p"
+	.string "אנחנו לא יודעים איך זה קרה,\n"
+	.string "אבל הפוקימון שלך עשה את זה.\p"
+	.string "אז אתה רוצה אותה?$"
 
 DayCare_Text_YourMonIsDoingFine::
-	.string "Ah, it's you! Good to see you.\n"
-	.string "Your {STR_VAR_1}'s doing fine.$"
+	.string "הנה אתה, טוב לראות אותך.\n"
+	.string "{STR_VAR_1} מסתדר פה מצויין.$"
 
 DayCare_Text_IllKeepIt::
-	.string "Well then, I'll keep it.\n"
-	.string "Thanks!$"
+	.string "בסדר גמור, אני אמשיך לטפל בו\n"
+	.string "תודה!$"
 
 DayCare_Text_YouHaveNoRoomForIt::
-	.string "You have no room for it…\n"
-	.string "Come back when you've made room.$"
+	.string "אין לך מקום בשביל זה...\n"
+	.string "תחזור אחרי שפינת לזה מקום.$"
 
 DayCare_Text_ReceivedEgg::
-	.string "{PLAYER} received the EGG from\n"
-	.string "the DAY-CARE MAN.$"
+	.string "{PLAYER} קיבל ביצה ממנהל\n"
+	.string "מכון היום.$"
 
 DayCare_Text_TakeGoodCareOfIt::
-	.string "Take good care of it.$"
+	.string "תטפל בהם היטב.$"
 
 DayCare_Text_SeeWifeIfYouWantToPickUpMon::
 	.string "ポケモンを　ひきとりたい　ときは\n"
 	.string "ばさんに　いって　おくれ$"
 
 DayCare_Text_YourMonsAreDoingFine::
-	.string "Ah, it's you! Your {STR_VAR_1} and\n"
-	.string "{STR_VAR_2} are doing fine.$"
+	.string "הא, הנה אתה! {STR_VAR_1}\n"
+	.string "ו{STR_VAR_2} מסתדרים פה מצויין.$"
 
 DayCare_Text_IWillKeepDoYouWantIt::
 	.string "I really will keep it.\n"
 	.string "You do want this, yes?$"
 
 DayCare_Text_WouldYouLikeUsToRaiseMon::
-	.string "I'm the DAY-CARE LADY.\p"
-	.string "We can raise POKéMON for you.\p"
-	.string "Would you like us to raise one?$"
+	.string "אני מנהלת במכון היום.\p"
+	.string "אנחנו יכולים לגדל פוקימונים עבורך.\p"
+	.string "תרצה שנגדל עבורך אחד?$"
 
 DayCare_Text_WhichMonShouldWeRaise::
-	.string "Which POKéMON should we raise for\n"
-	.string "you?$"
+	.string "איזה פוקימון תרצה שנגדל עבורך?$"
 
 DayCare_Text_WellRaiseYourMon::
-	.string "Fine, we'll raise your {STR_VAR_1}\n"
-	.string "for a while.\p"
-	.string "Come back for it later.$"
+	.string "בסדר, נגדל עבורך את {STR_VAR_1}\n"
+	.string "לבנתיים.\p"
+	.string "תחזור בשבילו בהמשך.$"
 
 DayCare_Text_WeCanRaiseOneMore::
-	.string "We can raise two of your POKéMON.\p"
-	.string "Would you like us to raise one\n"
-	.string "more POKéMON for you?$"
+	.string "אנחנו יכולים לגדל עבורך\n"
+	.string "שני פוקימונים.\p"
+	.string "תרצה שנגדל עבורך עוד פוקימון?$"
 
 DayCare_Text_HusbandWasLookingForYou::
-	.string "My husband was looking for you.$"
+	.string "בעלי מחפש אותך.$"
 
 DayCare_Text_FineThenComeAgain::
-	.string "Oh, fine, then.\n"
-	.string "Come again.$"
+	.string "הו, אוקי.\n"
+	.string "נתראה פעם הבאה.$"
 
 DayCare_Text_NotEnoughMoney::
-	.string "You don't have enough money…$"
+	.string "אין לך מספיק כסף...$"
 
 DayCare_Text_TakeOtherOneBackToo::
-	.string "Will you take back the other one,\n"
-	.string "too?$"
+	.string "אתה לוקח בחזרה גם את השני?$"
 
 DayCare_Text_ComeAgain::
-	.string "Fine.\n"
-	.string "Come again.$"
+	.string "בסדר.\n"
+	.string "נתראה פעם הבאה.$"
 
 DayCare_Text_GoodToSeeYou::
-	.string "Ah, it's you!\n"
-	.string "Good to see you.\p"
-	.string "Your POKéMON can only be doing\n"
-	.string "good!$"
+	.string "הא, הנה אתה!\n"
+	.string "טוב לראות אותך\p"
+	.string "הפוקימון שלך מסתדר פב מצויין$"
 
 DayCare_Text_YourMonHasGrownXLevels::
-	.string "By level, your {STR_VAR_1} has\n"
-	.string "grown by {STR_VAR_2}.$"
+	.string "{STR_VAR_1} עלה {STR_VAR_2} רמות.$"
 
 DayCare_Text_YourPartyIsFull::
-	.string "Your POKéMON party is full.\n"
-	.string "Make room, then come see me.$"
+	.string "הקבוצה שלך מלאה.\n"
+	.string "תפנה מקום ותחזור אלי.$"
 
 DayCare_Text_TakeBackWhichMon::
 	.string "どっちの　ポケモンを　ひきとるかい？$"
@@ -106,25 +102,25 @@ DayCare_Text_ItWillCostX::
 	.string "it will cost ¥{STR_VAR_2}.$"
 
 DayCare_Text_HeresYourMon::
-	.string "Perfect!\n"
-	.string "Here's your POKéMON.$"
+	.string "מצויין!\n"
+	.string "הנה הפוקימון שלך.$"
 
 DayCare_Text_TookBackMon::
-	.string "{PLAYER} took back {STR_VAR_1} from\n"
-	.string "the DAY-CARE LADY.$"
+	.string "{PLAYER}לקח בחזרה את {STR_VAR_1}\n"
+	.string "ממנהלת מכון היום.$"
 
 DayCare_Text_YouHaveJustOneMon::
-	.string "Oh? But you have just one\n"
-	.string "POKéMON.\p"
-	.string "Come back another time.$"
+	.string "אוי, יש לך רק פוקימון\n"
+	.string "אחד.\p"
+	.string "תחזור בפעם אחרת.$"
 
 DayCare_Text_TakeYourMonBack::
-	.string "Will you take your POKéMON back?$"
+	.string "תרצה את הפוקימון שלך בחזרה?$"
 
 DayCare_Text_WhatWillYouBattleWith::
-	.string "If you leave me that POKéMON,\n"
-	.string "what will you battle with?\p"
-	.string "Come back another time.$"
+	.string "אם תשאיר את הפוקימון אצלי,\n"
+	.string "לא יהיה לך עם מי להילחם.\p"
+	.string "תחזור בפעם אחרת.$"
 
 DayCare_Text_Huh::
-	.string "Huh?$"
+	.string "הא?$"

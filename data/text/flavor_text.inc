@@ -12,111 +12,107 @@ Text_ATownMap::
 	.string "A TOWN MAP.$"
 
 Text_PokeMartShelf::
-	.string "Wow!\n"
-	.string "Tons of POKéMON stuff!$"
+    .string "וואו!\n"
+    .string "המון דברים של פוקמון!$"
 
 Text_DishesPlatesNeatlyLinedUp::
-	.string "Dishes and plates are neatly\n"
-	.string "lined up.$"
+    .string "צלחות וצלחות מסודרות\n"
+    .string "בצורה מסודרת.$"
 
 Text_Kitchen::
-	.string "It smells delicious!\n"
-	.string "Somebody's been cooking here.$"
+    .string "זה מריח טעים!\n"
+    .string "מישהו בישל כאן.$"
 
 Text_Dresser::
-	.string "It's a nicely made dresser.\n"
-	.string "It will hold a lot of stuff.$"
+    .string "זו שידה יפה.\n"
+    .string "היא יכולה להכיל המון דברים.$"
 
 Text_Snacks::
-	.string "There's a pile of snacks here.$"
+    .string "יש פה ערמה של חטיפים.$"
 
 Text_PokemartSign::
-	.string "All your item needs fulfilled!\n"
-	.string "POKéMON MART$"
+    .string "כל הצרכים שלך מתמלאים כאן!\n"
+    .string "חנות פוקימון$"
 
 Text_PokecenterSign::
-	.string "Heal Your POKéMON!\n"
-	.string "POKéMON CENTER$"
+    .string "רפא את הפוקמון שלך!\n"
+    .string "מרכז פוקימון$"
 
 Text_Indigo_UltimateGoal::
-	.string "INDIGO PLATEAU\p"
-	.string "The ultimate goal of TRAINERS!\n"
-	.string "POKéMON LEAGUE HQ$"
+    .string "אנדיגו פלטו\p"
+    .string "המטרה הגבוהה ביותר של המאמנים!\n"
+    .string "מרכז ליגת הפוקימון$"
 
 Text_Indigo_HighestAuthority::
-	.string "INDIGO PLATEAU\p"
-	.string "The highest POKéMON authority!\n"
-	.string "POKéMON LEAGUE HQ$"
+    .string "אנדיגו פלטו\p"
+    .string "הרשות הגבוהה ביותר של פוקימונים!\n"
+    .string "מרכז ליגת הפוקימון$"
 
 Text_Food::
-	.string "It should be packed with all kinds\n"
-	.string "of delicious things to eat.$"
-
-Text_Blueprints::
-	.string "It's a blueprint of some sort.\n"
-	.string "It's filled with diagrams and text.$"
+    .string "אמורים להיות בזה כל מיני דברים\n"
+    .string "טעימים שאפשר לאכול.$"
 
 Text_Painting::
-	.string "It's a pretty picture of a POKéMON.\n"
-	.string "It looks like it's feeling good.$"
+    .string "זו תמונה יפה של פוקימון.\n"
+    .string "נראה שהוא מרגיש טוב.$"
 
 Text_PowerPlantMachine::
-	.string "What could this machine be?\n"
-	.string "Better not mess around with it!$"
+    .string "מה זה המכונה הזו יכולה להיות?\n"
+    .string "טוב יותר שלא לעשות בה עוולות!$"
 
 Text_Telephone::
-	.string "It's a telephone.\n"
-	.string "Better not use it.$"
+    .string "זה טלפון.\n"
+    .string "עדיף שלא להשתמש בו.$"
 
 Text_Computer::
-	.string "It's all complicated words and\n"
-	.string "numbers that make no sense…$"
+    .string "הכל מלא מילים מורכבות ומספרים\n"
+    .string "שאין להם שום הגיון...$"
 
 Text_AdvertisingPoster::
-	.string "It's an advertising poster about\n"
-	.string "all kinds of products.$"
+    .string "זה לוח הכרזות על מגוון\n"
+    .string "מוצרים שונים.$"
 
 Text_TastyFood::
-	.string "Oh, that smells tasty!\n"
-	.string "It might get the stomach growling!$"
+    .string "אוי, זה מריח טעים!\n"
+    .string "זה עושה אותי רעב!$"
 
 Text_TrashBin::
-	.string "Inside this…\n"
-	.string "……\p"
-	.string "There's nothing here!$"
+    .string "בתוך זה...\n"
+    .string "……\p"
+    .string "אין כאן כלום!$"
 
 Text_Cup::
-	.string "It's a cup with a POKéMON mark\n"
-	.string "on it.$"
+    .string "זו כוס עם ציור של פוקימון\n"
+    .string "עליה.$"
 
 Text_PolishedWindow::
-	.string "The window is very well polished.$"
+    .string "החלון מנוקה טוב מאוד.$"
 
 Text_BeautifulSkyWindow::
-	.string "Outside the window…\p"
-	.string "The sky looks fantastically\n"
-	.string "beautiful.$"
+    .string "מחוץ לחלון…\n"
+    .string "השמיים נראים יפהפיים בצורה\n"
+    .string "מדהימה.$"
 
 Text_BlinkingLights::
-	.string "Lights in different colors are\n"
-	.string "flashing on and off.$"
+    .string "אורות בצבעים שונים הולכים\n"
+    .string "ונכבים.$"
 
 Text_NeatlyLinedUpTools::
-	.string "All sorts of tools are lined up\n"
-	.string "neatly.$"
+    .string "כל מיני כלים ממוינים\n"
+    .string "בצורה מסודרת.$"
 
 Text_ImpressiveMachine::
-	.string "It's a machine of some sort.\n"
-	.string "It sure is impressive.$"
+    .string "זה מכונה מסוג כלשהו.\n"
+    .string "וואו, זה מרשים.$"
 
 Text_VideoGame::
-	.string "It's the latest video game!\n"
-	.string "It sure looks fun!$"
+    .string "זה המשחק הווידאו החדש!\n"
+    .string "זה נראה ממש כיף!$"
 
 Text_Burglary::
-	.string "There are obvious signs of burglary\n"
-	.string "here…$"
+    .string "יש כאן אותות ברורים של פריצה…$"
 
 Text_PlayerFacingTVScreen::
-	.string "There's a POKéMON on TV!\n"
-	.string "It looks like it's having fun.$"
+    .string "יש פוקימון בטלוויזיה!\n"
+    .string "נראה שהוא נהנה.$"
+
