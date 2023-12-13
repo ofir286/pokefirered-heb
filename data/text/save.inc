@@ -1,26 +1,25 @@
 gText_WouldYouLikeToSaveTheGame::
-	.string "Would you like to save the game?$"
+	.string "אתה רוצה לשמור את המשחק?$"
 
 gText_AlreadySaveFile_WouldLikeToOverwrite::
-	.string "There is already a saved file.\n"
-	.string "Is it okay to overwrite it?$"
+	.string "כבר קיימת שמירה של המשחק.\n"
+	.string "זה בסדר לשמור במקומה?$"
 
 gText_SavingDontTurnOffThePower::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "שומר…\n"
+	.string "אל תכבה את המשחק.$"
 
 gText_PlayerSavedTheGame::
-	.string "{PLAYER} saved the game.$"
+	.string "{PLAYER} שמר את המשחק.$"
 
 gText_SaveFailed2::
 	.string "セーブに　しっぱい　しました‥$"
 
 gText_DifferentGameFile::
-	.string "WARNING!\p"
-	.string "There is a different game file that\n"
-	.string "is already saved.\p"
-	.string "If you save now, the other file's\n"
-	.string "adventure, including items and\l"
-	.string "POKéMON, will be entirely lost.\p"
-	.string "Are you sure you want to save now\n"
-	.string "and overwrite the other save file?$"
+	.string "הזהרה!\p"
+	.string "כבר קיימת שמירה\p"
+	.string "אם תשמור עכשיו השמירה הקודמת\n"
+	.string "וכל מה שהשגת בה\l"
+	.string "ימחקו לגמרי.\p"
+	.string "אתה בטוח שאתה רוצה לשמור\n"
+	.string "עכשיו במקום השמירה הקודמת?$"
