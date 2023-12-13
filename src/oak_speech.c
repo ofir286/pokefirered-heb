@@ -968,7 +968,9 @@ static void Task_PikachuIntro_LoadPage1(u8 taskId)
         sOakSpeechResources->currentPage = PIKACHU_INTRO_PAGE_1;
         gMain.state = PIKACHU_INTRO_SET_GPU_REGS;
         tBlendTarget = 16;
-        AddTextPrinterParameterized4(tTextboxWindowId, FONT_NORMAL, 3, 5, 1, 0, sTextColor_DarkGray, 0, sPikachuIntro_Strings[PIKACHU_INTRO_PAGE_1]);
+        // Ofir Changed This
+        //AddTextPrinterParameterized4(tTextboxWindowId, FONT_NORMAL, 3, 5, 1, 0, sTextColor_DarkGray, 0, sPikachuIntro_Strings[PIKACHU_INTRO_PAGE_1]);
+        AddTextPrinterParameterized4(tTextboxWindowId, FONT_NORMAL, 210, 5, 1, 0, sTextColor_DarkGray, 0, sPikachuIntro_Strings[PIKACHU_INTRO_PAGE_1]);
         tTextCursorSpriteId = CreateTextCursorSprite(0, 226, 145, 0, 0);
         gSprites[tTextCursorSpriteId].oam.objMode = ST_OAM_OBJ_BLEND;
         gSprites[tTextCursorSpriteId].oam.priority = 0;
@@ -1027,7 +1029,9 @@ static void Task_PikachuIntro_HandleInput(u8 taskId)
         if (tBlendTarget <= 0)
         {
             FillWindowPixelBuffer(tTextboxWindowId, PIXEL_FILL(0));
-            AddTextPrinterParameterized4(tTextboxWindowId, FONT_NORMAL, 3, 5, 1, 0, sTextColor_DarkGray, 0, sPikachuIntro_Strings[sOakSpeechResources->currentPage]);
+            // Ofir changed This
+            //AddTextPrinterParameterized4(tTextboxWindowId, FONT_NORMAL, 3, 5, 1, 0, sTextColor_DarkGray, 0, sPikachuIntro_Strings[sOakSpeechResources->currentPage]);
+            AddTextPrinterParameterized4(tTextboxWindowId, FONT_NORMAL, 210, 5, 1, 0, sTextColor_DarkGray, 0, sPikachuIntro_Strings[sOakSpeechResources->currentPage]);
             if (sOakSpeechResources->currentPage == PIKACHU_INTRO_PAGE_1)
             {
                 ClearTopBarWindow();

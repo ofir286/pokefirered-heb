@@ -168,12 +168,12 @@ gPikachuIntro_Text_Page1::
     .string "מכל מקור אפשרי.$"
 
 gPikachuIntro_Text_Page2::
-    .string "דרכים חדשות יפתחו בפניכם על ידי עזרה\n"
-    .string "לאנשים, התגברות על אתגרים,\n"
+    .string "דרכים חדשות יפתחו בפניכם על ידי\n"
+    .string "עזרה לאנשים, התגברות על אתגרים,\n"
     .string "ופתירת תעלומות.\n"
     .string "\n"
     .string "לפעמים אתה תהיה מאותגר על ידי\n"
-    .string "אחרים ותותקף על ידי פוקימונים בטבע.\n"
+    .string "אחרים, ותותקף על ידי פוקימונים.\n"
     .string "תהיה אמיץ ותמשיך להתקדם קדימה.$"
 
 gPikachuIntro_Text_Page3::
@@ -193,7 +193,7 @@ gOakSpeech_Text_WelcomeToTheWorld::
     .string "פרופסור הפוקימונים.\p$"
 
 gOakSpeech_Text_ThisWorld::
-    .string ""
+    .string "$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
     .string "בכל רחבי העולם הזה\n"
