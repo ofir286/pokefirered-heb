@@ -485,7 +485,9 @@ void TextPrinterDrawDownArrow(struct TextPrinter *textPrinter)
             FillWindowPixelRect(
                 textPrinter->printerTemplate.windowId,
                 textPrinter->printerTemplate.bgColor << 4 | textPrinter->printerTemplate.bgColor,
-                textPrinter->printerTemplate.currentX,
+                // Ofir Changed this
+                //textPrinter->printerTemplate.currentX,
+                textPrinter->printerTemplate.currentX - 10,
                 textPrinter->printerTemplate.currentY,
                 10,
                 12);
@@ -508,7 +510,9 @@ void TextPrinterDrawDownArrow(struct TextPrinter *textPrinter)
                 0,
                 0x80,
                 0x10,
-                textPrinter->printerTemplate.currentX,
+                // Ofir changed this
+                //textPrinter->printerTemplate.currentX,
+                textPrinter->printerTemplate.currentX - 10,
                 textPrinter->printerTemplate.currentY,
                 10,
                 12);
@@ -811,7 +815,9 @@ u16 RenderText(struct TextPrinter *textPrinter)
         case CHAR_KEYPAD_ICON:
             currChar = *textPrinter->printerTemplate.currentChar++;
             gGlyphInfo.width = DrawKeypadIcon(textPrinter->printerTemplate.windowId, currChar, textPrinter->printerTemplate.currentX, textPrinter->printerTemplate.currentY);
-            textPrinter->printerTemplate.currentX += gGlyphInfo.width + textPrinter->printerTemplate.letterSpacing;
+            // Ofir chnged this
+            //textPrinter->printerTemplate.currentX += gGlyphInfo.width + textPrinter->printerTemplate.letterSpacing;
+            textPrinter->printerTemplate.currentX -= gGlyphInfo.width + textPrinter->printerTemplate.letterSpacing;
             return RENDER_PRINT;
         case EOS:
             return RENDER_FINISH;
@@ -843,12 +849,16 @@ u16 RenderText(struct TextPrinter *textPrinter)
 
         if (textPrinter->minLetterSpacing)
         {
-            textPrinter->printerTemplate.currentX += gGlyphInfo.width;
+            // Ofir Changed this
+            //textPrinter->printerTemplate.currentX += gGlyphInfo.width;
+            textPrinter->printerTemplate.currentX -= gGlyphInfo.width;
             width = textPrinter->minLetterSpacing - gGlyphInfo.width;
             if (width > 0)
             {
                 ClearTextSpan(textPrinter, width);
-                textPrinter->printerTemplate.currentX += width;
+                // Ofir Changed this
+                //textPrinter->printerTemplate.currentX += width;
+                textPrinter->printerTemplate.currentX -= width;
             }
         }
         else

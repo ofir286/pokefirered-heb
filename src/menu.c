@@ -193,7 +193,9 @@ void TopBarWindowPrintString(const u8 *string, u8 unused, bool8 copyToVram)
         PutWindowTilemap(sTopBarWindowId);
         FillWindowPixelBuffer(sTopBarWindowId, PIXEL_FILL(15));
         width = GetStringWidth(FONT_SMALL, string, 0);
-        AddTextPrinterParameterized3(sTopBarWindowId, FONT_SMALL, -20 - width, 1, sTopBarWindowTextColors, 0, string);
+        // Ofir changed this
+        //AddTextPrinterParameterized3(sTopBarWindowId, FONT_SMALL, -20 - width, 1, sTopBarWindowTextColors, 0, string);
+        AddTextPrinterParameterized3(sTopBarWindowId, FONT_SMALL, -30, 1, sTopBarWindowTextColors, 0, string);
         if (copyToVram)
             CopyWindowToVram(sTopBarWindowId, COPYWIN_FULL);
     }
@@ -202,7 +204,7 @@ void TopBarWindowPrintString(const u8 *string, u8 unused, bool8 copyToVram)
 void TopBarWindowPrintTwoStrings(const u8 *string, const u8 *string2, bool8 fgColorChooser, u8 unused, bool8 copyToVram)
 {
     u8 color[3];
-    s32 fgColor, width;
+    s32 fgColor, width, width2;
 
     if ( sTopBarWindowId != 0xFF )
     {
@@ -224,9 +226,14 @@ void TopBarWindowPrintTwoStrings(const u8 *string, const u8 *string2, bool8 fgCo
         if (string2)
         {
             width = GetStringWidth(FONT_SMALL, string2, 0);
-            AddTextPrinterParameterized3(sTopBarWindowId, FONT_SMALL, -20 - width, 1, color, 0, string2);
+            // Ofir Changed this
+            //AddTextPrinterParameterized3(sTopBarWindowId, FONT_SMALL, -20 - width, 1, color, 0, string2);
+            AddTextPrinterParameterized3(sTopBarWindowId, FONT_SMALL, -30, 1, color, 0, string2);
         }
-        AddTextPrinterParameterized4(sTopBarWindowId, FONT_NORMAL_COPY_1, 4, 1, 0, 0, color, 0, string);
+        // Ofir Changed this
+        //AddTextPrinterParameterized4(sTopBarWindowId, FONT_NORMAL_COPY_1, 4, 1, 0, 0, color, 0, string);
+        width2 = GetStringWidth(FONT_SMALL, string, 0);
+        AddTextPrinterParameterized4(sTopBarWindowId, FONT_NORMAL_COPY_1, 4 + width2, 1, 0, 0, color, 0, string);
         if (copyToVram)
             CopyWindowToVram(sTopBarWindowId, COPYWIN_FULL);
     }
@@ -537,7 +544,9 @@ void CreateYesNoMenu(const struct WindowTemplate *window, u8 fontId, u8 left, u8
     textSubPrinter.currentChar = gText_YesNo;
     textSubPrinter.windowId = sYesNoWindowId;
     textSubPrinter.fontId = fontId;
-    textSubPrinter.x = GetMenuCursorDimensionByFont(fontId, 0) + left;
+    // Ofir added this
+    //textSubPrinter.x = GetMenuCursorDimensionByFont(fontId, 0) + left;
+    textSubPrinter.x = GetMenuCursorDimensionByFont(fontId, 0) + left + 30;
     textSubPrinter.y = top;
     textSubPrinter.currentX = textSubPrinter.x;
     textSubPrinter.currentY = textSubPrinter.y;
