@@ -2754,7 +2754,9 @@ void BattlePutTextOnWindow(const u8 *text, u8 windowId) {
                                  sTextOnWindowsInfo_Normal[windowId].letterSpacing)) / 2;
         break;
     default:
-        x = sTextOnWindowsInfo_Normal[windowId].x;
+        // Ofir Changed This -TODO to do it correcly we need to change the x value in the list sTextOnWindowsInfo_Normal for every type of print (movesets needs to be in diffrent indexes for example)
+        //x = sTextOnWindowsInfo_Normal[windowId].x;
+        x = sTextOnWindowsInfo_Normal[windowId].x + 210;
         break;
     }
     if (x < 0)
