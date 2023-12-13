@@ -800,7 +800,9 @@ static void ControlsGuide_LoadPage1(void)
     sOakSpeechResources->windowIds[0] = AddWindow(sControlsGuide_WindowTemplates[sOakSpeechResources->currentPage]);
     PutWindowTilemap(sOakSpeechResources->windowIds[0]);
     FillWindowPixelBuffer(sOakSpeechResources->windowIds[0], PIXEL_FILL(0));
-    AddTextPrinterParameterized4(sOakSpeechResources->windowIds[0], FONT_NORMAL, 2, 0, 1, 1, sTextColor_White, 0, gControlsGuide_Text_Intro);
+    // Ofir Changed here
+    //AddTextPrinterParameterized4(sOakSpeechResources->windowIds[0], FONT_NORMAL, 2, 0, 1, 1, sTextColor_White, 0, gControlsGuide_Text_Intro);
+    AddTextPrinterParameterized4(sOakSpeechResources->windowIds[0], FONT_NORMAL, 180, 0, 1, 1, sTextColor_White, 0, gControlsGuide_Text_Intro);
     CopyWindowToVram(sOakSpeechResources->windowIds[0], COPYWIN_FULL);
     FillBgTilemapBufferRect_Palette0(1, 0x3000, 1, 3, 5, 16);
     CopyBgTilemapBufferToVram(1);
@@ -822,7 +824,9 @@ static void Task_ControlsGuide_LoadPage(u8 taskId)
             sOakSpeechResources->windowIds[currWindow] = AddWindow(&sControlsGuide_WindowTemplates[sOakSpeechResources->currentPage][currWindow]);
             PutWindowTilemap(sOakSpeechResources->windowIds[currWindow]);
             FillWindowPixelBuffer(sOakSpeechResources->windowIds[currWindow], PIXEL_FILL(0));
-            AddTextPrinterParameterized4(sOakSpeechResources->windowIds[currWindow], FONT_NORMAL, 6, 0, 1, 1, sTextColor_White, 0, sControlsGuide_Pages2And3_Strings[currWindow + page2Or3 * CONTROLS_GUIDE_STRINGS_PER_PAGE]);
+            // Ofir Changed here
+            //AddTextPrinterParameterized4(sOakSpeechResources->windowIds[currWindow], FONT_NORMAL, 6, 0, 1, 1, sTextColor_White, 0, sControlsGuide_Pages2And3_Strings[currWindow + page2Or3 * CONTROLS_GUIDE_STRINGS_PER_PAGE]);
+            AddTextPrinterParameterized4(sOakSpeechResources->windowIds[currWindow], FONT_NORMAL, 160, 0, 1, 1, sTextColor_White, 0, sControlsGuide_Pages2And3_Strings[currWindow + page2Or3 * CONTROLS_GUIDE_STRINGS_PER_PAGE]);
             CopyWindowToVram(sOakSpeechResources->windowIds[currWindow], COPYWIN_FULL);
         }
 
@@ -1295,11 +1299,15 @@ static void Task_OakSpeech_ShowGenderOptions(u8 taskId)
         sOakSpeechResources->textColor[0] = 1;
         sOakSpeechResources->textColor[1] = 2;
         sOakSpeechResources->textColor[2] = 3;
-        AddTextPrinterParameterized3(gTasks[taskId].tMenuWindowId, FONT_NORMAL, 8, 1, sOakSpeechResources->textColor, 0, gText_Boy);
+        // Ofir Changed Here
+        //AddTextPrinterParameterized3(gTasks[taskId].tMenuWindowId, FONT_NORMAL, 8, 1, sOakSpeechResources->textColor, 0, gText_Boy);
+        AddTextPrinterParameterized3(gTasks[taskId].tMenuWindowId, FONT_NORMAL, 28, 1, sOakSpeechResources->textColor, 0, gText_Boy);
         sOakSpeechResources->textColor[0] = 1;
         sOakSpeechResources->textColor[1] = 2;
         sOakSpeechResources->textColor[2] = 3;
-        AddTextPrinterParameterized3(gTasks[taskId].tMenuWindowId, FONT_NORMAL, 8, 17, sOakSpeechResources->textColor, 0, gText_Girl);
+        // Ofir Changed Here
+        //AddTextPrinterParameterized3(gTasks[taskId].tMenuWindowId, FONT_NORMAL, 8, 17, sOakSpeechResources->textColor, 0, gText_Girl);
+        AddTextPrinterParameterized3(gTasks[taskId].tMenuWindowId, FONT_NORMAL, 28, 17, sOakSpeechResources->textColor, 0, gText_Girl);
         Menu_InitCursor(gTasks[taskId].tMenuWindowId, FONT_NORMAL, 0, 1, GetFontAttribute(FONT_NORMAL, FONTATTR_MAX_LETTER_HEIGHT) + 2, 2, 0);
         CopyWindowToVram(gTasks[taskId].tMenuWindowId, COPYWIN_FULL);
         gTasks[taskId].func = Task_OakSpeech_HandleGenderInput;
@@ -2124,13 +2132,19 @@ static void PrintNameChoiceOptions(u8 taskId, u8 hasPlayerBeenNamed)
     PutWindowTilemap(tMenuWindowId);
     DrawStdFrameWithCustomTileAndPalette(tMenuWindowId, 1, GetStdWindowBaseTileNum(), 14);
     FillWindowPixelBuffer(gTasks[taskId].tMenuWindowId, PIXEL_FILL(1));
-    AddTextPrinterParameterized(tMenuWindowId, FONT_NORMAL, gOtherText_NewName, 8, 1, 0, NULL);
+    // Ofir Changed here
+    //AddTextPrinterParameterized(tMenuWindowId, FONT_NORMAL, gOtherText_NewName, 8, 1, 0, NULL);
+    AddTextPrinterParameterized(tMenuWindowId, FONT_NORMAL, gOtherText_NewName, 38, 1, 0, NULL);
     if (hasPlayerBeenNamed == FALSE)
         textPtrs = gSaveBlock2Ptr->playerGender == MALE ? sMaleNameChoices : sFemaleNameChoices;
     else
         textPtrs = sRivalNameChoices;
     for (i = 0; i < ARRAY_COUNT(sRivalNameChoices); i++)
-        AddTextPrinterParameterized(tMenuWindowId, FONT_NORMAL, textPtrs[i], 8, 16 * (i + 1) + 1, 0, NULL);
+    {
+        // Ofir Changed here
+        //AddTextPrinterParameterized(tMenuWindowId, FONT_NORMAL, textPtrs[i], 8, 16 * (i + 1) + 1, 0, NULL);
+        AddTextPrinterParameterized(tMenuWindowId, FONT_NORMAL, textPtrs[i], 38, 16 * (i + 1) + 1, 0, NULL);
+    }
     Menu_InitCursor(tMenuWindowId, FONT_NORMAL, 0, 1, 16, 5, 0);
     CopyWindowToVram(tMenuWindowId, COPYWIN_FULL);
 }
