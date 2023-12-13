@@ -463,7 +463,11 @@ void PrintTextArray(u8 windowId, u8 fontId, u8 left, u8 top, u8 lineHeight, u8 i
     u8 i;
 
     for (i = 0; i < itemCount; i++)
-        AddTextPrinterParameterized(windowId, fontId, strs[i].text, left, (lineHeight * i) + top, 0xFF, NULL);
+    {
+        // Ofir Changed this
+        //AddTextPrinterParameterized(windowId, fontId, strs[i].text, left, (lineHeight * i) + top, 0xFF, NULL);
+        AddTextPrinterParameterized(windowId, fontId, strs[i].text, left + 30, (lineHeight * i) + top, 0xFF, NULL);
+    }
     CopyWindowToVram(windowId, COPYWIN_GFX);
 }
 
@@ -472,7 +476,11 @@ void MultichoiceList_PrintItems(u8 windowId, u8 fontId, u8 left, u8 top, u8 line
     u8 i;
 
     for (i = 0; i < itemCount; i++)
-        AddTextPrinterParameterized5(windowId, fontId, strs[i].text, left, (lineHeight * i) + top, 0xFF, NULL, letterSpacing, lineSpacing);
+    {
+        // Ofir chenged this
+        //AddTextPrinterParameterized5(windowId, fontId, strs[i].text, left, (lineHeight * i) + top, 0xFF, NULL, letterSpacing, lineSpacing);
+        AddTextPrinterParameterized5(windowId, fontId, strs[i].text, left + 30, (lineHeight * i) + top, 0xFF, NULL, letterSpacing, lineSpacing);
+    }
     CopyWindowToVram(windowId, COPYWIN_GFX);
 }
 
@@ -496,8 +504,11 @@ void AddItemMenuActionTextPrinters(u8 windowId, u8 fontId, u8 left, u8 top, u8 l
     printer.unk = GetFontAttribute(fontId, FONTATTR_UNKNOWN);
     printer.letterSpacing = letterSpacing;
     printer.lineSpacing = GetFontAttribute(fontId, FONTATTR_LINE_SPACING);
-    printer.x = left;
-    printer.currentX = left;
+    // Ofir Changed this
+    //printer.x = left;
+    printer.x = left + 30;
+    //printer.currentX = left;
+    printer.currentX = left + 30;
     for (i = 0; i < itemCount; i++)
     {
         printer.currentChar = strs[orderArray[i]].text;
@@ -591,7 +602,11 @@ void MultichoiceGrid_PrintItems(u8 windowId, u8 fontId, u8 itemWidth, u8 itemHei
     yOffset = (16 - GetFontAttribute(fontId, FONTATTR_MAX_LETTER_HEIGHT)) / 2;
     for (i = 0; i < rows; ++i)
         for (j = 0; j < cols; ++j)
-            AddTextPrinterParameterized(windowId, fontId, strs[i * cols + j].text, itemWidth * j + width, yOffset + itemHeight * i, 0xFF, 0);
+        {
+            // Ofir Changed this
+            //AddTextPrinterParameterized(windowId, fontId, strs[i * cols + j].text, itemWidth * j + width, yOffset + itemHeight * i, 0xFF, 0);
+            AddTextPrinterParameterized(windowId, fontId, strs[i * cols + j].text, itemWidth * j + width + itemWidth, yOffset + itemHeight * i, 0xFF, 0);
+        }
     CopyWindowToVram(windowId, COPYWIN_GFX);
 }
 
