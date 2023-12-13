@@ -2,16 +2,16 @@ gOtherText_NewName::
     .string "שם חדש$"
 
 gNameChoice_Green::
-    .string "גרין$"
+    .string "יונתי$"
 
 gNameChoice_Red::
-    .string "רד$"
+    .string "אביה$"
 
 gNameChoice_Leaf::
-    .string "עלה$"
+    .string "רולי$"
 
 gNameChoice_Fire::
-    .string "אש$"
+    .string "נועה$"
 
 gNameChoice_Gary::
     .string "גארי$"
@@ -142,7 +142,7 @@ gControlsGuide_Text_BButton::
     .string "ולבטל מצב.$"
 
 gControlsGuide_Text_StartButton::
-    .string "לחץ על כפתור זה כדי לפתוח"
+    .string "לחץ על כפתור זה כדי לפתוח\n"
     .string "את התפריט.$"
 
 gControlsGuide_Text_SelectButton::
@@ -151,8 +151,7 @@ gControlsGuide_Text_SelectButton::
 
 gControlsGuide_Text_LRButtons::
     .string "אם אתה צריך עזרה תוך כדי\n"
-    .string "המשחק, או על איך לעשות דברים,\n"
-    .string "תלחץ על הכפתורים ש או י.$"
+    .string "המשחק, תלחץ על כפתורים אלו.$"
 
 gOakSpeech_Text_AskPlayerGender::
     .string "עכשיו תגיד לי. אתה בן?\n"
