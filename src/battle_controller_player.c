@@ -24,6 +24,8 @@
 #include "constants/songs.h"
 #include "constants/sound.h"
 
+#include "string_util.h"
+
 static void PlayerHandleGetMonData(void);
 static void PlayerHandleSetMonData(void);
 static void PlayerHandleSetRawMonData(void);
@@ -1384,6 +1386,7 @@ static void MoveSelectionDisplayPpString(void)
     BattlePutTextOnWindow(gDisplayedStringBattle, B_WIN_PP);
 }
 
+// Ofir Edited This Function
 static void MoveSelectionDisplayPpNumber(void)
 {
     u8 *txtPtr;
@@ -1394,8 +1397,17 @@ static void MoveSelectionDisplayPpNumber(void)
     SetPpNumbersPaletteInMoveSelection();
     moveInfo = (struct ChooseMoveStruct *)(&gBattleBufferA[gActiveBattler][4]);
     txtPtr = ConvertIntToDecimalStringN(gDisplayedStringBattle, moveInfo->currentPp[gMoveSelectionCursor[gActiveBattler]], STR_CONV_MODE_RIGHT_ALIGN, 2);
+
+    strrev(gDisplayedStringBattle); // This string was already flipped inside the ConvertIntToDecimalStringN but we flip it again to compansate for later when the entire PP string is flipped.
+
     *txtPtr = CHAR_SLASH;
     ConvertIntToDecimalStringN(++txtPtr, moveInfo->maxPp[gMoveSelectionCursor[gActiveBattler]], STR_CONV_MODE_RIGHT_ALIGN, 2);
+
+    strrev(txtPtr); // This string was already flipped inside the ConvertIntToDecimalStringN but we flip it again to compansate for later when the entire PP string is flipped.
+
+    // reverse the PP string a final time
+    strrev(gDisplayedStringBattle); // Ofir Added this as test
+
     BattlePutTextOnWindow(gDisplayedStringBattle, B_WIN_PP_REMAINING);
 }
 
