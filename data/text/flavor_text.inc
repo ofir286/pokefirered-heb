@@ -16,7 +16,7 @@ Text_PokeMartShelf::
     .string "המון דברים של פוקמון!$"
 
 Text_DishesPlatesNeatlyLinedUp::
-    .string "צלחות וצלחות מסודרות\n"
+    .string "צלחות וכוסות מסודרות\n"
     .string "בצורה מסודרת.$"
 
 Text_Kitchen::
