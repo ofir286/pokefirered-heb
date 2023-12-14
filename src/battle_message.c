@@ -2408,7 +2408,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     [B_WIN_MSG] = {
         .fillValue = PIXEL_FILL(0xf),
         .fontId = FONT_NORMAL,
-        .x = 2,
+        .x = 2 + 200, // Ofir Changed here - still not sure
         .y = 2,
         .letterSpacing = 0,
         .lineSpacing = 2,
@@ -2432,7 +2432,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     [B_WIN_ACTION_MENU] = {
         .fillValue = PIXEL_FILL(0xe),
         .fontId = FONT_NORMAL_COPY_1,
-        .x = 0,
+        .x = 0 + 30, // Ofir Test
         .y = 2,
         .letterSpacing = 0,
         .lineSpacing = 2,
@@ -2444,7 +2444,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     [B_WIN_MOVE_NAME_1] = {
         .fillValue = PIXEL_FILL(0xe),
         .fontId = FONT_SMALL,
-        .x = 0,
+        .x = 0 + MOVE_NAME_LENGTH * 4 + 8, //Ofir Changed this (was 0). got value by testing
         .y = 1,
         .letterSpacing = 0,
         .lineSpacing = 0,
@@ -2456,7 +2456,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     [B_WIN_MOVE_NAME_2] = {
         .fillValue = PIXEL_FILL(0xe),
         .fontId = FONT_SMALL,
-        .x = 0,
+        .x = 0 + MOVE_NAME_LENGTH * 4 + 8,
         .y = 1,
         .letterSpacing = 0,
         .lineSpacing = 0,
@@ -2468,7 +2468,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     [B_WIN_MOVE_NAME_3] = {
         .fillValue = PIXEL_FILL(0xe),
         .fontId = FONT_SMALL,
-        .x = 0,
+        .x = 0 + MOVE_NAME_LENGTH * 4 + 8,
         .y = 1,
         .letterSpacing = 0,
         .lineSpacing = 0,
@@ -2480,7 +2480,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     [B_WIN_MOVE_NAME_4] = {
         .fillValue = PIXEL_FILL(0xe),
         .fontId = FONT_SMALL,
-        .x = 0,
+        .x = 0 + MOVE_NAME_LENGTH * 4 + 8,
         .y = 1,
         .letterSpacing = 0,
         .lineSpacing = 0,
@@ -2492,7 +2492,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     [B_WIN_PP] = {
         .fillValue = PIXEL_FILL(0xe),
         .fontId = FONT_SMALL,
-        .x = 0,
+        .x = 0 + 8, // Ofir Changed This
         .y = 2,
         .letterSpacing = 0,
         .lineSpacing = 0,
@@ -2504,7 +2504,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     [B_WIN_MOVE_TYPE] = {
         .fillValue = PIXEL_FILL(0xe),
         .fontId = FONT_SMALL,
-        .x = 0,
+        .x = 0 + 60 - 3, // Ofir Test
         .y = 2,
         .letterSpacing = 0,
         .lineSpacing = 0,
@@ -2516,7 +2516,7 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] = {
     [B_WIN_PP_REMAINING] = {
         .fillValue = PIXEL_FILL(0xe),
         .fontId = FONT_NORMAL_COPY_1,
-        .x = 10,
+        .x = 10 * 3, // Ofir Test
         .y = 2,
         .letterSpacing = 0,
         .lineSpacing = 2,
@@ -2753,10 +2753,12 @@ void BattlePutTextOnWindow(const u8 *text, u8 windowId) {
         x = (64 - GetStringWidth(sTextOnWindowsInfo_Normal[windowId].fontId, text,
                                  sTextOnWindowsInfo_Normal[windowId].letterSpacing)) / 2;
         break;
+  //  case B_WIN_PP_REMAINING:
+ //       strrev(text); // Ofire Added this test, intentionaly no break to fall into the default case as well.
     default:
         // Ofir Changed This -TODO to do it correcly we need to change the x value in the list sTextOnWindowsInfo_Normal for every type of print (movesets needs to be in diffrent indexes for example)
-        //x = sTextOnWindowsInfo_Normal[windowId].x;
-        x = sTextOnWindowsInfo_Normal[windowId].x + 210;
+        x = sTextOnWindowsInfo_Normal[windowId].x;
+        //x = sTextOnWindowsInfo_Normal[windowId].x + 210;
         break;
     }
     if (x < 0)

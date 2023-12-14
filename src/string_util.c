@@ -161,8 +161,23 @@ s32 StringCompareN(const u8 *str1, const u8 *str2, u32 n)
     return *str1 - *str2;
 }
 
+void strrev(u8 *str)
+{
+    u8 len = StringLength(str);
+    int i;
+    int j;
+    u8 a;
+    for (i = 0, j = len - 1; i < j; i++, j--)
+    {
+        a = str[i];
+        str[i] = str[j];
+        str[j] = a;
+    }
+}
+
 u8 *ConvertIntToDecimalStringN(u8 *dest, s32 value, enum StringConvertMode mode, u8 n)
 {
+    u8* original_dest = dest;
     enum { WAITING_FOR_NONZERO_DIGIT, WRITING_DIGITS, WRITING_SPACES } state;
     s32 powerOfTen;
     s32 largestPowerOfTen = sPowersOfTen[n - 1];
@@ -214,6 +229,10 @@ u8 *ConvertIntToDecimalStringN(u8 *dest, s32 value, enum StringConvertMode mode,
     }
 
     *dest = EOS;
+
+    // Ofir Added this to flip all the number since rtl is a thing now.
+    strrev(original_dest);
+
     return dest;
 }
 
