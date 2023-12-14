@@ -1,14 +1,14 @@
 PalletTown_ProfessorOaksLab_Text_RivalGrampsIsntAround::
     .string "{RIVAL}: יו,\n"
-    .string "{PLAYER}! סבאל'ה לא כאן!$"
+    .string "{PLAYER}! סבא לא כאן!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalFedUpWithWaiting::
-    .string "{RIVAL}: סבאל'ה!\n"
+    .string "{RIVAL}: סבא!\n"
     .string "נו, נמאס לי כבר לחכות!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalNoFairWhatAboutMe::
     .string "{RIVAL}: היי!\n"
-    .string "סבאל'ה! מה איתי?$"
+    .string "סבא! מה איתי?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoChoosePlayer::
     .string "{RIVAL}: חה,\n"
@@ -46,10 +46,10 @@ PalletTown_ProfessorOaksLab_Text_RivalGoToughenMyMon::
     .string "{RIVAL}: בסדר!\n"
     .string "אני הולך לגרום לפוקימון שלי\l"
     .string "להילחם כדי שיהיה קצת יותר קשוח!\p"
-    .string "{PLAYER}! סבאל'ה! נתרחרח אחר-כך!$"
+    .string "{PLAYER}! סבא! נתרחרח אחר-כך!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGramps::
-    .string "{RIVAL}: סבאל'ה!$"
+    .string "{RIVAL}: סבא!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalWhatDidYouCallMeFor::
     .string "{RIVAL}: למה קראת\n"
@@ -57,7 +57,7 @@ PalletTown_ProfessorOaksLab_Text_RivalWhatDidYouCallMeFor::
 
 PalletTown_ProfessorOaksLab_Text_RivalLeaveItToMeGramps::
     .string "{RIVAL}: אין בעיה,\n"
-    .string "סבאל'ה! תשאיר את זה לי!$"
+    .string "סבא! תשאיר את זה לי!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalTellSisNotToGiveYouMap::
     .string "{PLAYER}, לא נעים\n"
@@ -264,13 +264,13 @@ PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons::
     .string "לפעמים היא אפילו תטפל בו בשבילך.\p"
     .string "זה סוד, בבקשה אל תספר את זה לאף אחד.$"
 
-PalletTown_ProfessorOaksLab_Text_OakIsGoingToHaveRadioShow::
+PalletTown_ProfessorOaksLab_Text_OakIsAuthorityOnMons::
     .string "פרופ' אוק הוא\n"
     .string "ה-מומחה בכל מה שנוגע לפוקימון!\p"
     .string "מאמני פוקימון רבים רוחשים כלפיו\l"
     .string "כבוד רב!$"
 
-PalletTown_ProfessorOaksLab_Text_OakIsAuthorityOnMons::
+PalletTown_ProfessorOaksLab_Text_OakSightingsOfRareMons::
     .string "לאחרונה נצפו פוקימונים\n"
     .string "מהמון זנים נדירים.\p"
     .string "אני מדבר על פוקימונים\n"
@@ -280,7 +280,7 @@ PalletTown_ProfessorOaksLab_Text_OakIsAuthorityOnMons::
     .string "מכיוון שאני לא יכול לעשות את זה,\n"
     .string "{PLAYER}, אני אשמח שתעשה זאת בשבילי.$"
 
-PalletTown_ProfessorOaksLab_Text_OakFavorToAskYouPlayer::
+PalletTown_ProfessorOaksLab_Text_RivalJustLetMeHandleEverything::
     .string "{RIVAL}: היי! שמעתי את זה!\p"
     .string "סבא מה נסגר עם זה שאתה\n"
     .string "מעדיף את {PLAYER} על פני?\p"
@@ -289,25 +289,25 @@ PalletTown_ProfessorOaksLab_Text_OakFavorToAskYouPlayer::
     .string "אתה יכול לתת לי לטפל בהכל,\n"
     .string "לא צריך את {PLAYER}.$"
 
-PalletTown_ProfessorOaksLab_Text_OakSightingsOfRareMons::
+PalletTown_ProfessorOaksLab_Text_OakNeedYourHelpTooNeedToSeePokedexes::
     .string "אוק: אני יודע, אני יודע\n"
     .string "כמובן שאני צריך גם את עזרתך.\p"
     .string "שניכם, תביאו לי את הפוקדקסים שלכם.$"
 
-PalletTown_ProfessorOaksLab_Text_RivalJustLetMeHandleEverything::
+PalletTown_ProfessorOaksLab_Text_OakTookBothPokedexUnits::
     .string "פרופ אוק לקח את שני הפוקדקסים.$"
 
-PalletTown_ProfessorOaksLab_Text_OakNeedYourHelpTooNeedToSeePokedexes::
+PalletTown_ProfessorOaksLab_Text_OakNowTheseUnitsCanRecordMoreData::
     .string "… … …  … … …\p"
     .string "… … …  … … …\p"
     .string "ו... זהו!\p"
     .string "עכשיו הם יוכלו להקליט מידע\n"
     .string "על עוד המון פוקימונים.$"
 
-PalletTown_ProfessorOaksLab_Text_OakTookBothPokedexUnits::
+PalletTown_ProfessorOaksLab_Text_PlayersPokedexWasUpgraded::
     .string "הפוקדקס של {PLAYER} שודרג!$"
 
-PalletTown_ProfessorOaksLab_Text_OakNowTheseUnitsCanRecordMoreData::
+PalletTown_ProfessorOaksLab_Text_OakMustReallyWorkToFillPokedex::
     .string "עכשיו, {PLAYER} ו{RIVAL}!\p"
     .string "אתם ממש חייבים למלא את\n"
     .string "הפוקדקסים שלכם.\p"
@@ -316,19 +316,19 @@ PalletTown_ProfessorOaksLab_Text_OakNowTheseUnitsCanRecordMoreData::
     .string "הרגע הזה יזכר כרגע חשוב מאוד\n"
     .string "בהיסטוריה של מדע הפוקימונים!$"
 
-PalletTown_ProfessorOaksLab_Text_PlayersPokedexWasUpgraded::
+PalletTown_ProfessorOaksLab_Text_RivalIllCompleteThePokedex::
     .string "{RIVAL}: סבא, אל תתרגש יותר מידי.\p"
     .string "אני אמלא את הפוקדקס שלי,\n"
     .string "אין לך סיבה לדאוג.\p"
     .string "אני חושב שאתחיל ב-אי מספר 1.\p"
     .string "בכל מקרה אני הולך!$"
 
-PalletTown_ProfessorOaksLab_Text_OakMustReallyWorkToFillPokedex::
+PalletTown_ProfessorOaksLab_Text_OakIsGoingToHaveRadioShow::
     .string "לפרופסור אוק הולכת להיות תוכנית רדיו\n"
     .string "בקרוב\p"
     .string "היא הולכת להיקרא סמינר הפוקימונים$"
 
-PalletTown_ProfessorOaksLab_Text_RivalIllCompleteThePokedex::
+PalletTown_ProfessorOaksLab_Text_OakFavorToAskYouPlayer::
     .string "או זה מצוין!\p"
     .string "{PLAYER} יש לי עוד בקשה חשובה עבורך.\n"
     .string "אני צריך שתקשיב לי טוב.$"
