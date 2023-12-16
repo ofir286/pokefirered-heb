@@ -776,16 +776,17 @@ u16 RenderText(struct TextPrinter *textPrinter)
                 return RENDER_REPEAT;
             case EXT_CTRL_CODE_CLEAR_TO:
                 {
+                    // Ofir changed this
                     widthHelper = *textPrinter->printerTemplate.currentChar;
-                    widthHelper += textPrinter->printerTemplate.x;
+                    //widthHelper += textPrinter->printerTemplate.x;
                     textPrinter->printerTemplate.currentChar++;
                     width = widthHelper - textPrinter->printerTemplate.currentX;
-                    if (width > 0)
-                    {
+                    //if (width > 0)
+                    //{
                         ClearTextSpan(textPrinter, width);
                         textPrinter->printerTemplate.currentX += width;
                         return RENDER_PRINT;
-                    }
+                    //}
                 }
                 return RENDER_REPEAT;
             case EXT_CTRL_CODE_MIN_LETTER_SPACING:
