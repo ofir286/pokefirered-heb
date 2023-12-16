@@ -332,4 +332,3 @@ PalletTown_ProfessorOaksLab_Text_OakFavorToAskYouPlayer::
     .string "או זה מצוין!\p"
     .string "{PLAYER} יש לי עוד בקשה חשובה עבורך.\n"
     .string "אני צריך שתקשיב לי טוב.$"
-	
