@@ -84,9 +84,12 @@ bool16 AddTextPrinter(struct TextPrinterTemplate *textSubPrinter, u8 speed, void
 
     sTempTextPrinter.printerTemplate = *textSubPrinter;
     sTempTextPrinter.callback = callback;
+    sTempTextPrinter.minLetterSpacing = 0;
+
     // Ofir Chenged this
-    //sTempTextPrinter.minLetterSpacing = 0;
-    sTempTextPrinter.minLetterSpacing = 6; // for small font
+    if (sTempTextPrinter.printerTemplate.fontId == FONT_SMALL)
+        sTempTextPrinter.minLetterSpacing = 6; // for small font
+
     sTempTextPrinter.japanese = 0;
 
     GenerateFontHalfRowLookupTable(textSubPrinter->fgColor, textSubPrinter->bgColor, textSubPrinter->shadowColor);
