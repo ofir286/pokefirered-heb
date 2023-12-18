@@ -1,114 +1,115 @@
 CeladonCity_Text_GotMyKoffingInCinnabar::
-    .string "I got my KOFFING in CINNABAR.\p"
-    .string "It's usually nice, but it breathes\n"
-    .string "poison when it's angry.$"
+    .string "תפסתי את הקופינג\n"
+    .string "שלי באי הצנובר!\p"
+    .string "הוא נחמד, אבל הוא נושף אדי רעל\l"
+    .string "כשהוא כועס!$"
 
 CeladonCity_Text_GymIsGreatFullOfWomen::
-    .string "Heheh! This GYM is great!\n"
-    .string "It's full of women!$"
-
-CeladonCity_Text_GameCornerIsBadForCitysImage::
-    .string "CELADON takes pride in its efforts\n"
-    .string "to keep the city beautiful.\p"
-    .string "That's why the new GAME CORNER is\n"
-    .string "bad for our city's image.$"
-
+    .string "חיחיחי! המכון הזה\n"
+    .string "נהדר! הוא מלא בנשים!$"
+	
 CeladonCity_Text_BlewItAllAtSlots::
-    .string "Moan…\n"
-    .string "I blew it all at the slots!\p"
-    .string "I knew I should have cashed in my\n"
-    .string "COINS for prizes!$"
-
-CeladonCity_Text_MyTrustedPalPoliwrath::
-    .string "This is my trusted pal, POLIWRATH.\p"
-    .string "It evolved from a POLIWHIRL when\n"
-    .string "I used a WATER STONE.$"
+    .string "אוח! בזבזתי הכל\n"
+    .string "במכונות המזל!\p"
+    .string "ידעתי שהיה כדאי לי להחליף את\l"
+    .string "האסימונים שלי בפרסים!$"
 
 CeladonCity_Text_Poliwrath::
-    .string "POLIWRATH: Ribi ribit!$"
+    .string "פוליראת': קוה\n"
+    .string "קוה קוה!{}$"
 
 CeladonCity_Text_GetLostOrIllPunchYou::
-    .string "What are you staring at?\n"
-    .string "Get lost, or I'll punch you.$"
+    .string "למה אתה מסתכל\n"
+    .string "עלי ככה?$"
 
 CeladonCity_Text_KeepOutOfTeamRocketsWay::
-    .string "Keep out of TEAM ROCKET's way!$"
+    .string "אל תעמוד בדרכם\n"
+    .string "של צוות רוקט!$"
 
 CeladonCity_Text_ExplainXAccuracyDireHit::
-    .string "TRAINER TIPS\p"
-    .string "X ACCURACY boosts the accuracy of\n"
-    .string "techniques.\p"
-    .string "DIRE HIT jacks up the likelihood\n"
-    .string "of critical hits.\p"
-    .string "Get your items at the CELADON\n"
-    .string "DEPT. STORE!$"
+    .string "טיפים למאמנים\p"
+    .string "+דיוק הוא פריט שמגביר את\l"
+    .string "הדייקנות של מהלכים!\p"
+    .string "הפריט +קריטי מגביר את הסבירות\l"
+    .string "של מכה קריטית!\p"
+    .string "קנה לך כאלה בחנות של העיר סלדון!$"
 
 CeladonCity_Text_CitySign::
-    .string "CELADON CITY\n"
-    .string "The City of Rainbow Dreams$"
+    .string "העיר סלדון\n"
+    .string "העיר שבה חולמים בצבעי הקשת$"
 
 CeladonCity_Text_GymSign::
-    .string "CELADON CITY POKéMON GYM\n"
-    .string "LEADER: ERIKA\l"
-    .string "The Nature-Loving Princess!$"
+    .string "סלדון\n"
+    .string "מכון הפוקימון מנהיגה: אריקה\p"
+    .string "הנסיכה אוהבת הטבע!$"
 
 CeladonCity_Text_MansionSign::
-    .string "CELADON MANSION$"
+    .string "אחוזת סלדון$"
 
 CeladonCity_Text_DeptStoreSign::
-    .string "Find what you need at the\n"
-    .string "CELADON DEPT. STORE!$"
+    .string "תמצאו כל מה שאתם\n"
+    .string "צריכים בחנות של סלדון!$"
 
 CeladonCity_Text_GuardSpecProtectsFromStatus::
-    .string "TRAINER TIPS\p"
-    .string "GUARD SPEC. protects POKéMON\n"
-    .string "from status-reduction moves during\l"
-    .string "battle.\p"
-    .string "Get your items at the\n"
-    .string "CELADON DEPT. STORE!$"
+    .string "טיפים למאמנים\p"
+    .string "הפריט הגנה מיוחדת מגן על הפוקימון\l"
+    .string "שלך מפני מתקפות מיוחדות, כמו\l"
+    .string "אש ומים!\p"
+    .string "קנה לך כאלה בכל-בו אביב!$"
 
 CeladonCity_Text_PrizeExchangeSign::
-    .string "COINS exchanged for prizes!\n"
-    .string "PRIZE EXCHANGE$"
+    .string "החלפת אסימונים\n"
+    .string "בפרסים! דלפק הפרסים$"
 
 CeladonCity_Text_GameCornerSign::
-    .string "ROCKET GAME CORNER\n"
-    .string "The playground for grown-ups!$"
-
-CeladonCity_Text_ScaldedTongueOnTea::
-    .string "Aaaagh, ow…\n"
-    .string "I scalded my tongue!\p"
-    .string "This nice old lady in the MANSION\n"
-    .string "gave me some TEA.\p"
-    .string "But it was boiling hot!\n"
-    .string "Gotta cool it to drink it.$"
-
-Text_SoftboiledTeach::
-    .string "Hello, there!\p"
-    .string "I've seen you about, but I never\n"
-    .string "had a chance to chat.\p"
-    .string "It must be good luck that brought\n"
-    .string "us together finally.\p"
-    .string "I'd like to celebrate by teaching\n"
-    .string "you the move SOFTBOILED.$"
+    .string "משחקיית רוקט\n"
+    .string "המשחקיה למבוגרים בלבד!$"
 
 Text_SoftboiledDeclined::
-    .string "I'll always be keeping an eye out\n"
-    .string "for you.\p"
-    .string "I hope we can chat again.$"
+    .string "אני אמשיך לבדוק אם\n"
+    .string "אתה בסביבה.\p"
+    .string "אני מקווה שנתראה שוב בקרוב.$"
 
 Text_SoftboiledWhichMon::
-    .string "So, who's the POKéMON that gets\n"
-    .string "the chance to learn SOFTBOILED?$"
+    .string "אז, מי הפוקימון שיזכה ללמוד\n"
+    .string "את המהלך הטלת ביצה?$"
 
 Text_SoftboiledTaught::
-    .string "I wish you the best of luck!$"
+    .string "שיהיה בהצלחה!$"
 
 CeladonCity_Text_SomeoneStoleSilphScope::
-    .string "Oh, what am I to do…\p"
-    .string "Someone stole our SILPH SCOPE.\p"
-    .string "The thief came running this way,\n"
-    .string "I'm sure of it.\p"
-    .string "But I lost sight of him!\n"
-    .string "Where'd he go?$"
+    .string "אוי, מה אני אעשה…\p"
+    .string "מישהו גנב את עדשת הסילף שלנו.\p"
+    .string "הגנב ברח לכיוון הזה,\n"
+    .string "אני בטוח בזה.\p"
+    .string "אבל איבדתי אותו!\n"
+    .string "לאן הוא ברח?$"
 
+CeladonCity_Text_GameCornerIsBadForCitysImage::
+    .string "סלדון מתגעה במאמצים שלה לשמור\n"
+    .string "על העיר יפיפיה.\p"
+    .string "זה למה המשחקיה לא\n"
+    .string "טובה לתדמית של העיר.$"
+	
+Text_SoftboiledTeach::
+    .string "שלום לך!\p"
+    .string "ראיתי אותך חולף,\n"
+    .string "אבל מעולם לא היתה לנו הזדמנות\l"
+    .string "לפטפט!\p"
+    .string "הנה שי קטן על שעצרת כדי לדבר\l"
+    .string "איתי!\p$"
+	
+CeladonCity_Text_ScaldedTongueOnTea::
+    .string "אייי, אוו…\n"
+    .string "שרפתי את הלשון!\p"
+    .string "הגברת הזקנה הנחמדה מאחוזת סלדון\n"
+    .string "הביאה לי קצת תה.\p"
+    .string "אבל הוא היה רותח!\n"
+    .string "חייב לקרר אותו לפני שטועמים.$"
+	
+CeladonCity_Text_MyTrustedPalPoliwrath::
+    .string "זה ידידי הטוב,\n"
+    .string "פוליראת'!\p"
+    .string "הוא היה פעם פוליוורל! הוא התפתח\l"
+    .string "לפוליראת' כשהשתמשתי\l"
+    .string "באבן מים עליו!$"
