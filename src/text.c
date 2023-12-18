@@ -103,7 +103,7 @@ static const u8 sFontSmallLatinGlyphWidths[] =
      5,  5,  5,  5,  5,  5,  5,  5,  5,  4,  5,  4,  4,  5, 
      5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,
      5,  5,  4,  5,  4,  4,  5,  5,  5,  6,  5,  5,  5,  5,
-     5,  5,  8,  7,  8,  5,  5,  5,  5,  5,  8,  8,  7,  5,
+     5,  5,  8,  7,  8,  5,  5,  5,  5,  5,  /*this is {LV}*/8,  8,  7,  5,/**/
      5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,
      5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  8,
      8,  8,  8,  8,  8,  8,  4,  7,  5,  5,  5,  5,  5,  5,
@@ -118,9 +118,9 @@ static const u8 sFontSmallLatinGlyphWidths[] =
      5,  /*4*/6,  5,  5,  5,  5,  5,  5,  5,  5,  5,  4,  5,  5,
      5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,
      5,  8,  7,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,
-     5,  5,  5,  5,  8,  8,  8,  8,  8,  8,  8,  8,  8,  8,
+     5,  5,  5,  5,  /*this is {LV_2}*/8,  8,  8,  8,  8,  8,  8,  8,  8,  8,
      8,  8,  8,  8,  8,  8,  8,  8,  8,  8,  8,  8,  8,  8,
-     5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,
+     5,  /*this is ma test*/8,  /*this is ra test*/5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,
      5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,
      5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,
      5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,
@@ -781,12 +781,12 @@ u16 RenderText(struct TextPrinter *textPrinter)
                     //widthHelper += textPrinter->printerTemplate.x;
                     textPrinter->printerTemplate.currentChar++;
                     width = widthHelper - textPrinter->printerTemplate.currentX;
-                    //if (width > 0)
-                    //{
+                    if (width < 0)
+                    {
                         ClearTextSpan(textPrinter, width);
                         textPrinter->printerTemplate.currentX += width;
                         return RENDER_PRINT;
-                    //}
+                    }
                 }
                 return RENDER_REPEAT;
             case EXT_CTRL_CODE_MIN_LETTER_SPACING:
