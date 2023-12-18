@@ -760,11 +760,12 @@ static void UpdateLvlInHealthbox(u8 healthboxSpriteId, u8 lvl)
 {
     u32 windowId, spriteTileNum;
     u8 *windowTileData;
-    u8 text[16] = _("{LV_2}");
+    //u8 text[16] = _("{LV_2}");
+    u8 text[16] = _("{RA}{MA}");
     u32 xPos;
     u8 *objVram;
 
-    objVram = ConvertIntToDecimalStringN(text + 2, lvl, STR_CONV_MODE_LEFT_ALIGN, 3);
+    objVram = ConvertIntToDecimalStringN(text + 4, lvl, STR_CONV_MODE_LEFT_ALIGN, 3);
     // Ofir Test
     //xPos = 5 * (3 - (objVram - (text + 2)));
     xPos = 3*5;
