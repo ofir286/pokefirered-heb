@@ -7,46 +7,46 @@ CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnow::
     .string "enjoy trading POKéMON!$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ObtainedAnEevee::
-    .string "{PLAYER} obtained an EEVEE!$"
+    .string "{PLAYER} קיבל איווי!$"
 
 CeladonCity_Condominiums_RoofRoom_Text_BoxIsFull::
     .string "ポケモンが　いっぱいだ\n"
     .string "ボックスを　かえて　きなさい$"
 
 CeladonCity_Condominiums_RoofRoom_Text_WirelessAdapterLecture::
-    .string "POKéMON Lecture\p"
-    .string "Playing with the Wireless Adapter$"
+    .string "הרצאות פוקימון\p"
+    .string "לשחק עם מתאם על-חוטי$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ReadWhichHeading::
-    .string "Which heading do you want to read?$"
+    .string "איזה נושא תרצה לקרוא?$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClub::
-    .string "The POKéMON WIRELESS CLUB is\n"
-    .string "upstairs at any POKéMON CENTER.\p"
-    .string "Visit one to link up with friend(s)\n"
-    .string "using your Wireless Adapter.$"
+    .string "מועדון הפוקימון העל חוטי נמצא\n"
+    .string "בקומה העליונה בכל מרכז פוקימונים.\p"
+    .string "בקר שם כדי להתחבר עם חברים שלך\n"
+    .string "באמצעות התאם על-חוטי.$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner::
-    .string "To link only with a friend, go to\n"
-    .string "the DIRECT CORNER.\p"
-    .string "It is the right counter at the\n"
-    .string "POKéMON WIRELESS CLUB.\p"
-    .string "Go into the TRADE CORNER or the\n"
-    .string "COLOSSEUM with your friend.$"
+    .string "כדי להתחבר עם חבר בלבד\n"
+    .string "לך לפינה הישירה.\p"
+    .string "זה הדלפק הימני\n"
+    .string "במועדון הפוקימון העל חוטי.\p"
+    .string "היכנס לפינת ההחלפות או\n"
+    .string "ל-קולוסאום עם חבריך.$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom::
-    .string "To link and communicate with\n"
-    .string "anyone, go to the UNION ROOM.\p"
-    .string "It is the left counter at the\n"
-    .string "POKéMON WIRELESS CLUB.\p"
-    .string "Go to the UNION ROOM and enjoy\n"
-    .string "meeting other TRAINERS.$"
+    .string "כדי להתחבר ולתקשר עם כל אחד,\n"
+    .string "לך לחדר החיבור.\p"
+    .string "זה הדלפק השמאלי\n"
+    .string "במועדון הפוקימון העל חוטי.\p"
+    .string "לך לחדר החיבור ותפגוש\n"
+    .string "מאמנים אחרים.$"
 
 CeladonCity_Condominiums_RoofRoom_Text_PamphletOnTMs::
-    .string "It's a pamphlet on TMs.\p"
+    .string "זה עלון על מ”מ.\p"
     .string "… …\p"
-    .string "There are fifty TMs in all.\p"
-    .string "There are also seven HMs that\n"
-    .string "can be used repeatedly.\p"
-    .string "SILPH CO.$"
+    .string "יש בסך הכל 50 מ”מ.\p"
+    .string "יש גם 7 מ”נ\n"
+    .string "שאפשר להשתמש בהם הרבה פעמים.\p"
+    .string "חברת סילף.$"
 
