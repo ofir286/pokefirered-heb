@@ -1,82 +1,85 @@
-CeladonCity_DepartmentStore_Roof_Text_ImThirstyGiveHerDrink::
-    .string "I'm thirsty!\n"
-    .string "I want something to drink!\p"
-    .string "{FONT_NORMAL}Give her a drink?$"
-
 CeladonCity_DepartmentStore_Roof_Text_GiveWhichDrink::
-    .string "Give her which drink?$"
+    .string "איזה משקה לתת לה?$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayFreshWaterHaveThis::
-    .string "Yay!\p"
-    .string "FRESH WATER!\p"
-    .string "Thank you!\n"
-    .string "You can have this from me!$"
-
-Text_ReceivedItemFromLittleGirl::
-    .string "{PLAYER} received a {STR_VAR_2}\n"
-    .string "from the little girl.$"
-
-CeladonCity_DepartmentStore_Roof_Text_ExplainTM16::
-    .string "TM16 contains LIGHT SCREEN.\p"
-    .string "It's a move that weakens the power\n"
-    .string "of special attacks by your foe.$"
+    .string "יאי!\p"
+    .string "מים מינרלים!\p"
+    .string "תודה רבה!\p"
+    .string "אתה יכול לקבל ממני את זה!$"
 
 CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
-    .string "Yay!\p"
-    .string "SODA POP!\p"
-    .string "Thank you!\n"
-    .string "You can have this from me!$"
-
-CeladonCity_DepartmentStore_Roof_Text_ExplainTM20::
-    .string "TM20 contains SAFEGUARD.\p"
-    .string "It's a move that prevents status\n"
-    .string "problems among your POKéMON.$"
+    .string "יאי!\p"
+    .string "משקה קל!\p"
+    .string "תודה רבה!\p"
+    .string "אתה יכול לקבל ממני את זה!$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
-    .string "Yay!\p"
-    .string "LEMONADE!\p"
-    .string "Thank you!\n"
-    .string "You can have this from me!$"
-
-CeladonCity_DepartmentStore_Roof_Text_ExplainTM33::
-    .string "TM33 contains REFLECT.\p"
-    .string "It's a move that weakens the power\n"
-    .string "of physical attacks by your foe.$"
+    .string "יאי!\p"
+    .string "לימונדה!\p"
+    .string "תודה רבה!\p"
+    .string "אתה יכול לקבל ממני את זה!$"
 
 CeladonCity_DepartmentStore_Roof_Text_DontHaveSpaceForThis::
-    .string "You don't have space for this!$"
+    .string "אין לך מקום\n"
+    .string "בתיק בשביל זה!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ImNotThirstyAfterAll::
-    .string "No, thank you!\n"
-    .string "I'm not thirsty after all!$"
+    .string "לא, תודה!\n"
+    .string "אני לא צמאה אחרי הכל!$"
 
 CeladonCity_DepartmentStore_Roof_Text_MySisterIsImmature::
-    .string "My sister is a TRAINER, believe it\n"
-    .string "or not.\p"
-    .string "But, she's so immature, she drives\n"
-    .string "me nuts!$"
+    .string "אחותי מאמנת, תאמין\n"
+    .string "או לא.\p"
+    .string "אבל, היא כל כך לא בוגרת,\l"
+    .string "זה מטריף אותי!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ImThirstyIWantDrink::
-    .string "I'm thirsty!\n"
-    .string "I want something to drink!$"
+    .string "אני צמאה!\n"
+    .string "אני רוצה משהו לשתות!$"
+
+CeladonCity_DepartmentStore_Roof_Text_ImThirstyGiveHerDrink::
+    .string "אני צמאה!\n"
+    .string "אני רוצה משהו לשתות!\p"
+    .string "{FONT_NORMAL}לתת לה משקה?$"
 
 CeladonCity_DepartmentStore_Roof_Text_FloorSign::
-    .string "ROOFTOP SQUARE:\n"
-    .string "VENDING MACHINES$"
+    .string "קומת גג:\n"
+    .string "מכונות ממכר$"
 
 CeladonCity_DepartmentStore_Roof_Text_VendingMachineWhatDoesItHave::
-    .string "A vending machine!\n"
-    .string "What does it have?$"
+    .string "מכונת משקאות!\n"
+    .string "הנה התפריט!\p$"
 
 CeladonCity_DepartmentStore_Roof_Text_NotEnoughMoney::
-    .string "Oops, not enough money!$"
+    .string "אופס, אין מספיק\n"
+    .string "כסף!$"
 
 CeladonCity_DepartmentStore_Roof_Text_DrinkCanPoppedOut::
-    .string "A can of {STR_VAR_1} popped out!$"
+    .string "המכונה הוציאה פחית {STR_VAR_1}!$"
 
 CeladonCity_DepartmentStore_Roof_Text_NoMoreRoomForStuff::
-    .string "There's no more room for stuff!$"
+    .string "אין יותר\n"
+    .string "מקום לדברים!$"
 
 CeladonCity_DepartmentStore_Roof_Text_NotThirsty::
-    .string "Not thirsty!$"
+    .string "לא צמא!$"
+	
+Text_ReceivedItemFromLittleGirl::
+    .string "{PLAYER} קיבל את {STR_VAR_2}\n"
+    .string "מהילדה הקטנה.$"
 
+CeladonCity_DepartmentStore_Roof_Text_ExplainTM16::
+    .string "ממ16 מכיל את המהלך מסך אור.\p"
+    .string "זה מהלך שמחליש את היוכלת המיוחדת של\n"
+    .string "היריב שלך.$"
+
+CeladonCity_DepartmentStore_Roof_Text_ExplainTM20::
+    .string "ממ20 מכיל את המהלך מיגון.\p"
+    .string "זה מהלך שמונע מהשפעות רעות כמו רעל\n"
+    .string "מלפגוע בפוקימונים שלך.$"
+
+CeladonCity_DepartmentStore_Roof_Text_ExplainTM33::
+    .string "ממ33 מכיל את המהלך שיקוף.\p"
+    .string "זה מהלך שמחליש את הכוח של מתקפות\n"
+    .string "של היריב שלך.$"
+	

@@ -1,18 +1,17 @@
 CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresent::
-    .string "I'm getting a present for my\n"
-    .string "girlfriend.\p"
-    .string "I guess a POKé DOLL will be it.\n"
-    .string "It's the popular thing.$"
+    .string "אני קונה בובת\n"
+    .string "פוקימון לחברה שלי!$"
 
 CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll::
-    .string "I heard something useful.\p"
-    .string "If a wild POKéMON appears, you can\n"
-    .string "distract it with a POKé DOLL.\p"
-    .string "You can run away while the wild\n"
-    .string "POKéMON is distracted.$"
+    .string "שמעתי עובדה\n"
+    .string "שימושית.\p"
+    .string "אפשר לברוח מקרבות מול פוקימונים\l"
+    .string "פראים אם מסיחים את דעתם בעזרת\l"
+    .string "בובת פוקימון!$"
 
 CeladonCity_DepartmentStore_4F_Text_FloorSign::
-    .string "Express yourself with gifts!\n"
-    .string "4F: WISE MAN GIFTS\p"
-    .string "Evolution Special!\n"
-    .string "Element STONES on sale now!$"
+    .string "הביעו את אהבתכם\n"
+    .string "דרך מתנות!\p"
+    .string "ק4: חנות מזכרות\p"
+    .string "מבצע התפתחות מיוחד!\l"
+    .string "קנו אבני יסוד! עכשיו במלאי!$"

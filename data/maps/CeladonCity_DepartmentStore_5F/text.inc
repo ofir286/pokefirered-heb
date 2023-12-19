@@ -1,23 +1,17 @@
 CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
-    .string "POKéMON stat enhancers can be\n"
-    .string "bought only here.\p"
-    .string "HP UP increases the base HP of a\n"
-    .string "POKéMON.\p"
-    .string "CALCIUM raises the base SP. ATK\n"
-    .string "stat of one POKéMON.\p"
-    .string "ZINC boosts the base SP. DEF stat\n"
-    .string "of one POKéMON.\p"
-    .string "CARBOS enhances the base SPEED\n"
-    .string "stat.$"
+    .string "זו החנות היחידה\n"
+    .string "שמוכרת ויטמינים משפרי ביצועים...\l"
+    .string "לפוקימונים, כמובן.\p"
+    .string "שימוש בסידן יגביר\n"
+    .string "את היכולת המיוחדת של הפוקימון.\p"
+    .string "שימוש בפחמן יגביר את המהירות.$"
 
 CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers::
-    .string "I'm here for POKéMON stat\n"
-    .string "enhancers.\p"
-    .string "PROTEIN increases the base ATTACK\n"
-    .string "power.\p"
-    .string "IRON increases the base DEFENSE\n"
-    .string "stat.$"
+    .string "אני כאן כדי לקנות\n"
+    .string "משפרי ביצועים לפוקימונים.\p"
+    .string "חלבון יגביר את כוח המתקפה של\l"
+    .string "הפוקימון.\p"
+    .string "ברזל יגביר את ההגנה!$"
 
 CeladonCity_DepartmentStore_5F_Text_Drugstore::
-    .string "5F: DRUGSTORE$"
-
+    .string "ק5: בית מרקחת$"
