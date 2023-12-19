@@ -1,17 +1,17 @@
 CeladonCity_DepartmentStore_1F_Text_WelcomeToDeptStore::
-    .string "Hello!\n"
-    .string "Welcome to CELADON DEPT. STORE.\p"
-    .string "The board on the right describes\n"
-    .string "the store layout.$"
+    .string "שלום! ברוך הבא\n"
+    .string "לחנות הגדולה של סלדון.\p"
+    .string "תוכל למצוא את מפת החנות על השלט\l"
+    .string "מימין.$"
 
 CeladonCity_DepartmentStore_1F_Text_FloorDescriptions::
-    .string "1F: SERVICE COUNTER\p"
-    .string "2F: TRAINER'S MARKET\p"
-    .string "3F: TV GAME SHOP\p"
-    .string "4F: WISE MAN GIFTS\p"
-    .string "5F: DRUGSTORE\p"
-    .string "ROOFTOP SQUARE: VENDING MACHINES$"
+    .string "ק1: דלפק שירות\p"
+    .string "ק2: הכל למאמן\p"
+    .string "ק3: חנות משחקי מחשב\p"
+    .string "ק4: חנות מזכרות\p"
+    .string "ק5: בית מרקחת\p"
+    .string "קומת גג: מכונות ממכר$"
 
 CeladonCity_DepartmentStore_1F_Text_ServiceCounter::
-    .string "1F: SERVICE COUNTER$"
-
+    .string "ק1: דלפק שירות$"
+	
