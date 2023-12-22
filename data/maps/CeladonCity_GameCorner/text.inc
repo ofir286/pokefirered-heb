@@ -1,148 +1,150 @@
 CeladonCity_GameCorner_Text_CanExchangeCoinsNextDoor::
-    .string "Welcome!\p"
-    .string "You can exchange your COINS for\n"
-    .string "fabulous prizes next door.$"
+    .string "ברוך הבא!\p"
+    .string "אם תרצה להחליף את האסימונים שלך\l"
+    .string "בפרסים נפלאים, תוכל לעשות זאת\l"
+    .string "בבניין הצמוד.$"
 
 CeladonCity_GameCorner_Text_WelcomeBuySomeCoins::
-    .string "Welcome to ROCKET GAME CORNER!\p"
-    .string "Do you need some game COINS?\n"
-    .string "Would you like to buy some?$"
-
-CeladonCity_GameCorner_Text_ComePlaySometime::
-    .string "No?\n"
-    .string "Please come play sometime!$"
-
-CeladonCity_GameCorner_Text_SorryDontHaveCoinCase::
-    .string "Oh, I'm sorry.\n"
-    .string "You don't have a COIN CASE.$"
-
-CeladonCity_GameCorner_Text_CoinCaseIsFull::
-    .string "Whoops!\n"
-    .string "Your COIN CASE is full.$"
-
-CeladonCity_GameCorner_Text_CantAffordCoins::
-    .string "You can't afford the COINS.$"
+    .string "ברוך הבא למשחקיית\n"
+    .string "רוקט!\p"
+    .string "אתה רוצה לקנות אסימונים?$"
 
 CeladonCity_GameCorner_Text_HereAreYourCoins::
-    .string "Thank you.\n"
-    .string "Here are your COINS!$"
+    .string "תודה! הנה 05\n"
+    .string "האסימונים שלך!$"
+
+CeladonCity_GameCorner_Text_ComePlaySometime::
+    .string "לא? בסדר.\n"
+    .string "נשמח לראותך שוב!$"
+
+CeladonCity_GameCorner_Text_CantAffordCoins::
+    .string "אין לך מספיק\n"
+    .string "כסף!$"
+
+CeladonCity_GameCorner_Text_CoinCaseIsFull::
+    .string "אופס! ארנק\n"
+    .string "האסימונים שלך מלא.$"
+
+CeladonCity_GameCorner_Text_SorryDontHaveCoinCase::
+    .string "אין לך ארנק\n"
+    .string "לאסימונים!$"
 
 CeladonCity_GameCorner_Text_RumoredTeamRocketRunsThisPlace::
-    .string "Keep this quiet.\p"
-    .string "It's rumored that this place is run\n"
-    .string "by TEAM ROCKET.$"
+    .string "אל תספר לאף אחד.\p"
+    .string "השמועה אומרת שצוות רוקט\l"
+    .string "מנהל את המקום.$"
 
 CeladonCity_GameCorner_Text_ThinkMachinesHaveDifferentOdds::
-    .string "I think these machines have\n"
-    .string "different odds.$"
+    .string "אני חושבת שבמכונות\n"
+    .string "המזל השונות יש סיכויים שונים.$"
 
 CeladonCity_GameCorner_Text_DoYouWantToPlay::
-    .string "Kid, do you want to play?$"
+    .string "ילד, רוצה לשחק?\p$"
 
 CeladonCity_GameCorner_Text_Received10CoinsFromMan::
-    .string "{PLAYER} received 10 COINS\n"
-    .string "from the man.$"
+    .string "{PLAYER} קיבל\n"
+    .string "01 אסימונים!$"
 
 CeladonCity_GameCorner_Text_DontNeedMyCoins::
-    .string "You don't need my COINS!$"
+    .string "אתה לא צריך את\n"
+    .string "המטבעות שלי!$"
 
 CeladonCity_GameCorner_Text_WinsComeAndGo::
-    .string "Wins seem to come and go.\n"
-    .string "Nothing's a sure thing.$"
+    .string "לפעמים זוכים,\n"
+    .string "לפעמים מפסידים.$"
 
 CeladonCity_GameCorner_Text_WinOrLoseItsOnlyLuck::
-    .string "These slot games…\n"
-    .string "Win or lose, it's only by luck.$"
+    .string "אני נהנית מאוד!$"
 
 CeladonCity_GameCorner_Text_GymGuyAdvice::
-    .string "Hey!\p"
-    .string "You have better things to do,\n"
-    .string "champ in the making!\p"
-    .string "CELADON GYM's LEADER is ERIKA.\p"
-    .string "She is a user of GRASS-type\n"
-    .string "POKéMON, and at one with nature.\p"
-    .string "She might appear docile because of\n"
-    .string "her flower arranging…\p"
-    .string "But she's not one to be taken\n"
-    .string "lightly!$"
+    .string "יו!\p"
+    .string "יש לך דברים יותר טובים לעשות,\l"
+    .string "אלופצ'יק!\p"
+    .string "בראש מכון סלדון עומדת המנהיגה\l"
+    .string "אריקה! היא משתמשת בפוקימונים מסוג\l"
+    .string "דשא!\p"
+    .string "היא אמנם נראית כנועה, אבל מראה\l"
+    .string "יכול להטעות!$"
 
 CeladonCity_GameCorner_Text_RareMonsForCoins::
-    .string "They offer rare POKéMON that can\n"
-    .string "be exchanged for your COINS.\p"
-    .string "But, I just can't seem to win!$"
+    .string "אפשר להחליף את\n"
+    .string "האסימונים שלך בפוקימונים נדירים.\p"
+    .string "אבל, אני לא מצליח לזכות במספיק\l"
+    .string "אסימונים!$"
 
 CeladonCity_GameCorner_Text_SoEasyToGetHooked::
-    .string "Games are scary!\n"
-    .string "It's so easy to get hooked!$"
+    .string "משחקי מזל מפחידים\n"
+    .string "אותי! אפשר להתמכר כל-כך בקלות!$"
 
 CeladonCity_GameCorner_Text_WantSomeCoins::
-    .string "What's up?\n"
-    .string "Want some COINS?$"
+    .string "מה הולך? רוצה קצת\n"
+    .string "אסימונים?\p$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromNiceGuy::
-    .string "{PLAYER} received 20 COINS\n"
-    .string "from the nice guy.$"
+    .string "{PLAYER} קיבל\n"
+    .string "02 אסימונים!$"
 
 CeladonCity_GameCorner_Text_YouHaveLotsOfCoins::
-    .string "You have lots of COINS!$"
+    .string "יש לך כבר המון\n"
+    .string "אסימונים!$"
 
 CeladonCity_GameCorner_Text_NeedMoreCoinsForMonIWant::
-    .string "Darn! I need more COINS for the\n"
-    .string "POKéMON I want!$"
+    .string "אוף! אני צריך עוד\n"
+    .string "אסימונים בשביל הפוקימון שאני\l"
+    .string "רוצה!$"
 
 CeladonCity_GameCorner_Text_HereAreSomeCoinsShoo::
-    .string "Hey, what? You're throwing me off!\n"
-    .string "Here are some COINS, so shoo!$"
+    .string "רגע, מה? אתה מסיח\n"
+    .string "את דעתי! קח כמה אסימונים ו'סתלק!\l"
+    .string "קישטה!\p$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromMan::
-    .string "{PLAYER} received 20 COINS\n"
-    .string "from the man.$"
+    .string "{PLAYER} קיבל\n"
+    .string "02 אסימונים!$"
 
 CeladonCity_GameCorner_Text_YouveGotPlentyCoins::
-    .string "You've got plenty of your own\n"
-    .string "COINS!$"
+    .string "יש לך אסימונים\n"
+    .string "משלך!$"
 
 CeladonCity_GameCorner_Text_WatchReelsClosely::
-    .string "The trick is to watch the reels\n"
-    .string "closely.$"
+    .string "הסוד הוא שצריך\n"
+    .string "להסתכל על הגלגלים מקרוב!$"
 
 CeladonCity_GameCorner_Text_GruntIntro::
-    .string "I'm guarding this poster!\n"
-    .string "Go away, or else!$"
+    .string "אני שומר על הפוסטר\n"
+    .string "הזה! 'סתלק מכאן, או ש!$"
 
 CeladonCity_GameCorner_Text_GruntDefeat::
-    .string "Dang!$"
+    .string "אוף!\p$"
 
 CeladonCity_GameCorner_Text_GruntPostBattle::
-    .string "The TEAM ROCKET HIDEOUT might\n"
-    .string "be discovered!\p"
-    .string "I better tell BOSS!$"
+    .string "המחבוא שלנו עלול\n"
+    .string "להיחשף! כדאי שאלך להזהיר את הבוס!$"
 
 CeladonCity_GameCorner_Text_SwitchBehindPosterPushIt::
-    .string "Hey!\p"
-    .string "A switch behind the poster!?\n"
-    .string "Let's push it!$"
-
-CeladonCity_GameCorner_Text_CoinCaseIsRequired::
-    .string "A COIN CASE is required…$"
+    .string "היי!\p"
+    .string "יש מתג מאחורי הפוסטר!?\l"
+    .string "קדימה, בוא נלחץ!$"
 
 CeladonCity_GameCorner_Text_DontHaveCoinCase::
-    .string "Oops!\n"
-    .string "Don't have the COIN CASE!$"
-
-CeladonCity_GameCorner_Text_SlotMachineWantToPlay::
-    .string "A slot machine!\n"
-    .string "Want to play?$"
+    .string "אופס! שכחת את\n"
+    .string "הארנק לאסימונים!$"
 
 CeladonCity_GameCorner_Text_OutOfOrder::
-    .string "OUT OF ORDER\n"
-    .string "This is broken.$"
+    .string "לא תקין!\n"
+    .string "זה לא עובד.$"
 
 CeladonCity_GameCorner_Text_OutToLunch::
-    .string "OUT TO LUNCH\n"
-    .string "This is reserved.$"
+    .string "יצאתי להפסקת צהריים\n"
+    .string "זה שמור.$"
 
 CeladonCity_GameCorner_Text_SomeonesKeys::
-    .string "Someone's keys!\n"
-    .string "They'll be back.$"
+    .string "יש פה מפתחות של מישהו!\n"
+    .string "הוא בטח יחזור בקרוב.$"
 
+CeladonCity_GameCorner_Text_CoinCaseIsRequired::
+    .string "נחוץ בשביל זה ארנק לאסימונים…$"
+	
+	CeladonCity_GameCorner_Text_SlotMachineWantToPlay::
+    .string "מכונת מזל!\n"
+    .string "רוצה לשחק?$"

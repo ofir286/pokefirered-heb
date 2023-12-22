@@ -82,4 +82,3 @@ CeladonCity_DepartmentStore_Roof_Text_ExplainTM33::
     .string "ממ33 מכיל את המהלך שיקוף.\p"
     .string "זה מהלך שמחליש את הכוח של מתקפות\n"
     .string "של היריב שלך.$"
-	
