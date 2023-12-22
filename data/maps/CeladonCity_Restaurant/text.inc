@@ -1,37 +1,37 @@
 CeladonCity_Restaurant_Text_TakingBreakRightNow::
-    .string "Hi!\p"
-    .string "Sorry, but we're taking a break\n"
-    .string "right now.$"
+    .string "הי!\p"
+    .string "אנחנו בהפסקה כרגע.$"
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
-    .string "My POKéMON are weak, so I often\n"
-    .string "have to go to the DRUGSTORE.$"
+    .string "הפוקימונים שלי\n"
+    .string "חלשים אז אני נאלצת לבקר במרכז\l"
+    .string "הפוקימון לעיתים קרובות.$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::
-    .string "Psst! There's a basement under the\n"
-    .string "GAME CORNER, I hear.$"
+    .string "פססט! יש מרתף\n"
+    .string "נסתר מתחת למשחקיית רוקט...$"
 
 CeladonCity_Restaurant_Text_ManLostItAllAtSlots::
-    .string "Munch…\p"
-    .string "The man at that table lost it all\n"
-    .string "at the slots.$"
+    .string "לעיסה...\p"
+    .string "האיש הזה שליד השולחן איבד את\l"
+    .string "כל מה שהיה לו במכונות המזל.$"
 
 CeladonCity_Restaurant_Text_TakeThisImBusted::
-    .string "Go ahead! Laugh!\n"
-    .string "I'm flat-out busted!\p"
-    .string "No more slots for me!\n"
-    .string "I'm going straight!\p"
-    .string "Here!\n"
-    .string "I won't be needing this anymore!$"
+    .string "קדימה! צחק עלי!\p"
+    .string "הפסדתי כל מה שהיה לי!\p"
+    .string "סיימתי עם ההימורים. מהיום\l"
+    .string "אני הולך בדרך הישר!\p"
+    .string "קח! אני לא צריך את זה יותר!\p$"
 
 CeladonCity_Restaurant_Text_ReceivedCoinCaseFromMan::
-    .string "{PLAYER} received a COIN CASE\n"
-    .string "from the man.$"
+    .string "{PLAYER} קיבל\n"
+    .string "את ארנק האסימונים$"
 
 CeladonCity_Restaurant_Text_MakeRoomForThis::
-    .string "Make room for this!$"
+    .string "פנה קצת מקום\n"
+    .string "בתיק שלך!$"
 
 CeladonCity_Restaurant_Text_ThoughtIdWinItBack::
-    .string "I always thought I was going to\n"
-    .string "win it back…$"
+    .string "תמיד חשבתי\n"
+    .string "שאולי עוד אזכה בכסף שלי חזרה...$"
 

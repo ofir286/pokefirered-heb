@@ -14,4 +14,3 @@ CeladonCity_DepartmentStore_1F_Text_FloorDescriptions::
 
 CeladonCity_DepartmentStore_1F_Text_ServiceCounter::
     .string "ק1: דלפק שירות$"
-	
