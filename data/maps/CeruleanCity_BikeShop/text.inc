@@ -1,50 +1,51 @@
 CeruleanCity_BikeShop_Text_WelcomeToBikeShop::
-    .string "Hi!\n"
-    .string "Welcome to our BIKE SHOP.\p"
-    .string "Have we got just the BIKE for\n"
-    .string "you!$"
+    .string "שלום! ברוך הבא\n"
+    .string "לחנות האופניים.\p"
+    .string "יש לנו זוג אופניים בדיוק בשבילך!\p$"
+
+CeruleanCity_BikeShop_Text_ShinyNewBicycle::
+    .string "אלה אופניים ממש שווים!$"
 
 CeruleanCity_BikeShop_Text_SorryYouCantAffordIt::
-    .string "Sorry!\n"
-    .string "You can't afford it!$"
+    .string "אני מצטער, אבל\n"
+    .string "אין לך מספיק כסף!\p$"
 
 CeruleanCity_BikeShop_Text_OhBikeVoucherHereYouGo::
-    .string "Oh, that's…\p"
-    .string "A BIKE VOUCHER!\p"
-    .string "Okay!\n"
-    .string "Here you go!$"
+    .string "זה...\p"
+    .string "שובר לאופניים!\p"
+    .string "בסדר! הנה לך!\p$"
 
 CeruleanCity_BikeShop_Text_ExchangedVoucherForBicycle::
-    .string "{PLAYER} exchanged the\n"
-    .string "BIKE VOUCHER for a BICYCLE.$"
+    .string "{PLAYER} החליף את\n"
+    .string "השובר לאופניים בעד זוג אופניים.$"
 
 CeruleanCity_BikeShop_Text_ThankYouComeAgain::
-    .string "Thank you!\n"
-    .string "Come back again sometime!$"
+    .string "נשמח לראותך\n"
+    .string "שוב!$"
 
 CeruleanCity_BikeShop_Text_HowDoYouLikeNewBicycle::
-    .string "How do you like your new BICYCLE?\n"
-    .string "Do you like how it rides?\p"
-    .string "You can take it out on CYCLING\n"
-    .string "ROAD and even into caves!$"
+    .string "אתה נהנה מהאופניים\n"
+    .string "החדשים שלך?\p"
+    .string "אתה יכול לרכב עליהם גם בשביל\l"
+    .string "האופניים או בתוך מערות!$"
 
 CeruleanCity_BikeShop_Text_MakeRoomForBicycle::
-    .string "You better make room for your\n"
-    .string "BICYCLE!$"
+    .string "כדאי שתפנה קצת\n"
+    .string "מקום בשביל זה!$"
 
 CeruleanCity_BikeShop_Text_CityBikeGoodEnoughForMe::
-    .string "A plain city bike is good enough\n"
-    .string "for me.\p"
-    .string "After all, you can't put a shopping\n"
-    .string "basket on a mountain bike.$"
+    .string "אופניים עירוניות\n"
+    .string "מספיקות לי בהחלט!\p"
+    .string "הרי אי אפשר להרכיב\n"
+    .string "סל קניות על אופני הרים!$"
 
 CeruleanCity_BikeShop_Text_BikesCoolButExpensive::
-    .string "These bikes are cool, but they're\n"
-    .string "way expensive!$"
+    .string "האופניים האלה\n"
+    .string "מגניבים, אבל הם יקרים בטירוף!$"
 
 CeruleanCity_BikeShop_Text_WowYourBikeIsCool::
-    .string "Wow.\n"
-    .string "Your BIKE is really cool!$"
+    .string "וואו. האופניים שלך\n"
+    .string "ממש מגניבים!$"
 
 @ Unused
 CeruleanCity_BikeShop_Text_GermanFoldableBicyleFinallyOnMarket::
@@ -52,6 +53,4 @@ CeruleanCity_BikeShop_Text_GermanFoldableBicyleFinallyOnMarket::
     .string "ドイツ　せい　さいこうきゅう\n"
     .string "おりたたみ　じてんしゃ！$"
 
-CeruleanCity_BikeShop_Text_ShinyNewBicycle::
-    .string "A shiny new BICYCLE!$"
 

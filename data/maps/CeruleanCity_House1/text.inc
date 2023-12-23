@@ -1,72 +1,66 @@
 CeruleanCity_House1_Text_BadgesHaveAmazingSecrets::
-    .string "Only skilled TRAINERS can collect\n"
-    .string "POKéMON BADGES.\p"
-    .string "I see you have at least one.\p"
-    .string "Those BADGES have amazing secrets,\n"
-    .string "did you know?$"
+    .string "רק למאמנים\n"
+    .string "מיומנים יש תגי מכונים.\p"
+    .string "אני רואה שיש לך לפחות אחד.\p"
+    .string "התגים אוצרים בחובם סודות מופלאים!\p$"
 
 CeruleanCity_House1_Text_DescribeWhichBadge::
-    .string "Now then…\p"
-    .string "Which of the eight BADGES should\n"
-    .string "I describe?$"
+    .string "ובכן...\p"
+    .string "איזה משמונת התגים עלי לתאר?$"
 
 CeruleanCity_House1_Text_ComeVisitAnytime::
-    .string "Come visit me anytime you wish.$"
+    .string "חזור לבקר מתי\n"
+    .string "שתרצה.$"
 
 CeruleanCity_House1_Text_AttackStatFlash::
-    .string "The ATTACK stat of all your\n"
-    .string "POKéMON increases a little bit.\p"
-    .string "It also lets you use the move\n"
-    .string "FLASH outside of battle.$"
+    .string "נתון המתקפה של\n"
+    .string "כל הפוקימונים יגדל מעט.\p"
+    .string "בנוסף, התג יאפשר לך להשתמש במהלך\l"
+    .string "הבזק מתי שתרצה.\p$"
 
 CeruleanCity_House1_Text_ObeyLv30Cut::
-    .string "POKéMON up to Lv. 30 will obey\n"
-    .string "you.\p"
-    .string "That includes even outsiders you\n"
-    .string "obtain in trades.\p"
-    .string "POKéMON of higher levels will\n"
-    .string "be unruly in battle, however.\p"
-    .string "It also lets you use the move\n"
-    .string "CUT outside of battle.$"
+    .string "פוקימונים עד רמה\n"
+    .string "30 יצייתו לך.\p"
+    .string "מרמה 30 ומעלה לא תוכל להשתלט\l"
+    .string "עליהם!\p"
+    .string "בנוסף, התג יאפשר לך להשתמש במהלך\l"
+    .string "חיתוך גם מחוץ לקרב.\p$"
 
 CeruleanCity_House1_Text_SpeedStatFly::
-    .string "The SPEED stat of all your\n"
-    .string "POKéMON increases a little bit.\p"
-    .string "It also lets you use the move\n"
-    .string "FLY outside of battle.$"
+    .string "נתון המהירות של\n"
+    .string "כל הפוקימונים יגדל מעט.\p"
+    .string "בנוסף, התג יאפשר לך להשתמש במהלך\l"
+    .string "תעופה מתי שתרצה.\p$"
 
 CeruleanCity_House1_Text_ObeyLv50Strength::
-    .string "POKéMON up to Lv. 50 will obey\n"
-    .string "you.\p"
-    .string "That includes even outsiders you\n"
-    .string "obtain in trades.\p"
-    .string "POKéMON of higher levels will\n"
-    .string "be unruly in battle, however.\p"
-    .string "It also lets you use the move\n"
-    .string "STRENGTH outside of battle.$"
+    .string "פוקימונים עד רמה\n"
+    .string "50 יצייתו לך.\p"
+    .string "מרמה 50 ומעלה לא תוכל להשתלט\l"
+    .string "עליהם!\p"
+    .string "בנוסף, התג יאפשר לך להשתמש במהלך\l"
+    .string "עוצמה גם מחוץ לקרב.\p$"
 
 CeruleanCity_House1_Text_DefenseStatSurf::
-    .string "The DEFENSE stat of all your\n"
-    .string "POKéMON increases a little bit.\p"
-    .string "It also lets you use the move\n"
-    .string "SURF outside of battle.$"
+    .string "נתון ההגנה של\n"
+    .string "כל הפוקימונים יגדל מעט.\p"
+    .string "בנוסף, התג יאפשר לך להשתמש במהלך\l"
+    .string "גלישה גם מחוץ לקרב.\p$"
 
 CeruleanCity_House1_Text_ObeyLv70RockSmash::
-    .string "POKéMON up to Lv. 70 will obey\n"
-    .string "you.\p"
-    .string "That includes even outsiders you\n"
-    .string "obtain in trades.\p"
-    .string "POKéMON of higher levels will\n"
-    .string "be unruly in battle, however.\p"
-    .string "It also lets you use the move\n"
-    .string "ROCK SMASH outside of battle.$"
+    .string "פוקימונים עד רמה\n"
+    .string "70 יצייתו לך.\p"
+    .string "מרמה 70 ומעלה לא תוכל להשתלט\l"
+    .string "עליהם!\p"
+    .string "בנוסף תוכל להשתמש במהלך “ריסוק סלע”\n"
+    .string "מחוץ לקרב\p$"
 
 CeruleanCity_House1_Text_SpStatsWaterfall::
-    .string "The SP. ATK and SP. DEF stats of\n"
-    .string "all your POKéMON rise a little bit.\p"
-    .string "It also lets you use the move\n"
-    .string "WATERFALL outside of battle.$"
+    .string "נתון ההתקפה\n"
+    .string "המיוחדת וההגנה המיוחדת של כל\l"
+    .string "הפוקימונים יגדל מעט.\p"
+    .string "בנוסף תוכל להשתמש במהלך “מפל מים”\n"
+    .string "גם מחוץ לקרב\p$"
 
 CeruleanCity_House1_Text_AllMonsWillObeyYou::
-    .string "All POKéMON will obey you!$"
-
+    .string "כל הפוקימונים\n"
+    .string "יצייתו לך!\p$"
