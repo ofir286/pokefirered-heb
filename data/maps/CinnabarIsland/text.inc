@@ -1,75 +1,74 @@
 CinnabarIsland_Text_DoorIsLocked::
-    .string "The door is locked…$"
+    .string "הדלת נעולה...$"
 
 CinnabarIsland_Text_BlaineLivedHereSinceBeforeLab::
-    .string "CINNABAR GYM's BLAINE is quite the\n"
-    .string "odd fellow.\p"
-    .string "He's lived on the island since way\n"
-    .string "before the LAB was built.$"
+    .string "בליין ממכון\n"
+    .string "סינאבאר הוא אדם משונה שחי באי\l"
+    .string "כבר עשרות שנים.$"
 
 CinnabarIsland_Text_ScientistsExperimentInMansion::
-    .string "Scientists conduct experiments \n"
-    .string "in the burned-out building.\p"
-    .string "You know, the one they call the\n"
-    .string "POKéMON MANSION.$"
+    .string "מדענים עורכים\n"
+    .string "ניסויים בבניין השרוף.\l"
+    .string "אתה יודע, זאת שקוראים לה\l"
+    .string "אחוזת הפוקימונים$"
 
 CinnabarIsland_Text_IslandSign::
-    .string "CINNABAR ISLAND\n"
-    .string "The Fiery Town of Burning Desire$"
+    .string "האי סינאבאר\n"
+    .string "העיירה הבוערת של מיווקה לוהטת$"
 
 CinnabarIsland_Text_PokemonLab::
-    .string "POKéMON LAB$"
+    .string "מעבדת הפוקימון$"
 
 CinnabarIsland_Text_GymSign::
-    .string "CINNABAR ISLAND POKéMON GYM\n"
-    .string "LEADER: BLAINE\l"
-    .string "The Hotheaded Quiz Master!$"
+    .string "האי סינאבאר\n"
+    .string "מכון הפוקימון מנהיג: בליין\p"
+    .string "אלוף החידות חמום המח!$"
 
 CinnabarIsland_Text_HeyIfItIsntPlayer::
     .string "Huh?\n"
-    .string "Hey, if it isn't {PLAYER}!$"
+    .string "Hey, if it isnt {PLAYER}!$"
 
 CinnabarIsland_Text_ComeWithMeToOneIsland::
-    .string "Look, it's me, BILL.\n"
-    .string "Long time no see!\p"
-    .string "I hope you're still using my\n"
-    .string "PC system.\p"
-    .string "Well, listen, since we met up here,\n"
-    .string "how about spending time with me?\p"
-    .string "There's this little island in the far\n"
-    .string "south called ONE ISLAND.\p"
-    .string "A friend invited me, so I'm on my\n"
-    .string "way out there.\p"
-    .string "How about it?\n"
-    .string "Do you feel like coming with me?$"
+    .string "היי! זה אני - ביל.\n"
+    .string "הרבה זמן לא התראינו!\p"
+    .string "אני מקווה שאתה עדיין משתמש\n"
+    .string "במערכת המחשב שלי.\p"
+    .string "טוב, תקשיב, מכיוון שנפגשנו פה\n"
+    .string "מה דעתך על לבלות איתי קצת זמן?\p"
+    .string "יש אי קטן דרומה מפה\n"
+    .string "שנקרא אי מספר 1.\p"
+    .string "חבר שלי הזמין אותי,\n"
+    .string "אז אני בדרכי לשם.\p"
+    .string "מה אתה אומר?\n"
+    .string "רוצה לבוא איתי?$"
 
 CinnabarIsland_Text_AllRightLetsGo::
-    .string "All right, then.\n"
-    .string "Let's go!$"
+    .string "בסדר גמור.\n"
+    .string "בוא נלך!$"
 
 CinnabarIsland_Text_IllBeWaitingInPokeCenter::
-    .string "What, are you too busy?\p"
-    .string "Well, all right.\n"
-    .string "The boat hasn't arrived yet anyway.\p"
-    .string "I'll be waiting at the POKéMON\n"
-    .string "CENTER over there.\p"
-    .string "Come see me when you're done with\n"
-    .string "your business here.$"
+    .string "אה, אתה עסוק?\p"
+    .string "בסדר.\n"
+    .string "בכל מקרה הסירה עדיין לא הגיעה.\p"
+    .string "אני אחכה במרכז הפוקימונים שנמצא\n"
+    .string "פה.\p"
+    .string "הוא לראות אותי כשאתה מסיים את\n"
+    .string "העיסוקים שלך.$"
 
 CinnabarIsland_Text_MyPalsBoatArrived::
-    .string "Looks like my pal's boat arrived,\n"
-    .string "too.\p"
-    .string "He sent it specially here to\n"
-    .string "CINNABAR to pick me up.$"
+    .string "נראה שהסירה של חבר שלי\n"
+    .string "בדיוק הגיעה.\p"
+    .string "הוא שלח אותה במיוחד לסינאבאר\n"
+    .string "כדי לאסוף אותי.$"
 
 CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain::
-    .string "Hey, wasn't that a long cruise?\p"
-    .string "My buddy CELIO seemed to enjoy\n"
-    .string "your company.\p"
-    .string "I'm sure he'd welcome you if you\n"
-    .string "were to visit him again.\p"
-    .string "If you have a TRI-PASS, you can\n"
-    .string "always take a ferry there from\l"
-    .string "VERMILION PORT.\p"
-    .string "All right, thanks for your company!$"
+    .string "היי, זה היה שייט די ארוך אה?\p"
+    .string "נראה לי שסיילו החבר שלי נהנה\n"
+    .string "איתך מאוד.\p"
+    .string "אני בטוח שהוא שיקבל אותך לפה\n"
+    .string "בשמחה אם תרצה לבקר שוב.\p"
+    .string "אם יש לך תלת-מעבר אתה\n"
+    .string "תמיד יכול לקחת מעבורת\l"
+    .string "מהנמל בורמיליון.\p"
+    .string "תודה שהצטרפת אלי!$"
 

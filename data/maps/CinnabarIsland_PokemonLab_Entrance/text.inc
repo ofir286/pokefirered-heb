@@ -1,28 +1,28 @@
 CinnabarIsland_Gym_Text_PhotoOfBlaineAndFuji::
-    .string "It's a photo of BLAINE and\n"
-    .string "MR. FUJI.\p"
-    .string "They're standing shoulder to\n"
-    .string "shoulder with big grins.$"
+    .string "זו תמונה של בליין\n"
+    .string "וד”ר פוג'י.\p"
+    .string "הם עומדים כתף אל כתף\n"
+    .string "ומחייכים חיוך רחב.$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_StudyMonsExtensively::
-    .string "We study POKéMON extensively\n"
-    .string "every day.\p"
-    .string "People often bring us rare POKéMON\n"
-    .string "for examination.$"
+    .string "אנחנו חוקרים פה\n"
+    .string "פוקימונים באופן נרחב.\p"
+    .string "לעתים קרובות אנשים מביאים אלינו\l"
+    .string "פוקימונים נדירים לבחינה.$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_PhotoOfLabFounderDrFuji::
-    .string "A photo of the LAB's founder…\n"
-    .string "DR. FUJI?!$"
+    .string "תמונה של מייסד המעבדה...\n"
+    .string "ד”ר פוג'י?!$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_MeetingRoomSign::
-    .string "POKéMON LAB\n"
-    .string "Meeting Room$"
+    .string "מעבדת הפוקימון\n"
+    .string "חדר ישיבות$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_RAndDRoomSign::
-    .string "POKéMON LAB\n"
-    .string "R & D Room$"
+    .string "מעבדת הפוקימון\n"
+    .string "חדר מו”פ$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_TestingRoomSign::
-    .string "POKéMON LAB\n"
-    .string "Testing Room$"
+    .string "מעבדת הפוקימון\n"
+    .string "חדר בדיקות$"
 
