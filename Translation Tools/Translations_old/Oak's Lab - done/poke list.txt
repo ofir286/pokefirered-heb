@@ -1,0 +1,18 @@
+This is a list of your POKéMON,
+[player].
+
+Open this to check the skills
+and moves of your POKéMON.
+
+You also choose POKéMON here if
+you want to use an item on one.[pause]
+###Translated###
+זו רשימת הפוקימונים שלך,
+]reyalp[.
+
+תפתח אותה כדי לראות את
+היכולות והמהלכים של
+הפוקימונים שלך.
+
+אתה גם יכול לבחור פה פוקימון
+ולהשתמש בפריט כלשהו עליו.]esuap[

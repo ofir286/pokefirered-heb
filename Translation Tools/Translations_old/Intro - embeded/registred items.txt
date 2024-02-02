@@ -1,0 +1,5 @@
+Used to shift items and to use
+a registered item.
+###Translated###
+משתמשים בו כדי להזיז חפצים
+וכדי להשתמש בחפצים שמורים.

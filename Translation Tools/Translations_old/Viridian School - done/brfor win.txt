@@ -1,0 +1,11 @@
+VIRIDIAN POKéMON GYM
+LEADER: ?
+
+WINNING TRAINERS:
+[rival]
+###Translated###
+מכון הפוקימונים וירידיאן
+מנהיג: ?
+
+מאמנים שניצחו:
+]lavir[

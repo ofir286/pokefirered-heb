@@ -1,0 +1,10 @@
+OAK: Keep your eyes on your
+POKéMON's HP.
+
+It will faint if the HP drops to
+\qo0.\qc
+###Translated###
+אוק: תזכור לשים לב
+לנקודות החיים של הפוקימון שלך.
+
+הוא יתעלף אם הם יגיעו לoq\0cq\
