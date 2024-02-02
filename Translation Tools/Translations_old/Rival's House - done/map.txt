@@ -1,0 +1,7 @@
+You can use the TOWN MAP to find
+out where you are, or check the
+names of places.
+###Translated###
+אתה יכול להשתמש במפה כדי להבין
+איפה אתה, או כדי לבדוק מה השמות
+של מקומות.

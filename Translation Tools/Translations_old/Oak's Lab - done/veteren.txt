@@ -1,0 +1,23 @@
+OAK: Oh, [player]!
+How is my old POKéMON?
+
+Well, it seems to be growing more
+attached to you.
+
+You must be talented as a POKéMON
+TRAINER.
+
+What's that?
+You have something for me?
+###Translated###
+אוק: שלום  ]reyalp[!
+מה שלום הפוקימון שלי?
+
+נראה שהוא מתחיל
+להיקשר אליך יותר יותר.
+
+אתה כנראה מאמן
+פוקימונים מאוד מוכשר.
+
+מה זה?
+יש לך משהו בשבילי?

@@ -1,0 +1,47 @@
+OAK: [rival]?
+Let me think\.
+
+Oh, that's right, I told you to
+come! Just wait!
+
+Here, [player].
+
+There are three POKéMON here.
+
+Haha!
+
+The POKéMON are held inside
+these POKé BALLS.
+
+When I was young, I was a serious
+POKéMON TRAINER.
+
+But now, in my old age, I have
+only these three left.
+
+You can have one.
+Go on, choose!
+###Translated###
+אוק: ]lavir[?
+תן לי לחשוב על זה.
+
+אה נכון, אני אמרתי
+לך לבוא! חכה רגע!
+
+הנה, ]reyalp[.
+
+יש פה שלושה פוקימונים.
+
+כן כן!
+
+הפוקימונים נמצאים
+בתוך הפוקיבול-ים.
+
+כשהייתי צעיר הייתי
+מאמן פוקימונים רציני.
+
+אבל עכשיו בגילי המבוגר,
+נשארו לי רק שלושת אלה.
+
+אתה יכול לקחת אחד.
+קדימה תבחר!

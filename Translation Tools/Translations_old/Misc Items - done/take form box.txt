@@ -1,0 +1,5 @@
+You can withdraw a POKéMON if you
+have any in a BOX.
+###Translated###
+אתה יכול להוציא פוקימון אם
+הוא נמצא בקופסא.

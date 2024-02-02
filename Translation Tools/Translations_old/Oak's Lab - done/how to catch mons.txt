@@ -1,0 +1,20 @@
+When a wild POKéMON appears,
+it's fair game.
+
+Just throw a POKé BALL at it and
+try to catch it!
+
+This won't always work, however.
+
+A healthy POKéMON can escape.
+You have to be lucky!
+###Translated###
+כשמופיע פוקימון בר, מותר לך לפעול.
+
+פשוט תזרוק עליו פוקיבול
+ותנסה לתפוס אותו!
+
+אבל תזכור, זה לא תמיד עובד.
+
+פוקימון עם הרבה חיים יכול לברוח,
+בשביל להצליח לתפוס אותו צריך מזל.

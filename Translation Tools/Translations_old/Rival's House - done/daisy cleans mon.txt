@@ -1,0 +1,21 @@
+DAISY: Hi, [player]!
+Good timing.
+
+I'm about to have some tea.
+Would you like to join me?
+
+Oh, but look.
+Your POKéMON are a little dirty.
+
+Would you like me to groom one?
+###Translated###
+דייזי: הי,  <PLAYER>
+תזמון מצויין.
+
+בדיוק הכנתי תה, אתה רוצה
+להצטרף אלי?
+
+אוייש, הפוקימונים שלך נראים
+קצת עייפים.
+
+תרצה שאטפל באחד מהם?

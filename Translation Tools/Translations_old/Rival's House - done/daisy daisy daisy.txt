@@ -1,0 +1,9 @@
+DAISY: Hi, [player]!
+
+My brother, [rival], is out at
+Grandpa's LAB.
+###Translated###
+דייזי: הי,  {PLAYER}
+
+אח שלי, ]lavir[, נמצא במעבדה
+של סבא שלנו.

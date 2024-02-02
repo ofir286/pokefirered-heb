@@ -1,0 +1,11 @@
+VIRIDIAN POKéMON GYM
+LEADER: GIOVANNI
+
+WINNING TRAINERS:
+[rival], [player]
+###Translated###
+מכון הפוקימונים וירידיאן
+מנהיג: ?
+
+מאמנים שניצחו:
+]lavir[, ]reyalp[
