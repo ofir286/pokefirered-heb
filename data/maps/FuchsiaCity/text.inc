@@ -1,112 +1,102 @@
 FuchsiaCity_Text_DidYouTrySafariGame::
-    .string "Did you try the SAFARI GAME?\p"
-    .string "There are some rare POKéMON that\n"
-    .string "can only be caught there.$"
+    .string "ניסית את\n"
+    .string "משחק הספארי? יש פוקימונים\l"
+    .string "שאפשר לתפוס רק שם.$"
 
 FuchsiaCity_Text_SafariZoneZooInFront::
-    .string "The SAFARI ZONE has a zoo in front\n"
-    .string "of the entrance.\p"
-    .string "Out back is the SAFARI GAME for\n"
-    .string "catching POKéMON.$"
+    .string "יש גן חיות\n"
+    .string "מול הכניסה באיזור הספארי.\p"
+    .string "מאחורה נמצא משחק הספארי\l"
+    .string "שם ניתן לתפוס פוקימונים.$"
 
 FuchsiaCity_Text_WheresSara::
-    .string "ERIK: Where's SARA?\n"
-    .string "I said I'd meet her here.$"
+    .string "אריק: איפה שרה?\n"
+    .string "היא אמרה שכאן ניפגש.$"
 
 FuchsiaCity_Text_ItemBallInThere::
-    .string "That item ball in there…\n"
-    .string "Were you wanting that?\p"
-    .string "Me, too!\n"
-    .string "…Huh? That's a POKéMON?$"
+    .string "הפוקיבול שם הוא\n"
+    .string "בכלל לא פריט, אלא פוקימון.$"
 
 FuchsiaCity_Text_CitySign::
-    .string "FUCHSIA CITY\n"
-    .string "Behold! It's Passion Pink!$"
-
-FuchsiaCity_Text_SafariZoneSign::
-    .string "POKéMON PARADISE\n"
-    .string "SAFARI ZONE$"
+    .string "העיר פיושה\n"
+    .string "שטפו את עיניכם בורוד המרהיב!$"
 
 FuchsiaCity_Text_SafariGameSign::
-    .string "SAFARI GAME\n"
-    .string "POKéMON-U-CATCH!$"
+    .string "משחק ספארי\n"
+    .string "תפסו פוקימונים!$"
 
 FuchsiaCity_Text_WardensHomeSign::
-    .string "SAFARI ZONE\n"
-    .string "WARDEN'S HOME$"
+    .string "איזור ספארי\n"
+    .string "בית הפקח$"
 
 FuchsiaCity_Text_SafariZoneOfficeSign::
-    .string "POKéMON PARADISE!\n"
-    .string "Welcome to the SAFARI ZONE!\l"
-    .string "SAFARI ZONE OFFICE$"
+    .string "גן העדן לפוקימונים\n"
+    .string "איזור הספארי$"
 
 FuchsiaCity_Text_GymSign::
-    .string "FUCHSIA CITY POKéMON GYM\n"
-    .string "LEADER: KOGA\l"
-    .string "The Poisonous Ninja Master$"
+    .string "העיר פיושה\n"
+    .string "מכון פוקימון מנהיג: קוגה\p"
+    .string "מאסטר הנינג'ה הרעיל.$"
 
 FuchsiaCity_Text_ChanseySign::
-    .string "Name: CHANSEY\n"
-    .string "Catching one is all up to chance.$"
+    .string "שם: בת מזל\p"
+    .string "לתפוס אחת כזו זה עניין של מזל.\p$"
 
 FuchsiaCity_Text_VoltorbSign::
-    .string "Name: VOLTORB\n"
-    .string "The very image of a POKé BALL.$"
+    .string "שם: וולטורב\p"
+    .string "נראה ממש כמו פוקיבול.\p$"
 
 FuchsiaCity_Text_KangaskhanSign::
-    .string "Name: KANGASKHAN\p"
-    .string "A maternal POKéMON that raises its\n"
-    .string "young in a pouch on its belly.$"
+    .string "שם: קנגסקאן\p"
+    .string "ימון אמהיפוק שמגדלת את\l"
+    .string "צאצאיה בתוך כיס בבטן שלה.\p$"
 
 FuchsiaCity_Text_SlowpokeSign::
-    .string "Name: SLOWPOKE\n"
-    .string "Friendly and very slow moving.$"
+    .string "שם: סלופוק\p"
+    .string "חביב ומאוד איטי.\p$"
 
 FuchsiaCity_Text_LaprasSign::
-    .string "Name: LAPRAS\n"
-    .string "AKA the king of the seas.$"
+    .string "שם: לפרס\p"
+    .string "ידוע גם כמלך הימים.\p$"
 
 FuchsiaCity_Text_OmanyteSign::
-    .string "Name: OMANYTE\n"
-    .string "An extremely rare POKéMON that was\l"
-    .string "regenerated from a fossil.$"
+    .string "שם: אומנייט\p"
+    .string "ימון ששוחזרפוק ממאובן\p$"
 
 FuchsiaCity_Text_KabutoSign::
-    .string "Name: KABUTO\n"
-    .string "An extremely rare POKéMON that was\l"
-    .string "regenerated from a fossil.$"
+    .string "שם: קאבוטו\p"
+    .string "ימון ששוחזרפוק ממאובן\p$"
 
-@ Unused. May have been meant to be the placeholder text for the zoo mons, similar to RB's "!" text
 FuchsiaCity_Text_Ellipsis::
-    .string "……$"
+    .string "...$"
 
 Text_SubstituteTeach::
-    .string "Aww, I wish I was a KANGASKHAN\n"
-    .string "baby.\p"
-    .string "I'd love to be a substitute for the\n"
-    .string "baby…\p"
-    .string "And snuggle in the mother\n"
-    .string "KANGASKHAN's belly pouch.\p"
-    .string "But only POKéMON can use the\n"
-    .string "technique SUBSTITUTE…\p"
-    .string "Want me to teach SUBSTITUTE to\n"
-    .string "one of your POKéMON?$"
+    .string "הלוואי ואני הייתי תינוק של קנגסקאן\p"
+    .string "הייתי שמח להחליף את התינוק..\n"
+    .string "ולהתכרבל בכיס של אמא קנגסקאן\p"
+    .string "אבל רק פוקימונים יודעים להשתמש במהלך\n"
+    .string "'ממלא מקום'…\p"
+    .string "אתה רוצה שאלמד את אחד מהפוקימונים\n"
+    .string "שלך את המהלך 'ממלא מקום'?$"
 
 Text_SubstituteDeclined::
-    .string "Oh, really?\n"
-    .string "SUBSTITUTE seems so fun…$"
+    .string "אה, באמת?\n"
+    .string "חבל זה נראה מהלך כיף…$"
 
 Text_SubstituteWhichMon::
-    .string "Which POKéMON wants to learn\n"
-    .string "SUBSTITUTE?$"
+    .string "איזה פוקימון ללמד\n"
+    .string "'ממלא מקום'?$"
 
 Text_SubstituteTaught::
-    .string "Boy, what I'd give to crawl inside\n"
-    .string "a KANGASKHAN belly pouch…$"
+    .string "מה הייתי נותן כדי להתכרבל\n"
+    .string "בכיס של הקנגסקאן…$"
 
 FuchsiaCity_Text_MyFatherIsGymLeader::
-    .string "My father is the GYM LEADER of\n"
-    .string "this town.\p"
-    .string "I'm training to use POISON POKéMON\n"
-    .string "as well as my father.$"
+    .string "אבא שלי הוא המנהיג של המכון\n"
+    .string "בעיר הזו.\p"
+    .string "אני מתאמן עם פוקימוני רעל\n"
+    .string "בדיוק כמו אבא שלי.$"
 
+FuchsiaCity_Text_SafariZoneSign::
+    .string "גן עדן לפוקימון!\n"
+    .string "איזור הספארי$"
