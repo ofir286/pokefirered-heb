@@ -1,37 +1,32 @@
 FuchsiaCity_House2_Text_DoYouLikeToFish::
-    .string "I'm the FISHING GURU's older\n"
-    .string "brother.\p"
-    .string "I simply looove fishing!\n"
-    .string "I can't bear to go without.\p"
-    .string "Tell me, do you like to fish?$"
+    .string "אני אחיו הגדול של\n"
+    .string "כהן הדיג!\p"
+    .string "אני אוההההב לדוג!\p"
+    .string "גם אתה אוהב לדוג?$"
 
 FuchsiaCity_House2_Text_LikeYourStyleTakeThis::
-    .string "Grand! I like your style.\n"
-    .string "I think we can be friends.\p"
-    .string "Take this and fish, young friend!$"
+    .string "אדיר! אני\n"
+    .string "אוהב את הסגנון שלך!\p"
+    .string "קח את זה וצא לדוג, חבוב!$"
 
 FuchsiaCity_House2_Text_ReceivedGoodRod::
-    .string "{PLAYER} received a GOOD ROD from\n"
-    .string "the FISHING GURU's brother.$"
-
-FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons::
-    .string "Fishing is a way of life!\n"
-    .string "It is like the finest poetry.\p"
-    .string "A crummy OLD ROD could only catch\n"
-    .string "MAGIKARP, yes?\p"
-    .string "But with a GOOD ROD, you can\n"
-    .string "catch much better POKéMON.$"
+    .string "{PLAYER} קיבל את החכה הטובה$"
 
 FuchsiaCity_House2_Text_OhThatsDisappointing::
-    .string "Oh…\n"
-    .string "That's so disappointing…$"
+    .string "הו... זה\n"
+    .string "כל כך מאכזב...$"
 
 FuchsiaCity_House2_Text_HowAreTheFishBiting::
-    .string "Hello there, {PLAYER}!\p"
-    .string "How are the fish biting?$"
+    .string "שלום לך! {PLAYER}!\p"
+    .string "איך הולך עם הדיג?$"
 
 FuchsiaCity_House2_Text_YouHaveNoRoomForGift::
-    .string "Oh, no!\p"
-    .string "I had a gift for you, but you have\n"
-    .string "no room for it!$"
+    .string "הו לא!\p"
+    .string "אין לך מקום למתנה שלי!$"
 
+FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons::
+    .string "דייג זה דרך חיים!\n"
+    .string "עם החכה הישנה הזו בטח הצלחת לתפוס\n"
+    .string "רק מג'יקארפ נכון?\p"
+    .string "עם החכה הטובה אתה יכול לתפוס פוקימונים\n"
+    .string "הרבה יותר טובים.$"
