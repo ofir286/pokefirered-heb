@@ -1,171 +1,164 @@
 ViridianCity_Gym_Text_GiovanniIntro::
-    .string "Fwahahaha!\n"
-    .string "Welcome to my hideout!\p"
-    .string "It shall be so until I can restore\n"
-    .string "TEAM ROCKET to its former glory.\p"
-    .string "But, you have found me again.\n"
-    .string "So be it.\l"
-    .string "This time, I'm not holding back!\p"
-    .string "Once more, you shall face\n"
-    .string "GIOVANNI, the greatest TRAINER!{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}$"
+    .string "פואהאהא! זה\n"
+    .string "המחבוא שלי!\p"
+    .string "תכננתי להחיות את צוות רוקט כאן!\p"
+    .string "אבל, אתה תפסת אותי שוב!\l"
+    .string "כך יהיה! הפעם אני מסיר את כל\l"
+    .string "המעברוקים!\p"
+    .string "פעם נוספת, אתה תתמודד מול\l"
+    .string "ג'ובאני, המאמן החזק מכולם!{PLAY_BGM}{MUS_ENCOUNTER_ROCKET}$"
 
 ViridianCity_Gym_Text_GiovanniDefeat::
-    .string "Ha!\n"
-    .string "That was a truly intense fight.\l"
-    .string "You have won!\p"
-    .string "As proof, here is the EARTHBADGE!\n"
+    .string "הא!\n"
+    .string "זה באמת היה קרב רציני! ניצחת!\l"
+    .string "כהוכחה, קבל את תג האדמה!"
     .string "{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}$"
 
 ViridianCity_Gym_Text_GiovanniPostBattle::
-    .string "Having lost in this fashion, \n"
-    .string "I can't face my followers.\l"
-    .string "I have betrayed their trust.\p"
-    .string "As of today, TEAM ROCKET is\n"
-    .string "finished forever!\p"
-    .string "As for myself, I shall dedicate\n"
-    .string "my life to training again.\p"
-    .string "Let us meet again someday!\n"
-    .string "Farewell!$"
+    .string "לאחר שהובסתי,\n"
+    .string "אני לא יכול להסתכל לפקודיי!\l"
+    .string "בעיניים! צוות רוקט חוסל לנצח!\p"
+    .string "אקדיש את חיי ללימודי פוקימונים!\p"
+    .string "הבה נתראה שוב ביום מן הימים!\l"
+    .string "להתראות!$"
 
 ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
-    .string "The EARTHBADGE makes POKéMON of\n"
-    .string "any level obey without question.\p"
-    .string "It is evidence of your mastery as\n"
-    .string "a POKéMON TRAINER.\p"
-    .string "With it, you can challenge the\n"
-    .string "POKéMON LEAGUE.\p"
-    .string "Also, take this TM.\p"
-    .string "Consider it a gift for your POKéMON\n"
-    .string "LEAGUE challenge.$"
+    .string "תג האדמה\n"
+    .string "גורם לפוקימונים מכל הרמות לציית!\p"
+    .string "זו הוכחה להיותך מאמן\l"
+    .string "פוקימונים מומחה!\p"
+    .string "עם זה, אתה יכול להכנס\l"
+    .string "לליגת הפוקימונים!\p"
+    .string "זו מתנתי לרגל האתגר הבא שלך,\l"
+    .string "ליגת הפוקימונים!$"
 
 ViridianCity_Gym_Text_ReceivedTM26FromGiovanni::
-    .string "{PLAYER} received TM26\n"
-    .string "from GIOVANNI.$"
+    .string "{PLAYER} קיבל\n"
+    .string "מ”מ72!$"
 
 ViridianCity_Gym_Text_ExplainTM26::
-    .string "TM26 contains EARTHQUAKE.\p"
-    .string "It is a powerful attack that causes\n"
-    .string "a massive tremor.\p"
-    .string "I made it when I ran the GYM here,\n"
-    .string "far too long ago… $"
+    .string "מ”מ72 הוא בולען!\n"
+    .string "הוא יעלף פוקימון במכה אחת!\p"
+    .string "הכנתי את זה בזמן שהייתי מנהל\l"
+    .string "המכון כאן, לפני יותר מדי זמן...$"
 
 ViridianCity_Gym_Text_YouDoNotHaveSpace::
-    .string "You do not have space for this!$"
+    .string "אין לך מספיק\n"
+    .string "מקום לזה!$"
 
 ViridianCity_Gym_Text_YujiIntro::
-    .string "Heh!\n"
-    .string "You must be running out of steam\l"
-    .string "by now!$"
+    .string "הא! בטח נגמר\n"
+    .string "לך הקיטור עד עכשיו!$"
 
 ViridianCity_Gym_Text_YujiDefeat::
-    .string "I ran out of gas!$"
+    .string "נגמר\n"
+    .string "לי הדלק!\p$"
 
 ViridianCity_Gym_Text_YujiPostBattle::
-    .string "You'll need power to keep up with\n"
-    .string "our GYM LEADER.$"
+    .string "אתה צריך אנרגיה\n"
+    .string "כדי לעמוד מול מנהל המכון!$"
 
 ViridianCity_Gym_Text_AtsushiIntro::
-    .string "Rrrroar!\n"
-    .string "I'm working myself into a rage!$"
+    .string "רררואר! אני\n"
+    .string "בונה בתוכי זעם!$"
 
 ViridianCity_Gym_Text_AtsushiDefeat::
-    .string "Wargh!$"
+    .string "ווארג!\p$"
 
 ViridianCity_Gym_Text_AtsushiPostBattle::
-    .string "I'm still not worthy!$"
+    .string "אני עדיין לא\n"
+    .string "ראוי!$"
 
 ViridianCity_Gym_Text_JasonIntro::
-    .string "POKéMON and I, we make wonderful\n"
-    .string "music together!$"
+    .string "פוקימונים ואני,\n"
+    .string "מייצרים מוזיקה נבילת ביחד!$"
 
 ViridianCity_Gym_Text_JasonDefeat::
-    .string "You are in perfect harmony!$"
+    .string "אתם\n"
+    .string "בהרמוניה מושלמת!\p$"
 
 ViridianCity_Gym_Text_JasonPostBattle::
-    .string "Do you know the identity of our\n"
-    .string "GYM LEADER?$"
+    .string "אתה יודע\n"
+    .string "מיהו מנהל המכון?$"
 
 ViridianCity_Gym_Text_KiyoIntro::
-    .string "Karate is the ultimate form of\n"
-    .string "martial arts!$"
+    .string "קרטה היא אמנות\n"
+    .string "הלחימה הטובה ביותר!$"
 
 ViridianCity_Gym_Text_KiyoDefeat::
-    .string "Aiyah!$"
+    .string "אפצ'י!\p$"
 
 ViridianCity_Gym_Text_KiyoPostBattle::
-    .string "If my POKéMON were as good at\n"
-    .string "karate as I…$"
+    .string "אילו רק הפוקימונים\n"
+    .string "שלי היו טובים בקראטה כמוני...$"
 
 ViridianCity_Gym_Text_WarrenIntro::
-    .string "The truly talented win with style.$"
+    .string "למאמן המוכשר באמת,\n"
+    .string "יש סגנון בקרב!$"
 
 ViridianCity_Gym_Text_WarrenDefeat::
-    .string "I lost my grip!$"
+    .string "איבדתי\n"
+    .string "אחיזה!\p$"
 
 ViridianCity_Gym_Text_WarrenPostBattle::
-    .string "The LEADER will scold me for\n"
-    .string "losing this way…$"
+    .string "המנהל יגער בי!$"
 
 ViridianCity_Gym_Text_TakashiIntro::
-    .string "I'm the KARATE KING!\n"
-    .string "Your fate rests with me!$"
+    .string "אני מלך הקרטה!\n"
+    .string "גורלך טמון בי!$"
 
 ViridianCity_Gym_Text_TakashiDefeat::
-    .string "Ayah!$"
+    .string "איה!\p$"
 
 ViridianCity_Gym_Text_TakashiPostBattle::
-    .string "The POKéMON LEAGUE?\n"
-    .string "You? Don't get cocky!$"
+    .string "ליגת הפוקימונים?\n"
+    .string "אתה? אל תתבליין!$"
 
 ViridianCity_Gym_Text_ColeIntro::
-    .string "Your POKéMON will cower at the\n"
-    .string "crack of my whip!$"
+    .string "הפוקימון שלך ישתפן\n"
+    .string "ברגע שאצליף בו בו השוט שלי!$"
 
 ViridianCity_Gym_Text_ColeDefeat::
-    .string "Yowch!\n"
-    .string "Whiplash!$"
+    .string "יאוץ'!\n"
+    .string "הצלפת!\p$"
 
 ViridianCity_Gym_Text_ColePostBattle::
-    .string "Wait!\n"
-    .string "I was just careless!$"
+    .string "חכה! סתם הייתי\n"
+    .string "פזיז!$"
 
 ViridianCity_Gym_Text_SamuelIntro::
-    .string "VIRIDIAN GYM was closed for a\n"
-    .string "long time.\p"
-    .string "But now, our LEADER is back!$"
+    .string "מכון ורידיאן היה\n"
+    .string "סגור הרבה זמן, אבל עכשיו המנהל\l"
+    .string "שלנו חזר!$"
 
 ViridianCity_Gym_Text_SamuelDefeat::
-    .string "I was beaten?$"
+    .string "הובסתי?\p$"
 
 ViridianCity_Gym_Text_SamuelPostBattle::
-    .string "You can go on to the POKéMON\n"
-    .string "LEAGUE only by defeating our GYM\l"
-    .string "LEADER!$"
+    .string "אתה יכול להמשיך\n"
+    .string "לליגת הפוקימונים על ידי הבסת\l"
+    .string "מנהל המכון שלנו!$"
 
 ViridianCity_Gym_Text_GymGuyAdvice::
-    .string "Yo!\n"
-    .string "Champ in the making!\p"
-    .string "Even I don't know the VIRIDIAN\n"
-    .string "LEADER's identity.\p"
-    .string "But one thing's certain.\n"
-    .string "This will be the toughest of all\l"
-    .string "the GYM LEADERS.\p"
-    .string "Also, I heard that the TRAINERS\n"
-    .string "here like GROUND-type POKéMON.$"
+    .string "יו! אלוף חדש\n"
+    .string "בדרך!\p"
+    .string "אפילו אני לא יודע מיהו מנהל\l"
+    .string "מכון ורידיאן!\p"
+    .string "זה יהיה הקרב הקשוח ביותר מבין\l"
+    .string "כל מנהלי המכונים!\p"
+    .string "שמעתי שהמאמנים כאן אוהבים\l"
+    .string "פוקימוני אדמה!$"
 
 ViridianCity_Gym_Text_GymGuyPostVictory::
-    .string "Blow me away! GIOVANNI was the\n"
-    .string "GYM LEADER of VIRIDIAN?$"
+    .string "לא נכון!\n"
+    .string "ג'ובאני היה מנהיג המכון של העיר?$"
 
 ViridianCity_Gym_Text_GymStatue::
-    .string "VIRIDIAN POKéMON GYM\n"
-    .string "LEADER: ?\p"
-    .string "WINNING TRAINERS:\n"
-    .string "{RIVAL}$"
+    .string "מכון הפוקימונים ורידיאן\n"
+    .string "מנהיג: ?\p"
+    .string "מאמנים שניצחו: {RIVAL}$"
 
 ViridianCity_Gym_Text_GymStatuePlayerWon::
-    .string "VIRIDIAN POKéMON GYM\n"
-    .string "LEADER: GIOVANNI\p"
-    .string "WINNING TRAINERS:\n"
-    .string "{RIVAL}, {PLAYER}$"
-
+    .string "מכון הפוקימונים ורידיאן\n"
+    .string "מנהיג: ?\p"
+    .string "מאמנים שניצחו: {RIVAL}, {PLAYER}$"
