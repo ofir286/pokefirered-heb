@@ -1,93 +1,91 @@
 ViridianCity_School_Text_TryingToMemorizeNotes::
-    .string "Whew! I'm trying to memorize all my\n"
-    .string "notes.$"
+    .string "פיו! אני מנסה\n"
+    .string "לשנן את הסיכומים שלי.$"
 
 ViridianCity_School_Text_ReadBlackboardCarefully::
-    .string "Okay!\p"
-    .string "Be sure to read what's on the\n"
-    .string "blackboard carefully!$"
+    .string "אוקיי!\p"
+    .string "השתדל לקרוא בקפידה את מה\l"
+    .string "שכתוב על הלוח!$"
 
 ViridianCity_School_Text_NotebookFirstPage::
-    .string "Let's check out the notebook.\p"
-    .string "First page…\p"
-    .string "POKé BALLS are used to catch\n"
-    .string "POKéMON.\p"
-    .string "Up to six POKéMON can be carried\n"
-    .string "in your party.\p"
-    .string "People who raise and battle\n"
-    .string "with POKéMON are called TRAINERS.$"
+    .string "בוא נבדוק את המחברת.\p"
+    .string "עמוד ראשון...\p"
+    .string "כדורי פוקימון משמשים לתפיסת\n"
+    .string "פוקימונים.\p"
+    .string "ניתן לשאת עד שישה פוקימונים\n"
+    .string "בקבוצה שלך.\p"
+    .string "אנשים שמגדלים ונלחמים\n"
+    .string "בפוקימונים נקראים מאמנים.$"
 
 ViridianCity_School_Text_NotebookSecondPage::
-    .string "Second page…\p"
-    .string "A healthy POKéMON may be hard to\n"
-    .string "catch, so weaken it first.\p"
-    .string "Poison, burn, or cause another\n"
-    .string "status problem to weaken it.$"
+    .string "עמוד שני...\p"
+    .string "פוקימון בריא עשוי להיות קשה\n"
+    .string "לתפיסה, אז החליש אותו קודם.\p"
+    .string "הרעל, שרוף, או גרום לו\n"
+    .string "בעיה במצב כדי להחליש אותו.$"
 
 ViridianCity_School_Text_NotebookThirdPage::
-    .string "Third page…\p"
-    .string "POKéMON TRAINERS seek others to\n"
-    .string "engage in POKéMON battles.\p"
-    .string "To TRAINERS, the taste of victory\n"
-    .string "is sweet, indeed.\p"
-    .string "Battles are constantly waged at\n"
-    .string "POKéMON GYMS everywhere.$"
+    .string "עמוד שלישי...\p"
+    .string "מאמני פוקימון מחפשים אחרים\n"
+    .string "כדי להיכנס לקרבות פוקימון.\p"
+    .string "למאמנים, טעמו של הניצחון\n"
+    .string "מתוק בהחלט.\p"
+    .string "קרבות נערכים כל הזמן ב\n"
+    .string "אולמות פוקימון בכל מקום.$"
 
 ViridianCity_School_Text_NotebookFourthPage::
-    .string "Fourth page…\p"
-    .string "The ultimate goal for all POKéMON\n"
-    .string "TRAINERS is simple.\p"
-    .string "It is to defeat the top eight\n"
-    .string "POKéMON GYM LEADERS.\p"
-    .string "Do so to earn the right to face…\p"
-    .string "The ELITE FOUR of the POKéMON\n"
-    .string "LEAGUE!$"
+    .string "עמוד רביעי...\p"
+    .string "המטרה הסופית של כל מאמני\n"
+    .string "הפוקימון היא פשוטה.\p"
+    .string "היא להביס את שמונת המאמנים\n"
+    .string "הבכירים של אולמות הפוקימון.\p"
+    .string "עשה זאת כדי לזכות בזכות להתמודד עם...\p"
+    .string "ארבעת האליטה של ליגת הפוקימון!$"
 
 ViridianCity_School_Text_TurnThePage::
-    .string "Turn the page?$"
+    .string "להפוך את הדף?$"
 
 ViridianCity_School_Text_HeyDontLookAtMyNotes::
-    .string "GIRL: Hey!\n"
-    .string "Don't look at my notes!$"
+    .string "ילדה: היי!\n"
+    .string "אל תסתכל על ההערות שלי!$"
 
 ViridianCity_School_Text_BlackboardListsStatusProblems::
-    .string "The blackboard lists POKéMON\n"
-    .string "STATUS problems during battles.$"
+    .string "הלוח מציג את בעיות המצב\n"
+    .string "של פוקימונים במהלך הקרב.$"
 
 ViridianCity_School_Text_ReadWhichTopic::
-    .string "Which topic do you want to read?$"
+    .string "איזה נושא אתה רוצה לקרוא?$"
 
 ViridianCity_School_Text_ExplainSleep::
-    .string "A POKéMON can't attack if it's\n"
-    .string "asleep.\p"
-    .string "POKéMON will stay asleep even\n"
-    .string "after battles.\p"
-    .string "Use AWAKENING to awaken one\n"
-    .string "from sleep.$"
+    .string "פוקימון לא יכול לתקוף כשהוא\n"
+    .string "ישן.\p"
+    .string "פוקימון יישאר ישן גם\n"
+    .string "לאחר הקרב.\p"
+    .string "השתמש במעורר כדי להעיר אחד\n"
+    .string "מהשינה.$"
 
 ViridianCity_School_Text_ExplainBurn::
-    .string "A burn reduces ATTACK power.\n"
-    .string "It also causes ongoing HP loss.\p"
-    .string "A burn remains after a battle.\n"
-    .string "Use BURN HEAL to cure a burn.$"
+    .string "כווייה מפחיתה את כוח ההתקפה.\n"
+    .string "היא גם גורמת לאובדן HP מתמשך.\p"
+    .string "כווייה נשארת לאחר הקרב.\n"
+    .string "השתמש במשחה לכוויות כדי לרפא כווייה.$"
 
 ViridianCity_School_Text_ExplainPoison::
-    .string "When poisoned, a POKéMON's health\n"
-    .string "steadily drops.\p"
-    .string "Poison lingers after battles.\n"
-    .string "Use an ANTIDOTE to cure poison!$"
+    .string "כשהפוקימון מורעל, הבריאות שלו\n"
+    .string "יורדת בהדרגה.\p"
+    .string "הרעל נשאר לאחר הקרב.\n"
+    .string "השתמש בנוגדן כדי לרפא את ההרעלה!$"
 
 ViridianCity_School_Text_ExplainFreeze::
-    .string "A frozen POKéMON becomes\n"
-    .string "helplessly immobile.\p"
-    .string "It stays frozen even after the\n"
-    .string "battle ends.\p"
-    .string "Use ICE HEAL to thaw out the\n"
-    .string "suffering POKéMON.$"
+    .string "פוקימון קפוא הופך\n"
+    .string "לבלתי ניתן לתנועה.\p"
+    .string "הוא נשאר קפוא גם לאחר\n"
+    .string "שהקרב מסתיים.\p"
+    .string "השתמש בתרופה להמסה כדי להפשיר את\n"
+    .string "הפוקימון הקפוא.$"
 
 ViridianCity_School_Text_ExplainParalysis::
-    .string "Paralysis reduces SPEED and may\n"
-    .string "prevent the POKéMON from moving.\p"
-    .string "Paralysis remains after battles.\n"
-    .string "Use PARLYZ HEAL for treatment.$"
-
+    .string "שיתוק מפחית את מהירות הפוקימון\n"
+    .string "ויכול למנוע ממנו לנוע.\p"
+    .string "השיתוק נשאר לאחר הקרב.\n"
+    .string "השתמש בתרופה לשיתוק לטיפול.$"
