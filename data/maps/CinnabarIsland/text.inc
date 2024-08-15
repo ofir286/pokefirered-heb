@@ -71,4 +71,3 @@ CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain::
     .string "תמיד יכול לקחת מעבורת\l"
     .string "מהנמל בורמיליון.\p"
     .string "תודה שהצטרפת אלי!$"
-

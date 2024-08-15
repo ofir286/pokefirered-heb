@@ -112,3 +112,13 @@ ViridianCity_Text_GymSign::
 ViridianCity_Text_GymDoorsAreLocked::
     .string "דלתות המכון\n"
     .string "סגורות...$"
+	
+ViridianCity_Text_MyGrandsonOnTheShow::
+    .string "וואהאהאה!\n"
+    .string "זה הנכד שלי בתוכנית!\p"
+    .string "מכיוון שהוא זה שמלמד,\n"
+    .string "אתה בטוח תלמד.$"
+
+ViridianCity_Text_CitySign::
+    .string "עיר ורידיאן\n"
+    .string "גן העדן הירוק הנצחי$"

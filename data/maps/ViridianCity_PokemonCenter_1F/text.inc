@@ -6,8 +6,10 @@ ViridianCity_PokemonCenter_1F_Text_FeelFreeToUsePC::
 ViridianCity_PokemonCenter_1F_Text_PokeCenterInEveryTown::
     .string "יש מרכז פוקימון\n"
     .string "בכל עיר בהמשך בילך.\p"
-    .string "הם גם לא מבקשים מיולום!$"
+    .string "הם גם לא מבקשים תשלום!$"
 
 ViridianCity_PokemonCenter_1F_Text_PokeCentersHealMons::
-    .string "מרכז פוקימון מרפה את הפוקימונים שלך.\p"
-    .string "הם יהפכו את הפוקימונים שלך לבריאים וחזקים.$"
+    .string "מרכז פוקימון מרפה את\n"
+	.string "הפוקימונים שלך.\p"
+    .string "הם יהפכו את הפוקימונים שלך לבריאים\n"
+    .string "וחזקים.$"
