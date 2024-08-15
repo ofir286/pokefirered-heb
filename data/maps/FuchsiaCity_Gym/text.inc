@@ -132,4 +132,3 @@ FuchsiaCity_Gym_Text_GymStatuePlayerWon::
     .string "מנהיג: קוגה\p"
     .string "מאמנים שניצחו:\n"
     .string "{RIVAL}, {PLAYER}$"
-
