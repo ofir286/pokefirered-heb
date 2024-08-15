@@ -1,3 +1,22 @@
+FuchsiaCity_Gym_Text_KogaIntro::
+    .string "קוגה: פוואהאהאהא!\p"
+    .string "ילד קטן כמוך מעז\n"
+    .string "לאתגר אותי?\p"
+    .string "עצם הרעיון גורם לי לרעוד\n"
+    .string "מרוב צחוק!\p"
+    .string "ובכן, אראה לך את האימה האמיתית\n"
+    .string "כמאסטר נינג'ה.\p"
+    .string "הרעל מביא חורבן קבוע.\n"
+    .string "השינה משתקת את האויבים.\p"
+    .string "תתייאש מאימת הרעל הזוחלת של\n"
+    .string "פוקימוני מסוג רעל!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+
+FuchsiaCity_Gym_Text_KogaDefeat::
+    .string "המף!\n"
+    .string "הוכחת את ערכך!\p"
+    .string "הנה!\n"
+    .string "קח את תג הלב!$"
+
 FuchsiaCity_Gym_Text_KogaPostBattle::
     .string "תחת השפעת המהלך\n"
     .string "הרעלה, פוקימון יסבול מהרעל יותר\l"
@@ -13,7 +32,7 @@ FuchsiaCity_Gym_Text_KogaExplainSoulBadge::
     .string "אה! קח גם את זה!$"
 
 FuchsiaCity_Gym_Text_ReceivedTM06FromKoga::
-    .string "{PLAYER} קיבל את מ"מ06$"
+    .string "{PLAYER} קיבל את מ”מ06$"
 
 FuchsiaCity_Gym_Text_KogaExplainTM06::
     .string "מ”מ06 מכיל את\n"
@@ -33,7 +52,7 @@ FuchsiaCity_Gym_Text_KaydenIntro::
 
 FuchsiaCity_Gym_Text_KaydenDefeat::
     .string "מה?\n"
-    .string "יוצא מן הכלל!\p$"
+    .string "יוצא מן הכלל!$"
 
 FuchsiaCity_Gym_Text_KaydenPostBattle::
     .string "אז אתה משתמש\n"
@@ -45,8 +64,7 @@ FuchsiaCity_Gym_Text_KirkIntro::
     .string "נינג'ה, אז הצטרפתי למכון הזה!$"
 
 FuchsiaCity_Gym_Text_KirkDefeat::
-    .string "הלך\n"
-    .string "עליי!\p$"
+    .string "הלך עליי!$"
 
 FuchsiaCity_Gym_Text_KirkPostBattle::
     .string "אני אמשיך להתאמן\n"
@@ -58,8 +76,7 @@ FuchsiaCity_Gym_Text_NateIntro::
     .string "מנצח את הטכניקות המיוחדות שלי!$"
 
 FuchsiaCity_Gym_Text_NateDefeat::
-    .string "הטעית\n"
-    .string "אותי!\p$"
+    .string "הטעית אותי!$"
 
 FuchsiaCity_Gym_Text_NatePostBattle::
     .string "אני אוהב מהלכים\n"
@@ -73,7 +90,7 @@ FuchsiaCity_Gym_Text_PhilIntro::
 
 FuchsiaCity_Gym_Text_PhilDefeat::
     .string "וואו!\n"
-    .string "הוא קלט את זה!\p$"
+    .string "הוא קלט את זה!$"
 
 FuchsiaCity_Gym_Text_PhilPostBattle::
     .string "אני ממש מתרשם!\n"
@@ -87,7 +104,7 @@ FuchsiaCity_Gym_Text_EdgarIntro::
     .string "לנינג'ות יש מסורת של שימוש בחיות!$"
 
 FuchsiaCity_Gym_Text_EdgarDefeat::
-    .string "אעוו!\p$"
+    .string "אעוו!$"
 
 FuchsiaCity_Gym_Text_EdgarPostBattle::
     .string "עדיין יש לי הרבה\n"
@@ -100,7 +117,7 @@ FuchsiaCity_Gym_Text_ShawnIntro::
 
 FuchsiaCity_Gym_Text_ShawnDefeat::
     .string "הפלתי\n"
-    .string "את הכדורים שלי!"
+    .string "את הכדורים שלי!$"
 
 FuchsiaCity_Gym_Text_ShawnPostBattle::
     .string "איפה שיש אור, יש\n"
