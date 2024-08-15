@@ -26,7 +26,7 @@ FuchsiaCity_WardensHouse_Text_ThanksSonGiveYouSomething::
     .string "להעניק לך משהו עבור הטרחה.\p$"
 
 FuchsiaCity_WardensHouse_Text_ReceivedHM04FromWarden::
-    .string "{PLAYER} קיבל את מ"נ04!$"
+    .string "{PLAYER} קיבל את מ”נ04!$"
 
 FuchsiaCity_WardensHouse_Text_ExplainStrength::
     .string "פקח: מ”נ04 מכיל\n"
@@ -46,14 +46,14 @@ FuchsiaCity_WardensHouse_Text_OldMonMerchandiseOnDisplay::
     .string "סחורת פוקימון ישנה.$"
 
 FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomething::
-    .string "WARDEN: Thank you, lassie!\n"
-    .string "You're a real lifesaver!\p"
-    .string "No one could understand a word\n"
-    .string "that I said, not a one!\p"
-    .string "I was too ashamed to show my face\n"
-    .string "around the OFFICE, even.\p"
-    .string "Let me give you something for your\n"
-    .string "trouble.$"
+    .string "פקח: תודה לך, ילדה!\n"
+    .string "את מצילה חיים אמיתית!\p"
+    .string "אף אחד לא הבין מילה\n"
+    .string "ממה שאמרתי, לא אחד!\p"
+    .string "הייתי כל כך מבויש להראות את הפנים שלי\n"
+    .string "במשרד, אפילו.\p"
+    .string "תן לי לתת לך משהו על העזרה שלך.$"
+
 
 @ Unused
 FuchsiaCity_WardensHouse_Text_YouHaveTooMuchStuff::
