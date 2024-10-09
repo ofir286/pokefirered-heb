@@ -1,15 +1,14 @@
 PewterCity_House1_Text_Nidoran::
-    .string "NIDORAN♂: Bowbow!$"
+    .string "נידורן♂: בו-בו!$"
 
 PewterCity_House1_Text_NidoranSit::
-    .string "NIDORAN, sit!$"
+    .string "נידורן, שב!$"
 
 PewterCity_House1_Text_TradeMonsAreFinicky::
-    .string "Our POKéMON's an outsider, so it's\n"
-    .string "finicky and hard to handle.\p"
-    .string "An outsider is a POKéMON that you\n"
-    .string "get in a trade.\p"
-    .string "It grows fast, but it may ignore an\n"
-    .string "unskilled TRAINER in battle.\p"
-    .string "If only we had some BADGES…$"
-
+    .string "הפוקימון שלנו הוא זר, ולכן הוא\n"
+    .string "בררן וקשה לשליטה.\p"
+    .string "פוקימון זר הוא פוקימון שקיבלת\n"
+    .string "בסחר.\p"
+    .string "הוא גדל מהר, אך עלול להתעלם\n"
+    .string "ממאמן חסר ניסיון בקרב.\p"
+    .string "אם רק היו לנו כמה תגים…$"

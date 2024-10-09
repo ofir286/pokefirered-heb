@@ -1,14 +1,13 @@
 PewterCity_House2_Text_MonsLearnTechniquesAsTheyGrow::
-    .string "POKéMON learn new techniques as\n"
-    .string "they grow.\p"
-    .string "But some moves must be taught to\n"
-    .string "them by people.$"
+    .string "פוקימונים לומדים טכניקות חדשות\n"
+    .string "כשהם גדלים.\p"
+    .string "אך יש מהלכים שחייבים ללמד אותם\n"
+    .string "על ידי אנשים.$"
 
 PewterCity_House2_Text_MonsEasierCatchIfStatused::
-    .string "A POKéMON becomes easier to \n"
-    .string "catch if it has a status problem.\p"
-    .string "Sleep, poison, burn, or paralysis…\n"
-    .string "Those are all effective.\p"
-    .string "But catching POKéMON is never\n"
-    .string "a sure thing!$"
-
+    .string "פוקימון הופך קל יותר לתפיסה\n"
+    .string "אם יש לו בעיית סטטוס.\p"
+    .string "שינה, רעל, כוויה, או שיתוק…\n"
+    .string "כל אלו יעילים.\p"
+    .string "אך תפיסת פוקימונים היא לעולם\n"
+    .string "לא בטוחה!$"
