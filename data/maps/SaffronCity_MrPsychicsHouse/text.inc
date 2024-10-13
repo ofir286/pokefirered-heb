@@ -1,18 +1,17 @@
 SaffronCity_MrPsychicsHouse_Text_YouWantedThis::
-    .string "…Wait! Don't say a word!\p"
-    .string "You wanted this!$"
+    .string "…חכה! אל תאמר מילה!\p"
+    .string "רצית את זה!$"
 
 SaffronCity_MrPsychicsHouse_Text_ReceivedTM29FromMrPsychic::
-    .string "{PLAYER} received TM29\n"
-    .string "from MR. PSYCHIC.$"
+    .string "{PLAYER} קיבל מ”מ29\n"
+    .string "אשליה.$"
 
 SaffronCity_MrPsychicsHouse_Text_ExplainTM29::
-    .string "You already know, don't you?\n"
-    .string "TM29 is PSYCHIC.\p"
-    .string "It's an attack that may also lower\n"
-    .string "the target's special stats.$"
+    .string "אתה כבר יודע, נכון?\n"
+    .string "מ”מ29 הוא על-חושי.\p"
+    .string "זה מתקפה שעשויה גם להוריד\n"
+    .string "את הסטטיסטיקות המיוחדות של היריב.$"
 
 SaffronCity_MrPsychicsHouse_Text_YouveNoRoom::
-    .string "Where do you plan to put this?\n"
-    .string "You've no room.$"
-
+    .string "איפה אתה מתכנן לשים את זה?\n"
+    .string "אין לך מקום.$"
