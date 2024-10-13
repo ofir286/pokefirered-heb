@@ -1,115 +1,115 @@
 SaffronCity_Text_WhatDoYouWantGetLost::
-    .string "What do you want?\n"
-    .string "Get lost!$"
+    .string "מה אתה רוצה?\n"
+    .string "'תחפף!$"
 
 SaffronCity_Text_BossTakeTownForTeamRocket::
-    .string "BOSS said he'll take this town\n"
-    .string "in the name of TEAM ROCKET!$"
+    .string "הבוס אמר שהוא\n"
+    .string "ישתלט על העיר!$"
 
 SaffronCity_Text_DontGetDefiantOrIllHurtYou::
-    .string "Don't get defiant!\n"
-    .string "Or I'll have to hurt you!$"
+    .string "זוז לי מבילך!$"
 
 SaffronCity_Text_SaffronBelongsToTeamRocket::
-    .string "SAFFRON belongs to TEAM ROCKET!$"
+    .string "העיר ספרון שייכת\n"
+    .string "לצוות רוקט!$"
 
 SaffronCity_Text_CriminalLifeMakesMeFeelAlive::
-    .string "My life as a criminal makes me feel\n"
-    .string "so alive!$"
+    .string "רשע גורם לי להרגיש\n"
+    .string "כל כך... חי!$"
 
 SaffronCity_Text_WatchWhereYoureWalking::
-    .string "Ow!\n"
-    .string "Watch where you're walking!$"
+    .string "אווץ'! שים לב איפה\n"
+    .string "אתה דורך!$"
 
 SaffronCity_Text_WeCanExploitMonsAroundWorld::
-    .string "With SILPH under control, we can\n"
-    .string "exploit POKéMON around the world!\p"
-    .string "We'll get stinking rich, yeahah!$"
+    .string "עכשיו שסילף תחת\n"
+    .string "שליטתנו, נוכל לנצל פוקימונים\l"
+    .string "ברחבי העולם כולו!$"
 
 SaffronCity_Text_YouBeatTeamRocket::
-    .string "You beat TEAM ROCKET all alone?\n"
-    .string "That's amazing!$"
+    .string "הבסת את צוות\n"
+    .string "רוקט לגמרי לבד? זה מדהים!$"
 
 SaffronCity_Text_SafeToGoOutAgain::
-    .string "Yeah! TEAM ROCKET is gone!\n"
-    .string "It's safe to go out again!$"
+    .string "כן! צוות\n"
+    .string "רוקט נעלם! זה בטוח לצאת\l"
+    .string "החוצה שוב!$"
 
 SaffronCity_Text_PeopleComingBackToSaffron::
-    .string "People fled from here in droves\n"
-    .string "when those ROCKETS came.\p"
-    .string "They should be flocking back to\n"
-    .string "SAFFRON now.$"
+    .string "אנשים בטוח ינהרו\n"
+    .string "חזרה לזעפרן עכשיו.$"
 
 SaffronCity_Text_FlewHereOnPidgeot::
-    .string "I flew here on my PIDGEOT when\n"
-    .string "I read about SILPH.\p"
-    .string "It's already over?\n"
-    .string "I missed the media action…$"
+    .string "עפתי לפה על\n"
+    .string "הפידג'יוט שלי כשקראתי על סילף.\p"
+    .string "זה כבר נגמר? פספסתי את סערת\l"
+    .string "התקשורת?$"
 
 SaffronCity_Text_Pidgeot::
-    .string "PIDGEOT: Bi bibii!$"
+    .string "פידג'יוט: בי ביביי!$"
 
 SaffronCity_Text_SawRocketBossEscaping::
-    .string "I saw the ROCKET BOSS escaping\n"
-    .string "SILPH's building.$"
+    .string "ראיתי את מפקד\n"
+    .string "צוות רוקט בורח מבניין סילף.$"
 
 SaffronCity_Text_ImASecurityGuard::
-    .string "I'm a security guard.\p"
-    .string "Suspicious kids I don't allow in!$"
+    .string "אני מאבטח.\p"
+    .string "אני לא מרשה לילדים חשודים להכנס!$"
 
 SaffronCity_Text_HesTakingASnooze::
-    .string "…\n"
-    .string "Snore…\p"
-    .string "Hah! He's taking a snooze!$"
+    .string "...\n"
+    .string "נחרה...\p"
+    .string "הא! הוא תופס תנומה!$"
 
 SaffronCity_Text_CitySign::
-    .string "SAFFRON CITY\n"
-    .string "Shining, Golden Land of Commerce$"
+    .string "העיר ספרון\n"
+    .string "ארץ המסחר הזהובה והנוצצת$"
 
 SaffronCity_Text_FightingDojo::
-    .string "FIGHTING DOJO$"
+    .string "מאסטר הלחימה$"
 
 SaffronCity_Text_GymSign::
-    .string "SAFFRON CITY POKéMON GYM\n"
-    .string "LEADER: SABRINA\l"
-    .string "The Master of PSYCHIC POKéMON!$"
+    .string "העיר ספרון\n"
+    .string "מכון פוקימונים מנהלת: סברינה\p"
+    .string "המאסטר של פוקימוני על-חושי!$"
 
 SaffronCity_Text_FullHealCuresStatus::
-    .string "TRAINER TIPS\p"
-    .string "FULL HEAL cures all ailments like\n"
-    .string "burns, paralysis, poisoning,\l"
-    .string "freezing, and sleep.\p"
-    .string "It costs a bit more, but it's more\n"
-    .string "convenient than buying other items.$"
+    .string "טיפים למאמנים\p"
+    .string "ריפוי מלא מרפא את כל סוגי\l"
+    .string "החוליים, כמו שינה וכוויה.\p"
+    .string "זה עולה קצת יותר, אבל זה\l"
+    .string "יותר נוח.$"
 
 SaffronCity_Text_GreatBallImprovedCatchRate::
-    .string "TRAINER TIPS\p"
-    .string "The new GREAT BALL offers improved\n"
-    .string "catching rates.\p"
-    .string "Try it on those hard-to-catch\n"
-    .string "POKéMON.$"
+    .string "טיפים למאמנים\p"
+    .string "לכדורי רב החדשים יש שיעור תפיסה\l"
+    .string "משופר.\p"
+    .string "נסה את זה על פוקימונים קשים\l"
+    .string "לתפיסה.$"
 
 SaffronCity_Text_SilphCoSign::
-    .string "SILPH CO. OFFICE BUILDING$"
+    .string "סילף בע”מ\n"
+    .string "בניין משרדים$"
 
 SaffronCity_Text_MrPsychicsHouse::
-    .string "MR. PSYCHIC'S HOUSE$"
+    .string "ביתו של מר\n"
+    .string "על חושי$"
 
 SaffronCity_Text_SilphsLatestProduct::
-    .string "SILPH's latest product!\n"
-    .string "Release to be determined…$"
+    .string "המוצר החדש\n"
+    .string "של סילף!\p"
+    .string "בקרוב...$"
 
 SaffronCity_Text_TrainerFanClubSign::
-    .string "POKéMON TRAINER FAN CLUB\p"
-    .string "Many TRAINERS have scribbled their\n"
-    .string "names on this sign.$"
+    .string "מועדון מעריצי מאמני פוקימון\p"
+    .string "הרבה מאמנים קשקשו את שמותיהם\n"
+    .string "על השלט הזה.$"
 
 SaffronCity_Text_HowCanClubNotRecognizeLance::
-    .string "This FAN CLUB…\n"
-    .string "No one here has a clue!\p"
-    .string "How could they not recognize\n"
-    .string "the brilliance that is LANCE?\p"
-    .string "He stands for justice!\n"
-    .string "He's cool, and yet passionate!\l"
-    .string "He's the greatest, LANCE!$"
-
+    .string "המועדון הזה…\n"
+    .string "אין לאף אחד פה מושג!\p"
+    .string "איך הם לא מזהים את\n"
+    .string "הגאונות של לאנס?\p"
+    .string "הוא מייצג צדק!\n"
+    .string "הוא מגניב, ובו זמנית נלהב!\l"
+    .string "הוא הכי גדול, לאנס!$"
