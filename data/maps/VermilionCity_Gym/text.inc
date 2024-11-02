@@ -1,126 +1,125 @@
 VermilionCity_Gym_Text_LtSurgeIntro::
-    .string "Hey, kid! What do you think you're\n"
-    .string "doing here?\p"
-    .string "You won't live long in combat!\n"
-    .string "Not with your puny power!\p"
-    .string "I tell you, kid, electric POKéMON\n"
-    .string "saved me during the war!\p"
-    .string "They zapped my enemies into\n"
-    .string "paralysis!\p"
-    .string "The same as I'll do to you!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
+    .string "היי, ילד! מה אתה חושב שאתה\n"
+    .string "עושה כאן?\p"
+    .string "אתה לא תחזיק מעמד בקרב!\n"
+    .string "לא עם הכוח העלוב שלך!\p"
+    .string "אני אומר לך, ילד, פוקימונים\n"
+    .string "חשמליים הצילו אותי במלחמה!\p"
+    .string "הם שיתקו את האויבים שלי!\p"
+    .string "זה בדיוק מה שאני אעשה לך!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
 VermilionCity_Gym_Text_LtSurgePostBattle::
-    .string "A little word of advice, kid!\p"
-    .string "Electricity is sure powerful!\p"
-    .string "But, it's useless against GROUND-\n"
-    .string "type POKéMON!$"
+    .string "מילה אחת של עצה, ילד!\p"
+    .string "חשמל הוא בהחלט עוצמתי!\p"
+    .string "אבל, הוא חסר תועלת נגד\n"
+    .string "פוקימוני אדמה!$"
 
 VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
-    .string "The THUNDERBADGE cranks up your\n"
-    .string "POKéMON's SPEED!\p"
-    .string "It also lets your POKéMON FLY\n"
-    .string "lightning-quick anytime, kid!\p"
-    .string "You're special, kid!\n"
-    .string "Take this!$"
+    .string "תג הרעם מגדיל את מהירות\n"
+    .string "הפוקימון שלך!\p"
+    .string "הוא גם מאפשר לפוקימון שלך\n"
+    .string "לעוף כמו ברק בכל רגע, ילד!\p"
+    .string "אתה מיוחד, ילד!\n"
+    .string "קח את זה!$"
 
 VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
-    .string "{PLAYER} received TM34\n"
-    .string "from LT. SURGE.$"
+    .string "{PLAYER} קיבל את מ”מ34\n"
+    .string "מ-לוטננט סרג'!$"
 
 VermilionCity_Gym_Text_ExplainTM34::
-    .string "TM34 contains SHOCK WAVE!\p"
-    .string "Teach it to an ELECTRIC POKéMON!$"
+    .string "מ”מ34 מכיל את גל רעם!\p"
+    .string "תלמד אותו לפוקימון חשמלי!$"
 
 VermilionCity_Gym_Text_MakeRoomInYourBag::
-    .string "Yo, kid, make room in your BAG!$"
+    .string "היי, ילד, תפנה מקום בתיק שלך!$"
 
 VermilionCity_Gym_Text_LtSurgeDefeat::
-    .string "Now that's a shocker!\p"
-    .string "You're the real deal, kid!\p"
-    .string "Fine, then, take the THUNDERBADGE!$"
+    .string "עכשיו זה הפתיע אותי!\p"
+    .string "אתה באמת מיוחד, ילד!\p"
+    .string "בסדר, קח את תג הרעם!$"
 
 VermilionCity_Gym_Text_TuckerIntro::
-    .string "When I was in the Army, LT. SURGE\n"
-    .string "was my strict CO.\p"
-    .string "He was a hard taskmaster.$"
+    .string "כשהייתי בצבא, לוטננט סרג' היה\n"
+    .string "המפקד שלי.\p"
+    .string "הוא היה מפקד קשוח.$"
 
 VermilionCity_Gym_Text_TuckerDefeat::
-    .string "Stop!\n"
-    .string "You're very good!$"
+    .string "עצור!\n"
+    .string "אתה טוב מאוד!$"
 
 VermilionCity_Gym_Text_TuckerPostBattle::
-    .string "It's not easy opening that door.\p"
-    .string "LT. SURGE was always famous for\n"
-    .string "his cautious nature in the Army.$"
+    .string "זה לא קל לפתוח את הדלת הזו.\p"
+    .string "לוטננט סרג' תמיד היה מפורסם\n"
+    .string "בזהירות שלו בצבא.$"
 
 VermilionCity_Gym_Text_BailyIntro::
-    .string "I'm a lightweight, but I'm good\n"
-    .string "with electricity!\p"
-    .string "That's why I joined this GYM.$"
+    .string "אני לא כבד, אבל אני טוב\n"
+    .string "עם חשמל!\p"
+    .string "לכן הצטרפתי למכון הזה.$"
 
 VermilionCity_Gym_Text_BailyDefeat::
-    .string "Fried!$"
+    .string "שרוף!$"
 
 VermilionCity_Gym_Text_BailyPostBattle::
-    .string "Okay, I'll talk!\p"
-    .string "LT. SURGE said he hid door\n"
-    .string "switches inside something.$"
+    .string "בסדר, אני אדבר!\p"
+    .string "לוטננט סרג' אמר שהוא הסתיר את\n"
+    .string "המפסקים בתוך משהו.$"
 
 VermilionCity_Gym_Text_DwayneIntro::
-    .string "This is no place for kids!\n"
-    .string "Not even if you're good!$"
+    .string "זה לא מקום לילדים!\n"
+    .string "גם אם אתה טוב!$"
 
 VermilionCity_Gym_Text_DwayneDefeat::
-    .string "Wow!\n"
-    .string "Surprised me!$"
+    .string "וואו!\n"
+    .string "הפתעת אותי!$"
 
 VermilionCity_Gym_Text_DwaynePostBattle::
-    .string "LT. SURGE installed the traps in\n"
-    .string "the GYM himself.\p"
-    .string "He set up double locks everywhere.\n"
-    .string "Let me give you a hint.\p"
-    .string "When you open the first lock, the\n"
-    .string "second lock is right next to it.$"
+    .string "לוטננט סרג' התקין את המלכודות\n"
+    .string "במכון בעצמו.\p"
+    .string "הוא שם נעילות כפולות בכל מקום.\n"
+    .string "תן לי לתת לך רמז.\p"
+    .string "כשתפתח את המנעול הראשון, המנעול\n"
+    .string "השני יהיה ממש לידו.$"
 
 VermilionCity_Gym_Text_GymGuyAdvice::
-    .string "Yo!\n"
-    .string "Champ in the making!\p"
-    .string "LT. SURGE has a nickname.\p"
-    .string "People refer to him as the\n"
-    .string "Lightning American!\p"
-    .string "He's an expert on electric\n"
-    .string "POKéMON.\p"
-    .string "BIRD/WATER-type POKéMON match\n"
-    .string "poorly against the ELECTRIC type.\p"
-    .string "Beware of paralysis, too.\p"
-    .string "LT. SURGE is very cautious.\p"
-    .string "He's locked himself in, so it won't\n"
-    .string "be easy getting to him.$"
+    .string "היי!\n"
+    .string "אלוף בהתהוות!\p"
+    .string "לוטננט סרג' יש לו כינוי.\p"
+    .string "אנשים קוראים לו\n"
+    .string "האמריקאי החשמלי!\p"
+    .string "הוא מומחה לפוקימונים\n"
+    .string "חשמליים.\p"
+    .string "פוקימונים מסוג מעופף/מים\n"
+    .string "לא מתאימים לחשמל.\p"
+    .string "תיזהר גם משיתוק.\p"
+    .string "לוטננט סרג' מאוד זהיר.\p"
+    .string "הוא נעל את עצמו בפנים, אז לא\n"
+    .string "יהיה קל להגיע אליו.$"
 
 VermilionCity_Gym_Text_GymGuyPostVictory::
-    .string "Whew!\n"
-    .string "That match was electric!$"
+    .string "וואו!\n"
+    .string "הקרב היה חשמלי!$"
 
 VermilionCity_Gym_Text_GymStatue::
-    .string "VERMILION POKéMON GYM\n"
-    .string "LEADER: LT. SURGE\p"
-    .string "WINNING TRAINERS:\n"
+    .string "מכון פוקימון ורמיליון\n"
+    .string "מנהל: לוטננט סרג'\p"
+    .string "מאמנים מנצחים:\n"
     .string "{RIVAL}$"
 
 VermilionCity_Gym_Text_GymStatuePlayerWon::
-    .string "VERMILION POKéMON GYM\n"
-    .string "LEADER: LT. SURGE\p"
-    .string "WINNING TRAINERS:\n"
+    .string "מכון פוקימון ורמיליון\n"
+    .string "מנהל: לוטננט סרג'\p"
+    .string "מאמנים מנצחים:\n"
     .string "{RIVAL}, {PLAYER}$"
 
 VermilionCity_Gym_Text_NopeOnlyTrashHere::
-    .string "Nope!\n"
-    .string "There's only trash here.$"
+    .string "לא!\n"
+    .string "יש כאן רק זבל.$"
 
 VermilionCity_Gym_Text_SwitchUnderTrashFirstLockOpened::
-    .string "Hey! There's a switch under the\n"
-    .string "trash! Turn it on!\p"
-    .string "The first electric lock opened!$"
+    .string "היי! יש מתג מתחת לזבל!\n"
+    .string "להדליק אותו?\p"
+    .string "המנעול החשמלי הראשון נפתח!$"
 
 VermilionCity_Gym_Text_AnotherSwitchInTrash::
     .string "ガサゴソ‥！\n"
@@ -129,12 +128,11 @@ VermilionCity_Gym_Text_AnotherSwitchInTrash::
     .string "おして　みよう！　‥　ポチッとな$"
 
 VermilionCity_Gym_Text_SecondLockOpened::
-    .string "The second electric lock opened!\n"
-    .string "The motorized door opened!$"
+    .string "המנעול החשמלי השני נפתח!\n"
+    .string "הדלת הממונעת נפתחה!$"
 
 VermilionCity_Gym_Text_OnlyTrashLocksWereReset::
-    .string "Nope!\n"
-    .string "There's only trash here.\p"
-    .string "Hey!\n"
-    .string "The electric locks were reset!$"
-
+    .string "לא!\n"
+    .string "יש כאן רק זבל.\p"
+    .string "היי!\n"
+    .string "המנעולים החשמליים אופסו!$"
