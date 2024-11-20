@@ -1,40 +1,39 @@
 LavenderTown_Text_DoYouBelieveInGhosts::
-    .string "Do you believe in ghosts?$"
+    .string "האם אתה מאמין ברוחות?$"
 
 LavenderTown_Text_SoThereAreBelievers::
-    .string "Really?\n"
-    .string "So there are believers…$"
+    .string "באמת?\n"
+    .string "אז יש מאמינים…$"
 
 LavenderTown_Text_JustImaginingWhiteHand::
-    .string "Hahaha, I guess not.\p"
-    .string "That white hand on your shoulder…\n"
-    .string "I'm just imagining it.$"
+    .string "חחח, כנראה שלא.\p"
+    .string "היד הלבנה ההיא על הכתף שלך…\n"
+    .string "אני רק מדמיין אותה.$"
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
-    .string "This town is known as the grave\n"
-    .string "site of POKéMON.\p"
-    .string "Memorial services are held in\n"
-    .string "POKéMON TOWER.$"
+    .string "העיר הזו ידועה כאתר קבורה\n"
+    .string "לפוקימונים.\p"
+    .string "שירותי זיכרון מתקיימים ב\n"
+    .string "מגדל הפוקימונים.$"
 
 LavenderTown_Text_GhostsAppearedInTower::
-    .string "Ghosts appeared in POKéMON TOWER.\p"
-    .string "I think they're the spirits of\n"
-    .string "POKéMON that the ROCKETS killed.$"
+    .string "רוחות הופיעו במגדל הפוקימונים.\p"
+    .string "אני חושב שהן רוחות של\n"
+    .string "פוקימונים שהרוקטס הרגו.$"
 
 LavenderTown_Text_TownSign::
-    .string "LAVENDER TOWN\n"
-    .string "The Noble Purple Town$"
+    .string "עיר לבנדר\n"
+    .string "העיר הסגולה הנעלה$"
 
 LavenderTown_Text_SilphScopeNotice::
-    .string "New SILPH SCOPE!\n"
-    .string "Make the Invisible Plain to See!\p"
-    .string "SILPH CO.$"
+    .string "סילף סקופ חדש!\n"
+    .string "הפוך את הבלתי נראה לגלוי!\p"
+    .string "חברת סילף$"
 
 LavenderTown_Text_VolunteerPokemonHouse::
-    .string "LAVENDER VOLUNTEER\n"
-    .string "POKéMON HOUSE$"
+    .string "בית המתנדבים לפוקימונים\n"
+    .string "בלבנדר$"
 
 LavenderTown_Text_PokemonTowerSign::
-    .string "POKéMON TOWER\n"
-    .string "Becalm the Spirits of POKéMON$"
-
+    .string "מגדל הפוקימונים\n"
+    .string "להרגיע את רוחות הפוקימונים$"

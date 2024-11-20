@@ -1,16 +1,15 @@
 LavenderTown_House1_Text_Cubone::
-    .string "CUBONE: Kyarugoo!$"
+    .string "קיובון: קיארוגו!$"
 
 LavenderTown_House1_Text_RocketsKilledCubonesMother::
-    .string "Those horrible ROCKETS!\n"
-    .string "They deserve no mercy!\p"
-    .string "That poor CUBONE's mother…\p"
-    .string "It was killed trying to escape from\n"
-    .string "TEAM ROCKET.$"
+    .string "הרוקטס האיומים האלה!\n"
+    .string "הם לא ראויים לרחמים!\p"
+    .string "אמא של קיובון המסכן הזה…\p"
+    .string "היא נהרגה בזמן שניסתה לברוח\n"
+    .string "מצוות רוקט.$"
 
 LavenderTown_House1_Text_GhostOfPokemonTowerIsGone::
-    .string "The ghost of POKéMON TOWER is\n"
-    .string "gone!\p"
-    .string "Someone must have soothed its\n"
-    .string "restless spirit!$"
-
+    .string "הרוח של מגדל הפוקימונים\n"
+    .string "נעלמה!\p"
+    .string "מישהו בטח הרגיע את רוחה\n"
+    .string "החסרת מנוחה!$"
