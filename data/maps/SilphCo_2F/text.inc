@@ -1,74 +1,71 @@
 SilphCo_2F_Text_ConnorIntro::
-    .string "Help!\n"
-    .string "I'm a SILPH employee.$"
+    .string "הצילו!\n"
+    .string "אני עובד בארגון סילף.$"
 
 SilphCo_2F_Text_ConnorDefeat::
-    .string "How did you know\n"
-    .string "I was a ROCKET?$"
+    .string "איך ידעת\n"
+    .string "שאני שייך לצוות רוקט?$"
 
 SilphCo_2F_Text_ConnorPostBattle::
-    .string "I work for both SILPH and TEAM\n"
-    .string "ROCKET.$"
+    .string "אני עובד גם בארגון סילף וגם ב\n"
+    .string "צוות רוקט.$"
 
 SilphCo_2F_Text_JerryIntro::
-    .string "It's off-limits here!\n"
-    .string "Go home!$"
+    .string "אסור להיכנס כאן!\n"
+    .string "לך הביתה!$"
 
 SilphCo_2F_Text_JerryDefeat::
-    .string "You're good.$"
+    .string "אתה טוב.$"
 
 SilphCo_2F_Text_JerryPostBattle::
-    .string "Can you solve the maze in here?\n"
-    .string "It's not easy, I tell you!$"
+    .string "אתה יכול לפתור את המבוך כאן?\n"
+    .string "זה לא קל, אני אומר לך!$"
 
 SilphCo_2F_Text_Grunt1Intro::
-    .string "No kids are allowed in here!$"
+    .string "אסור לילדים להיות כאן!$"
 
 SilphCo_2F_Text_Grunt1Defeat::
-    .string "Tough!$"
+    .string "קשה!$"
 
 SilphCo_2F_Text_Grunt1PostBattle::
-    .string "Diamond-shaped tiles are teleport\n"
-    .string "blocks.\p"
-    .string "They're transporters for this\n"
-    .string "high-tech building.$"
+    .string "האריחים בצורת יהלום הם בלוקי השתגרות.\p"
+    .string "הם מעבירי אנשים בבניין הזה\n"
+    .string "ההייטק.$"
 
 SilphCo_2F_Text_Grunt2Intro::
-    .string "Hey, kid!\n"
-    .string "What are you wandering here for?$"
+    .string "היי, ילד!\n"
+    .string "מה אתה עושה פה?$"
 
 SilphCo_2F_Text_Grunt2Defeat::
-    .string "I goofed!$"
+    .string "פישלתי!$"
 
 SilphCo_2F_Text_Grunt2PostBattle::
-    .string "SILPH CO. will be associated with\n"
-    .string "TEAM ROCKET!$"
+    .string "ארגון סילף יהיה שייך לצוות רוקט!$"
 
 Text_ThunderWaveTeach::
-    .string "Eeek!\n"
-    .string "No! Stop! Help!\p"
-    .string "Oh, you're not with TEAM ROCKET.\n"
-    .string "I'm sorry, I thought…\p"
-    .string "Will you forgive me if I teach\n"
-    .string "you the THUNDER WAVE technique?$"
+    .string "איייי!\n"
+    .string "לא! תפסיק! עזרה!\p"
+    .string "אה, אתה לא עם צוות רוקט.\n"
+    .string "סליחה, חשבתי…\p"
+    .string "האם תסלח לי אם אלמד\n"
+    .string "אותך את טכניקת גל רעם?$"
 
 Text_ThunderWaveDeclined::
-    .string "Oh…\n"
-    .string "But THUNDER WAVE is convenient…$"
+    .string "אה…\n"
+    .string "אבל גל רעם היא מאוד שימושית…$"
 
 Text_ThunderWaveWhichMon::
-    .string "Which POKéMON should I teach\n"
-    .string "THUNDER WAVE?$"
+    .string "לאיזה פוקימון אני אמור ללמד\n"
+    .string "את גל רעם?$"
 
 Text_ThunderWaveTaught::
-    .string "THUNDER WAVE causes paralysis in\n"
-    .string "the target POKéMON.\p"
-    .string "A paralyzed POKéMON may be unable\n"
-    .string "to move in battle.\p"
-    .string "It's an ELECTRIC-type move, so it\n"
-    .string "won't work on some POKéMON.$"
+    .string "גל רעם גורמת לשיתוק אצל\n"
+    .string "הפוקימון היריב.\p"
+    .string "פוקימון משותק עשוי לא להיות\n"
+    .string "יכול להניע במהלך הקרב.\p"
+    .string "זו התקפה מסוג חשמלי, אז היא\n"
+    .string "לא תעבוד על כמה פוקימונים.$"
 
 SilphCo_2F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
-    .string "2F$"
-
+    .string "ארגון סילף. משרד ראשי\n"
+    .string "קומה 2$"
