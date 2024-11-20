@@ -26,7 +26,7 @@ SilphCo_8F_Text_ParkerPostBattle::
     .string "בניין ארגון סילף?$"
 
 SilphCo_8F_Text_Grunt2Intro::
-    .string "אני אחד מ-4 האחים של צוות רוקט!\n"
+    .string "אני אחד מ4 האחים של צוות רוקט!\n"
     .string "$"
 
 SilphCo_8F_Text_Grunt2Defeat::

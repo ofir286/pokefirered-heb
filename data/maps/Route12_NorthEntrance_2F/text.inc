@@ -1,36 +1,34 @@
-@ Male and female text identical, differ (presumably) in JP
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreMale::
-    .string "My POKéMON's ashes are stored in\n"
-    .string "POKéMON TOWER.\p"
-    .string "You can have this TM.\n"
-    .string "I don't need it anymore…$"
+    .string "האבק של הפוקימון שלי מאוחסן\n"
+    .string "במגדל של הפוקימון.\p"
+    .string "אתה יכול לקחת את המ”מ הזה.\n"
+    .string "לא צריך אותו יותר…$"
 
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreFemale::
-    .string "My POKéMON's ashes are stored in\n"
-    .string "POKéMON TOWER.\p"
-    .string "You can have this TM.\n"
-    .string "I don't need it anymore…$"
+    .string "האבק של הפוקימון שלי מאוחסן\n"
+    .string "במגדל של הפוקימון.\p"
+    .string "את יכולה לקחת את המ”מ הזה.\n"
+    .string "לא צריכה אותו יותר…$"
 
 Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
-    .string "{PLAYER} received TM27\n"
-    .string "from the little girl.$"
+    .string "{PLAYER} קיבל את מ”מ27\n"
+    .string "מהילדה הקטנה.$"
 
 Route12_NorthEntrance_2F_Text_ExplainTM27::
-    .string "TM27 is a move called RETURN…\p"
-    .string "If you treat your POKéMON good,\n"
-    .string "it will return your love by working\l"
-    .string "its hardest in battle.$"
+    .string "מ”מ27 הוא מהלך שנקרא חזור…\p"
+    .string "אם תתייחס לפוקימון שלך טוב,\n"
+    .string "הוא יחזיר לך את האהבה על ידי עבודה\l"
+    .string "הכי קשה שלו בקרב.$"
 
 Route12_NorthEntrance_2F_Text_DontHaveRoomForThis::
-    .string "You don't have room for this.$"
+    .string "אין לך מקום לזה.$"
 
 Route12_NorthEntrance_2F_Text_TheresManFishing::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "There's a man fishing!$"
+    .string "בוא נראה מה יש במשקפת\n"
+    .string "להראות…\p"
+    .string "יש שם גבר דג במים!$"
 
 Route12_NorthEntrance_2F_Text_ItsPokemonTower::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "It's POKéMON TOWER!$"
-
+    .string "בוא נראה מה יש במשקפת\n"
+    .string "להראות…\p"
+    .string "זהו מגדל הפוקימון!$"

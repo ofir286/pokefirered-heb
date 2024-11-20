@@ -1,144 +1,141 @@
 Route12_Text_MonSprawledOutInSlumber::
-    .string "A POKéMON is sprawled out in\n"
-    .string "a deep and comfortable slumber.$"
+    .string "פוקימון נמצא\n"
+    .string "בשינה עמוקה ונוחה.$"
 
 Text_SnorlaxWokeUp::
-    .string "SNORLAX woke up!\p"
-    .string "It attacked in a grumpy rage!$"
+    .string "סנורלאקס התעורר!\n"
+    .string "הוא תקף בזעם עצבני!$"
 
 Text_SnorlaxReturnedToMountains::
-    .string "SNORLAX calmed down.\n"
-    .string "It gave a huge yawn…\l"
-    .string "And returned to the mountains.$"
+    .string "סנורלאקס נרגע.\n"
+    .string "הוא פיהק יקום ענק…\n"
+    .string "וחזר להרים.$"
 
 Text_WantToUsePokeFlute::
-    .string "Want to use the POKé FLUTE?$"
+    .string "רוצה להשתמש בחליל?$"
 
 Text_PlayedPokeFlute::
-    .string "{PLAYER} played the POKé FLUTE.$"
+    .string "{PLAYER} ניגן בחליל.$"
 
 Route12_Text_NedIntro::
-    .string "Yeah!\n"
-    .string "I got a bite here!$"
+    .string "כן!\n"
+    .string "היה לי דג על הקו!$"
 
 Route12_Text_NedDefeat::
-    .string "Tch!\n"
-    .string "Just a small fry…$"
+    .string "צ'ח!\n"
+    .string "רק איזה דג קטן…$"
 
 Route12_Text_NedPostBattle::
-    .string "Hang on!\n"
-    .string "My line's snagged!$"
+    .string "חכה!\n"
+    .string "החוט שלי נתפס!$"
 
 Route12_Text_ChipIntro::
-    .string "Be patient.\n"
-    .string "Fishing is a waiting game.$"
+    .string "היה סבלני.\n"
+    .string "דיג זה משחק של המתנה.$"
 
 Route12_Text_ChipDefeat::
-    .string "That one got away!$"
+    .string "הדג הזה ברח!$"
 
 Route12_Text_ChipPostBattle::
-    .string "With a better ROD, I could catch\n"
-    .string "better POKéMON…$"
+    .string "עם מוט יותר טוב, הייתי תופס\n"
+    .string "פוקימונים טובים יותר…$"
 
 Route12_Text_JustinIntro::
-    .string "I'm searching for a MOON STONE.\n"
-    .string "Have you found one?$"
+    .string "אני מחפש אבן ירח.\n"
+    .string "מצאת אחד?$"
 
 Route12_Text_JustinDefeat::
-    .string "Oww!$"
+    .string "איי!$"
 
 Route12_Text_JustinPostBattle::
-    .string "I could have made my POKéMON\n"
-    .string "evolve with a MOON STONE.\p"
-    .string "I would have won then, I bet.$"
+    .string "הייתי יכול לגרום לפוקימון שלי\n"
+    .string "להתפתח עם Mאבן ירח.\n"
+    .string "הייתי מנצח אז, אני בטוח.$"
 
 Route12_Text_LucaIntro::
-    .string "Electricity is my specialty.\p"
-    .string "I don't know a thing about POKéMON\n"
-    .string "of the sea, though.$"
+    .string "חשמל זה ההתמחות שלי.\n"
+    .string "אני לא מבין כלום בפוקימונים\n"
+    .string "מהים, למרות.$"
 
 Route12_Text_LucaDefeat::
-    .string "Unplugged!$"
+    .string "הייתי מנותק!$"
 
 Route12_Text_LucaPostBattle::
-    .string "Water conducts electricity, so you\n"
-    .string "should zap sea POKéMON.$"
+    .string "מים מוליכים חשמל, אז אתה\n"
+    .string "צריך להכות את פוקימוני הים.$"
 
 Route12_Text_HankIntro::
-    .string "The FISHING FOOL versus POKéMON\n"
-    .string "KID!$"
+    .string "הדיג שוטה מול ילד פוקימון!$"
 
 Route12_Text_HankDefeat::
-    .string "Touch too much!$"
+    .string "נגעת יותר מידי!$"
 
 Route12_Text_HankPostBattle::
-    .string "I guess you get to be good at\n"
-    .string "what you like.\p"
-    .string "Well, you beat me at POKéMON,\n"
-    .string "but you can't top me at fishing.$"
+    .string "אני מניח שאתה טוב במה שאתה אוהב.\n"
+    .string "טוב, ניצחת אותי בפוקימונים,\n"
+    .string "אבל אתה לא טוב ממני בדיג.$"
 
 Route12_Text_ElliotIntro::
-    .string "I love fishing, don't get me wrong.\p"
-    .string "But it'd be best if I also had more\n"
-    .string "work.$"
+    .string "אני אוהב לדוג, אל תבין אותי לא נכון.\n"
+    .string "אבל יהיה טוב אם היה לי גם יותר\n"
+    .string "עבודה.$"
 
 Route12_Text_ElliotDefeat::
-    .string "It's not easy…$"
+    .string "זה לא קל…$"
 
 Route12_Text_ElliotPostBattle::
-    .string "It's all right.\n"
-    .string "Losing doesn't bug me anymore.$"
+    .string "זה בסדר.\n"
+    .string "להפסיד כבר לא מפריע לי.$"
 
 Route12_Text_AndrewIntro::
-    .string "What's catching?\p"
-    .string "You never know what you could\n"
-    .string "catch!$"
+    .string "מה יש לדוג?\n"
+    .string "אף פעם לא יודע מה אתה יכול\n"
+    .string "לתפוס!$"
 
 Route12_Text_AndrewDefeat::
-    .string "Lost it!$"
+    .string "החמצתי את זה!$"
 
 Route12_Text_AndrewPostBattle::
-    .string "What, MAGIKARP?\p"
-    .string "I catch them all the time, sure.\n"
-    .string "But, boy are they wimpy.$"
+    .string "מה, מגיקארפ?\n"
+    .string "אני תופס אותם כל הזמן, ברור.\n"
+    .string "אבל, כמה שהם חלשים.$"
 
 Route12_Text_RouteSign::
-    .string "ROUTE 12 \n"
-    .string "North to LAVENDER$"
+    .string "דרך 12\n"
+    .string "צפון לעיר לאבנדר$"
 
 Route12_Text_SportfishingArea::
-    .string "SPORTFISHING AREA$"
+    .string "אזור דיג ספורט$"
 
 Route12_Text_JesIntro::
-    .string "JES: If I win, I'm going to\n"
-    .string "propose to GIA.$"
+    .string "ג'ס: אם אני אנצח, אני הולך\n"
+    .string "להציע נישואין לגיה.$"
 
 Route12_Text_JesDefeat::
-    .string "JES: Oh, please, why couldn't you\n"
-    .string "let us win?$"
+    .string "ג'ס: אל תראה לי, למה לא יכולת\n"
+    .string "לתת לנו לנצח?$"
 
 Route12_Text_JesPostBattle::
-    .string "JES: Oh, GIA, forgive me,\n"
-    .string "my love!$"
+    .string "ג'ס: גיה, סלחי לי,\n"
+    .string "אהובתי!$"
 
 Route12_Text_JesNotEnoughMons::
-    .string "JES: GIA and I, we'll be\n"
-    .string "together forever.\p"
-    .string "We won't battle unless you have\n"
-    .string "two POKéMON of your own.$"
+    .string "ג'ס: גיה ואני, נישאר יחד לנצח.\n"
+    .string "לא נלחם עד שיהיה לך\n"
+    .string "שני פוקימונים משלך.$"
 
 Route12_Text_GiaIntro::
-    .string "GIA: Hey, JES…\p"
-    .string "If we win, I'll marry you!$"
+    .string "גיה: היי, ג'ס…\n"
+    .string "אם ננצח, אני אתחתן איתך!$"
 
 Route12_Text_GiaDefeat::
-    .string "GIA: Oh, but why?$"
+    .string "גיה: אה, למה?\n"
 
 Route12_Text_GiaPostBattle::
-    .string "GIA: JES, you silly!\n"
-    .string "You ruined this!$"
+    .string "גיה: ג'ס, אתה מטומטם!\n"
+    .string "הרס את זה!$"
 
 Route12_Text_GiaNotEnoughMons::
-    .string "GIA: I can't bear to battle\n"
-    .string "without my JES!\p"
-    .string "Don't you have one more POKéMON?$"
+    .string "גיה: אני לא יכולה להילחם\n"
+    .string "בלי ג'ס שלי!\n"
+    .string "לא היה לך עוד פוקימון?$"

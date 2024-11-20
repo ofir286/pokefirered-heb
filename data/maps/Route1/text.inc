@@ -1,28 +1,25 @@
 Route1_Text_WorkAtPokeMartTakeSample::
-    .string "Hi!\n"
-    .string "I work at a POKéMON MART.\p"
-    .string "It's part of a convenient chain\n"
-    .string "selling all sorts of items.\p"
-    .string "Please, visit us in VIRIDIAN CITY.\p"
-    .string "I know, I'll give you a sample.\n"
-    .string "Here you go!$"
+    .string "שלום!\n"
+    .string "אני עובד בפוקימארט.\p"
+    .string "זו רשת נוחה שמוכרת כל מיני פריטים.\p"
+    .string "בבקשה, בקרו אותנו בעיר וירידיאן.\p"
+    .string "אני יודע, אני אתן לך דוגמה.\n"
+    .string "הנה, קח!$"
 
 Route1_Text_ComeSeeUsIfYouNeedPokeBalls::
-    .string "Please come see us if you need\n"
-    .string "POKé BALLS for catching POKéMON.$"
+    .string "בבקשה, תבואו לראות אותנו אם אתם צריכים\n"
+    .string "פוקיבולים כדי לתפוס פוקימונים.$"
 
 Route1_Text_PutPotionAway::
-    .string "{PLAYER} put the POTION away in\n"
-    .string "the BAG's ITEMS POCKET.$"
+    .string "{PLAYER} שם את ה-תרופה בכיס\n"
+    .string "הפריטים בתיק.$"
 
 Route1_Text_CanJumpFromLedges::
-    .string "See those ledges along the road?\p"
-    .string "It's a bit scary, but you can jump\n"
-    .string "from them.\p"
-    .string "You can get back to PALLET TOWN\n"
-    .string "quicker that way.$"
+    .string "רואים את הסלעים לאורך הדרך?\p"
+    .string "זה קצת מפחיד, אבל אפשר לקפוץ מהם.\p"
+    .string "אפשר להגיע חזרה לפאלט\n"
+    .string "יותר מהר ככה.$"
 
 Route1_Text_RouteSign::
-    .string "ROUTE 1\n"
-    .string "PALLET TOWN - VIRIDIAN CITY$"
-
+    .string "דרך 1\n"
+    .string "העיר פאלט - עיר וירידיאן$"

@@ -1,113 +1,112 @@
 Route11_Text_HugoIntro::
-    .string "Win, lose, or draw!$"
+    .string "נצח, הפסד או תיקו!$"
 
 Route11_Text_HugoDefeat::
-    .string "Atcha!\n"
-    .string "Didn't go my way!$"
+    .string "אהה!\n"
+    .string "לא הלך בדרך שלי!$"
 
 Route11_Text_HugoPostBattle::
-    .string "POKéMON is life!\n"
-    .string "And to live is to play games!$"
+    .string "פוקימון זה החיים!\n"
+    .string "ולחיות זה לשחק משחקים!$"
 
 Route11_Text_JasperIntro::
-    .string "Competition!\n"
-    .string "I can't get enough!$"
+    .string "תחרות!\n"
+    .string "אני לא יכול להפסיק!$"
 
 Route11_Text_JasperDefeat::
-    .string "I had a chance!$"
+    .string "היה לי סיכוי!$"
 
 Route11_Text_JasperPostBattle::
-    .string "You can't be a coward in the world\n"
-    .string "of POKéMON!$"
+    .string "לא יכול להיות פחדן בעולם\n"
+    .string "של פוקימונים!$"
 
 Route11_Text_EddieIntro::
-    .string "Let's go, but don't cheat!$"
+    .string "יאללה, אבל אל ת cheat!$"
 
 Route11_Text_EddieDefeat::
-    .string "Huh?\n"
-    .string "That's not right!$"
+    .string "מה?\n"
+    .string "זה לא נכון!$"
 
 Route11_Text_EddiePostBattle::
-    .string "I did my best.\n"
-    .string "I have no regrets.$"
+    .string "עשיתי את הכי טוב שלי.\n"
+    .string "אין לי חרטות.$"
 
 Route11_Text_BraxtonIntro::
-    .string "Careful!\n"
-    .string "I'm laying down some cables!$"
+    .string "היזהר!\n"
+    .string "אני מניח כבלים!$"
 
 Route11_Text_BraxtonDefeat::
-    .string "That was electric!$"
+    .string "זה היה חשמלי!$"
 
 Route11_Text_BraxtonPostBattle::
-    .string "Spread the word to save energy!$"
+    .string "תפיץ את הבשורה לשמור על אנרגיה!$"
 
 Route11_Text_DillonIntro::
-    .string "I just became a TRAINER.\n"
-    .string "But, I think I can win.$"
+    .string "רק עכשיו הפכתי למאמן.\n"
+    .string "אבל, אני חושב שאני יכול לנצח.$"
 
 Route11_Text_DillonDefeat::
-    .string "My POKéMON couldn't win…\n"
-    .string "Haven't they grown enough?$"
+    .string "הפוקימונים שלי לא הצליחו לנצח…\n"
+    .string "הם לא התפתח מספיק?$"
 
 Route11_Text_DillonPostBattle::
-    .string "What now?\n"
-    .string "Leave me alone!$"
+    .string "מה עכשיו?\n"
+    .string "תעזוב אותי!$"
 
 Route11_Text_DirkIntro::
-    .string "Fwahaha!\n"
-    .string "I have never lost!$"
+    .string "פוואהא!\n"
+    .string "מעולם לא הפסדתי!$"
 
 Route11_Text_DirkDefeat::
-    .string "My first loss!$"
+    .string "ההפסד הראשון שלי!$"
 
 Route11_Text_DirkPostBattle::
-    .string "You were just lucky, that's all.$"
+    .string "הייתה לך רק מזל, זה הכל.$"
 
 Route11_Text_DarianIntro::
-    .string "I have never won before…$"
+    .string "מעולם לא ניצחתי לפני כן…$"
 
 Route11_Text_DarianDefeat::
-    .string "I saw this coming…$"
+    .string "ציפיתי לזה…$"
 
 Route11_Text_DarianPostBattle::
-    .string "I was unlucky, as always.$"
+    .string "הייתי חסר מזל, כמו תמיד.$"
 
 Route11_Text_YasuIntro::
-    .string "I'm the best in my class.\n"
-    .string "I train every morning.$"
+    .string "אני הכי טוב בכיתה שלי.\n"
+    .string "אני מתאמן כל בוקר.$"
 
 Route11_Text_YasuDefeat::
-    .string "Darn!\n"
-    .string "My POKéMON need to be stronger!$"
+    .string "אוי!\n"
+    .string "הפוקימונים שלי צריכים להיות יותר חזקים!$"
 
 Route11_Text_YasuPostBattle::
-    .string "There's a fat POKéMON that comes\n"
-    .string "down from the mountains.\p"
-    .string "I bet it'd be strong if you can\n"
-    .string "catch it.$"
+    .string "יש פוקימון שמנמן שיורד\n"
+    .string "מההרים.\p"
+    .string "אני בטוח שהוא יהיה חזק אם תוכל\n"
+    .string "לתפוס אותו.$"
 
 Route11_Text_BernieIntro::
-    .string "Watch out for live wires!$"
+    .string "היזהר מחוטים חיים!$"
 
 Route11_Text_BernieDefeat::
-    .string "Whoa!\n"
-    .string "You spark plug!$"
+    .string "וואו!\n"
+    .string "אתה פקק חשמל!$"
 
 Route11_Text_BerniePostBattle::
-    .string "Well, better get back to work.$"
+    .string "ובכן, כדאי לחזור לעבודה.$"
 
 Route11_Text_DaveIntro::
-    .string "I raised my POKéMON carefully.\n"
-    .string "They should be ready by now!$"
+    .string "גידלתי את הפוקימונים שלי בזהירות.\n"
+    .string "הם אמורים להיות מוכנים עכשיו!$"
 
 Route11_Text_DaveDefeat::
-    .string "Bye-bye!\n"
-    .string "Thank you, and good-bye!$"
+    .string "ביי ביי!\n"
+    .string "תודה, ולהתראות!$"
 
 Route11_Text_DavePostBattle::
-    .string "Tch…\n"
-    .string "I better go find stronger ones!$"
+    .string "צ'ח…\n"
+    .string "אני צריך למצוא פוקימונים יותר חזקים!$"
 
 Route11_Text_DiglettsCave::
-    .string "DIGLETT'S CAVE$"
-
+    .string "מערת דיגלט$"

@@ -1,86 +1,84 @@
 Route10_Text_MarkIntro::
-    .string "Wow, you came all the way here?\n"
-    .string "Maybe you're a POKéMANIAC, too?\l"
-    .string "Want to see my collection?$"
+    .string "וואו, הגעת כל הדרך הנה?\n"
+    .string "אולי גם אתה פוקימניאק?\l"
+    .string "רוצה לראות את האוסף שלי?$"
 
 Route10_Text_MarkDefeat::
-    .string "Humph.\n"
-    .string "I'm not angry!$"
+    .string "הממ.\n"
+    .string "אני לא כועס!$"
 
 Route10_Text_MarkPostBattle::
-    .string "I have more rare POKéMON at home!$"
+    .string "יש לי עוד פוקימונים נדירים בבית!$"
 
 Route10_Text_ClarkIntro::
-    .string "Ha-hahah-ah-ha!$"
+    .string "הא-הא-ה-הא!$"
 
 Route10_Text_ClarkDefeat::
-    .string "Ha-haha!\n"
-    .string "Not laughing!\l"
-    .string "Ha-hay fever! Haha-ha-choo!$"
+    .string "הא-הא!\n"
+    .string "לא צוחק!\l"
+    .string "הא-חוות צינון! הא-הא-צ'ו!$"
 
 Route10_Text_ClarkPostBattle::
-    .string "Haha-ha-choo!\n"
-    .string "Ha-choo!\l"
-    .string "Snort! Snivel!$"
+    .string "הא-הא-צ'ו!\n"
+    .string "הא-צ'ו!\l"
+    .string "נחיר! נזלת!$"
 
 Route10_Text_HermanIntro::
-    .string "Hi, kid!\n"
-    .string "Want to see my POKéMON?$"
+    .string "שלום, ילד!\n"
+    .string "רוצה לראות את הפוקימונים שלי?$"
 
 Route10_Text_HermanDefeat::
-    .string "Oh, no!\n"
-    .string "My POKéMON!$"
+    .string "אוי, לא!\n"
+    .string "הפוקימונים שלי!$"
 
 Route10_Text_HermanPostBattle::
-    .string "I don't like you.\n"
-    .string "I don't like anyone better than me!$"
+    .string "אני לא אוהב אותך.\n"
+    .string "אני לא אוהב אף אחד יותר ממני!$"
 
 Route10_Text_HeidiIntro::
-    .string "I've been out at a POKéMON GYM\n"
-    .string "a few times.\p"
-    .string "…But I always lose.$"
+    .string "הייתי בכמה אימונים במכון\n"
+    .string "הפוקימונים …אבל תמיד אני מפסידה.$"
 
 Route10_Text_HeidiDefeat::
-    .string "Ohh!\n"
-    .string "After all my training!$"
+    .string "אוי!\n"
+    .string "אחרי כל האימונים שלי!$"
 
 Route10_Text_HeidiPostBattle::
-    .string "I noticed some POKéMANIACS\n"
-    .string "prowling around.\p"
-    .string "Can you imagine? Them?\n"
-    .string "Up here in the mountains?$"
+    .string "שמת לב לכמה פוקימניאקים\n"
+    .string "פזורים פה?\p"
+    .string "תוכל לדמיין? הם?\n"
+    .string "פה בהרים?$"
 
 Route10_Text_TrentIntro::
-    .string "Ah!\n"
-    .string "This mountain air is delicious!$"
+    .string "אה!\n"
+    .string "האוויר ההררי הזה טעים!$"
 
 Route10_Text_TrentDefeat::
-    .string "That cleared my head!$"
+    .string "זה פתח לי את הראש!$"
 
 Route10_Text_TrentPostBattle::
-    .string "I feel bloated on mountain air!$"
+    .string "אני מרגיש מנופח מאוויר הרים!$"
 
 Route10_Text_CarolIntro::
-    .string "I'm feeling a bit faint.\n"
-    .string "I haven't hiked in some time.$"
+    .string "אני מרגישה קצת סחוטה.\n"
+    .string "לא יצא לי לטפס הרבה בזמן האחרון.$"
 
 Route10_Text_CarolDefeat::
-    .string "I'm too tired.\n"
-    .string "I wasn't up for it.$"
+    .string "אני עייפה מדי.\n"
+    .string "לא הייתי מוכנה לזה.$"
 
 Route10_Text_CarolPostBattle::
-    .string "The POKéMON here in the mountains\n"
-    .string "are so chunky…\p"
-    .string "I wish there were pink POKéMON\n"
-    .string "with a floral pattern!$"
+    .string "הפוקימונים פה בהרים\n"
+    .string "כל כך מסיביים…\p"
+    .string "הייתי רוצה שיהיו פוקימונים ורודים\n"
+    .string "עם דפוס פרחוני!$"
 
 Route10_Text_RockTunnelDetourToLavender::
-    .string "ROCK TUNNEL\n"
-    .string "Detour to LAVENDER TOWN$"
+    .string "מנהרת אבן\n"
+    .string "עקיפה לעיר לאבנדר$"
 
 Route10_Text_RockTunnel::
-    .string "ROCK TUNNEL$"
+    .string "מנהרת אבן$"
 
 Route10_Text_PowerPlant::
-    .string "POWER PLANT$"
-
+    .string "תחנת כוח$"
