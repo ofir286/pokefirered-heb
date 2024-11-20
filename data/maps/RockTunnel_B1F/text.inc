@@ -1,95 +1,92 @@
 RockTunnel_B1F_Text_SofiaIntro::
-    .string "Do you know how you can avoid\n"
-    .string "getting lost in the mountains?\p"
-    .string "You can bend twigs as trail\n"
-    .string "markers.$"
+    .string "אתה יודע איך אפשר להימנע\n"
+    .string "מהתברברות בהרים?\p"
+    .string "אפשר לקפל ענפים כסימני שביל.$"
 
 RockTunnel_B1F_Text_SofiaDefeat::
-    .string "Ohhh!\n"
-    .string "I did my best!$"
+    .string "אוה!\n"
+    .string "עשיתי כמיטב יכולתי!$"
 
 RockTunnel_B1F_Text_SofiaPostBattle::
-    .string "I want to go home!$"
+    .string "אני רוצה לחזור הביתה!$"
 
 RockTunnel_B1F_Text_DudleyIntro::
-    .string "Hahaha!\n"
-    .string "Can you beat my power?$"
+    .string "חחחח!\n"
+    .string "אתה יכול לנצח את הכוח שלי?$"
 
 RockTunnel_B1F_Text_DudleyDefeat::
-    .string "Oops!\n"
-    .string "Outmuscled!$"
+    .string "אופס!\n"
+    .string "הובסתי בכוח!$"
 
 RockTunnel_B1F_Text_DudleyPostBattle::
-    .string "I go for power because I hate\n"
-    .string "thinking.$"
+    .string "אני הולך לכוח כי אני שונא\n"
+    .string "לחשוב.$"
 
 RockTunnel_B1F_Text_CooperIntro::
-    .string "You have a POKéDEX?\n"
-    .string "I want one, too.$"
+    .string "יש לך הפוקדקס?\n"
+    .string "אני גם רוצה אחד!$"
 
 RockTunnel_B1F_Text_CooperDefeat::
-    .string "Shoot!\n"
-    .string "I am so jealous!$"
+    .string "יו!.\n"
+    .string "אני כל כך מקנא!$"
 
 RockTunnel_B1F_Text_CooperPostBattle::
-    .string "When you finish your POKéDEX,\n"
-    .string "can I have it?$"
+    .string "כשאתה מסיים את הפוקדקס שלך,\n"
+    .string "אפשר לקבל אותו?$"
 
 RockTunnel_B1F_Text_SteveIntro::
-    .string "Um… Do you know about POKéMON\n"
-    .string "cosplay?$"
+    .string "אה… אתה יודע על קוספליי של פוקימונים?\n"
 
 RockTunnel_B1F_Text_SteveDefeat::
-    .string "Well, that's that.$"
+    .string "טוב, זהו.$"
 
 RockTunnel_B1F_Text_StevePostBattle::
-    .string "POKéMON cosplay is dressing up as\n"
-    .string "POKéMON for fun.\p"
-    .string "CLEFAIRY is a favorite.$"
+    .string "קוספליי של פוקימונים זה להתחפש לפוקימונים\n"
+    .string "לכיף.\p"
+    .string "קלאפרי היא פוקימון פופולרי.$"
 
 RockTunnel_B1F_Text_AllenIntro::
-    .string "My POKéMON techniques will leave\n"
-    .string "you crying!$"
+    .string "הטכניקות של הפוקימונים שלי ישאירו\n"
+    .string "אותך בוכה!$"
 
 RockTunnel_B1F_Text_AllenDefeat::
-    .string "I give!\n"
-    .string "You're a better technician!$"
+    .string "אני מוותר!\n"
+    .string "אתה טכנאי טוב יותר!$"
 
 RockTunnel_B1F_Text_AllenPostBattle::
-    .string "In mountains, you'll often find\n"
-    .string "ROCK-type POKéMON.$"
+    .string "בהרים, תמצא הרבה\n"
+    .string "פוקימוני אבן.$"
 
 RockTunnel_B1F_Text_MarthaIntro::
-    .string "I don't often come here, but I will\n"
-    .string "battle you.$"
+    .string "אני לא באה לפה הרבה, אבל אני\n"
+    .string "אלחם בך.$"
 
 RockTunnel_B1F_Text_MarthaDefeat::
-    .string "Oh!\n"
-    .string "I lost!$"
+    .string "או!\n"
+    .string "הפסדתי!$"
 
 RockTunnel_B1F_Text_MarthaPostBattle::
-    .string "I like tiny POKéMON.\n"
-    .string "Big ones are too scary!$"
+    .string "אני אוהבת פוקימונים קטנים.\n"
+    .string "פוקימונים גדולים יותר מדי מפחידים!$"
 
 RockTunnel_B1F_Text_EricIntro::
-    .string "Hit me with your best shot!$"
+    .string "תן לי את המכה הכי טובה שלך!$"
 
 RockTunnel_B1F_Text_EricDefeat::
-    .string "Fired away!$"
+    .string "שיגרתי אותה!$"
 
 RockTunnel_B1F_Text_EricPostBattle::
-    .string "I'll raise my POKéMON to beat\n"
-    .string "yours, kid.$"
+    .string "אני אגדל את הפוקימונים שלי כדי להביס\n"
+    .string "את שלך, ילד.$"
 
 RockTunnel_B1F_Text_WinstonIntro::
-    .string "I draw illustrations of POKéMON\n"
-    .string "when I'm home.$"
+    .string "אני מצייר תמונות של פוקימונים\n"
+    .string "כשהמבית.$"
 
 RockTunnel_B1F_Text_WinstonDefeat::
-    .string "Whew…\n"
-    .string "I'm exhausted…$"
+    .string "פוו…\n"
+    .string "אני מותש…$"
 
 RockTunnel_B1F_Text_WinstonPostBattle::
-    .string "I'm an artist, not a fighter.\n"
-    .string "I'll go home to draw.$"
-
+    .string "אני אמן, לא לוחם.\n"
+    .string "אני אלך הביתה לצייר.$"
