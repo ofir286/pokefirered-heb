@@ -1,81 +1,80 @@
 SilphCo_5F_Text_RocketsInUproarAboutIntruder::
-    .string "TEAM ROCKET is in an uproar over\n"
-    .string "some intruder.\p"
-    .string "That's you, right?$"
+    .string "צוות רוקט בהמולה על\n"
+    .string "איזה פולש.\p"
+    .string "זה אתה, נכון?$"
 
 SilphCo_5F_Text_YoureOurHeroThankYou::
-    .string "TEAM ROCKET took off!\n"
-    .string "You're our hero! Thank you!$"
+    .string "צוות רוקט ברחו!\n"
+    .string "אתה הגיבור שלנו! תודה!$"
 
 SilphCo_5F_Text_Grunt1Intro::
-    .string "I heard a kid was wandering\n"
-    .string "around.$"
+    .string "שמעתי על ילד שמסתובב\n"
+    .string "סביבות כאן.$"
 
 SilphCo_5F_Text_Grunt1Defeat::
-    .string "Boom!$"
+    .string "בום!$"
 
 SilphCo_5F_Text_Grunt1PostBattle::
-    .string "It's not smart to pick a fight with\n"
-    .string "TEAM ROCKET!$"
+    .string "לא חכם להתעמת עם\n"
+    .string "צוות רוקט!$"
 
 SilphCo_5F_Text_BeauIntro::
-    .string "We study POKé BALL technology on\n"
-    .string "this floor.$"
+    .string "אנחנו לומדים טכנולוגיית פוקי בול\n"
+    .string "בקומה הזו.$"
 
 SilphCo_5F_Text_BeauDefeat::
-    .string "Dang!\n"
-    .string "Blast it!$"
+    .string "לעזאזל!\n"
+    .string "קללה!$"
 
 SilphCo_5F_Text_BeauPostBattle::
-    .string "We worked on the ultimate POKé\n"
-    .string "BALL which would catch anything.$"
+    .string "עבדנו על פוקי בול\n"
+    .string "הכי מתקדם, שיתפוס כל דבר.$"
 
 SilphCo_5F_Text_DaltonIntro::
-    .string "Whaaat?\p"
-    .string "There shouldn't be any children\n"
-    .string "here!$"
+    .string "מההה?\p"
+    .string "אסור שיהיו ילדים\n"
+    .string "כאן!$"
 
 SilphCo_5F_Text_DaltonDefeat::
-    .string "Oh, goodness!$"
+    .string "אוי, אלוהים!$"
 
 SilphCo_5F_Text_DaltonPostBattle::
-    .string "You're only on 5F.\n"
-    .string "It's a long way to my BOSS!$"
+    .string "אתה עדיין בקומה 5.\n"
+    .string "הדרך ארוכה עד לבוס שלי!$"
 
 SilphCo_5F_Text_Grunt2Intro::
-    .string "Show TEAM ROCKET a little respect!$"
+    .string "תראה קצת כבוד לצוות רוקט!$"
 
 SilphCo_5F_Text_Grunt2Defeat::
-    .string "Cough…\n"
-    .string "Cough…$"
+    .string "קח…\n"
+    .string "קח…$"
 
 SilphCo_5F_Text_Grunt2PostBattle::
-    .string "Which reminds me.\p"
-    .string "KOFFING evolves into WEEZING!$"
+    .string "זה מזכיר לי.\p"
+    .string "קופינג מתפתח לויזינג!$"
 
 SilphCo_5F_Text_PorygonFirstVRMon::
-    .string "It's a POKéMON REPORT!\p"
-    .string "POKéMON LAB created PORYGON,\n"
-    .string "the first virtual-reality POKéMON.$"
+    .string "זה דיווח פוקימון!\p"
+    .string "מעבדת פוקימון יצרה את פוריגון,\n"
+    .string "הפוקימון הראשון במציאות וירטואלית.$"
 
 SilphCo_5F_Text_Over350TechniquesConfirmed::
-    .string "It's a POKéMON REPORT!\p"
-    .string "Over 350 POKéMON techniques have\n"
-    .string "been confirmed.$"
+    .string "זה דיווח פוקימון!\p"
+    .string "אושר מעל 350 טכניקות פוקימון\n"
+    .string "המאושרות.$"
 
 SilphCo_5F_Text_SomeMonsEvolveWhenTraded::
-    .string "It's a POKéMON REPORT!\p"
-    .string "Some POKéMON have been confirmed\n"
-    .string "to evolve when they are traded.$"
+    .string "זה דיווח פוקימון!\p"
+    .string "כמה פוקימונים אושרו\n"
+    .string "כמתפתחים כאשר הם מומרות.$"
 
 SilphCo_5F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
-    .string "5F$"
+    .string "ארגון סילף. משרד ראשי\n"
+    .string "קומה 5$"
 
 SilphCo_5F_Text_RocketBossLookingForStrongMons::
-    .string "Those thugs that took over our\n"
-    .string "building…\p"
-    .string "Their BOSS said he was looking for\n"
-    .string "strong POKéMON.\p"
-    .string "I hope our PRESIDENT managed to\n"
-    .string "avoid trouble…$"
+    .string "החלאות שלקחו את הבניין שלנו…\p"
+    .string "הבוס שלהם אמר שהוא מחפש\n"
+    .string "פוקימונים חזקים.\p"
+    .string "אני מקווה שהנשיא שלנו הצליח\n"
+    .string "להימנע מבעיות…$"

@@ -1,47 +1,45 @@
 SilphCo_9F_Text_YouShouldTakeQuickNap::
-    .string "You look tired.\n"
-    .string "You should take a quick nap.$"
+    .string "אתה נראה עייף.\n"
+    .string "אתה צריך לקחת מנוחה קצרה.$"
 
 SilphCo_9F_Text_DontGiveUp::
-    .string "Don't give up!$"
+    .string "אל תוותר!$"
 
 SilphCo_9F_Text_ThankYouSoMuch::
-    .string "Thank you so much.$"
+    .string "תודה רבה!$"
 
 SilphCo_9F_Text_Grunt1Intro::
-    .string "Your POKéMON seem to adore you,\n"
-    .string "kid!$"
+    .string "הפוקימונים שלך נראים מאוד\n"
+    .string "מעריצים אותך, ילד!$"
 
 SilphCo_9F_Text_Grunt1Defeat::
-    .string "Ghaaah!$"
+    .string "גאהה!$"
 
 SilphCo_9F_Text_Grunt1PostBattle::
-    .string "If I had started as a TRAINER at\n"
-    .string "your age…$"
+    .string "אם הייתי מתחיל כמאמן בגילך…$"
 
 SilphCo_9F_Text_EdIntro::
-    .string "Your POKéMON have weak points!\n"
-    .string "I can nail them!$"
+    .string "לפוקימונים שלך יש נקודות תורפה!\n"
+    .string "אני יכול לפגוע בהם!$"
 
 SilphCo_9F_Text_EdDefeat::
-    .string "You hammered me!$"
+    .string "הכנעת אותי!$"
 
 SilphCo_9F_Text_EdPostBattle::
-    .string "Exploiting weak spots does work.\n"
-    .string "Think about type advantages.$"
+    .string "ניצול נקודות תורפה באמת עובד.\n"
+    .string "תחשוב על יתרונות סוגי הפוקימונים.$"
 
 SilphCo_9F_Text_Grunt2Intro::
-    .string "I am one of the four ROCKET\n"
-    .string "BROTHERS!$"
+    .string "אני אחד מ4 האחים של צוות רוקט!\n"
+    .string "$"
 
 SilphCo_9F_Text_Grunt2Defeat::
-    .string "Warg!\n"
-    .string "Brothers, I lost!$"
+    .string "ווורג!\n"
+    .string "אחים, הפסדתי!$"
 
 SilphCo_9F_Text_Grunt2PostBattle::
-    .string "My brothers will avenge me!$"
+    .string "האחים שלי ינקמו אותי!$"
 
 SilphCo_9F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
-    .string "9F$"
-
+    .string "ארגון סילף. משרד ראשי\n"
+    .string "קומה 9$"

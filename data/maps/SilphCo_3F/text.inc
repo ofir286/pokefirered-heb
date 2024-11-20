@@ -1,34 +1,33 @@
 SilphCo_3F_Text_WhatAmIToDo::
-    .string "I work for SILPH CO.\n"
-    .string "What am I to do?$"
+    .string "אני עובד עבור ארגון סילף.\n"
+    .string "מה עלי לעשות?$"
 
 SilphCo_3F_Text_YouAndYourMonsSavedUs::
     .string "{PLAYER}!\n"
-    .string "You and your POKéMON saved us!$"
+    .string "אתה ופוקמון שלך הצלתם אותנו!$"
 
 SilphCo_3F_Text_GruntIntro::
-    .string "Quit messing with us, kid!$"
+    .string "תפסיק להטריד אותנו, ילד!$"
 
 SilphCo_3F_Text_GruntDefeat::
-    .string "I give up!$"
+    .string "אני מוותר!$"
 
 SilphCo_3F_Text_GruntPostBattle::
-    .string "A hint? You can open doors with\n"
-    .string "a CARD KEY!$"
+    .string "רמז? אפשר לפתוח דלתות עם\n"
+    .string "כרטיס כרטיס!$"
 
 SilphCo_3F_Text_JoseIntro::
-    .string "I support TEAM ROCKET more than\n"
-    .string "I support SILPH CO.!$"
+    .string "אני תומך בצוות רוקט יותר\n"
+    .string "מאשר בארגון סילף.!$"
 
 SilphCo_3F_Text_JoseDefeat::
-    .string "You really got me!$"
+    .string "אתה באמת הצלחת להשיג אותי!$"
 
 SilphCo_3F_Text_JosePostBattle::
-    .string "Humph…\p"
-    .string "TEAM ROCKET said that if I helped\n"
-    .string "them, they'd let me study POKéMON.$"
+    .string "חפ…\p"
+    .string "צוות רוקט אמרו לי שאם אני אעזור להם\n"
+    .string "הם יתנו לי ללמוד על פוקימון.$"
 
 SilphCo_3F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
-    .string "3F$"
-
+    .string "ארגון סילף. משרד ראשי\n"
+    .string "קומה 3$"

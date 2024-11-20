@@ -1,49 +1,48 @@
 SilphCo_8F_Text_WonderIfSilphIsFinished::
-    .string "I wonder if SILPH is finished…$"
+    .string "אני תוהה אם ארגון סילף גמור…$"
 
 SilphCo_8F_Text_ThanksForSavingUs::
-    .string "Thanks for saving us!$"
+    .string "תודה שהצלת אותנו!$"
 
 SilphCo_8F_Text_Grunt1Intro::
-    .string "That's as far as you'll go!$"
+    .string "זה עד כאן בשבילך!$"
 
 SilphCo_8F_Text_Grunt1Defeat::
-    .string "Not enough grit!$"
+    .string "לא היה מספיק אומץ!$"
 
 SilphCo_8F_Text_Grunt1PostBattle::
-    .string "If you don't turn back…\n"
-    .string "I'll call for backup!$"
+    .string "אם לא תחזור…\n"
+    .string "אני אקרא לחיזוק!$"
 
 SilphCo_8F_Text_ParkerIntro::
-    .string "You're causing us problems!$"
+    .string "אתה גורם לנו צרות!$"
 
 SilphCo_8F_Text_ParkerDefeat::
-    .string "Huh?\n"
-    .string "I lost?$"
+    .string "הו?\n"
+    .string "הפסדתי?$"
 
 SilphCo_8F_Text_ParkerPostBattle::
-    .string "So, what do you think of SILPH\n"
-    .string "BUILDING's maze?$"
+    .string "אז, מה דעתך על המבוך של\n"
+    .string "בניין ארגון סילף?$"
 
 SilphCo_8F_Text_Grunt2Intro::
-    .string "I am one of the four ROCKET\n"
-    .string "BROTHERS!$"
+    .string "אני אחד מ-4 האחים של צוות רוקט!\n"
+    .string "$"
 
 SilphCo_8F_Text_Grunt2Defeat::
-    .string "Whoo!\n"
-    .string "Oh, Brothers!$"
+    .string "ווו!\n"
+    .string "אחים!$"
 
 SilphCo_8F_Text_Grunt2PostBattle::
-    .string "I'll leave you up to my brothers.$"
+    .string "אני משאיר אותך לאחים שלי.$"
 
 SilphCo_8F_Text_FloorSign::
-    .string "SILPH CO. HEAD OFFICE\n"
-    .string "8F$"
+    .string "ארגון סילף. משרד ראשי\n"
+    .string "קומה 8$"
 
 SilphCo_8F_Text_ToRocketBossMonsAreTools::
-    .string "TEAM ROCKET's BOSS is terribly\n"
-    .string "cruel!\p"
-    .string "To him, POKéMON are just tools to\n"
-    .string "be used.\p"
-    .string "What will happen if that tyrant\n"
-    .string "takes over our company…$"
+    .string "הבוס של צוות רוקט אכזרי מאוד!\p"
+    .string "בשבילו, פוקימונים הם רק כלים\n"
+    .string "לשימוש.\p"
+    .string "מה יקרה אם הדיקטטור הזה\n"
+    .string "ישתלט על החברה שלנו…$"
