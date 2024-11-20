@@ -1,20 +1,20 @@
 SafariZone_West_Text_RestHouse::
-    .string "REST HOUSE$"
+    .string "בית מנוחה$"
 
 SafariZone_West_Text_PleaseFindWardensLostTeeth::
-    .string "REQUEST NOTICE\p"
-    .string "Please find the SAFARI WARDEN's\n"
-    .string "lost GOLD TEETH.\l"
-    .string "They're around here somewhere.\p"
-    .string "Reward offered!\n"
-    .string "Contact: WARDEN$"
+    .string "הודעת בקשה\p"
+    .string "בבקשה תמצא את\n"
+    .string "השיניים הזהובות\n"
+    .string "האבודות של שומר הספארי.\l"
+    .string "הן כאן איפשהו.\p"
+    .string "פרס מוצע!\n"
+    .string "ליצור קשר: שומר$"
 
 SafariZone_West_Text_SearchForSecretHouse::
-    .string "TRAINER TIPS\p"
-    .string "Zone Exploration Campaign!\n"
-    .string "The Search for the SECRET HOUSE!$"
+    .string "עצות מאמן\p"
+    .string "קמפיין חקר האזור!\n"
+    .string "החיפוש אחרי הבית הסודי!$"
 
 SafariZone_West_Text_AreaSign::
-    .string "AREA 3\n"
-    .string "EAST: CENTER AREA$"
-
+    .string "אזור 3\n"
+    .string "מזרח: אזור המרכז$"

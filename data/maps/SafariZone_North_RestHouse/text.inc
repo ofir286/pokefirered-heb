@@ -1,15 +1,15 @@
 SafariZone_East_Text_KeepAnyItemFoundOnSafari::
-    .string "You can keep any item you find in\n"
-    .string "the SAFARI ZONE.\p"
-    .string "But, you'll run out of time if you\n"
-    .string "try for all of them at once.$"
+    .string "אתה יכול לשמור כל פריט שתמצא ב\n"
+    .string "אזור הספארי.\p"
+    .string "אבל, תסיים את הזמן אם תנסה\n"
+    .string "לקחת את כולם בבת אחת.$"
 
 SafariZone_East_Text_PrizeInDeepestPartOfSafariZone::
-    .string "Go to the deepest part of the\n"
-    .string "SAFARI ZONE. You will win a prize!$"
+    .string "לך לחלק העמוק ביותר של\n"
+    .string "אזור הספארי. תזכה בפרס!$"
 
 SafariZone_East_Text_MyEeveeEvolvedIntoFlareon::
-    .string "My EEVEE evolved into FLAREON.\p"
-    .string "But, a friend's EEVEE turned into a\n"
-    .string "VAPOREON. I wonder why?$"
-
+    .string "ה-איבי שלי התפתח ל-\n"
+    .string "פלאירון.\p"
+    .string "אבל, ה-איבי של חבר הפך ל-\n"
+    .string "ואפוריון. תוהה למה?$"
