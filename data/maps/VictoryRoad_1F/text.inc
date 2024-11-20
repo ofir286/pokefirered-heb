@@ -1,22 +1,21 @@
 VictoryRoad_1F_Text_NaomiIntro::
-    .string "I wonder if you are good enough\n"
-    .string "for me?$"
+    .string "אני תוהה אם אתה טוב מספיק\n"
+    .string "בשבילי?$"
 
 VictoryRoad_1F_Text_NaomiDefeat::
-    .string "I lost out…$"
+    .string "הפסדתי…$"
 
 VictoryRoad_1F_Text_NaomiPostBattle::
-    .string "I never wanted to lose to anybody,\n"
-    .string "especially to a younger kid…$"
+    .string "מעולם לא רציתי להפסיד למישהו,\n"
+    .string "בטח שלא לילד צעיר ממני…$"
 
 VictoryRoad_1F_Text_RolandoIntro::
-    .string "I can see you're good.\n"
-    .string "Let me see exactly how good!$"
+    .string "אני רואה שאתה טוב.\n"
+    .string "תן לי לראות בדיוק כמה טוב!$"
 
 VictoryRoad_1F_Text_RolandoDefeat::
-    .string "I had a chance…$"
+    .string "היה לי סיכוי…$"
 
 VictoryRoad_1F_Text_RolandoPostBattle::
-    .string "Tch!\n"
-    .string "I concede, you are better than I!$"
-
+    .string "צ'ח!\n"
+    .string "אני מוותר, אתה טוב ממני!$"
