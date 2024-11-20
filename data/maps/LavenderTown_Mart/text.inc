@@ -1,22 +1,20 @@
 LavenderTown_Mart_Text_SearchingForStatRaiseItems::
-    .string "I'm searching for items that raise\n"
-    .string "the stats of POKéMON.\p"
-    .string "They're effective over the course\n"
-    .string "of a single battle.\p"
-    .string "X ATTACK, X DEFEND, X SPEED, \n"
-    .string "and X SPECIAL are what I'm after.\p"
-    .string "Do you know where I can get them?$"
+    .string "אני מחפש פריטים שמעלים את\n"
+    .string "הנתונים של פוקימונים.\p"
+    .string "הם יעילים במהלך קרב יחיד בלבד.\p"
+    .string "אני מחפש X התקפה, X הגנה, \n"
+    .string "X מהירות, ו-X התקפה מיוחדת.\p"
+    .string "אתה יודע איפה אפשר להשיג אותם?$"
 
 LavenderTown_Mart_Text_DidYouBuyRevives::
-    .string "Did you buy some REVIVES?\n"
-    .string "They revive any fainted POKéMON!$"
+    .string "קנית כבר החייאה?\n"
+    .string "הם מחזירים פוקימון שהתעלף לחיים!$"
 
 LavenderTown_Mart_Text_TrainerDuosCanChallengeYou::
-    .string "Sometimes, a TRAINER duo will\n"
-    .string "challenge you with two POKéMON\l"
-    .string "at the same time.\p"
-    .string "If that happens, you have to send\n"
-    .string "out two POKéMON to battle, too.$"
+    .string "לפעמים צמד מאמנים עשוי לאתגר\n"
+    .string "אותך עם שני פוקימונים בו זמנית.\p"
+    .string "במקרה כזה, תצטרך להוציא שני\n"
+    .string "פוקימונים לקרב גם כן.$"
 
 LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000::
     .string "この　あいだ　やまおくで\n"
