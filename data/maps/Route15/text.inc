@@ -1,154 +1,154 @@
 Route15_Text_KindraIntro::
-    .string "I just got some POKéMON in trades.\n"
-    .string "Can I try them out on you?$"
+    .string "הרגע קיבלתי פוקימונים בהחלפות.\n"
+    .string "אפשר לנסות אותם עליך?$"
 
 Route15_Text_KindraDefeat::
-    .string "Not good enough!$"
+    .string "לא מספיק טוב!$"
 
 Route15_Text_KindraPostBattle::
-    .string "You can't change the nickname of\n"
-    .string "any POKéMON you get in a trade.\p"
-    .string "Only the Original TRAINER can get\n"
-    .string "the nickname changed.$"
+    .string "אי אפשר לשנות כינוי של פוקימון\n"
+    .string "שקיבלת בהחלפה.\p"
+    .string "רק המאמן המקורי יכול לשנות את\n"
+    .string "הכינוי.$"
 
 Route15_Text_BeckyIntro::
-    .string "You look gentle, so I think I can\n"
-    .string "beat you.\p"
-    .string "I'll give it a go!$"
+    .string "אתה נראה עדין, אז אני חושבת שאוכל\n"
+    .string "לנצח אותך.\p"
+    .string "בוא ננסה!$"
 
 Route15_Text_BeckyDefeat::
-    .string "No, wrong!$"
+    .string "לא, טעות!$"
 
 Route15_Text_BeckyPostBattle::
-    .string "I'm afraid of BIKERS. They look so\n"
-    .string "ugly and mean!$"
+    .string "אני מפחדת מאופנוענים. הם נראים\n"
+    .string "כל כך מכוערים ורעים!$"
 
 Route15_Text_EdwinIntro::
-    .string "When I whistle, I can summon bird\n"
-    .string "POKéMON.$"
+    .string "כשאני שורק, אני יכול לזמן פוקימונים\n"
+    .string "מעופפים.$"
 
 Route15_Text_EdwinDefeat::
-    .string "Ow!\n"
-    .string "That's tragic!$"
+    .string "אוי!\n"
+    .string "זה עצוב!$"
 
 Route15_Text_EdwinPostBattle::
-    .string "Maybe I'm not cut out for battles.\n"
-    .string "I'm not the right type, I guess.$"
+    .string "אולי אני לא מתאים לקרבות.\n"
+    .string "כנראה אני לא הסוג הנכון.$"
 
 Route15_Text_ChesterIntro::
-    .string "Hmm? My birds are shivering!\n"
-    .string "You're good, aren't you?$"
+    .string "הממ? הציפורים שלי רועדות!\n"
+    .string "אתה טוב, נכון?$"
 
 Route15_Text_ChesterDefeat::
-    .string "Just as I thought!$"
+    .string "כמו שחשבתי!$"
 
 Route15_Text_ChesterPostBattle::
-    .string "This is so obvious, you should know\n"
-    .string "this, but…\p"
-    .string "Moves like EARTHQUAKE and FISSURE\n"
-    .string "have no effect on bird POKéMON.$"
+    .string "זה כל כך ברור, אתה צריך לדעת\n"
+    .string "את זה, אבל…\p"
+    .string "תנועות כמו רעידת אדמה ותהום\n"
+    .string "לא משפיעות על פוקימונים מעופפים.$"
 
 Route15_Text_GraceIntro::
-    .string "Oh, you're a little cutie!\n"
-    .string "So like a darling POKéMON!$"
+    .string "או, אתה כזה חמוד!\n"
+    .string "כמו פוקימון מתוק!$"
 
 Route15_Text_GraceDefeat::
-    .string "You looked so cute, too!$"
+    .string "נראית כל כך חמוד, גם כן!$"
 
 Route15_Text_GracePostBattle::
-    .string "I forgive you.\n"
-    .string "I can take it.\l"
-    .string "I'm a big girl now.$"
+    .string "אני סולחת לך.\n"
+    .string "אני יכולה להתמודד עם זה.\l"
+    .string "אני ילדה גדולה עכשיו.$"
 
 Route15_Text_OliviaIntro::
-    .string "I raise POKéMON for protection\n"
-    .string "because I live alone.$"
+    .string "אני מגדלת פוקימונים להגנה\n"
+    .string "כי אני גרה לבד.$"
 
 Route15_Text_OliviaDefeat::
-    .string "POKéMON isn't about winning or\n"
-    .string "losing for me.$"
+    .string "בשבילי פוקימונים זה לא עניין של\n"
+    .string "ניצחון או הפסד.$"
 
 Route15_Text_OliviaPostBattle::
-    .string "I love having my POKéMON greet me\n"
-    .string "when I get home.\p"
-    .string "It's so reassuring.$"
+    .string "אני אוהבת שהפוקימונים שלי מקדמים\n"
+    .string "את פניי כשאני חוזרת הביתה.\p"
+    .string "זה כל כך מרגיע.$"
 
 Route15_Text_ErnestIntro::
-    .string "Hey, kid! C'mon!\n"
-    .string "I just got these off some loser!$"
+    .string "היי, ילד! קדימה!\n"
+    .string "הרגע קיבלתי את אלה ממפסידן כלשהו!$"
 
 Route15_Text_ErnestDefeat::
-    .string "Why not?$"
+    .string "למה לא?$"
 
 Route15_Text_ErnestPostBattle::
-    .string "Life's too short.\n"
-    .string "It's cool to live as an outlaw.\l"
-    .string "TEAM ROCKET RULES!$"
+    .string "החיים קצרים מדי.\n"
+    .string "מגניב לחיות כמו פורע חוק.\l"
+    .string "צוות רוקט שולטים!$"
 
 Route15_Text_AlexIntro::
-    .string "Fork over all your cash when you\n"
-    .string "lose to me, kid!$"
+    .string "תן את כל הכסף שלך כשאתה מפסיד\n"
+    .string "לי, ילד!$"
 
 Route15_Text_AlexDefeat::
-    .string "That can't be true!$"
+    .string "זה לא יכול להיות נכון!$"
 
 Route15_Text_AlexPostBattle::
-    .string "I was just joking about the money.\n"
-    .string "Don't take me all serious.$"
+    .string "רק צחקתי לגבי הכסף.\n"
+    .string "אל תיקח אותי ברצינות.$"
 
 Route15_Text_CeliaIntro::
-    .string "What's cool and happening?\n"
-    .string "Trading POKéMON!$"
+    .string "מה מגניב וחם עכשיו?\n"
+    .string "להחליף פוקימונים!$"
 
 Route15_Text_CeliaDefeat::
-    .string "I said trade!$"
+    .string "אמרתי להחליף!$"
 
 Route15_Text_CeliaPostBattle::
-    .string "I trade POKéMON with my friends\n"
-    .string "all the time.$"
+    .string "אני מחליפה פוקימונים עם החברים\n"
+    .string "שלי כל הזמן.$"
 
 Route15_Text_YazminIntro::
-    .string "Want to play with my POKéMON?$"
+    .string "רוצה לשחק עם הפוקימונים שלי?$"
 
 Route15_Text_YazminDefeat::
-    .string "I was too impatient!$"
+    .string "הייתי חסרת סבלנות מדי!$"
 
 Route15_Text_YazminPostBattle::
-    .string "I'll go train with weaker people.$"
+    .string "אלך להתאמן עם אנשים חלשים יותר.$"
 
 Route15_Text_RouteSign::
-    .string "ROUTE 15\n"
-    .string "West to FUCHSIA CITY$"
+    .string "נתיב 15\n"
+    .string "מערבה לעיר פוקסיה$"
 
 Route15_Text_MyaIntro::
-    .string "MYA: You're perfect.\n"
-    .string "Help me train my little brother?$"
+    .string "מיה: אתה מושלם.\n"
+    .string "תעזור לי לאמן את אחי הקטן?$"
 
 Route15_Text_MyaDefeat::
-    .string "MYA: RON, you have to focus!\n"
-    .string "Concentrate on what you're doing!$"
+    .string "מיה: רון, אתה חייב להתרכז!\n"
+    .string "תתמקד במה שאתה עושה!$"
 
 Route15_Text_MyaPostBattle::
-    .string "MYA: Okay, we'll turn it up.\n"
-    .string "I'll add to our training menu!$"
+    .string "מיה: אוקיי, נגביר את הקצב.\n"
+    .string "אוסיף לתפריט האימונים שלנו!$"
 
 Route15_Text_MyaNotEnoughMons::
-    .string "MYA: Do you want to challenge us?\n"
-    .string "You'll need two POKéMON, though.$"
+    .string "מיה: רוצה לאתגר אותנו?\n"
+    .string "תצטרך שני פוקימונים, אם כך.$"
 
 Route15_Text_RonIntro::
-    .string "RON: My sister gets scary when we\n"
-    .string "lose.$"
+    .string "רון: אחותי נעשית מפחידה כשאנחנו\n"
+    .string "מפסידים.$"
 
 Route15_Text_RonDefeat::
-    .string "RON: Oh, no, no…\n"
-    .string "Sis, I'm sorry!$"
+    .string "רון: אוי, לא, לא…\n"
+    .string "אחותי, אני מצטער!$"
 
 Route15_Text_RonPostBattle::
-    .string "RON: Oh, bleah…\n"
-    .string "I wish I had a nice sister…$"
+    .string "רון: אוי, איכס…\n"
+    .string "הלוואי והייתה לי אחות נחמדה…$"
 
 Route15_Text_RonNotEnoughMons::
-    .string "RON: Did you want to battle with\n"
-    .string "my sister and me?\p"
-    .string "You need two POKéMON, then.$"
+    .string "רון: רצית להילחם עם\n"
+    .string "האחות שלי ואני?\p"
+    .string "אז תצטרך שני פוקימונים.$"

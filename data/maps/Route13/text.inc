@@ -1,128 +1,127 @@
 Route13_Text_SebastianIntro::
-    .string "My bird POKéMON want to battle\n"
-    .string "with you!$"
+    .string "הפוקימונים המעופפים שלי רוצים\n"
+    .string "להילחם איתך!$"
 
 Route13_Text_SebastianDefeat::
-    .string "My PIDGEY and PIDGEOTTO combo\n"
-    .string "lost?$"
+    .string "הצמד פידג'י ופידג'וטו שלי\n"
+    .string "הפסיד?$"
 
 Route13_Text_SebastianPostBattle::
-    .string "My POKéMON look happy even though\n"
-    .string "they lost.$"
+    .string "הפוקימונים שלי נראים שמחים\n"
+    .string "אפילו שהם הפסידו.$"
 
 Route13_Text_SusieIntro::
-    .string "I'm told I'm good for a kid.$"
+    .string "אמרו לי שאני טובה בשביל ילדה.$"
 
 Route13_Text_SusieDefeat::
-    .string "Ohh!\n"
-    .string "I lost!$"
+    .string "אוי!\n"
+    .string "הפסדתי!$"
 
 Route13_Text_SusiePostBattle::
-    .string "I want to become a good TRAINER.\n"
-    .string "I'll train hard, just watch.$"
+    .string "אני רוצה להפוך למאמנת טובה.\n"
+    .string "אתאמן קשה, רק תראה.$"
 
 Route13_Text_ValerieIntro::
-    .string "Wow!\n"
-    .string "Your BADGES are too cool!$"
+    .string "וואו!\n"
+    .string "התגים שלך ממש מגניבים!$"
 
 Route13_Text_ValerieDefeat::
-    .string "Not enough!$"
+    .string "לא מספיק!$"
 
 Route13_Text_ValeriePostBattle::
-    .string "You got those BADGES from GYM\n"
-    .string "LEADERS. I know!$"
+    .string "אתה קיבלת את התגים האלו ממנהיגי\n"
+    .string "אולמות. אני יודעת!$"
 
 Route13_Text_GwenIntro::
-    .string "My cute POKéMON wish to make your\n"
-    .string "acquaintance.$"
+    .string "הפוקימונים החמודים שלי רוצים\n"
+    .string "להכיר אותך.$"
 
 Route13_Text_GwenDefeat::
-    .string "Good going!\n"
-    .string "You totally won!$"
+    .string "כל הכבוד!\n"
+    .string "ניצחת לגמרי!$"
 
 Route13_Text_GwenPostBattle::
-    .string "You have to make POKéMON battle\n"
-    .string "to toughen them up.$"
+    .string "צריך לגרום לפוקימונים להילחם\n"
+    .string "כדי לחזק אותם.$"
 
 Route13_Text_AlmaIntro::
-    .string "I found CARBOS in a cave once\n"
-    .string "while I was spelunking.$"
+    .string "מצאתי קרבוס פעם במערה בזמן\n"
+    .string "ששחזרתי.$"
 
 Route13_Text_AlmaDefeat::
-    .string "Oh, too bad!\n"
-    .string "I just messed up!$"
+    .string "אוי, חבל!\n"
+    .string "פשוט טעיתי!$"
 
 Route13_Text_AlmaPostBattle::
-    .string "CARBOS boosted the SPEED of my\n"
-    .string "POKéMON.$"
+    .string "קרבוס שיפר את המהירות של\n"
+    .string "הפוקימונים שלי.$"
 
 Route13_Text_PerryIntro::
-    .string "I'm not going to lose.\n"
-    .string "Not when the wind's blowing my way!$"
+    .string "אני לא עומד להפסיד.\n"
+    .string "לא כשהרוח לטובתי!$"
 
 Route13_Text_PerryDefeat::
-    .string "The wind turned!$"
+    .string "הרוח התהפכה!$"
 
 Route13_Text_PerryPostBattle::
-    .string "I'm beat.\n"
-    .string "I guess I'll FLY home.$"
+    .string "אני מותש.\n"
+    .string "אני מניח שאעוף הביתה.$"
 
 Route13_Text_LolaIntro::
-    .string "Sure, I'll play with you, sweetie.$"
+    .string "בטח, אשחק איתך, מתוק.$"
 
 Route13_Text_LolaDefeat::
-    .string "Oh!\n"
-    .string "You little beast!$"
+    .string "אוי!\n"
+    .string "איזה שדון קטן אתה!$"
 
 Route13_Text_LolaPostBattle::
-    .string "I wonder which is stronger, male or\n"
-    .string "female POKéMON?$"
+    .string "מעניין מי יותר חזק, פוקימונים\n"
+    .string "זכרים או נקבות?$"
 
 Route13_Text_SheilaIntro::
-    .string "Do you want to battle some\n"
-    .string "POKéMON with me?$"
+    .string "רוצה להילחם בפוקימונים יחד\n"
+    .string "איתי?$"
 
 Route13_Text_SheilaDefeat::
-    .string "It's over already?$"
+    .string "זה נגמר כבר?$"
 
 Route13_Text_SheilaPostBattle::
-    .string "I don't know anything about\n"
-    .string "POKéMON actually.\p"
-    .string "The ones I use… I picked them\n"
-    .string "for their looks!$"
+    .string "אני לא יודעת כלום על\n"
+    .string "פוקימונים בעצם.\p"
+    .string "את אלו שאני משתמשת בהם… בחרתי\n"
+    .string "בגלל איך שהם נראים!$"
 
 Route13_Text_JaredIntro::
-    .string "What're you lookin' at?$"
+    .string "על מה אתה מסתכל?$"
 
 Route13_Text_JaredDefeat::
-    .string "Dang!\n"
-    .string "Stripped gears!$"
+    .string "אוף!\n"
+    .string "הרסת אותי!$"
 
 Route13_Text_JaredPostBattle::
-    .string "Get lost!$"
+    .string "תסתלק מכאן!$"
 
 Route13_Text_RobertIntro::
-    .string "I always go with bird POKéMON.\n"
-    .string "I've dedicated myself to them.$"
+    .string "אני תמיד בוחר בפוקימונים מעופפים.\n"
+    .string "הקדשתי את עצמי להם.$"
 
 Route13_Text_RobertDefeat::
-    .string "Out of power!$"
+    .string "נגמר לי הכוח!$"
 
 Route13_Text_RobertPostBattle::
-    .string "I wish I could fly like PIDGEY and\n"
-    .string "PIDGEOTTO…$"
+    .string "הלוואי שיכולתי לעוף כמו פידג'י\n"
+    .string "ופידג'וטו…$"
 
 Route13_Text_LookToLeftOfThatPost::
-    .string "TRAINER TIPS\p"
-    .string "Look, look!\n"
-    .string "Look to the left of that post!$"
+    .string "טיפים למאמנים\p"
+    .string "תסתכל, תסתכל!\n"
+    .string "תסתכל שמאלה מהעמוד הזה!$"
 
 Route13_Text_SelectToSwitchItems::
-    .string "TRAINER TIPS\p"
-    .string "Use SELECT to switch items in the\n"
-    .string "ITEMS window.$"
+    .string "טיפים למאמנים\p"
+    .string "השתמש ב-SELECT כדי להחליף פריטים\n"
+    .string "בחלון הפריטים.$"
 
 Route13_Text_RouteSign::
-    .string "ROUTE 13\n"
-    .string "North to SILENCE BRIDGE$"
-
+    .string "דרך 13\n"
+    .string "צפונה אל גשר השקט$"

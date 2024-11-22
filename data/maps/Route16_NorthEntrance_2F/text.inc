@@ -1,47 +1,44 @@
 Route16_NorthEntrance_2F_Text_OnBikeRideWithGirlfriend::
-    .string "I'm on a relaxing ride on my new\n"
-    .string "bike with my girlfriend.$"
+    .string "אני בטיול רגוע על האופניים החדשים\n"
+    .string "שלי עם החברה שלי.$"
 
 Route16_NorthEntrance_2F_Text_RidingTogetherOnNewBikes::
-    .string "We're going riding together on our\n"
-    .string "new bikes.$"
+    .string "אנחנו רוכבים יחד על האופניים\n"
+    .string "החדשים שלנו.$"
 
 Route16_NorthEntrance_2F_Text_ItsCeladonDeptStore::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "It's the CELADON DEPT. STORE!$"
+    .string "בואו נראה מה המשקפת מראה לנו…\p"
+    .string "זהו הכלבו של סלאדון!$"
 
 Route16_NorthEntrance_2F_Text_LongPathOverWater::
-    .string "Let's see what the binoculars have\n"
-    .string "to show…\p"
-    .string "There's a long path over water far\n"
-    .string "away.$"
+    .string "בואו נראה מה המשקפת מראה לנו…\p"
+    .string "יש שם שביל ארוך מעל המים רחוק\n"
+    .string "מאוד.$"
 
 Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
-    .string "Hi! Remember me?\n"
-    .string "I'm one of PROF. OAK's AIDES.\p"
-    .string "If your POKéDEX has complete data\n"
-    .string "on 40 species, I'm supposed to\l"
-    .string "give you a reward.\p"
-    .string "PROF. OAK entrusted me with an\n"
-    .string "AMULET COIN for you.\p"
-    .string "So, {PLAYER}, let me ask you.\p"
-    .string "Have you gathered data on at least\n"
-    .string "40 kinds of POKéMON?$"
+    .string "שלום! זוכר אותי?\n"
+    .string "אני אחד מהעוזרים של פרופ' אוק.\p"
+    .string "אם הפוקידע שלך מכיל נתונים\n"
+    .string "מלאים על 40 מינים, אני אמור להעניק\l"
+    .string "לך פרס.\p"
+    .string "פרופ' אוק הפקיד אותי עם\n"
+    .string "מטבע הקמע עבורך.\p"
+    .string "אז, {PLAYER}, הרשה לי לשאול אותך.\p"
+    .string "האם אספת נתונים לפחות על\n"
+    .string "40 סוגי פוקימונים?$"
 
 Route16_NorthEntrance_2F_Text_GreatHereYouGo::
-    .string "Great! You have caught or owned\n"
-    .string "{STR_VAR_3} kinds of POKéMON!\p"
-    .string "Congratulations!\n"
-    .string "Here you go!$"
+    .string "מעולה! לכדת או החזקת\n"
+    .string "{STR_VAR_3} סוגי פוקימונים!\p"
+    .string "מזל טוב!\n"
+    .string "הנה, זה בשבילך!$"
 
 Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
-    .string "{PLAYER} received the AMULET COIN\n"
-    .string "from the AIDE.$"
+    .string "{PLAYER} קיבל את מטבע הקמע\n"
+    .string "מהעוזר.$"
 
 Route16_NorthEntrance_2F_Text_ExplainAmuletCoin::
-    .string "An AMULET COIN is an item to be\n"
-    .string "held by a POKéMON.\p"
-    .string "If the POKéMON appears in a winning\n"
-    .string "battle, you will earn more money.$"
-
+    .string "מטבע הקמע הוא פריט שצריך\n"
+    .string "להחזיק על ידי פוקימון.\p"
+    .string "אם הפוקימון מופיע בקרב מנצח,\n"
+    .string "תרוויח יותר כסף.$"

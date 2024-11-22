@@ -1,21 +1,20 @@
 Route16_House_Text_FoundMySecretRetreat::
-    .string "Oh, dear.\n"
-    .string "You've found my secret retreat.\p"
-    .string "Please don't tell anyone I'm here.\n"
-    .string "I'll make it up to you with this!$"
+    .string "אוי, לא.\n"
+    .string "מצאת את המסתור הסודי שלי.\p"
+    .string "בבקשה אל תספר לאף אחד שאני כאן.\n"
+    .string "אני אפצה אותך בזה!$"
 
 Route16_House_Text_ReceivedHM02FromGirl::
-    .string "{PLAYER} received HM02\n"
-    .string "from the girl.$"
+    .string "{PLAYER} קיבל/ה את מ”נ02\n"
+    .string "מהילדה.$"
 
 Route16_House_Text_ExplainHM02::
-    .string "HM02 is FLY.\n"
-    .string "It's a wonderfully convenient move.\p"
-    .string "Please, put it to good use.$"
+    .string "מ”נ02 הוא תעופה.\n"
+    .string "זו תנועה נוחה במיוחד.\p"
+    .string "בבקשה, תעשה בזה שימוש טוב.$"
 
 Route16_House_Text_DontHaveAnyRoomForThis::
-    .string "You don't have any room for this.$"
+    .string "אין לך מקום לזה.$"
 
 Route16_House_Text_Fearow::
-    .string "FEAROW: Kyueen!$"
-
+    .string "פירואו: קוווין!$"
