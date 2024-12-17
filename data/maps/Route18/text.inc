@@ -1,40 +1,39 @@
 Route18_Text_WiltonIntro::
-    .string "I always check every grassy area\n"
-    .string "for new POKéMON.$"
+    .string "אני תמיד בודק כל אזור דשא\n"
+    .string "כדי למצוא פוקימונים חדשים.$"
 
 Route18_Text_WiltonDefeat::
-    .string "Tch!$"
+    .string "אוף!$"
 
 Route18_Text_WiltonPostBattle::
-    .string "I wish I had a BIKE!$"
+    .string "הלוואי והיו לי אופניים!$"
 
 Route18_Text_RamiroIntro::
-    .string "Kurukkoo!\n"
-    .string "How do you like my birdcall?$"
+    .string "קורוקוקו!\n"
+    .string "איך הציפור שלי נשמעת?$"
 
 Route18_Text_RamiroDefeat::
-    .string "I had to bug you!$"
+    .string "הייתי חייב להציק לך!$"
 
 Route18_Text_RamiroPostBattle::
-    .string "I collect sea POKéMON on weekends\n"
-    .string "because the sea is so close.$"
+    .string "אני אוסף פוקימונים ימיים בסופי\n"
+    .string "שבוע כי הים כל כך קרוב.$"
 
 Route18_Text_JacobIntro::
-    .string "This is my turf!\n"
-    .string "Get out of here!$"
+    .string "זה השטח שלי!\n"
+    .string "תעוף מפה!$"
 
 Route18_Text_JacobDefeat::
-    .string "Darn!$"
+    .string "לעזאזל!$"
 
 Route18_Text_JacobPostBattle::
-    .string "This is my fave area for catching\n"
-    .string "POKéMON.$"
+    .string "זה האזור האהוב עליי לתפיסת\n"
+    .string "פוקימונים.$"
 
 Route18_Text_RouteSign::
-    .string "ROUTE 18\n"
-    .string "CELADON CITY - FUCHSIA CITY$"
+    .string "שביל 18\n"
+    .string "עיר סלדון - עיר פוקסיה$"
 
 Route18_Text_CyclingRoadSign::
-    .string "CYCLING ROAD\n"
-    .string "No pedestrians permitted!$"
-
+    .string "שביל האופניים\n"
+    .string "אין כניסה להולכי רגל!$"

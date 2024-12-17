@@ -1,162 +1,163 @@
 Route8_Text_AidanIntro::
-    .string "You look good at POKéMON, but how\n"
-    .string "is your chemistry grade?$"
+    .string "אתה נראה טוב עם פוקימונים,\n"
+    .string "אבל איך הציון שלך בכימיה?$"
 
 Route8_Text_AidanDefeat::
-    .string "Ow!\n"
-    .string "Meltdown!$"
+    .string "או!\n"
+    .string "התמוטטות!$"
 
 Route8_Text_AidanPostBattle::
-    .string "I am better at school than this!$"
+    .string "אני יותר טוב בלימודים מאשר בזה!$"
 
 Route8_Text_StanIntro::
-    .string "All right!\n"
-    .string "Let's play a game!$"
+    .string "בסדר!\n"
+    .string "בוא נשחק משחק!$"
 
 Route8_Text_StanDefeat::
-    .string "Drat!\n"
-    .string "Came up short!$"
+    .string "לעזאזל!\n"
+    .string "פספסתי!$"
 
 Route8_Text_StanPostBattle::
-    .string "Things didn't work today.$"
+    .string "הדברים לא עבדו היום.$"
 
 Route8_Text_GlennIntro::
-    .string "You should be informed.\n"
-    .string "You need strategy to win at this!$"
+    .string "אתה צריך לדעת.\n"
+    .string "צריך אסטרטגיה כדי לנצח בזה!$"
 
 Route8_Text_GlennDefeat::
-    .string "It's not logical!$"
+    .string "זה לא הגיוני!$"
 
 Route8_Text_GlennPostBattle::
-    .string "Go with GRIMER first…and…\n"
-    .string "…and…then…$"
+    .string "לך עם גריימר ראשון…ואז…\n"
+    .string "…ואז…$"
 
 Route8_Text_PaigeIntro::
-    .string "I like NIDORAN, so I collect them!$"
+    .string "אני אוהבת נידורן, אז אני אוספת\n"
+    .string "אותם!$"
 
 Route8_Text_PaigeDefeat::
-    .string "Why?\n"
-    .string "Why??$"
+    .string "למה?\n"
+    .string "למה??$"
 
 Route8_Text_PaigePostBattle::
-    .string "When POKéMON grow up, they get\n"
-    .string "ugly! They shouldn't evolve.$"
+    .string "כשפוקימונים גדלים, הם הופכים\n"
+    .string "מכוערים! הם לא צריכים להתפתח.$"
 
 Route8_Text_LeslieIntro::
-    .string "School is fun, but so are POKéMON.$"
+    .string "בית הספר כיף, אבל גם פוקימונים.$"
 
 Route8_Text_LeslieDefeat::
-    .string "You made it clear to me that\n"
-    .string "I should stick with school.$"
+    .string "הבהרת לי שאני צריך להמשיך עם\n"
+    .string "בית הספר.$"
 
 Route8_Text_LesliePostBattle::
-    .string "I was planning on getting some\n"
-    .string "fresh air for a change, but…\p"
-    .string "We're stuck here because of the\n"
-    .string "gates at SAFFRON.$"
+    .string "תכננתי לקחת קצת אוויר צח לשם\n"
+    .string "שינוי, אבל…\p"
+    .string "אנחנו תקועים כאן בגלל השערים\n"
+    .string "בסאפרון.$"
 
 Route8_Text_AndreaIntro::
-    .string "MEOWTH is so cute, meow, meow,\n"
-    .string "meow!$"
+    .string "מיאות' כל כך חמוד, מיאו, מיאו,\n"
+    .string "מיאו!$"
 
 Route8_Text_AndreaDefeat::
-    .string "Meeeeyow!$"
+    .string "מייייייאו!$"
 
 Route8_Text_AndreaPostBattle::
-    .string "I think PIDGEY and RATTATA are\n"
-    .string "cute, too!$"
+    .string "אני חושבת שפידג'י וראטטה גם\n"
+    .string "חמודים!$"
 
 Route8_Text_MeganIntro::
-    .string "We must look silly standing here\n"
-    .string "like this.$"
+    .string "אנחנו בטח נראים טיפשים כשאנחנו\n"
+    .string "עומדים ככה.$"
 
 Route8_Text_MeganDefeat::
-    .string "Look what you did to my poor, cute\n"
-    .string "POKéMON!$"
+    .string "תראה מה עשית לפוקימונים\n"
+    .string "המסכנים והחמודים שלי!$"
 
 Route8_Text_MeganPostBattle::
-    .string "SAFFRON's gatekeeper won't let us\n"
-    .string "go through.\p"
-    .string "I know he's doing his job, but I\n"
-    .string "think he's mean.$"
+    .string "שומר השער של סאפרון לא נותן\n"
+    .string "לנו לעבור.\p"
+    .string "אני יודעת שהוא עושה את העבודה\n"
+    .string "שלו, אבל אני חושבת שהוא מרושע.$"
 
 Route8_Text_RichIntro::
-    .string "I'm a rambling, gaming dude!$"
+    .string "אני בחור שמבלה ומזל משחקים!$"
 
 Route8_Text_RichDefeat::
-    .string "Missed the big chance!$"
+    .string "פספסתי את ההזדמנות הגדולה!$"
 
 Route8_Text_RichPostBattle::
-    .string "Playing games and POKéMON are like\n"
-    .string "eating peanuts! I just can't stop!$"
+    .string "לשחק משחקים ופוקימונים זה כמו\n"
+    .string "לאכול בוטנים! אני פשוט לא יכול\n"
+    .string "להפסיק!$"
 
 Route8_Text_JuliaIntro::
-    .string "What's a cute, round, and fluffy\n"
-    .string "POKéMON?$"
+    .string "מה זה פוקימון חמוד, עגול,\n"
+    .string "ורך?$"
 
 Route8_Text_JuliaDefeat::
-    .string "Stop!\p"
-    .string "Don't be so mean to my CLEFAIRY!$"
+    .string "תפסיק!\p"
+    .string "אל תהיה כל כך מרושע כלפי קלפירי!$"
 
 Route8_Text_JuliaPostBattle::
-    .string "I read that CLEFAIRY evolves when\n"
-    .string "it's exposed to a MOON STONE.\p"
-    .string "I read that in a POKéMON JOURNAL.\n"
-    .string "I wonder if it's true?$"
+    .string "קראתי שקלפירי מתפתח כשנחשף\n"
+    .string "לאבן ירח.\p"
+    .string "קראתי את זה בעיתון פוקימון.\n"
+    .string "מעניין אם זה נכון?$"
 
 Route8_Text_UndergroundPathSign::
-    .string "UNDERGROUND PATH\n"
-    .string "CELADON CITY - LAVENDER TOWN$"
+    .string "דרך תת קרקעית\n"
+    .string "עיר סלדון - עיר לבנדר$"
 
 Route8_Text_EliIntro::
-    .string "ELI: Twin power is fantastic.\n"
-    .string "Did you know?$"
+    .string "אילי: כוח תאומים הוא מדהים.\n"
+    .string "ידעת?$"
 
 Route8_Text_EliDefeat::
-    .string "ELI: But…\n"
-    .string "We used our twin power…$"
+    .string "אילי: אבל…\n"
+    .string "השתמשנו בכוח התאומים שלנו…$"
 
 Route8_Text_EliPostBattle::
-    .string "ELI: I caught my POKéMON with\n"
-    .string "ANNE!$"
+    .string "אילי: תפסתי את הפוקימונים שלי עם\n"
+    .string "אן!$"
 
 Route8_Text_EliNotEnoughMons::
-    .string "ELI: We can't battle if you don't\n"
-    .string "have two POKéMON.$"
+    .string "אילי: אנחנו לא יכולים להילחם אם\n"
+    .string "אין לך שני פוקימונים.$"
 
 Route8_Text_AnneIntro::
-    .string "ANNE: We'll shock you with our twin\n"
-    .string "power!$"
+    .string "אן: אנחנו נדהים אותך עם כוח\n"
+    .string "התאומים שלנו!$"
 
 Route8_Text_AnneDefeat::
-    .string "ANNE: Our twin power…$"
+    .string "אן: כוח התאומים שלנו…$"
 
 Route8_Text_AnnePostBattle::
-    .string "ANNE: I'm raising POKéMON with\n"
-    .string "ELI.$"
+    .string "אן: אני מגדלת פוקימונים עם\n"
+    .string "אילי.$"
 
 Route8_Text_AnneNotEnoughMons::
-    .string "ANNE: Hi, hi! Let's battle!\n"
-    .string "But bring two POKéMON.$"
+    .string "אן: היי, היי! בוא נילחם!\n"
+    .string "אבל תביא שני פוקימונים.$"
 
 Route8_Text_RicardoIntro::
-    .string "My bike's acting up, man.$"
+    .string "האופניים שלי מתנהגות מוזר, חבר.$"
 
 Route8_Text_RicardoDefeat::
-    .string "Aww, man.\n"
-    .string "I'm not into this.$"
+    .string "אוי, חבר.\n"
+    .string "אני לא בקטע הזה.$"
 
 Route8_Text_RicardoPostBattle::
-    .string "I got grass caught up in my\n"
-    .string "spokes, man.$"
+    .string "נתפסה לי דשא בחישורים, חבר.$"
 
 Route8_Text_JarenIntro::
-    .string "Clear the way, or I'll run you\n"
-    .string "down!$"
+    .string "פנה את הדרך, או שאני ארוץ\n"
+    .string "עליך!$"
 
 Route8_Text_JarenDefeat::
-    .string "You for real, kid?$"
+    .string "אתה באמת, ילד?$"
 
 Route8_Text_JarenPostBattle::
-    .string "Don't think you're all special and\n"
-    .string "all just because of this.$"
+    .string "אל תחשוב שאתה מיוחד רק\n"
+    .string "בגלל זה.$"

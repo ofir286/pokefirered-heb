@@ -1,106 +1,105 @@
 Route9_Text_AliciaIntro::
-    .string "You have POKéMON with you!\n"
-    .string "You're mine!$"
+    .string "יש לך פוקימונים איתך!\n"
+    .string "אתה שלי!$"
 
 Route9_Text_AliciaDefeat::
-    .string "You deceived me…$"
+    .string "רימית אותי…$"
 
 Route9_Text_AliciaPostBattle::
-    .string "The tunnel coming up is pitch-black\n"
-    .string "inside.\p"
-    .string "You'll need FLASH to get through\n"
-    .string "there.$"
+    .string "המנהרה שמגיעה היא חשוכה לגמרי\n"
+    .string "בפנים.\p"
+    .string "תצטרך פלאש כדי לעבור\n"
+    .string "שם.$"
 
 Route9_Text_ChrisIntro::
-    .string "Who's that walking there with those\n"
-    .string "good-looking POKéMON?$"
+    .string "מי זה שהולך שם עם הפוקימונים\n"
+    .string "הנאים האלה?$"
 
 Route9_Text_ChrisDefeat::
-    .string "Out like a light!$"
+    .string "נפל כמו אור!$"
 
 Route9_Text_ChrisPostBattle::
-    .string "Keep walking!$"
+    .string "תמשיך ללכת!$"
 
 Route9_Text_DrewIntro::
-    .string "I'm taking the ROCK TUNNEL to\n"
-    .string "go to LAVENDER…$"
+    .string "אני לוקח את מנהרת הסלע כדי\n"
+    .string "ללכת ללבנדר…$"
 
 Route9_Text_DrewDefeat::
-    .string "Can't measure up…$"
+    .string "לא יכול למדוד…$"
 
 Route9_Text_DrewPostBattle::
-    .string "Are you off to ROCK TUNNEL, too?$"
+    .string "גם אתה הולך למנהרת הסלע?$"
 
 Route9_Text_CaitlinIntro::
-    .string "Don't you dare patronize me!$"
+    .string "אל תעז לפטרוני אותי!$"
 
 Route9_Text_CaitlinDefeat::
-    .string "No!\n"
-    .string "You're too much.$"
+    .string "לא!\n"
+    .string "אתה יותר מדי.$"
 
 Route9_Text_CaitlinPostBattle::
-    .string "You're obviously talented.\n"
-    .string "Good luck to you!$"
+    .string "אתה ברור שיש לך כשרון.\n"
+    .string "בהצלחה לך!$"
 
 Route9_Text_JeremyIntro::
-    .string "Bwahaha!\n"
-    .string "Great! I was bored, eh!$"
+    .string "בוהאהה!\n"
+    .string "מעולה! הייתי משועמם!$"
 
 Route9_Text_JeremyDefeat::
-    .string "Keep it coming, eh!\p"
-    .string "Oh wait.\n"
-    .string "I'm out of POKéMON!$"
+    .string "תמשיך להגיע!\p"
+    .string "אה חכה.\n"
+    .string "נגמרו לי הפוקימונים!$"
 
 Route9_Text_JeremyPostBattle::
-    .string "You sure had guts standing up to\n"
-    .string "me there, eh?$"
+    .string "היה לך אומץ לעמוד מולי\n"
+    .string "שם!$"
 
 Route9_Text_BriceIntro::
-    .string "Hahaha!\n"
-    .string "Aren't you a little toughie!$"
+    .string "האהאהאה!\n"
+    .string "האם אתה לא קצת קשוח!$"
 
 Route9_Text_BriceDefeat::
-    .string "What's that?$"
+    .string "מה זה?$"
 
 Route9_Text_BricePostBattle::
-    .string "Hahaha!\n"
-    .string "Kids should be tough!$"
+    .string "האהאהאה!\n"
+    .string "ילדים צריכים להיות קשוחים!$"
 
 Route9_Text_BrentIntro::
-    .string "I got up early every day to raise\n"
-    .string "my POKéMON from cocoons!$"
+    .string "קמתי מוקדם כל יום כדי לגדל\n"
+    .string "את הפוקימונים שלי מתוך גולם!$"
 
 Route9_Text_BrentDefeat::
-    .string "WHAT?\p"
-    .string "What a total waste of time!$"
+    .string "מה?\p"
+    .string "איזה בזבוז זמן מוחלט!$"
 
 Route9_Text_BrentPostBattle::
-    .string "I have to collect more than bugs\n"
-    .string "to get stronger…$"
+    .string "אני צריך לאסוף יותר מחרקים\n"
+    .string "כדי להתחזק…$"
 
 Route9_Text_AlanIntro::
-    .string "Hahahaha!\n"
-    .string "Bring it on!$"
+    .string "האהאהאה!\n"
+    .string "תביא את זה!$"
 
 Route9_Text_AlanDefeat::
-    .string "Hahahaha!\n"
-    .string "You beat me fair!$"
+    .string "האהאהאה!\n"
+    .string "ניצחת אותי ביושר!$"
 
 Route9_Text_AlanPostBattle::
-    .string "Hahahaha!\n"
-    .string "Us hearty guys always laugh!$"
+    .string "האהאהאה!\n"
+    .string "אנחנו תמיד צוחקים!$"
 
 Route9_Text_ConnerIntro::
-    .string "Go, my super BUG POKéMON!$"
+    .string "צא, הפוקימונים החרקיים המעולים שלי!$"
 
 Route9_Text_ConnerDefeat::
-    .string "My bugs…$"
+    .string "החרקים שלי…$"
 
 Route9_Text_ConnerPostBattle::
-    .string "If you don't like BUG POKéMON,\n"
-    .string "you bug me!$"
+    .string "אם אתה לא אוהב פוקימונים חרקיים,\n"
+    .string "אתה מציק לי!$"
 
 Route9_Text_RouteSign::
-    .string "ROUTE 9\n"
-    .string "CERULEAN CITY - ROCK TUNNEL$"
-
+    .string "דרך 9\n"
+    .string "עיר סרוליאן - מנהרת הסלע$"

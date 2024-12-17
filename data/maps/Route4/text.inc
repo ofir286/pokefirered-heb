@@ -1,79 +1,74 @@
 Route4_Text_TrippedOverGeodude::
-    .string "Ouch! I tripped over a rocky\n"
-    .string "POKéMON, GEODUDE!$"
+    .string "איי! מעדתי על פוקימון סלעי,\n"
+    .string "גיאודוד!$"
 
 Route4_Text_CrissyIntro::
-    .string "I came to MT. MOON in search of\n"
-    .string "mushroom POKéMON.$"
+    .string "באתי להר הירח בחיפוש אחר\n"
+    .string "פוקימון פטריות.$"
 
 Route4_Text_CrissyDefeat::
-    .string "After all I did to catch them!$"
+    .string "אחרי כל מה שעשיתי כדי לתפוס אותם!$"
 
 Route4_Text_CrissyPostBattle::
-    .string "There might not be any more\n"
-    .string "mushrooms here.\p"
-    .string "I think I got them all.$"
+    .string "אולי אין כאן יותר פטריות.\p"
+    .string "אני חושבת שתפסתי את כולן.$"
 
 Route4_Text_MtMoonEntrance::
-    .string "MT. MOON\n"
-    .string "Tunnel Entrance$"
+    .string "הר הירח\n"
+    .string "כניסה למנהרה$"
 
 Route4_Text_RouteSign::
-    .string "ROUTE 4\n"
-    .string "MT. MOON - CERULEAN CITY$"
+    .string "דרך 4\n"
+    .string "הר הירח - עיר סרוליאן$"
 
 Text_MegaPunchTeach::
-    .string "A punch of roaring ferocity!\p"
-    .string "Packed with destructive power!\p"
-    .string "When the chips are down,\n"
-    .string "MEGA PUNCH is the ultimate attack!\l"
-    .string "You agree, yes?\p"
-    .string "Now!\n"
-    .string "Let me teach it to your POKéMON!$"
+    .string "מכה של עוצמה שאגה!\p"
+    .string "מלאה בכוח הרסני!\p"
+    .string "כשאתה במצב רע,\n"
+    .string "מגה פאנץ' הוא ההתקפה האולטימטיבית!\l"
+    .string "אתה מסכים, נכון?\p"
+    .string "עכשיו!\n"
+    .string "תן לי ללמד אותה לפוקימון שלך!$"
 
 Text_MegaPunchDeclined::
-    .string "You'll be back when you understand\n"
-    .string "the worth of MEGA PUNCH.$"
+    .string "תחזור כשתבין את הערך של מגה פאנץ'.$"
 
 Text_MegaPunchWhichMon::
-    .string "Fine!\n"
-    .string "Which POKéMON will learn it?$"
+    .string "בסדר!\n"
+    .string "איזה פוקימון ילמד אותו?$"
 
 Text_MegaPunchTaught::
-    .string "Now, we are comrades in the way of\n"
-    .string "punching!\p"
-    .string "You should go before you're seen\n"
-    .string "by the misguided fool who trains\l"
-    .string "only his silly kicking over there.$"
+    .string "עכשיו, אנחנו חברים בדרך של\n"
+    .string "אגרוף!\p"
+    .string "אתה צריך ללכת לפני שיראה אותך\n"
+    .string "השוטה שמאמין רק בבעיטות הטיפשיות שלו שם.$"
 
 Text_MegaKickTeach::
-    .string "A kick of brutal ferocity!\p"
-    .string "Packed with destructive power!\p"
-    .string "When you get right down to it,\n"
-    .string "MEGA KICK is the ultimate attack!\l"
-    .string "Don't you agree?\p"
-    .string "Okay!\n"
-    .string "I'll teach it to your POKéMON!$"
+    .string "בעיטה של עוצמה פראית!\p"
+    .string "מלאה בכוח הרסני!\p"
+    .string "כשאתה במצב רע,\n"
+    .string "מגה קיק הוא ההתקפה האולטימטיבית!\l"
+    .string "אתה מסכים, נכון?\p"
+    .string "בסדר!\n"
+    .string "אני אלמד אותה לפוקימון שלך!$"
 
 Text_MegaKickDeclined::
-    .string "You'll come crawling back when you\n"
-    .string "realize the value of MEGA KICK.$"
+    .string "תחזור כשתבין את הערך של מגה קיק.$"
 
 Text_MegaKickWhichMon::
-    .string "All right!\n"
-    .string "Which POKéMON wants to learn it?$"
+    .string "בסדר!\n"
+    .string "איזה פוקימון רוצה ללמוד אותו?$"
 
 Text_MegaKickTaught::
-    .string "Now, we are soul mates in the way\n"
-    .string "of kicking!\p"
-    .string "You should run before you're seen\n"
-    .string "by the deluded nitwit who trains\l"
-    .string "only simple punching over there.$"
+    .string "עכשיו, אנחנו בני ברית בדרך\n"
+    .string "של בעיטה!\p"
+    .string "אתה צריך לרוץ לפני שיראה אותך\n"
+    .string "השוטה שמאמין רק באגרופים הפשוטים שלו שם.$"
 
 Route4_Text_PeopleLikeAndRespectBrock::
-    .string "Oh, wow, that's the BOULDERBADGE!\n"
-    .string "You got it from BROCK, didn't you?\p"
-    .string "BROCK is cool. He's not just tough.\n"
-    .string "People like and respect him.\p"
-    .string "I want to become a GYM LEADER\n"
-    .string "like him.$"
+    .string "וואו, זה תג הסלע!\n"
+    .string "קיבלת אותו מברוק, נכון?\p"
+    .string "ברוק מגניב. הוא לא רק חזק.\n"
+    .string "אנשים אוהבים ומכבדים אותו.\p"
+    .string "אני רוצה להיות מנהיג מכון\n"
+    .string "כמוהו.$"
