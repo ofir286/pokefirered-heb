@@ -1,73 +1,72 @@
 Route6_Text_RickyIntro::
-    .string "Who's there?\n"
-    .string "Quit listening in on us!$"
+    .string "מי שם?\n"
+    .string "תפסיק להאזין לנו!$"
 
 Route6_Text_RickyDefeat::
-    .string "I just can't win!$"
+    .string "אני פשוט לא יכול לנצח!$"
 
 Route6_Text_RickyPostBattle::
-    .string "Whisper…\n"
-    .string "Whisper…$"
+    .string "לחש…\n"
+    .string "לחש…$"
 
 Route6_Text_NancyIntro::
-    .string "Excuse me!\n"
-    .string "This is a private conversation!$"
+    .string "סלח לי!\n"
+    .string "זו שיחה פרטית!$"
 
 Route6_Text_NancyDefeat::
-    .string "Ugh!\n"
-    .string "I hate losing.$"
+    .string "אוף!\n"
+    .string "אני שונאת להפסיד.$"
 
 Route6_Text_NancyPostBattle::
-    .string "Whisper…\n"
-    .string "Whisper…$"
+    .string "לחש…\n"
+    .string "לחש…$"
 
 Route6_Text_KeigoIntro::
-    .string "There aren't many bugs out here.$"
+    .string "אין הרבה חרקים כאן.$"
 
 Route6_Text_KeigoDefeat::
-    .string "No!\n"
-    .string "You're kidding!$"
+    .string "לא!\n"
+    .string "אתה צוחק!$"
 
 Route6_Text_KeigoPostBattle::
-    .string "I like bugs, so I'm going back to\n"
-    .string "VIRIDIAN FOREST.$"
+    .string "אני אוהב חרקים, אז אני חוזר ליער\n"
+    .string "וירידיאן.$"
 
 Route6_Text_JeffIntro::
-    .string "Huh?\n"
-    .string "You want to talk to me?$"
+    .string "אה?\n"
+    .string "אתה רוצה לדבר איתי?$"
 
 Route6_Text_JeffDefeat::
-    .string "This stinks…\n"
-    .string "I couldn't beat your challenge…$"
+    .string "זה מסריח…\n"
+    .string "לא יכולתי לנצח את האתגר שלך…$"
 
 Route6_Text_JeffPostBattle::
-    .string "I should bring more POKéMON with\n"
-    .string "me. I'll feel safer that way.$"
+    .string "אני צריך להביא יותר פוקימונים\n"
+    .string "איתי. אני ארגיש יותר בטוח כך.$"
 
 Route6_Text_IsabelleIntro::
-    .string "Me?\n"
-    .string "Well, okay. I'll play!$"
+    .string "אני?\n"
+    .string "טוב, בסדר. אני אשחק!$"
 
 Route6_Text_IsabelleDefeat::
-    .string "Things just didn't work…$"
+    .string "זה פשוט לא עבד…$"
 
 Route6_Text_IsabellePostBattle::
-    .string "I want to get stronger.\n"
-    .string "What's your secret?$"
+    .string "אני רוצה להיות חזקה יותר.\n"
+    .string "מה הסוד שלך?$"
 
 Route6_Text_ElijahIntro::
-    .string "I've never seen you around.\n"
-    .string "Are you good?$"
+    .string "לא ראיתי אותך בסביבה.\n"
+    .string "אתה טוב?$"
 
 Route6_Text_ElijahDefeat::
-    .string "You're too good!$"
+    .string "אתה טוב מדי!$"
 
 Route6_Text_ElijahPostBattle::
-    .string "Are my POKéMON weak?\n"
-    .string "Or, am I just bad?\l"
-    .string "Which do you think?$"
+    .string "האם הפוקימונים שלי חלשים?\n"
+    .string "או שאני פשוט גרוע?\l"
+    .string "מה אתה חושב?$"
 
 Route6_Text_UndergroundPathSign::
-    .string "UNDERGROUND PATH\n"
-    .string "CERULEAN CITY - VERMILION CITY$"
-
+    .string "דרך תת קרקעית\n"
+    .string "עיר סרוליאן - עיר ורמיליון$"

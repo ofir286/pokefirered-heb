@@ -1,131 +1,130 @@
 Route17_Text_RaulIntro::
-    .string "There's no getting rich quick in\n"
-    .string "battling kids.$"
+    .string "אין דרך להתעשר מהר\n"
+    .string "מקרבות עם ילדים.$"
 
 Route17_Text_RaulDefeat::
-    .string "Burned out!$"
+    .string "נשרפתי!$"
 
 Route17_Text_RaulPostBattle::
-    .string "You can find good stuff lying\n"
-    .string "around on CYCLING ROAD.\p"
-    .string "There's good money in picking them\n"
-    .string "up and selling them.$"
+    .string "אפשר למצוא דברים טובים שנפלו\n"
+    .string "בשביל האופניים.\p"
+    .string "יש כסף טוב באיסוף שלהם ומכירתם.$"
 
 Route17_Text_IsaiahIntro::
-    .string "I'm mighty proud of my bod, kiddo.\n"
-    .string "Come on!$"
+    .string "אני מאוד גאה בגוף שלי, ילד.\n"
+    .string "בוא נראה מה יש לך!$"
 
 Route17_Text_IsaiahDefeat::
-    .string "Whoo!$"
+    .string "וווו!$"
 
 Route17_Text_IsaiahPostBattle::
-    .string "I could belly-bump you outta\n"
-    .string "here!$"
+    .string "הייתי יכול להדוף אותך מכאן\n"
+    .string "עם הבטן שלי!$"
 
 Route17_Text_VirgilIntro::
-    .string "You heading to FUCHSIA?$"
+    .string "אתה בדרך לפוקסיה?$"
 
 Route17_Text_VirgilDefeat::
-    .string "Crash and burn!$"
+    .string "התרסקתי ונשרפתי!$"
 
 Route17_Text_VirgilPostBattle::
-    .string "I love racing downhill!$"
+    .string "אני אוהב לרוץ במורד!$"
 
 Route17_Text_BillyIntro::
-    .string "We're BIKERS!\n"
-    .string "We rule the roads, man!$"
+    .string "אנחנו רוכבי אופניים!\n"
+    .string "אנחנו שולטים בכבישים!$"
 
 Route17_Text_BillyDefeat::
-    .string "Smoked!$"
+    .string "נשרפתי!$"
 
 Route17_Text_BillyPostBattle::
-    .string "Are you looking for adventure?$"
+    .string "אתה מחפש הרפתקה?$"
 
 Route17_Text_NikolasIntro::
-    .string "Let VOLTORB electrify you!$"
+    .string "תן לוולטורב לחשמל אותך!$"
 
 Route17_Text_NikolasDefeat::
-    .string "Grounded out!$"
+    .string "נוטרלתי!$"
 
 Route17_Text_NikolasPostBattle::
-    .string "I got my VOLTORB at the abandoned\n"
-    .string "POWER PLANT.$"
+    .string "מצאתי את הוולטורב שלי במפעל\n"
+    .string "הכוח הנטוש.$"
 
 Route17_Text_ZeekIntro::
-    .string "I leveled up my POKéMON, but it\n"
-    .string "won't evolve. Why?$"
+    .string "שדרגתי את הפוקימון שלי,\n"
+    .string "אבל הוא לא מתפתח. למה?$"
 
 Route17_Text_ZeekDefeat::
-    .string "Why, you!$"
+    .string "למה, אתה!$"
 
 Route17_Text_ZeekPostBattle::
-    .string "Maybe some POKéMON need element\n"
-    .string "STONES to evolve.$"
+    .string "אולי חלק מהפוקימונים צריכים\n"
+    .string "אבני אלמנט כדי להתפתח.$"
 
 Route17_Text_JamalIntro::
-    .string "I need a little exercise!$"
+    .string "אני צריך קצת פעילות גופנית!$"
 
 Route17_Text_JamalDefeat::
-    .string "Whew!\n"
-    .string "Good workout!$"
+    .string "פוו!\n"
+    .string "אימון טוב!$"
 
 Route17_Text_JamalPostBattle::
-    .string "I'm sure I lost weight there!$"
+    .string "אני בטוח שהורדתי משקל עכשיו!$"
 
 Route17_Text_CoreyIntro::
-    .string "Be a rebel!$"
+    .string "תהיה מרדן!$"
 
 Route17_Text_CoreyDefeat::
-    .string "Aaaargh!$"
+    .string "אההההה!$"
 
 Route17_Text_CoreyPostBattle::
-    .string "Be ready to fight for your beliefs!$"
+    .string "תמיד תהיה מוכן להילחם על\n"
+    .string "האמונות שלך!$"
 
 Route17_Text_JaxonIntro::
-    .string "Nice BIKE!\n"
-    .string "How's it handle?$"
+    .string "אופניים יפות!\n"
+    .string "איך הם מתמודדים?$"
 
 Route17_Text_JaxonDefeat::
-    .string "Shoot!$"
+    .string "לעזאזל!$"
 
 Route17_Text_JaxonPostBattle::
-    .string "The slope makes it hard to steer.$"
+    .string "המורד מקשה על ההיגוי.$"
 
 Route17_Text_WilliamIntro::
-    .string "Get lost, kid!\n"
-    .string "I'm bushed!$"
+    .string "לך מפה, ילד!\n"
+    .string "אני מותש!$"
 
 Route17_Text_WilliamDefeat::
-    .string "Are you satisfied?$"
+    .string "אתה מרוצה?$"
 
 Route17_Text_WilliamPostBattle::
-    .string "I need to catch a few z's!$"
+    .string "אני חייב לתפוס קצת שינה!$"
 
 Route17_Text_WatchOutForDiscardedItems::
-    .string "It's a notice.\p"
-    .string "Watch out for discarded items.$"
+    .string "זו הודעה.\p"
+    .string "שימו לב לפריטים שנזרקו.$"
 
 Route17_Text_SameSpeciesGrowDifferentRates::
-    .string "TRAINER TIPS\p"
-    .string "All POKéMON are unique.\p"
-    .string "Even POKéMON of the same species\n"
-    .string "and level grow at different rates.$"
+    .string "טיפים למאמן\p"
+    .string "כל פוקימון הוא ייחודי.\p"
+    .string "אפילו פוקימונים מאותו מין ורמה\n"
+    .string "מתפתחים בקצב שונה.$"
 
 Route17_Text_PressBToStayInPlace::
-    .string "TRAINER TIPS\p"
-    .string "Press the B Button to stay in place\n"
-    .string "while on a slope.$"
+    .string "טיפים למאמן\p"
+    .string "לחץ על כפתור B כדי להישאר במקום\n"
+    .string "כשאתה על מדרון.$"
 
 Route17_Text_RouteSign::
-    .string "ROUTE 17\n"
-    .string "CELADON CITY - FUCHSIA CITY$"
+    .string "דרך 17\n"
+    .string "עיר סלדון - עיר פוקסיה$"
 
 Route17_Text_DontThrowGameThrowBalls::
-    .string "It's a notice!\p"
-    .string "Don't throw the game, throw POKé\n"
-    .string "BALLS instead!$"
+    .string "זו הודעה!\p"
+    .string "אל תזרוק את המשחק, זרוק פוקיבול\n"
+    .string "במקום!$"
 
 Route17_Text_CyclingRoadSign::
-    .string "CYCLING ROAD\n"
-    .string "Slope ends here!$"
-
+    .string "שביל האופניים\n"
+    .string "סיום המדרון כאן!$"

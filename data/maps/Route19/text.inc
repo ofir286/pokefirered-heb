@@ -1,154 +1,153 @@
 Route19_Text_RichardIntro::
-    .string "I have to exercise and warm up\n"
-    .string "before going out for a swim.$"
+    .string "אני צריך להתחמם ולתרגל\n"
+    .string "לפני שאני יוצא לשחות.$"
 
 Route19_Text_RichardDefeat::
-    .string "All warmed up!$"
+    .string "מחומם ומוכן!$"
 
 Route19_Text_RichardPostBattle::
-    .string "Thanks, kid!\n"
-    .string "I'm ready for a swim.$"
+    .string "תודה, ילד!\n"
+    .string "אני מוכן לשחות.$"
 
 Route19_Text_ReeceIntro::
-    .string "Wait! Slow down!\n"
-    .string "You'll have a heart attack!$"
+    .string "חכה! תאט קצת!\n"
+    .string "זה לא בריא ללב שלך!$"
 
 Route19_Text_ReeceDefeat::
-    .string "Ooh!\n"
-    .string "That's chilly!$"
+    .string "אוי!\n"
+    .string "זה קריר!$"
 
 Route19_Text_ReecePostBattle::
-    .string "Watch out for TENTACOOL.\n"
-    .string "They sting so painfully.$"
+    .string "תיזהר מ-טנטאקורל.\n"
+    .string "העקיצה שלהם מאוד כואבת.$"
 
 Route19_Text_MatthewIntro::
-    .string "I love swimming!\n"
-    .string "What about you?$"
+    .string "אני אוהב לשחות!\n"
+    .string "מה איתך?$"
 
 Route19_Text_MatthewDefeat::
-    .string "Belly flop!$"
+    .string "נפילה כואבת!$"
 
 Route19_Text_MatthewPostBattle::
-    .string "I can beat even marine POKéMON\n"
-    .string "at swimming.$"
+    .string "אני יכול אפילו לנצח פוקימונים\n"
+    .string "ימיים בשחייה.$"
 
 Route19_Text_DouglasIntro::
-    .string "What's beyond the horizon?$"
+    .string "מה נמצא מעבר לאופק?$"
 
 Route19_Text_DouglasDefeat::
-    .string "Glub!$"
+    .string "בלעתי מים!$"
 
 Route19_Text_DouglasPostBattle::
-    .string "I see a couple of islands over\n"
-    .string "yonder!$"
+    .string "אני רואה כמה איים שם\n"
+    .string "באופק!$"
 
 Route19_Text_DavidIntro::
-    .string "I tried diving for POKéMON, but it\n"
-    .string "was a no-go.$"
+    .string "ניסיתי לצלול ולמצוא פוקימונים,\n"
+    .string "אבל זה לא עבד.$"
 
 Route19_Text_DavidDefeat::
-    .string "Help!$"
+    .string "עזרה!$"
 
 Route19_Text_DavidPostBattle::
-    .string "I guess you have to fish for sea\n"
-    .string "POKéMON.$"
+    .string "כנראה שצריך לדוג כדי למצוא\n"
+    .string "פוקימונים ימיים.$"
 
 Route19_Text_TonyIntro::
-    .string "I look at the sea to forget all\n"
-    .string "the bad things that happened.$"
+    .string "אני מביט על הים כדי לשכוח\n"
+    .string "את כל הדברים הרעים שקרו.$"
 
 Route19_Text_TonyDefeat::
-    .string "Ooh!\n"
-    .string "Traumatic!$"
+    .string "אוי!\n"
+    .string "טראומטי!$"
 
 Route19_Text_TonyPostBattle::
-    .string "I'm looking at the sea to forget\n"
-    .string "the bad thing that happened!$"
+    .string "אני מביט על הים כדי לשכוח\n"
+    .string "את מה שקרה.$"
 
 Route19_Text_AnyaIntro::
-    .string "Oh, I just love your ride!\n"
-    .string "Can I have it if I win?$"
+    .string "וואו, אני אוהבת את הכלי רכב שלך!\n"
+    .string "תוכל לתת לי אותו אם אנצח?$"
 
 Route19_Text_AnyaDefeat::
-    .string "Oh! I lost!$"
+    .string "אוי, הפסדתי!$"
 
 Route19_Text_AnyaPostBattle::
-    .string "It's still a long way to go to\n"
-    .string "SEAFOAM ISLANDS…\p"
-    .string "I want to go back to FUCHSIA…$"
+    .string "עדיין יש דרך ארוכה עד\n"
+    .string "לאיי הקצף…\p"
+    .string "אני רוצה לחזור לפוקסיה…$"
 
 Route19_Text_AliceIntro::
-    .string "Swimming's great!\n"
-    .string "Sunburns aren't!$"
+    .string "שחייה זה כיף!\n"
+    .string "כוויות שמש לא!$"
 
 Route19_Text_AliceDefeat::
-    .string "Shocker!$"
+    .string "הלם!$"
 
 Route19_Text_AlicePostBattle::
-    .string "My boyfriend wanted to swim to\n"
-    .string "SEAFOAM ISLANDS.$"
+    .string "החבר שלי רצה לשחות\n"
+    .string "עד איי הקצף.$"
 
 Route19_Text_AxleIntro::
-    .string "Ahoy, there!\n"
-    .string "These waters are treacherous!$"
+    .string "היי, שם!\n"
+    .string "המים האלו מסוכנים!$"
 
 Route19_Text_AxleDefeat::
-    .string "Ooh!\n"
-    .string "Dangerous!$"
+    .string "אוי!\n"
+    .string "איזו סכנה!$"
 
 Route19_Text_AxlePostBattle::
-    .string "M-my legs! They cramped up!\n"
-    .string "Glub, glub…$"
+    .string "הרגליים שלי! נתפסו לי השרירים!\n"
+    .string "גלוב, גלוב…$"
 
 Route19_Text_ConnieIntro::
-    .string "I swam here with my friends…\n"
-    .string "I'm tired…$"
+    .string "שחיתי לכאן עם החברים שלי…\n"
+    .string "אני עייפה…$"
 
 Route19_Text_ConnieDefeat::
-    .string "I'm exhausted…$"
+    .string "אני מותשת…$"
 
 Route19_Text_ConniePostBattle::
-    .string "If I were to ride a POKéMON on\n"
-    .string "the sea, I'd like a LAPRAS.\p"
-    .string "LAPRAS is so big, I bet it\n"
-    .string "would keep me dry on water.$"
+    .string "אם הייתי רוכבת על פוקימון בים,\n"
+    .string "הייתי רוצה שיהיה זה לאפרס.\p"
+    .string "לאפרס כל כך גדול, אני חושבת\n"
+    .string "שהוא ישמור עליי יבשה.$"
 
 Route19_Text_RouteSign::
-    .string "SEA ROUTE 19\n"
-    .string "FUCHSIA CITY - SEAFOAM ISLANDS$"
+    .string "נתיב מים 19\n"
+    .string "פוקסיה - איי הקצף$"
 
 Route19_Text_LiaIntro::
-    .string "LIA: I'm looking after my brother.\n"
-    .string "He just became a TRAINER.$"
+    .string "ליאה: אני שומרת על אחי הקטן.\n"
+    .string "הוא הפך למאמן פוקימונים.$"
 
 Route19_Text_LiaDefeat::
-    .string "LIA: That's no way to treat my\n"
-    .string "little brother!$"
+    .string "ליאה: ככה מתייחסים לאח\n"
+    .string "הקטן שלי?!$"
 
 Route19_Text_LiaPostBattle::
-    .string "LIA: Do you have a younger\n"
-    .string "brother?\p"
-    .string "I hope you're teaching him all\n"
-    .string "sorts of things.$"
+    .string "ליאה: יש לך אח קטן?\n"
+    .string "אני מקווה שאתה מלמד אותו\n"
+    .string "דברים טובים.$"
 
 Route19_Text_LiaNotEnoughMons::
-    .string "LIA: I want to battle together\n"
-    .string "with my little brother.\p"
-    .string "Don't you have two POKéMON?$"
+    .string "ליאה: אני רוצה להילחם יחד עם\n"
+    .string "אחי הקטן.\p"
+    .string "אין לך שני פוקימונים?$"
 
 Route19_Text_LucIntro::
-    .string "LUC: My big sis taught me how\n"
-    .string "to swim and train POKéMON.$"
+    .string "לוק: אחותי הגדולה לימדה אותי\n"
+    .string "לשחות ולאמן פוקימונים.$"
 
 Route19_Text_LucDefeat::
-    .string "LUC: Oh, wow!\n"
-    .string "Someone tougher than my big sis!$"
+    .string "לוק: וואו!\n"
+    .string "מישהו חזק יותר מאחותי הגדולה!$"
 
 Route19_Text_LucPostBattle::
-    .string "LUC: My big sis is strong and nice.\n"
-    .string "I think she's awesome!$"
+    .string "לוק: אחותי הגדולה חזקה ונחמדה.\n"
+    .string "אני חושב שהיא מדהימה!$"
 
 Route19_Text_LucNotEnoughMons::
-    .string "LUC: I don't want to if I can't\n"
-    .string "battle you with my big sis.\p"
-    .string "Don't you have two POKéMON?$"
+    .string "לוק: אני לא רוצה להילחם אם\n"
+    .string "לא אוכל להילחם יחד עם אחותי.\p"
+    .string "אין לך שני פוקימונים?$"

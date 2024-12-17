@@ -1,120 +1,117 @@
 Route20_Text_BarryIntro::
-    .string "The water is shallow here.\n"
-    .string "There are many people swimming.$"
+    .string "המים רדודים כאן.\n"
+    .string "יש הרבה אנשים שוחים.$"
 
 Route20_Text_BarryDefeat::
-    .string "Splash!$"
+    .string "השפריץ!$"
 
 Route20_Text_BarryPostBattle::
-    .string "I wish I could ride my POKéMON.\n"
-    .string "I bet you're not tired.$"
+    .string "הלוואי שיכולתי לרכוב על הפוקימון שלי.\n"
+    .string "אני בטוח שאתה לא עייף.$"
 
 Route20_Text_ShirleyIntro::
-    .string "SEAFOAM is a quiet getaway.\n"
-    .string "I'm vacationing here.$"
+    .string "האיים הימיים הם מפלט שקט.\n"
+    .string "אני כאן בנופש.$"
 
 Route20_Text_ShirleyDefeat::
-    .string "Quit it!$"
+    .string "תפסיק עם זה!$"
 
 Route20_Text_ShirleyPostBattle::
-    .string "There's a huge cavern underneath\n"
-    .string "this island.$"
+    .string "יש מערה ענקית מתחת לאי הזה.$"
 
 Route20_Text_TiffanyIntro::
-    .string "I love floating with the fishes\n"
-    .string "here among the waves.$"
+    .string "אני אוהבת לצוף עם הדגים\n"
+    .string "כאן בין הגלים.$"
 
 Route20_Text_TiffanyDefeat::
-    .string "Yowch!$"
+    .string "איי!$"
 
 Route20_Text_TiffanyPostBattle::
-    .string "Want to float with me?$"
+    .string "רוצה לצוף יחד איתי?$"
 
 Route20_Text_IreneIntro::
-    .string "Are you on vacation, too?$"
+    .string "גם אתה כאן בחופשה?$"
 
 Route20_Text_IreneDefeat::
-    .string "No mercy at all!$"
+    .string "בלי רחמים בכלל!$"
 
 Route20_Text_IrenePostBattle::
-    .string "SEAFOAM used to be a single island\n"
-    .string "in the distant past.$"
+    .string "בעבר הרחוק, האיים הימיים היו אי\n"
+    .string "בודד.$"
 
 Route20_Text_DeanIntro::
-    .string "Check out my buff physique!$"
+    .string "תראה איזה גוף חטוב יש לי!$"
 
 Route20_Text_DeanDefeat::
-    .string "Wimpy!$"
+    .string "חלש!$"
 
 Route20_Text_DeanPostBattle::
-    .string "I should've been buffing up my\n"
-    .string "POKéMON, not me!$"
+    .string "הייתי צריך לחזק את הפוקימון שלי\n"
+    .string "ולא אותי!$"
 
 Route20_Text_DarrinIntro::
-    .string "Why are you riding a POKéMON?\n"
-    .string "Can't you swim?$"
+    .string "למה אתה רוכב על פוקימון?\n"
+    .string "אתה לא יודע לשחות?$"
 
 Route20_Text_DarrinDefeat::
-    .string "Ouch!\n"
-    .string "Torpedoed!$"
+    .string "אוי!\n"
+    .string "טורפדתי!$"
 
 Route20_Text_DarrinPostBattle::
-    .string "Riding a POKéMON sure looks fun!$"
+    .string "לרכוב על פוקימון נראה ממש כיף!$"
 
 Route20_Text_RogerIntro::
-    .string "I rode my bird POKéMON here.$"
+    .string "רכבתי לכאן על פוקימון מעופף.$"
 
 Route20_Text_RogerDefeat::
-    .string "Oh, no!\n"
-    .string "Now what am I to do?$"
+    .string "אוי, לא!\n"
+    .string "מה אעשה עכשיו?$"
 
 Route20_Text_RogerPostBattle::
-    .string "My birds are exhausted.\n"
-    .string "They can't FLY me back!$"
+    .string "הציפורים שלי מותשות.\n"
+    .string "הן לא יכולות לעוף ולהחזיר אותי!$"
 
 Route20_Text_NoraIntro::
-    .string "My boyfriend gave me big pearls.$"
+    .string "החבר שלי נתן לי פנינים גדולות.$"
 
 Route20_Text_NoraDefeat::
-    .string "Oh, no!\n"
-    .string "My pearls were in them!$"
+    .string "אוי, לא!\n"
+    .string "הפנינים שלי היו בפנים!$"
 
 Route20_Text_NoraPostBattle::
-    .string "Will my pearls grow bigger inside\n"
-    .string "CLOYSTER?$"
+    .string "האם הפנינים שלי יגדלו בתוך\n"
+    .string "קלויסטר?$"
 
 Route20_Text_MissyIntro::
-    .string "I swam here from CINNABAR ISLAND.\n"
-    .string "It wasn't easy, I tell you.$"
+    .string "שחיתי לכאן מאי סינאבר.\n"
+    .string "זה לא היה קל, אני אומרת לך.$"
 
 Route20_Text_MissyDefeat::
-    .string "I'm so disappointed!$"
+    .string "אני כל כך מאוכזבת!$"
 
 Route20_Text_MissyPostBattle::
-    .string "POKéMON have taken over an\n"
-    .string "abandoned mansion on CINNABAR.\p"
-    .string "They call it the POKéMON MANSION\n"
-    .string "now.$"
+    .string "הפוקימונים השתלטו על אחוזה\n"
+    .string "נטושה באי סינאבר.\p"
+    .string "עכשיו קוראים לה אחוזת הפוקימון.$"
 
 Route20_Text_MelissaIntro::
-    .string "CINNABAR, in the west, has a LAB\n"
-    .string "for POKéMON.\p"
-    .string "My daddy works there.$"
+    .string "בסינאבר שבמערב יש מעבדה לפוקימון.\p"
+    .string "אבא שלי עובד שם.$"
 
 Route20_Text_MelissaDefeat::
-    .string "Wait!\n"
-    .string "You're supposed to wait!$"
+    .string "רגע!\n"
+    .string "אתה אמור לחכות!$"
 
 Route20_Text_MelissaPostBattle::
-    .string "CINNABAR is a volcanic island.\p"
-    .string "I heard it rose out of the sea\n"
-    .string "when a volcano erupted.$"
+    .string "סינאבר הוא אי געשי.\p"
+    .string "שמעתי שהוא התרומם מתוך הים\n"
+    .string "כשהר געש התפרץ.$"
 
 Route20_Text_SeafoamIslands::
-    .string "SEAFOAM ISLANDS$"
+    .string "האיים הימיים$"
 
 Route20_Text_MistyTrainsHere::
-    .string "Strong TRAINERS and WATER POKéMON\n"
-    .string "are common sights in these parts.\p"
-    .string "They say that MISTY of the\n"
-    .string "CERULEAN GYM trains here.$"
+    .string "מאמנים חזקים ופוקימון מים נפוצים\n"
+    .string "באזור הזה.\p"
+    .string "אומרים שמיסטי ממכון סרוליאן\n"
+    .string "מתאמנת כאן.$"

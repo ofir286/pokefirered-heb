@@ -1,20 +1,19 @@
 Route2_ViridianForest_NorthEntrance_Text_ManyMonsOnlyInForests::
-    .string "Many POKéMON live only in forests \n"
-    .string "and caves.\p"
-    .string "You need to be persistent and look\n"
-    .string "everywhere to get different kinds.$"
+    .string "פוקימונים רבים חיים רק ביערות\n"
+    .string "ובמערות.\p"
+    .string "עליך להיות עקשן ולחפש בכל מקום\n"
+    .string "כדי למצוא סוגים שונים.$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCutSkinnyTrees::
-    .string "Have you noticed the skinny trees\n"
-    .string "on the roadside?\p"
-    .string "They can be cut down by a special\n"
-    .string "POKéMON move, I hear.$"
+    .string "האם שמת לב לעצים הדקים\n"
+    .string "בצדי הדרך?\p"
+    .string "שמעתי שהם ניתנים לחיתוך על ידי\n"
+    .string "תנועת פוקימון מיוחדת.$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCancelEvolution::
-    .string "Do you know the evolution-cancel\n"
-    .string "technique?\p"
-    .string "When a POKéMON is evolving, you\n"
-    .string "can stop the process.\p"
-    .string "It's a technique for raising\n"
-    .string "POKéMON the way they are.$"
-
+    .string "האם אתה מכיר את טכניקת ביטול\n"
+    .string "האבולוציה?\p"
+    .string "כשפוקימון מתפתח, אתה יכול לעצור\n"
+    .string "את התהליך.\p"
+    .string "זו טכניקה לגידול פוקימונים כפי\n"
+    .string "שהם.$"

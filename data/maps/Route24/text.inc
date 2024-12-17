@@ -1,100 +1,91 @@
 Route24_Text_JustEarnedFabulousPrize::
-    .string "Congratulations! You beat our\n"
-    .string "five contest TRAINERS!\p"
-    .string "You just earned a fabulous prize!$"
+    .string "מזל טוב! ניצחת את חמשת המתמודדים שלנו!\n"
+    .string "זכית בפרס מדהים!$"
 
 Route24_Text_ReceivedNuggetFromMysteryTrainer::
-    .string "{PLAYER} received a NUGGET\n"
-    .string "from the mystery TRAINER!$"
+    .string "{PLAYER} קיבל נאגט מהמאמן המסתורי!$"
 
 Route24_Text_YouDontHaveAnyRoom::
-    .string "You don't have any room!$"
+    .string "אין לך מקום נוסף!$"
 
 Route24_Text_JoinTeamRocket::
-    .string "By the way, how would you like to\n"
-    .string "join TEAM ROCKET?\p"
-    .string "We're a group of professional\n"
-    .string "criminals specializing in POKéMON!\p"
-    .string "Want to join?\p"
-    .string "Are you sure?\p"
-    .string "Come on, join us!\p"
-    .string "I'm telling you to join!\p"
-    .string "…Okay, you need convincing!\p"
-    .string "I'll make you an offer you can't\n"
-    .string "refuse!$"
+    .string "דרך אגב, איך היית רוצה להצטרף לצוות רוקט?\n"
+    .string "אנחנו קבוצה של פושעים מקצוענים שמתמחים בפוקימון!\p"
+    .string "רוצה להצטרף?\p"
+    .string "בטוח?\p"
+    .string "בוא, תצטרף אלינו!\p"
+    .string "אני אומר לך להצטרף!\p"
+    .string "…אוקיי, אתה צריך שכנוע!\p"
+    .string "אני אעשה לך הצעה שלא תוכל לסרב לה!$"
 
 Route24_Text_RocketDefeat::
-    .string "Arrgh!\n"
-    .string "You are good!$"
+    .string "אהה!\n"
+    .string "אתה טוב!$"
 
 Route24_Text_YoudBecomeTopRocketLeader::
-    .string "With your ability, you'd become\n"
-    .string "a top leader in TEAM ROCKET.\p"
-    .string "Come on, think of the opportunity!\n"
-    .string "Don't let this chance go to waste.$"
+    .string "עם היכולות שלך, תהפוך למנהיג בכיר בצוות רוקט.\p"
+    .string "בוא, תחשוב על ההזדמנות!\n"
+    .string "אל תיתן להזדמנות הזאת להיעלם.$"
 
 Route24_Text_ShaneIntro::
-    .string "I saw your feat from the grass!$"
+    .string "ראיתי את ההישג שלך מהדשא!$"
 
 Route24_Text_ShaneDefeat::
-    .string "I thought not!$"
+    .string "חשבתי שלא!$"
 
 Route24_Text_ShanePostBattle::
-    .string "I hid because the people on the\n"
-    .string "bridge frightened me.$"
+    .string "התחבאתי כי האנשים על הגשר הפחידו אותי.$"
 
 Route24_Text_EthanIntro::
-    .string "Okay! I'm No. 5!\n"
-    .string "I'll stomp you!$"
+    .string "אוקיי! אני מס' 5!\n"
+    .string "אני אכנע אותך!$"
 
 Route24_Text_EthanDefeat::
-    .string "Whoa!\n"
-    .string "Too much!$"
+    .string "וואו!\n"
+    .string "יותר מדי!$"
 
 Route24_Text_EthanPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "עשיתי את המיטב שלי. אין לי חרטות!$"
 
 Route24_Text_ReliIntro::
-    .string "I'm No. 4!\n"
-    .string "Getting tired?$"
+    .string "אני מס' 4!\n"
+    .string "מתעייף?$"
 
 Route24_Text_ReliDefeat::
-    .string "I lost, too!$"
+    .string "גם אני הפסדתי!$"
 
 Route24_Text_ReliPostBattle::
-    .string "I did my best, so I've no regrets!$"
+    .string "עשיתי את המיטב שלי, אז אין לי חרטות!$"
 
 Route24_Text_TimmyIntro::
-    .string "Here's No. 3!\n"
-    .string "I won't be easy!$"
+    .string "הנה מס' 3!\n"
+    .string "אני לא אהיה קל!$"
 
 Route24_Text_TimmyDefeat::
-    .string "Ow!\n"
-    .string "Stomped flat!$"
+    .string "או!\n"
+    .string "כתוש שטוח!$"
 
 Route24_Text_TimmyPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "עשיתי את המיטב שלי. אין לי חרטות!$"
 
 Route24_Text_AliIntro::
-    .string "I'm second!\n"
-    .string "Now it's serious!$"
+    .string "אני השני!\n"
+    .string "עכשיו זה רציני!$"
 
 Route24_Text_AliDefeat::
-    .string "How could I lose?$"
+    .string "איך יכולתי להפסיד?$"
 
 Route24_Text_AliPostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "עשיתי את המיטב שלי. אין לי חרטות!$"
 
 Route24_Text_CaleIntro::
-    .string "People call this the NUGGET\n"
-    .string "BRIDGE!\p"
-    .string "Beat us five TRAINERS and win\n"
-    .string "a fabulous prize!\p"
-    .string "Think you got what it takes?$"
+    .string "אנשים קוראים לזה גשר הנאגט!\n"
+    .string "נצח אותנו חמישה מאמנים וזכה בפרס מדהים!\p"
+    .string "חושב שאתה מסוגל?$"
 
 Route24_Text_CaleDefeat::
-    .string "Whoo!\n"
-    .string "Good stuff!$"
+    .string "וואו!\n"
+    .string "דברים טובים!$"
 
 Route24_Text_CalePostBattle::
-    .string "I did my best. I have no regrets!$"
+    .string "עשיתי את המיטב שלי. אין לי חרטות!$"

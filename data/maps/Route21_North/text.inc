@@ -1,34 +1,34 @@
 Route21_North_Text_RonaldIntro::
-	.string "You want to know if the fish are\n"
-	.string "biting?$"
+	.string "רוצה לדעת אם הדגים נושכים?$"
 
 Route21_North_Text_RonaldDefeat::
-	.string "Dang!$"
+	.string "אוי, לא!$"
 
 Route21_North_Text_RonaldPostBattle::
-	.string "I can't catch anything good.\n"
-	.string "Not one good POKéMON to be had!$"
+	.string "אני לא מצליח לתפוס שום דבר טוב.\n"
+	.string "אין אפילו פוקימון טוב אחד!$"
 
 Route21_North_Text_WadeIntro::
-	.string "I got a big haul!\n"
-	.string "Wanna go for it?$"
+	.string "עשיתי שלל גדול!\n"
+	.string "רוצה לנסות להתמודד?$"
 
 Route21_North_Text_WadeDefeat::
-	.string "Heheh, MAGIKARP just don't make\n"
-	.string "the grade, do they?$"
+	.string "חה חה, נראה שמג'יקארפ פשוט\n"
+	.string "לא עומד בסטנדרטים, נכון?$"
 
 Route21_North_Text_WadePostBattle::
-	.string "I seem to only catch MAGIKARP!$"
+	.string "נראה שאני תופס רק מג'יקארפ!$"
 
 Route21_North_Text_SpencerIntro::
-	.string "The sea cleanses my body and soul!$"
+	.string "הים מטהר את הגוף והנשמה שלי!$"
 
 Route21_North_Text_SpencerDefeat::
-	.string "Ayah!$"
+	.string "אייה!$"
 
 Route21_North_Text_SpencerPostBattle::
-	.string "The sea is great and all, but I\n"
-	.string "like the mountains, too.$"
+	.string "הים נהדר והכול, אבל אני אוהב\n"
+	.string "גם את ההרים.$"
+
 
 @ Below is the battle text for the Cue Ball that was on Route 21 in Gen 1.
 @ This trainer wasnt used in Gen 3 so their text goes unused/untranslated

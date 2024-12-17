@@ -1,26 +1,25 @@
 Route5_SouthEntrance_Text_ThirstyOnGuardDuty::
-    .string "I'm on guard duty.\n"
-    .string "Gee, I'm thirsty, though!\p"
-    .string "Oh, wait there, the road's closed.$"
+    .string "אני בתורנות שמירה.\n"
+    .string "אוי, אני צמא, אבל!\p"
+    .string "אה, חכה שם, הדרך סגורה.$"
 
 Route5_SouthEntrance_Text_ThatTeaLooksTasty::
-    .string "Oh, that TEA…\n"
-    .string "It looks awfully tasty…$"
+    .string "אה, התה הזה…\n"
+    .string "נראה טעים מאוד…$"
 
 Route5_SouthEntrance_Text_ThanksIllShareTeaWithGuards::
-    .string "Huh? I can have this drink?\n"
-    .string "Gee, thanks!\l"
+    .string "מה? אני יכול לקבל את המשקה הזה?\n"
+    .string "אוי, תודה!\l"
     .string "… …\l"
-    .string "Glug, glug…\l"
+    .string "גלוג, גלוג…\l"
     .string "… …\l"
-    .string "Gulp…\l"
-    .string "If you want to go to SAFFRON\l"
-    .string "CITY…\l"
+    .string "גולפ…\l"
+    .string "אם אתה רוצה ללכת לסאפרון\l"
+    .string "סיטי…\l"
     .string "… …\l"
-    .string "You can go on through.\p"
-    .string "I'll share this TEA with the other\n"
-    .string "guards!$"
+    .string "תוכל לעבור.\p"
+    .string "אני אשתף את התה הזה עם שאר\n"
+    .string "השומרים!$"
 
 Route5_SouthEntrance_Text_HiHowsItGoing::
-    .string "Hi, how's it going?$"
-
+    .string "היי, מה המצב?$"

@@ -1,11 +1,10 @@
 Route18_EastEntrance_1F_Text_NeedBicycleForCyclingRoad::
-    .string "You need a BICYCLE to go out on\n"
-    .string "CYCLING ROAD!$"
+    .string "אתה צריך אופניים כדי לצאת אל\n"
+    .string "שביל האופניים!$"
 
 Route18_EastEntrance_1F_Text_CyclingRoadAllUphillFromHere::
-    .string "CYCLING ROAD is all uphill from\n"
-    .string "here.$"
+    .string "שביל האופניים הוא כולו עלייה\n"
+    .string "מכאן.$"
 
 Route18_EastEntrance_1F_Text_ExcuseMe::
-    .string "Excuse me!$"
-
+    .string "סלח לי!$"

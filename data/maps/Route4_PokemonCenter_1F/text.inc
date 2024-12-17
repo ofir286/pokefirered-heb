@@ -1,54 +1,55 @@
 Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou::
-    .string "Okay, set six POKé BALLS in my\n"
-    .string "belt…\p"
-    .string "Yeah, that'll do it. At most, you\n"
-    .string "can have six POKéMON with you.$"
+    .string "בסדר, סדר שש פוקבולים\n"
+    .string "בחגורה שלי…\p"
+    .string "כן, זה יעשה את זה.\n"
+    .string "מקסימום, אתה\n"
+    .string "יכול להיות עם שישה פוקימונים.$"
 
 Route4_PokemonCenter_1F_Text_TeamRocketAttacksCerulean::
-    .string "TEAM ROCKET attacks CERULEAN\n"
-    .string "citizens…\p"
-    .string "Not a day goes by without TEAM\n"
-    .string "ROCKET being in the news.$"
+    .string "צוות רוקט תוקף את תושבי\n"
+    .string "סרוליאן…\p"
+    .string "אין יום שעובר בלי\n"
+    .string "שצוות רוקט יהיה בחדשות.$"
 
 Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500::
-    .string "MAN: Hello there, laddie!\n"
-    .string "Have I got a deal just for you!\p"
-    .string "I'll let you have a secret POKéMON\n"
-    .string "- a MAGIKARP - for just ¥500!\p"
-    .string "So, you'll buy it, am I right?$"
+    .string "איש: שלום שם, ילד!\n"
+    .string "יש לי עסקה מיוחדת בשבילך!\p"
+    .string "אתן לך את הפוקימון הסודי\n"
+    .string "מג'יקארפ רק ב¥500!\p"
+    .string "אז, תקנה את זה, נכון?$"
 
 Route4_PokemonCenter_1F_Text_SweetieBuyMagikarpForJust500::
-    .string "MAN: Hello there, sweetie pie!\n"
-    .string "Have I got a deal just for you!\p"
-    .string "I'll let you have a secret POKéMON\n"
-    .string "- a MAGIKARP - for just ¥500!\p"
-    .string "So, you'll buy it, am I right?$"
+    .string "איש: שלום שם, מתוקה!\n"
+    .string "יש לי עסקה מיוחדת בשבילך!\p"
+    .string "אתן לך את הפוקימון הסודי\n"
+    .string "מג'יקארפ רק ב¥500!\p"
+    .string "אז, תקני את זה, נכון?$"
 
 Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarp::
-    .string "{PLAYER} paid an outrageous ¥500\n"
-    .string "and bought the MAGIKARP…$"
+    .string "{PLAYER} שילם סכום\n"
+    .string "שערורייתי של ¥500 וקנה\n"
+    .string "את המג'יקארפ…$"
 
 Route4_PokemonCenter_1F_Text_OnlyDoingThisAsFavorToYou::
-    .string "No? You say no? I'm only doing this\n"
-    .string "as a favor to you!$"
+    .string "לא? אתה אומר לא?\n"
+    .string "אני עושה את זה רק כטובה עבורך!$"
 
 Route4_PokemonCenter_1F_Text_NoRoomForMorePokemon::
-    .string "There's no more room for any more\n"
-    .string "POKéMON, it looks like.$"
+    .string "אין יותר מקום לעוד\n"
+    .string "פוקימונים, נראה.$"
 
 Route4_PokemonCenter_1F_Text_YoullNeedMoreMoney::
-    .string "You'll need more money than that!$"
+    .string "תזדקק ליותר כסף מזה!$"
 
 Route4_PokemonCenter_1F_Text_IDontGiveRefunds::
-    .string "MAN: Well, I don't give refunds.\n"
-    .string "You knew what you were getting!$"
+    .string "איש: טוב, אני לא נותן החזרות.\n"
+    .string "ידעת מה אתה קונה!$"
 
 Route4_PokemonCenter_1F_Text_ShouldStoreMonsUsingPC::
-    .string "Sometimes, you'll have too many\n"
-    .string "POKéMON with you to add any more.\p"
-    .string "In that case, you should just\n"
-    .string "store some using any PC.$"
+    .string "לפעמים, יהיו לך יותר מדי\n"
+    .string "פוקימונים כדי להוסיף עוד.\p"
+    .string "במקרה כזה, פשוט כדאי\n"
+    .string "שתאחסן כמה בעזרת כל מחשב.$"
 
 Route4_PokemonCenter_1F_Text_ItsANewspaper::
-    .string "It's a newspaper.$"
-
+    .string "זה עיתון.$"
