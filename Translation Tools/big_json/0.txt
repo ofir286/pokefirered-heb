@@ -304,9 +304,3 @@
       "battleUseFunc": "BattleUseFunc_Medicine",
       "secondaryId": 0
     },
-    {
-      "english": "FULL RESTORE",
-      "itemId": "ITEM_FULL_RESTORE",
-      "price": 3000,
-      "holdEffect": "HOLD_EFFECT_NONE",
-      "hold

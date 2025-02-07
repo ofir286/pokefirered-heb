@@ -1,10 +1,10 @@
     {
-      "english": "EVERSTONE",
+      "english": "אבן נצח",
       "itemId": "ITEM_EVERSTONE",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_PREVENT_EVOLVE",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nThe holding POKéMON is prevented\\nfrom evolving.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמונע מהפוקימון המחזיק\\nלהתפתח.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -15,12 +15,12 @@
       "secondaryId": 0
     },
     {
-      "english": "FOCUS BAND",
+      "english": "רצועת ריכוז",
       "itemId": "ITEM_FOCUS_BAND",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_FOCUS_BAND",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nThe holding POKéMON may endure an\\nattack, leaving just 1 HP.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nהפוקימון המחזיק עשוי לשרוד\\nמתקפה עם נקודת חיים אחת.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -31,12 +31,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LUCKY EGG",
+      "english": "ביצת מזל",
       "itemId": "ITEM_LUCKY_EGG",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_LUCKY_EGG",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nAn egg filled with happiness that\\nearns extra EXP. points in battle.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nביצה מלאה באושר שמעניקה\\nנקודות נסיון נוספות בקרב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -47,12 +47,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SCOPE LENS",
+      "english": "עדשת דיוק",
       "itemId": "ITEM_SCOPE_LENS",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_SCOPE_LENS",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nA lens that boosts the critical-hit\\nratio of the holding POKéMON.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nעדשה שמגבירה את סיכויי\\nהמכה הקריטית של המחזיק.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -63,12 +63,12 @@
       "secondaryId": 0
     },
     {
-      "english": "METAL COAT",
+      "english": "ציפוי מתכת",
       "itemId": "ITEM_METAL_COAT",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_STEEL_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA special metallic film that boosts\\nthe power of STEEL-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nציפוי מתכתי מיוחד שמגביר\\nאת עוצמת מהלכי פלדה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -79,12 +79,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LEFTOVERS",
+      "english": "שאריות",
       "itemId": "ITEM_LEFTOVERS",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_LEFTOVERS",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nThe holding POKéMON gradually\\nregains HP during battle.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nהפוקימון המחזיק משקם\\nנקודות חיים בהדרגה במהלך הקרב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -95,12 +95,12 @@
       "secondaryId": 0
     },
     {
-      "english": "DRAGON SCALE",
+      "english": "קשקש דרקון",
       "itemId": "ITEM_DRAGON_SCALE",
       "price": 2100,
       "holdEffect": "HOLD_EFFECT_DRAGON_SCALE",
       "holdEffectParam": 10,
-      "description_english": "A thick and tough scale.\\nA DRAGON-type POKéMON may be\\nholding it.",
+      "description_english": "קשקש עבה וקשוח.\\nפוקימון מסוג דרקון עשוי\\nלהחזיק בו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -111,12 +111,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LIGHT BALL",
+      "english": "כדור אור",
       "itemId": "ITEM_LIGHT_BALL",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_LIGHT_BALL",
       "holdEffectParam": 0,
-      "description_english": "An orb to be held by a PIKACHU\\nthat raises the SP. ATK stat.\\nTouching it may cause a shock.",
+      "description_english": "גולה להחזקה על-ידי פיקאצ'ו\\nשמעלה את ההתקפה המיוחדת.\\nנגיעה בה עלולה לגרום להלם.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -127,12 +127,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SOFT SAND",
+      "english": "חול רך",
       "itemId": "ITEM_SOFT_SAND",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_GROUND_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA loose, silky sand that boosts the\\npower of GROUND-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nחול משיי ורך שמגביר\\nאת עוצמת מהלכי אדמה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -143,12 +143,12 @@
       "secondaryId": 0
     },
     {
-      "english": "HARD STONE",
+      "english": "אבן קשה",
       "itemId": "ITEM_HARD_STONE",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_ROCK_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nAn unbreakable stone that boosts\\nthe power of ROCK-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nאבן בלתי שבירה שמגבירה\\nאת עוצמת מהלכי סלע.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -159,12 +159,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MIRACLE SEED",
+      "english": "זרע פלא",
       "itemId": "ITEM_MIRACLE_SEED",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_GRASS_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA seed imbued with life that boosts\\nthe power of GRASS-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nזרע מלא בחיים שמגביר\\nאת עוצמת מהלכי דשא.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -175,12 +175,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BLACKGLASSES",
+      "english": "משקפיים שחורים",
       "itemId": "ITEM_BLACK_GLASSES",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_DARK_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA shady-looking pair of glasses\\nthat boosts DARK-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nזוג משקפיים חשודות\\nשמגבירות מהלכי אופל.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -191,12 +191,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BLACK BELT",
+      "english": "חגורה שחורה",
       "itemId": "ITEM_BLACK_BELT",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_FIGHTING_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA belt that boosts determination\\nand FIGHTING-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nחגורה שמגבירה נחישות\\nומהלכי קרב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -207,12 +207,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MAGNET",
+      "english": "מגנט",
       "itemId": "ITEM_MAGNET",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_ELECTRIC_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA powerful magnet that boosts the\\npower of ELECTRIC-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמגנט חזק שמגביר\\nאת עוצמת מהלכי חשמל.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -223,12 +223,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MYSTIC WATER",
+      "english": "מים מיסטיים",
       "itemId": "ITEM_MYSTIC_WATER",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_WATER_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA teardrop-shaped gem that boosts\\nthe power of WATER-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nאבן חן בצורת דמעה שמגבירה\\nאת עוצמת מהלכי מים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -239,12 +239,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SHARP BEAK",
+      "english": "מקור חד",
       "itemId": "ITEM_SHARP_BEAK",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_FLYING_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA long, sharp beak that boosts the\\npower of FLYING-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמקור ארוך וחד שמגביר\\nאת עוצמת מהלכי טיסה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -255,12 +255,12 @@
       "secondaryId": 0
     },
     {
-      "english": "POISON BARB",
+      "english": "קוץ רעיל",
       "itemId": "ITEM_POISON_BARB",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_POISON_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA small, poisonous barb that boosts\\nthe power of POISON-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nקוץ קטן ורעיל שמגביר\\nאת עוצמת מהלכי רעל.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -269,4 +269,4 @@
       "battleUsage": 0,
       "battleUseFunc": "NULL",
       "secondaryId": 0
-    },
+    }

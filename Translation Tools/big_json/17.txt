@@ -1,4 +1,9 @@
-
+    {
+      "english": "TM41",
+      "itemId": "ITEM_TM41",
+      "price": 3000,
+      "holdEffect": "HOLD_EFFECT_NONE",
+      "holdEffectParam": 0,
       "description_english": "If enraged by this move, the target\\nbecomes incapable of using the same\\nmove twice in a row.",
       "importance": 0,
       "registrability": 0,
