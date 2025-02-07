@@ -401,7 +401,7 @@
       "secondaryId": 0
     },
     {
-      "english": "החייאה מקסימלית",
+      "english": "החייאה מלאה",
       "itemId": "ITEM_MAX_REVIVE",
       "price": 4000,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -1105,7 +1105,7 @@
       "secondaryId": 0
     },
     {
-      "english": "הגדלת נקודות כוח",
+      "english": "הגדלת נ”כ",
       "itemId": "ITEM_PP_UP",
       "price": 9800,
       "holdEffect": "HOLD_EFFECT_NONE",
@@ -3297,7 +3297,7 @@
       "secondaryId": 0
     },
     {
-      "english": "משקפיים שחורים",
+      "english": "משקף שחור",
       "itemId": "ITEM_BLACK_GLASSES",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_DARK_POWER",
@@ -5915,7 +5915,7 @@
       "secondaryId": 0
     },
     {
-      "english": "טלוויזית הדרכה",
+      "english": "סרטון הדרכה",
       "itemId": "ITEM_TEACHY_TV",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
