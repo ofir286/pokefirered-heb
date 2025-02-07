@@ -17,12 +17,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MASTER BALL",
+      "english": "מאסטר בול",
       "itemId": "ITEM_MASTER_BALL",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The best BALL with the ultimate\\nperformance. It will catch any wild\\nPOKéMON without fail.",
+      "description_english": "הכדור הטוב ביותר עם ביצועים\\n אולטימטיביים. יתפוס כל פוקימון\\n בר ללא כשל.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_POKE_BALLS",
@@ -33,12 +33,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ULTRA BALL",
+      "english": "אולטרה בול",
       "itemId": "ITEM_ULTRA_BALL",
       "price": 1200,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A very high-grade BALL that offers\\na higher POKéMON catch rate than\\na GREAT BALL.",
+      "description_english": "כדור ברמה גבוהה מאוד שמציע\\n שיעור תפיסה גבוה יותר \\nמכדור מעולה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_POKE_BALLS",
@@ -49,12 +49,12 @@
       "secondaryId": 1
     },
     {
-      "english": "GREAT BALL",
+      "english": "כדור מעולה",
       "itemId": "ITEM_GREAT_BALL",
       "price": 600,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A good, quality BALL that offers\\na higher POKéMON catch rate than\\na standard POKé BALL.",
+      "description_english": "כדור איכותי שמציע שיעור\\n תפיסה גבוה יותר \\nמפוקיבול רגיל.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_POKE_BALLS",
@@ -65,12 +65,12 @@
       "secondaryId": 2
     },
     {
-      "english": "POK\u00e9 BALL",
+      "english": "פוקיבול",
       "itemId": "ITEM_POKE_BALL",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A BALL thrown to catch a wild\\nPOKéMON. It is designed in a\\ncapsule style.",
+      "description_english": "כדור שנזרק כדי לתפוס \\nפוקימון בר. מעוצב בסגנון קפסולה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_POKE_BALLS",
@@ -81,12 +81,12 @@
       "secondaryId": 3
     },
     {
-      "english": "SAFARI BALL",
+      "english": "כדור ספארי",
       "itemId": "ITEM_SAFARI_BALL",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A special BALL that is used only in\\nthe SAFARI ZONE. It is finished in\\na camouflage pattern.",
+      "description_english": "כדור מיוחד שמשמש רק באזור\\n הספארי. מעוצב בדוגמת הסוואה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_POKE_BALLS",
@@ -97,12 +97,12 @@
       "secondaryId": 4
     },
     {
-      "english": "NET BALL",
+      "english": "כדור רשת",
       "itemId": "ITEM_NET_BALL",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A somewhat different BALL that\\nworks especially well on WATER- and\\nBUG-type POKéMON.",
+      "description_english": "כדור שונה במקצת שעובד היטב\\n במיוחד על פוקימונים \\nמסוג מים וחרקים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_POKE_BALLS",
@@ -113,12 +113,12 @@
       "secondaryId": 5
     },
     {
-      "english": "DIVE BALL",
+      "english": "כדור צלילה",
       "itemId": "ITEM_DIVE_BALL",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A somewhat different BALL that\\nworks especially well on POKéMON\\ndeep in the sea.",
+      "description_english": "כדור שונה במקצת שעובד היטב \\nבמיוחד על פוקימונים \\nשנמצאים בעומק הים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_POKE_BALLS",
@@ -129,12 +129,12 @@
       "secondaryId": 6
     },
     {
-      "english": "NEST BALL",
+      "english": "כדור קן",
       "itemId": "ITEM_NEST_BALL",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A somewhat different BALL that\\nworks especially well on weaker\\nPOKéMON.",
+      "description_english": "כדור מיוחד שמתאים במיוחד לפוקימונים \\nחלשים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_POKE_BALLS",
@@ -145,12 +145,12 @@
       "secondaryId": 7
     },
     {
-      "english": "REPEAT BALL",
+      "english": "כדור חוזר",
       "itemId": "ITEM_REPEAT_BALL",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A somewhat different BALL that\\nworks especially well on POKéMON\\ncaught before.",
+      "description_english": "כדור מיוחד שמתאים במיוחד לפוקימונים שכבר \\nנלכדו בעבר.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_POKE_BALLS",
@@ -161,12 +161,12 @@
       "secondaryId": 8
     },
     {
-      "english": "TIMER BALL",
+      "english": "כדור זמן",
       "itemId": "ITEM_TIMER_BALL",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A somewhat different BALL that\\nbecomes progressively better the\\nmore turns there are in a battle.",
+      "description_english": "כדור מיוחד שמתחזק ככל שהקרב \\nנמשך יותר זמן.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_POKE_BALLS",
@@ -177,12 +177,12 @@
       "secondaryId": 9
     },
     {
-      "english": "LUXURY BALL",
+      "english": "כדור יוקרתי",
       "itemId": "ITEM_LUXURY_BALL",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A comfortable BALL that makes a\\ncaptured wild POKéMON quickly grow\\nfriendly.",
+      "description_english": "כדור נוח שמחזק את החברות עם \\nהפוקימון שנלכד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_POKE_BALLS",
@@ -193,12 +193,12 @@
       "secondaryId": 10
     },
     {
-      "english": "PREMIER BALL",
+      "english": "כדור פרמייר",
       "itemId": "ITEM_PREMIER_BALL",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A rare BALL that has been\\nspecially made to commemorate an\\nevent of some sort.",
+      "description_english": "כדור נדיר שנוצר במיוחד לציון \\nאירועים מיוחדים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_POKE_BALLS",
@@ -209,12 +209,12 @@
       "secondaryId": 11
     },
     {
-      "english": "POTION",
+      "english": "שיקוי",
       "itemId": "ITEM_POTION",
       "price": 300,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 20,
-      "description_english": "A spray-type wound medicine.\\nIt restores the HP of one POKéMON\\nby 20 points.",
+      "description_english": "תרופה בתרסיס שמחזירה 20 נקודות נ”ח לפוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -225,12 +225,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ANTIDOTE",
+      "english": "נוגדן",
       "itemId": "ITEM_ANTIDOTE",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A spray-type medicine.\\nIt heals one POKéMON from a\\npoisoning.",
+      "description_english": "תרופה בתרסיס שמרפאת פוקימון אחד מהרעלה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -241,12 +241,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BURN HEAL",
+      "english": "תרופה לכוויות",
       "itemId": "ITEM_BURN_HEAL",
       "price": 250,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A spray-type medicine.\\nIt heals one POKéMON of a burn.",
+      "description_english": "תרופה בתרסיס שמרפאת פוקימון אחד מכוויה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -257,12 +257,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ICE HEAL",
+      "english": "תרופה לקיפאון",
       "itemId": "ITEM_ICE_HEAL",
       "price": 250,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A spray-type medicine.\\nIt defrosts a frozen POKéMON.",
+      "description_english": "תרופה בתרסיס שמפשירה פוקימון קפוא.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -273,12 +273,12 @@
       "secondaryId": 0
     },
     {
-      "english": "AWAKENING",
+      "english": "מעורר",
       "itemId": "ITEM_AWAKENING",
       "price": 250,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A spray-type medicine.\\nIt awakens a sleeping POKéMON.",
+      "description_english": "תרופה בתרסיס שמעירה פוקימון ישן.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -289,12 +289,12 @@
       "secondaryId": 0
     },
     {
-      "english": "PARLYZ HEAL",
+      "english": "תרופה לשיתוק",
       "itemId": "ITEM_PARALYZE_HEAL",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A spray-type medicine.\\nIt heals one POKéMON from\\nparalysis.",
+      "description_english": "תרופה בתרסיס שמרפאת פוקימון אחד משיתוק.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -305,12 +305,12 @@
       "secondaryId": 0
     },
     {
-      "english": "FULL RESTORE",
+      "english": "שיחזור מלא",
       "itemId": "ITEM_FULL_RESTORE",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 255,
-      "description_english": "A medicine that fully restores the\\nHP and heals any status problems\\nof one POKéMON.",
+      "description_english": "תרופה שמחדשת במלואה את הנ”ח\\nומרפאת את כל הבעיות במצב\\nשל פוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -321,12 +321,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MAX POTION",
+      "english": "שיקוי מקסימום",
       "itemId": "ITEM_MAX_POTION",
       "price": 2500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 255,
-      "description_english": "A spray-type wound medicine.\\nIt fully restores the HP of one\\nPOKéMON.",
+      "description_english": "תרופה לריסוס פצעים.\\nמחדשת במלואה את הנ”ח של\\nפוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -337,12 +337,12 @@
       "secondaryId": 0
     },
     {
-      "english": "HYPER POTION",
+      "english": "שיקוי היפר",
       "itemId": "ITEM_HYPER_POTION",
       "price": 1200,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 200,
-      "description_english": "A spray-type wound medicine.\\nIt restores the HP of one POKéMON\\nby 200 points.",
+      "description_english": "תרופה לריסוס פצעים.\\nמחדשת את הנ”ח של פוקימון אחד\\nב-200 נקודות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -353,12 +353,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SUPER POTION",
+      "english": "שיקוי על",
       "itemId": "ITEM_SUPER_POTION",
       "price": 700,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 50,
-      "description_english": "A spray-type wound medicine.\\nIt restores the HP of one POKéMON\\nby 50 points.",
+      "description_english": "תרופה לריסוס פצעים.\\nמחדשת את הנ”ח של פוקימון אחד\\nב-50 נקודות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -369,12 +369,12 @@
       "secondaryId": 0
     },
     {
-      "english": "FULL HEAL",
+      "english": "ריפוי מלא",
       "itemId": "ITEM_FULL_HEAL",
       "price": 600,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A spray-type medicine.\\nIt heals all the status problems of\\none POKéMON.",
+      "description_english": "תרופה לריסוס.\\nמרפאת את כל הבעיות במצב\\nשל פוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -385,12 +385,12 @@
       "secondaryId": 0
     },
     {
-      "english": "REVIVE",
+      "english": "החייאה",
       "itemId": "ITEM_REVIVE",
       "price": 1500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A medicine that revives a fainted\\nPOKéMON, restoring HP by half the\\nmaximum amount.",
+      "description_english": "תרופה שמחייה פוקימון מעולף,\\nמחדשת את הנ”ח בחצי מהכמות\\nהמקסימלית.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -401,12 +401,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MAX REVIVE",
+      "english": "החייאה מקסימלית",
       "itemId": "ITEM_MAX_REVIVE",
       "price": 4000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A medicine that revives a fainted\\nPOKéMON, restoring HP fully.",
+      "description_english": "תרופה שמחייה פוקימון מעולף,\\nמחדשת את הנ”ח במלואה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -417,12 +417,12 @@
       "secondaryId": 0
     },
     {
-      "english": "FRESH WATER",
+      "english": "מים טריים",
       "itemId": "ITEM_FRESH_WATER",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 50,
-      "description_english": "Water with a high mineral content.\\nIt restores the HP of one POKéMON\\nby 50 points.",
+      "description_english": "מים עשירים במינרלים.\\nמחדשים את הנ”ח של פוקימון אחד\\nב-50 נקודות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -433,12 +433,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SODA POP",
+      "english": "סודה פופ",
       "itemId": "ITEM_SODA_POP",
       "price": 300,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 60,
-      "description_english": "A fizzy soda drink.\\nIt restores the HP of one POKéMON\\nby 60 points.",
+      "description_english": "משקה מוגז.\\nמחדשת את הנ”ח של פוקימון אחד\\nב-60 נקודות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -449,12 +449,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LEMONADE",
+      "english": "לימונדה",
       "itemId": "ITEM_LEMONADE",
       "price": 350,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 80,
-      "description_english": "A very sweet drink.\\nIt restores the HP of one POKéMON\\nby 80 points.",
+      "description_english": "משקה מתוק מאוד.\\nמחדשת את הנ”ח של פוקימון אחד\\nב-80 נקודות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -465,12 +465,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MOOMOO MILK",
+      "english": "חלב מומו",
       "itemId": "ITEM_MOOMOO_MILK",
       "price": 500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 100,
-      "description_english": "Highly nutritious milk.\\nIt restores the HP of one POKéMON\\nby 100 points.",
+      "description_english": "חלב מזין במיוחד.\\nמשקם את נקודות החיים של\\nפוקימון אחד ב-100 נקודות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -481,12 +481,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ENERGYPOWDER",
+      "english": "אבקת אנרגיה",
       "itemId": "ITEM_ENERGY_POWDER",
       "price": 500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A very bitter medicine powder.\\nIt restores the HP of one POKéMON\\nby 50 points.",
+      "description_english": "אבקת תרופה מרה מאוד.\\nמשקמת את נקודות החיים של\\nפוקימון אחד ב-50 נקודות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -497,12 +497,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ENERGY ROOT",
+      "english": "שורש אנרגיה",
       "itemId": "ITEM_ENERGY_ROOT",
       "price": 800,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A very bitter root.\\nIt restores the HP of one POKéMON\\nby 200 points.",
+      "description_english": "שורש מר מאוד.\\nמשקם את נקודות החיים של\\nפוקימון אחד ב-200 נקודות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -513,12 +513,12 @@
       "secondaryId": 0
     },
     {
-      "english": "HEAL POWDER",
+      "english": "אבקת ריפוי",
       "itemId": "ITEM_HEAL_POWDER",
       "price": 450,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A very bitter medicine powder.\\nIt heals all the status problems of\\none POKéMON.",
+      "description_english": "אבקת תרופה מרה מאוד.\\nמרפאת את כל בעיות הסטטוס\\nשל פוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -529,12 +529,12 @@
       "secondaryId": 0
     },
     {
-      "english": "REVIVAL HERB",
+      "english": "עשב תחייה",
       "itemId": "ITEM_REVIVAL_HERB",
       "price": 2800,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A very bitter medicinal herb.\\nIt revives a fainted POKéMON,\\nrestoring HP fully.",
+      "description_english": "עשב תרופה מר מאוד.\\nמחייה פוקימון מעולף,\\nמשקם נקודות חיים במלואן.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -545,12 +545,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ETHER",
+      "english": "אתר",
       "itemId": "ITEM_ETHER",
       "price": 1200,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 10,
-      "description_english": "Restores a selected move's PP by\\n10 points for one POKéMON.",
+      "description_english": "משקם את נקודות הפעולה של\\nמהלך נבחר ב-10 נקודות\\nעבור פוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -561,12 +561,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MAX ETHER",
+      "english": "אתר מקס",
       "itemId": "ITEM_MAX_ETHER",
       "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 255,
-      "description_english": "Fully restores a selected move's PP\\nfor one POKéMON.",
+      "description_english": "משקם במלואן את נקודות הפעולה\\nשל מהלך נבחר עבור\\nפוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -577,12 +577,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ELIXIR",
+      "english": "שיקוי",
       "itemId": "ITEM_ELIXIR",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 10,
-      "description_english": "Restores the PP of all moves for\\none POKéMON by 10 points each.",
+      "description_english": "משקם את נקודות הפעולה של\\nכל המהלכים עבור פוקימון אחד\\nב-10 נקודות כל אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -593,12 +593,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MAX ELIXIR",
+      "english": "אליקסיר מרבי",
       "itemId": "ITEM_MAX_ELIXIR",
       "price": 4500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 255,
-      "description_english": "Fully restores the PP of all moves\\nfor one POKéMON.",
+      "description_english": "מחדש לחלוטין את נ”כ של כל\\nהמכות של פוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -609,12 +609,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LAVA COOKIE",
+      "english": "עוגיית לבה",
       "itemId": "ITEM_LAVA_COOKIE",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "LAVARIDGE TOWN's local specialty.\\nIt heals all the status problems of\\none POKéMON.",
+      "description_english": "המאכל המיוחד של עיר לבארידג’.\\nהיא מרפאה את כל הבעיות של\\nמצב פוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -625,12 +625,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BLUE FLUTE",
+      "english": "חליל כחול",
       "itemId": "ITEM_BLUE_FLUTE",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A blue glass flute that awakens\\na sleeping POKéMON.",
+      "description_english": "חליל זכוכית כחול שמעיר\\nפוקימון ישן.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -641,12 +641,12 @@
       "secondaryId": 0
     },
     {
-      "english": "YELLOW FLUTE",
+      "english": "חליל צהוב",
       "itemId": "ITEM_YELLOW_FLUTE",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A yellow glass flute that snaps one\\nPOKéMON out of confusion.",
+      "description_english": "חליל זכוכית צהוב שמוציא\\nפוקימון ממצב בלבול.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -657,12 +657,12 @@
       "secondaryId": 0
     },
     {
-      "english": "RED FLUTE",
+      "english": "חליל אדום",
       "itemId": "ITEM_RED_FLUTE",
       "price": 300,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A red glass flute that snaps one\\nPOKéMON out of infatuation.",
+      "description_english": "חליל זכוכית אדום שמוציא\\nפוקימון ממצב של אהבה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -673,12 +673,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BLACK FLUTE",
+      "english": "חליל שחור",
       "itemId": "ITEM_BLACK_FLUTE",
       "price": 400,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 50,
-      "description_english": "A black glass flute.\\nWhen blown, it makes wild POKéMON\\nless likely to appear.",
+      "description_english": "חליל זכוכית שחור.\\nכשנושפים בו, הוא מקטין את הסיכוי\\nלהיתקל בפוקימונים בטבע.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -689,12 +689,12 @@
       "secondaryId": 0
     },
     {
-      "english": "WHITE FLUTE",
+      "english": "חליל לבן",
       "itemId": "ITEM_WHITE_FLUTE",
       "price": 500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 150,
-      "description_english": "A white glass flute.\\nWhen blown, it makes wild POKéMON\\nmore likely to appear.",
+      "description_english": "חליל זכוכית לבן.\\nכשנושפים בו, הוא מגדיל את הסיכוי\\nלהיתקל בפוקימונים בטבע.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -705,12 +705,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BERRY JUICE",
+      "english": "מיץ ברי",
       "itemId": "ITEM_BERRY_JUICE",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_RESTORE_HP",
       "holdEffectParam": 20,
-      "description_english": "A 100% pure juice.\\nIt restores the HP of one POKéMON\\nby 20 points.",
+      "description_english": "מיץ טהור לחלוטין.\\nמחדש את נ”ח של פוקימון אחד\\nב-20 נקודות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -721,12 +721,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SACRED ASH",
+      "english": "אפר קדוש",
       "itemId": "ITEM_SACRED_ASH",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Revives all fainted POKéMON,\\nrestoring HP fully.",
+      "description_english": "מחיה את כל הפוקימונים\\nשחוסלו ומחדש את נ”ח במלואו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -737,12 +737,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SHOAL SALT",
+      "english": "מלח מערות",
       "itemId": "ITEM_SHOAL_SALT",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Pure salt obtained from deep inside\\nthe SHOAL CAVE. It is extremely\\nsalty.",
+      "description_english": "מלח טהור שהושג מעומק מערת המלח.\\nהוא מלוח במיוחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -753,12 +753,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SHOAL SHELL",
+      "english": "קליפת מערות",
       "itemId": "ITEM_SHOAL_SHELL",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A pretty seashell found deep inside\\nthe SHOAL CAVE. It is striped in\\nblue and white.",
+      "description_english": "קונכייה יפה שנמצאה בעומק מערת המלח.\\nיש לה פסים בכחול ולבן.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -769,12 +769,12 @@
       "secondaryId": 0
     },
     {
-      "english": "RED SHARD",
+      "english": "שבר אדום",
       "itemId": "ITEM_RED_SHARD",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A small red shard.\\nIt appears to be from some sort of\\na tool made long ago.",
+      "description_english": "שבר אדום קטן.\\nנראה שזה חלק מכלי כלשהו שנוצר\\nלפני זמן רב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -785,12 +785,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BLUE SHARD",
+      "english": "שבר כחול",
       "itemId": "ITEM_BLUE_SHARD",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A small blue shard.\\nIt appears to be from some sort of\\na tool made long ago.",
+      "description_english": "שבר כחול קטן.\\nנראה שזה חלק מכלי כלשהו שנוצר\\nלפני זמן רב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -801,12 +801,12 @@
       "secondaryId": 0
     },
     {
-      "english": "YELLOW SHARD",
+      "english": "שבר צהוב",
       "itemId": "ITEM_YELLOW_SHARD",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A small yellow shard.\\nIt appears to be from some sort of\\na tool made long ago.",
+      "description_english": "שבר צהוב קטן.\\nנראה שזה חלק מכלי כלשהו שנוצר\\nלפני זמן רב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -817,12 +817,12 @@
       "secondaryId": 0
     },
     {
-      "english": "GREEN SHARD",
+      "english": "שבר ירוק",
       "itemId": "ITEM_GREEN_SHARD",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A small green shard.\\nIt appears to be from some sort of\\na tool made long ago.",
+      "description_english": "שבר ירוק קטן.\\nנראה שזה חלק מכלי כלשהו שנוצר\\nלפני זמן רב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1009,12 +1009,12 @@
       "secondaryId": 0
     },
     {
-      "english": "HP UP",
+      "english": "הגדלת נ”ח",
       "itemId": "ITEM_HP_UP",
       "price": 9800,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A nutritious drink for POKéMON.\\nIt raises the base HP of one\\nPOKéMON.",
+      "description_english": "משקה מזין עבור פוקימון.\\nמגדיל את הנ”ח הבסיסיות\\nשל פוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1025,12 +1025,12 @@
       "secondaryId": 0
     },
     {
-      "english": "PROTEIN",
+      "english": "חלבון",
       "itemId": "ITEM_PROTEIN",
       "price": 9800,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A nutritious drink for POKéMON.\\nIt raises the base ATTACK stat of\\none POKéMON.",
+      "description_english": "משקה מזין עבור פוקימון.\\nמגדיל את נקודות ההתקפה הבסיסיות\\nשל פוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1041,12 +1041,12 @@
       "secondaryId": 0
     },
     {
-      "english": "IRON",
+      "english": "ברזל",
       "itemId": "ITEM_IRON",
       "price": 9800,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A nutritious drink for POKéMON.\\nIt raises the base DEFENSE stat of\\none POKéMON.",
+      "description_english": "משקה מזין עבור פוקימון.\\nמגדיל את נקודות ההגנה הבסיסיות\\nשל פוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1057,12 +1057,12 @@
       "secondaryId": 0
     },
     {
-      "english": "CARBOS",
+      "english": "פחמימות",
       "itemId": "ITEM_CARBOS",
       "price": 9800,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A nutritious drink for POKéMON.\\nIt raises the base SPEED stat of\\none POKéMON.",
+      "description_english": "משקה מזין עבור פוקימון.\\nמגדיל את נקודות המהירות הבסיסיות\\nשל פוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1073,12 +1073,12 @@
       "secondaryId": 0
     },
     {
-      "english": "CALCIUM",
+      "english": "סידן",
       "itemId": "ITEM_CALCIUM",
       "price": 9800,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A nutritious drink for POKéMON.\\nIt raises the base SP. ATK stat\\nof one POKéMON.",
+      "description_english": "משקה מזין עבור פוקימון.\\nמגדיל את נקודות ההתקפה המיוחדת\\nשל פוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1089,12 +1089,12 @@
       "secondaryId": 0
     },
     {
-      "english": "RARE CANDY",
+      "english": "ממתק נדיר",
       "itemId": "ITEM_RARE_CANDY",
       "price": 4800,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A candy that is packed with energy.\\nIt raises the level of a POKéMON\\nby one.",
+      "description_english": "ממתק מלא באנרגיה.\\nמעלה את הרמה של פוקימון\\nבאחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1105,12 +1105,12 @@
       "secondaryId": 0
     },
     {
-      "english": "PP UP",
+      "english": "הגדלת נקודות כוח",
       "itemId": "ITEM_PP_UP",
       "price": 9800,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Slightly raises the maximum PP of\\na selected move for one POKéMON.",
+      "description_english": "מגדיל מעט את נקודות הכוח המקסימליות\\nשל מהלך נבחר עבור פוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1121,12 +1121,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ZINC",
+      "english": "אבץ",
       "itemId": "ITEM_ZINC",
       "price": 9800,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A nutritious drink for POKéMON.\\nIt raises the base SP. DEF stat\\nof one POKéMON.",
+      "description_english": "משקה מזין עבור פוקימון.\\nמגדיל את נקודות ההגנה המיוחדת\\nשל פוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1137,12 +1137,12 @@
       "secondaryId": 0
     },
     {
-      "english": "PP MAX",
+      "english": "מקסימום נ\"כ",
       "itemId": "ITEM_PP_MAX",
       "price": 9800,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Raises the PP of a selected move\\nto its maximum level for one\\nPOKéMON.",
+      "description_english": "מגדיל את נקודות הכוח של מהלך נבחר\\nלרמה המקסימלית עבור\\nפוקימון אחד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1169,12 +1169,12 @@
       "secondaryId": 0
     },
     {
-      "english": "GUARD SPEC.",
+      "english": "הגנה מיוחדת",
       "itemId": "ITEM_GUARD_SPEC",
       "price": 700,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An item that prevents stat reduction\\namong party POKéMON for five turns\\nafter use.",
+      "description_english": "פריט המונע הורדת נתונים\\nבקרב חברי הקבוצה למשך חמישה תורות\\nלאחר השימוש.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1185,12 +1185,12 @@
       "secondaryId": 0
     },
     {
-      "english": "DIRE HIT",
+      "english": "פגיעה קריטית",
       "itemId": "ITEM_DIRE_HIT",
       "price": 650,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Raises the critical-hit ratio of\\nPOKéMON in battle. Wears off if the\\nPOKéMON is withdrawn.",
+      "description_english": "מגדיל את סיכויי הפגיעה הקריטית של\\nפוקימון בקרב. נעלם אם\\nהפוקימון מוחלף.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1201,12 +1201,12 @@
       "secondaryId": 0
     },
     {
-      "english": "X ATTACK",
+      "english": "התקפת X",
       "itemId": "ITEM_X_ATTACK",
       "price": 500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Raises the ATTACK stat of POKéMON\\nin battle. Wears off if the POKéMON\\nis withdrawn.",
+      "description_english": "מגדיל את נקודות ההתקפה של פוקימון\\nבקרב. נעלם אם הפוקימון\\nמוחלף.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1217,12 +1217,12 @@
       "secondaryId": 0
     },
     {
-      "english": "X DEFEND",
+      "english": "הגנת X",
       "itemId": "ITEM_X_DEFEND",
       "price": 550,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Raises the DEFENSE stat of POKéMON\\nin battle. Wears off if the POKéMON\\nis withdrawn.",
+      "description_english": "מגדיל את נקודות ההגנה של פוקימון\\nבקרב. נעלם אם הפוקימון\\nמוחלף.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1233,12 +1233,12 @@
       "secondaryId": 0
     },
     {
-      "english": "X SPEED",
+      "english": "מהירות X",
       "itemId": "ITEM_X_SPEED",
       "price": 350,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Raises the SPEED stat of POKéMON\\nin battle. Wears off if the POKéMON\\nis withdrawn.",
+      "description_english": "מעלה את מדד המהירות של פוקימון\\nבקרב. מתבטל אם הפוקימון מוחזר.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1249,12 +1249,12 @@
       "secondaryId": 0
     },
     {
-      "english": "X ACCURACY",
+      "english": "דיוק X",
       "itemId": "ITEM_X_ACCURACY",
       "price": 950,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Raises the accuracy stat of\\nPOKéMON in battle. Wears off if the\\nPOKéMON is withdrawn.",
+      "description_english": "מעלה את מדד הדיוק של פוקימון\\nבקרב. מתבטל אם הפוקימון מוחזר.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1265,12 +1265,12 @@
       "secondaryId": 0
     },
     {
-      "english": "X SPECIAL",
+      "english": "מיוחד X",
       "itemId": "ITEM_X_SPECIAL",
       "price": 350,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Raises the SP. ATK stat of\\nPOKéMON in battle. Wears off if the\\nPOKéMON is withdrawn.",
+      "description_english": "מעלה את מדד ההתקפה המיוחדת של\\nפוקימון בקרב. מתבטל אם הפוקימון\\nמוחזר.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1281,12 +1281,12 @@
       "secondaryId": 0
     },
     {
-      "english": "POK\u00e9 DOLL",
+      "english": "בובת פוקימון",
       "itemId": "ITEM_POKE_DOLL",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An attractive doll.\\nUse it to flee from any battle with\\na wild POKéMON.",
+      "description_english": "בובה מושכת.\\nהשתמש בה כדי לברוח מכל קרב עם\\nפוקימון פראי.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1297,12 +1297,12 @@
       "secondaryId": 0
     },
     {
-      "english": "FLUFFY TAIL",
+      "english": "זנב פרוותי",
       "itemId": "ITEM_FLUFFY_TAIL",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An attractive item.\\nUse it to flee from any battle with\\na wild POKéMON.",
+      "description_english": "חפץ מושך.\\nהשתמש בו כדי לברוח מכל קרב עם\\nפוקימון פראי.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1329,12 +1329,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SUPER REPEL",
+      "english": "דוחה-על",
       "itemId": "ITEM_SUPER_REPEL",
       "price": 500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 200,
-      "description_english": "Prevents weak wild POKéMON from\\nappearing for 200 steps.",
+      "description_english": "מונע הופעת פוקימונים פראיים חלשים\\nלמשך 200 צעדים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1345,12 +1345,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MAX REPEL",
+      "english": "דוחה-עליון",
       "itemId": "ITEM_MAX_REPEL",
       "price": 700,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 250,
-      "description_english": "Prevents weak wild POKéMON from\\nappearing for 250 steps.",
+      "description_english": "מונע הופעת פוקימונים פראיים חלשים\\nלמשך 250 צעדים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1361,12 +1361,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ESCAPE ROPE",
+      "english": "חבל מילוט",
       "itemId": "ITEM_ESCAPE_ROPE",
       "price": 550,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A long, durable rope.\\nUse it to escape instantly from a\\ncave or a dungeon.",
+      "description_english": "חבל ארוך ועמיד.\\nהשתמש בו כדי להימלט מיידית\\nממערה או מבוך.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1377,12 +1377,12 @@
       "secondaryId": 0
     },
     {
-      "english": "REPEL",
+      "english": "דוחה",
       "itemId": "ITEM_REPEL",
       "price": 350,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 100,
-      "description_english": "Prevents weak wild POKéMON from\\nappearing for 100 steps.",
+      "description_english": "מונע הופעת פוקימונים פראיים חלשים\\nלמשך 100 צעדים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1489,12 +1489,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SUN STONE",
+      "english": "אבן שמש",
       "itemId": "ITEM_SUN_STONE",
       "price": 2100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt is as red as the sun.",
+      "description_english": "אבן מיוחדת שגורמת למינים מסוימים\\nשל פוקימון להתפתח.\\nהיא אדומה כמו השמש.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1505,12 +1505,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MOON STONE",
+      "english": "אבן ירח",
       "itemId": "ITEM_MOON_STONE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt is as black as the night sky.",
+      "description_english": "אבן מיוחדת שגורמת למינים מסוימים\\nשל פוקימון להתפתח.\\nהיא שחורה כמו שמי הלילה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1521,12 +1521,12 @@
       "secondaryId": 0
     },
     {
-      "english": "FIRE STONE",
+      "english": "אבן אש",
       "itemId": "ITEM_FIRE_STONE",
       "price": 2100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt is colored orange.",
+      "description_english": "אבן מיוחדת שגורמת למינים מסוימים\\nשל פוקימון להתפתח.\\nהיא בצבע כתום.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1537,12 +1537,12 @@
       "secondaryId": 0
     },
     {
-      "english": "THUNDERSTONE",
+      "english": "אבן ברק",
       "itemId": "ITEM_THUNDER_STONE",
       "price": 2100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt has a thunderbolt pattern.",
+      "description_english": "אבן מיוחדת שגורמת למינים מסוימים\\nשל פוקימון להתפתח.\\nיש עליה דוגמת ברק.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1553,12 +1553,12 @@
       "secondaryId": 0
     },
     {
-      "english": "WATER STONE",
+      "english": "אבן מים",
       "itemId": "ITEM_WATER_STONE",
       "price": 2100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt is a clear light blue.",
+      "description_english": "אבן ייחודית שגורמת למינים\\nמסוימים של פוקימון להתפתח.\\nצבעה כחול בהיר שקוף.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1569,12 +1569,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LEAF STONE",
+      "english": "אבן עלה",
       "itemId": "ITEM_LEAF_STONE",
       "price": 2100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A peculiar stone that makes certain\\nspecies of POKéMON evolve.\\nIt has a leaf pattern.",
+      "description_english": "אבן ייחודית שגורמת למינים\\nמסוימים של פוקימון להתפתח.\\nיש לה דפוס של עלה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1649,12 +1649,12 @@
       "secondaryId": 0
     },
     {
-      "english": "TINYMUSHROOM",
+      "english": "פטרייה קטנה",
       "itemId": "ITEM_TINY_MUSHROOM",
       "price": 500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A small and rare mushroom.\\nIt is quite popular among certain\\npeople.",
+      "description_english": "פטרייה קטנה ונדירה.\\nהיא פופולרית מאוד בקרב\\nאנשים מסוימים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1665,12 +1665,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BIG MUSHROOM",
+      "english": "פטרייה גדולה",
       "itemId": "ITEM_BIG_MUSHROOM",
       "price": 5000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A large and rare mushroom.\\nIt is very popular among certain\\npeople.",
+      "description_english": "פטרייה גדולה ונדירה.\\nהיא מאוד פופולרית בקרב\\nאנשים מסוימים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1697,12 +1697,12 @@
       "secondaryId": 0
     },
     {
-      "english": "PEARL",
+      "english": "פנינה",
       "itemId": "ITEM_PEARL",
       "price": 1400,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A relatively small pearl that\\nsparkles in a pretty silver color.\\nIt can be sold cheaply.",
+      "description_english": "פנינה קטנה יחסית שנוצצת\\nבצבע כסוף יפה.\\nניתן למכור אותה בזול.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1713,12 +1713,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BIG PEARL",
+      "english": "פנינה גדולה",
       "itemId": "ITEM_BIG_PEARL",
       "price": 7500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A quite-large pearl that sparkles\\nin a pretty silver color.\\nIt can be sold at a high price.",
+      "description_english": "פנינה די גדולה שנוצצת\\nבצבע כסוף יפה.\\nניתן למכור אותה במחיר גבוה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1729,12 +1729,12 @@
       "secondaryId": 0
     },
     {
-      "english": "STARDUST",
+      "english": "אבק כוכבים",
       "itemId": "ITEM_STARDUST",
       "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A pretty red sand with a loose,\\nsilky feel.\\nIt can be sold at a high price.",
+      "description_english": "חול אדום יפה עם מרקם\\nמשיי ומשוחרר.\\nניתן למכור אותו במחיר גבוה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1745,12 +1745,12 @@
       "secondaryId": 0
     },
     {
-      "english": "STAR PIECE",
+      "english": "חתיכת כוכב",
       "itemId": "ITEM_STAR_PIECE",
       "price": 9800,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A shard of a pretty gem that\\nsparkles in a red color.\\nIt can be sold at a high price.",
+      "description_english": "שבר של אבן יקרה שנוצצת\\nבצבע אדום.\\nניתן למכור אותו במחיר גבוה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1761,12 +1761,12 @@
       "secondaryId": 0
     },
     {
-      "english": "NUGGET",
+      "english": "נאגט",
       "itemId": "ITEM_NUGGET",
       "price": 10000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A nugget of pure gold that gives\\noff a lustrous gleam.\\nIt can be sold at a high price.",
+      "description_english": "חתיכת זהב טהור שמשדרת\\nזוהר מבריק.\\nניתן למכור אותה במחיר גבוה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1777,12 +1777,12 @@
       "secondaryId": 0
     },
     {
-      "english": "HEART SCALE",
+      "english": "קשקש לב",
       "itemId": "ITEM_HEART_SCALE",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A pretty, heart-shaped scale that\\nis extremely rare. It glows faintly\\nin the colors of a rainbow.",
+      "description_english": "קשקש יפה בצורת לב שהוא\\nנדיר ביותר. הוא זוהר בעדינות\\nבצבעי הקשת.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1937,12 +1937,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ORANGE MAIL",
+      "english": "דואר כתום",
       "itemId": "ITEM_ORANGE_MAIL",
       "price": 50,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A piece of MAIL featuring a cute\\nZIGZAGOON print.\\nIt is to be held by a POKéMON.",
+      "description_english": "חתיכת דואר עם הדפס\\nחמוד של זיגזגון.\\nמיועדת לנשיאה על ידי פוקימון.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1953,12 +1953,12 @@
       "secondaryId": 0
     },
     {
-      "english": "HARBOR MAIL",
+      "english": "דואר נמל",
       "itemId": "ITEM_HARBOR_MAIL",
       "price": 50,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A piece of MAIL featuring a cute\\nWINGULL print.\\nIt is to be held by a POKéMON.",
+      "description_english": "חתיכת דואר עם הדפס\\nחמוד של ווינגול.\\nמיועדת לנשיאה על ידי פוקימון.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1969,12 +1969,12 @@
       "secondaryId": 1
     },
     {
-      "english": "GLITTER MAIL",
+      "english": "דואר מנצנץ",
       "itemId": "ITEM_GLITTER_MAIL",
       "price": 50,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A piece of MAIL featuring a cute\\nPIKACHU print.\\nIt is to be held by a POKéMON.",
+      "description_english": "חתיכת דואר עם הדפס\\nחמוד של פיקאצ'ו.\\nמיועדת לנשיאה על ידי פוקימון.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -1985,12 +1985,12 @@
       "secondaryId": 2
     },
     {
-      "english": "MECH MAIL",
+      "english": "דואר מכני",
       "itemId": "ITEM_MECH_MAIL",
       "price": 50,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A piece of MAIL featuring a cute\\nMAGNEMITE print.\\nIt is to be held by a POKéMON.",
+      "description_english": "חתיכת דואר עם הדפס\\nחמוד של מגנמייט.\\nמיועדת לנשיאה על ידי פוקימון.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2001,12 +2001,12 @@
       "secondaryId": 3
     },
     {
-      "english": "WOOD MAIL",
+      "english": "דואר עץ",
       "itemId": "ITEM_WOOD_MAIL",
       "price": 50,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A piece of MAIL featuring a cute\\nSLAKOTH print.\\nIt is to be held by a POKéMON.",
+      "description_english": "חתיכת דואר עם הדפס\\nחמוד של סלכות'.\\nמיועדת לנשיאה על ידי פוקימון.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2017,12 +2017,12 @@
       "secondaryId": 4
     },
     {
-      "english": "WAVE MAIL",
+      "english": "דואר גלים",
       "itemId": "ITEM_WAVE_MAIL",
       "price": 50,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A piece of MAIL featuring a cute\\nWAILMER print.\\nIt is to be held by a POKéMON.",
+      "description_english": "חתיכת דואר עם הדפס\\nחמוד של ויילמר.\\nמיועדת לנשיאה על ידי פוקימון.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2033,12 +2033,12 @@
       "secondaryId": 5
     },
     {
-      "english": "BEAD MAIL",
+      "english": "דואר חרוזים",
       "itemId": "ITEM_BEAD_MAIL",
       "price": 50,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A piece of MAIL to be held by a\\nPOKéMON. It will bear the print of\\nthe POKéMON holding it.",
+      "description_english": "חתיכת דואר להחזקה בידי\\nפוקימון. היא תישא את טביעת\\nהפוקימון שמחזיק בה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2049,12 +2049,12 @@
       "secondaryId": 6
     },
     {
-      "english": "SHADOW MAIL",
+      "english": "דואר צללים",
       "itemId": "ITEM_SHADOW_MAIL",
       "price": 50,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A piece of MAIL featuring a cute\\nDUSKULL print.\\nIt is to be held by a POKéMON.",
+      "description_english": "חתיכת דואר עם דוגמת\\nרוח רפאים מתוקה.\\nהיא נועדה להחזקה בידי פוקימון.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2065,12 +2065,12 @@
       "secondaryId": 7
     },
     {
-      "english": "TROPIC MAIL",
+      "english": "דואר טרופי",
       "itemId": "ITEM_TROPIC_MAIL",
       "price": 50,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A piece of MAIL featuring a cute\\nBELLOSSOM print.\\nIt is to be held by a POKéMON.",
+      "description_english": "חתיכת דואר עם דוגמת\\nבלוסום מתוקה.\\nהיא נועדה להחזקה בידי פוקימון.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2081,12 +2081,12 @@
       "secondaryId": 8
     },
     {
-      "english": "DREAM MAIL",
+      "english": "דואר חלומי",
       "itemId": "ITEM_DREAM_MAIL",
       "price": 50,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A piece of MAIL to be held by a\\nPOKéMON. It will bear the print of\\nthe POKéMON holding it.",
+      "description_english": "חתיכת דואר להחזקה בידי\\nפוקימון. היא תישא את טביעת\\nהפוקימון שמחזיק בה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2097,12 +2097,12 @@
       "secondaryId": 9
     },
     {
-      "english": "FAB MAIL",
+      "english": "דואר מפואר",
       "itemId": "ITEM_FAB_MAIL",
       "price": 50,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A piece of MAIL featuring a\\ngorgeous, extravagant print.\\nIt is to be held by a POKéMON.",
+      "description_english": "חתיכת דואר עם דוגמה\\nמפוארת ויוקרתית.\\nהיא נועדה להחזקה בידי פוקימון.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2113,12 +2113,12 @@
       "secondaryId": 10
     },
     {
-      "english": "RETRO MAIL",
+      "english": "דואר רטרו",
       "itemId": "ITEM_RETRO_MAIL",
       "price": 50,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A piece of MAIL featuring a print\\nof three cute POKéMON.\\nIt is to be held by a POKéMON.",
+      "description_english": "חתיכת דואר עם דוגמה\\nשלושה פוקימונים מתוקים.\\nהיא נועדה להחזקה בידי פוקימון.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2129,12 +2129,12 @@
       "secondaryId": 11
     },
     {
-      "english": "CHERI BERRY",
+      "english": "גרגר צ'רי",
       "itemId": "ITEM_CHERI_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CURE_PAR",
       "holdEffectParam": 0,
-      "description_english": "When held by a POKéMON, it will be\\nused in battle to heal paralysis.",
+      "description_english": "כאשר מוחזק בידי פוקימון, הוא\\nישמש בקרב כדי לרפא שיתוק.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2145,12 +2145,12 @@
       "secondaryId": 0
     },
     {
-      "english": "CHESTO BERRY",
+      "english": "גרגר צ'סטרו",
       "itemId": "ITEM_CHESTO_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CURE_SLP",
       "holdEffectParam": 0,
-      "description_english": "When held by a POKéMON, it will be\\nused in battle to wake up.",
+      "description_english": "כאשר מוחזק בידי פוקימון, הוא\\nישמש בקרב כדי להעיר.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2161,12 +2161,12 @@
       "secondaryId": 0
     },
     {
-      "english": "PECHA BERRY",
+      "english": "גרגר פצ'ה",
       "itemId": "ITEM_PECHA_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CURE_PSN",
       "holdEffectParam": 0,
-      "description_english": "When held by a POKéMON, it will be\\nused in battle to cure poison.",
+      "description_english": "כאשר מוחזק בידי פוקימון, הוא\\nישמש בקרב כדי לרפא רעל.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2177,12 +2177,12 @@
       "secondaryId": 0
     },
     {
-      "english": "RAWST BERRY",
+      "english": "גרגר ראוסט",
       "itemId": "ITEM_RAWST_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CURE_BRN",
       "holdEffectParam": 0,
-      "description_english": "When held by a POKéMON, it will be\\nused in battle to heal a burn.",
+      "description_english": "כאשר מוחזק בידי פוקימון, הוא\\nישמש בקרב כדי לרפא כוויה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2193,12 +2193,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ASPEAR BERRY",
+      "english": "פירות אספר",
       "itemId": "ITEM_ASPEAR_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CURE_FRZ",
       "holdEffectParam": 0,
-      "description_english": "When held by a POKéMON, it will be\\nused in battle for defrosting.",
+      "description_english": "כאשר מוחזק על ידי פוקימון, הוא ישומש\nבקרב כדי להפשיר.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2209,12 +2209,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LEPPA BERRY",
+      "english": "פירות לפה",
       "itemId": "ITEM_LEPPA_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_RESTORE_PP",
       "holdEffectParam": 10,
-      "description_english": "When held by a POKéMON, it will be\\nused in battle to restore 10 PP.",
+      "description_english": "כאשר מוחזק על ידי פוקימון, הוא ישומש\nבקרב לשחזור 10 נ''כ.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2225,12 +2225,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ORAN BERRY",
+      "english": "פירות אורן",
       "itemId": "ITEM_ORAN_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_RESTORE_HP",
       "holdEffectParam": 10,
-      "description_english": "When held by a POKéMON, it will be\\nused in battle to restore 10 HP.",
+      "description_english": "כאשר מוחזק על ידי פוקימון, הוא ישומש\nבקרב לשחזור 10 נ''ח.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2241,12 +2241,12 @@
       "secondaryId": 0
     },
     {
-      "english": "PERSIM BERRY",
+      "english": "פירות פרסים",
       "itemId": "ITEM_PERSIM_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CURE_CONFUSION",
       "holdEffectParam": 0,
-      "description_english": "When held by a POKéMON, it will be\\nused in battle to lift confusion.",
+      "description_english": "כאשר מוחזק על ידי פוקימון, הוא ישומש\nבקרב להורדת בלבול.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2257,12 +2257,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LUM BERRY",
+      "english": "פירות לום",
       "itemId": "ITEM_LUM_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CURE_STATUS",
       "holdEffectParam": 0,
-      "description_english": "When held by a POKéMON, it will be\\nused in battle to heal any problem.",
+      "description_english": "כאשר מוחזק על ידי פוקימון, הוא ישומש\nבקרב לריפוי כל בעיה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2273,12 +2273,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SITRUS BERRY",
+      "english": "פירות סיטרוס",
       "itemId": "ITEM_SITRUS_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_RESTORE_HP",
       "holdEffectParam": 30,
-      "description_english": "When held by a POKéMON, it will be\\nused in battle to restore 30 HP.",
+      "description_english": "כאשר מוחזק על ידי פוקימון, הוא ישומש\nבקרב לשחזור 30 נ''ח.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2289,12 +2289,12 @@
       "secondaryId": 0
     },
     {
-      "english": "FIGY BERRY",
+      "english": "תות פיגי",
       "itemId": "ITEM_FIGY_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CONFUSE_SPICY",
       "holdEffectParam": 8,
-      "description_english": "A hold item that restores HP but\\nmay cause confusion when used.",
+      "description_english": "חפץ שמחזיק מעלה נ\"ח אבל\\nעלול לגרום לבלבול בשימוש.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2305,12 +2305,12 @@
       "secondaryId": 0
     },
     {
-      "english": "WIKI BERRY",
+      "english": "תות וויקי",
       "itemId": "ITEM_WIKI_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CONFUSE_DRY",
       "holdEffectParam": 8,
-      "description_english": "A hold item that restores HP but\\nmay cause confusion when used.",
+      "description_english": "חפץ שמחזיק מעלה נ\"ח אבל\\nעלול לגרום לבלבול בשימוש.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2321,12 +2321,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MAGO BERRY",
+      "english": "תות מאגו",
       "itemId": "ITEM_MAGO_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CONFUSE_SWEET",
       "holdEffectParam": 8,
-      "description_english": "A hold item that restores HP but\\nmay cause confusion when used.",
+      "description_english": "חפץ שמחזיק מעלה נ\"ח אבל\\nעלול לגרום לבלבול בשימוש.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2337,12 +2337,12 @@
       "secondaryId": 0
     },
     {
-      "english": "AGUAV BERRY",
+      "english": "תות אגאו",
       "itemId": "ITEM_AGUAV_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CONFUSE_BITTER",
       "holdEffectParam": 8,
-      "description_english": "A hold item that restores HP but\\nmay cause confusion when used.",
+      "description_english": "חפץ שמחזיק מעלה נ\"ח אבל\\nעלול לגרום לבלבול בשימוש.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2353,12 +2353,12 @@
       "secondaryId": 0
     },
     {
-      "english": "IAPAPA BERRY",
+      "english": "תות יאיפאפה",
       "itemId": "ITEM_IAPAPA_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CONFUSE_SOUR",
       "holdEffectParam": 8,
-      "description_english": "A hold item that restores HP but\\nmay cause confusion when used.",
+      "description_english": "חפץ שמחזיק מעלה נ\"ח אבל\\nעלול לגרום לבלבול בשימוש.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2369,12 +2369,12 @@
       "secondaryId": 0
     },
     {
-      "english": "RAZZ BERRY",
+      "english": "תות ראז",
       "itemId": "ITEM_RAZZ_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2385,12 +2385,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BLUK BERRY",
+      "english": "תות בלוק",
       "itemId": "ITEM_BLUK_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2401,12 +2401,12 @@
       "secondaryId": 0
     },
     {
-      "english": "NANAB BERRY",
+      "english": "תות נאנאב",
       "itemId": "ITEM_NANAB_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2417,12 +2417,12 @@
       "secondaryId": 0
     },
     {
-      "english": "WEPEAR BERRY",
+      "english": "תות ופיר",
       "itemId": "ITEM_WEPEAR_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2433,12 +2433,12 @@
       "secondaryId": 0
     },
     {
-      "english": "PINAP BERRY",
+      "english": "תות פינאפ",
       "itemId": "ITEM_PINAP_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2449,12 +2449,12 @@
       "secondaryId": 0
     },
     {
-      "english": "POMEG BERRY",
+      "english": "תות פומג",
       "itemId": "ITEM_POMEG_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2465,12 +2465,12 @@
       "secondaryId": 0
     },
     {
-      "english": "KELPSY BERRY",
+      "english": "תות קלפסי",
       "itemId": "ITEM_KELPSY_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2481,12 +2481,12 @@
       "secondaryId": 0
     },
     {
-      "english": "QUALOT BERRY",
+      "english": "תות קואלות",
       "itemId": "ITEM_QUALOT_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2497,12 +2497,12 @@
       "secondaryId": 0
     },
     {
-      "english": "HONDEW BERRY",
+      "english": "תות הונדיו",
       "itemId": "ITEM_HONDEW_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2513,12 +2513,12 @@
       "secondaryId": 0
     },
     {
-      "english": "GREPA BERRY",
+      "english": "תות גרפה",
       "itemId": "ITEM_GREPA_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2529,12 +2529,12 @@
       "secondaryId": 0
     },
     {
-      "english": "TAMATO BERRY",
+      "english": "תות טמטו",
       "itemId": "ITEM_TAMATO_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2545,12 +2545,12 @@
       "secondaryId": 0
     },
     {
-      "english": "CORNN BERRY",
+      "english": "תות קורן",
       "itemId": "ITEM_CORNN_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2561,12 +2561,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MAGOST BERRY",
+      "english": "תות מגוסט",
       "itemId": "ITEM_MAGOST_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2577,12 +2577,12 @@
       "secondaryId": 0
     },
     {
-      "english": "RABUTA BERRY",
+      "english": "תות רבוטה",
       "itemId": "ITEM_RABUTA_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2593,12 +2593,12 @@
       "secondaryId": 0
     },
     {
-      "english": "NOMEL BERRY",
+      "english": "תות נומל",
       "itemId": "ITEM_NOMEL_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2609,12 +2609,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SPELON BERRY",
+      "english": "תות ספלאון",
       "itemId": "ITEM_SPELON_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2625,12 +2625,12 @@
       "secondaryId": 0
     },
     {
-      "english": "PAMTRE BERRY",
+      "english": "תות פאמטרי",
       "itemId": "ITEM_PAMTRE_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה בתור\\nמרכיב לתרופות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2641,12 +2641,12 @@
       "secondaryId": 0
     },
     {
-      "english": "WATMEL BERRY",
+      "english": "פרי ואטמל",
       "itemId": "ITEM_WATMEL_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון אותו לאבקה לשימוש\\nכמרכיב בתרופה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2657,12 +2657,12 @@
       "secondaryId": 0
     },
     {
-      "english": "DURIN BERRY",
+      "english": "פרי דורין",
       "itemId": "ITEM_DURIN_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון אותו לאבקה לשימוש\\nכמרכיב בתרופה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2673,12 +2673,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BELUE BERRY",
+      "english": "פרי בלו",
       "itemId": "ITEM_BELUE_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון אותו לאבקה לשימוש\\nכמרכיב בתרופה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2689,12 +2689,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LIECHI BERRY",
+      "english": "פרי לייצ'י",
       "itemId": "ITEM_LIECHI_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_ATTACK_UP",
       "holdEffectParam": 4,
-      "description_english": "When held by a POKéMON, it raises\\nthe ATTACK stat in a pinch.",
+      "description_english": "כשמוחזק על ידי פוקימון, הוא מעלה\\nאת מתקפתו במצבים קריטיים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2705,12 +2705,12 @@
       "secondaryId": 0
     },
     {
-      "english": "GANLON BERRY",
+      "english": "פרי גאנלון",
       "itemId": "ITEM_GANLON_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_DEFENSE_UP",
       "holdEffectParam": 4,
-      "description_english": "When held by a POKéMON, it raises\\nthe DEFENSE stat in a pinch.",
+      "description_english": "כשמוחזק על ידי פוקימון, הוא מעלה\\nאת ההגנה שלו במצבים קריטיים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2721,12 +2721,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SALAC BERRY",
+      "english": "פרי סלאק",
       "itemId": "ITEM_SALAC_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_SPEED_UP",
       "holdEffectParam": 4,
-      "description_english": "When held by a POKéMON, it raises\\nthe SPEED stat in a pinch.",
+      "description_english": "כשמוחזק על ידי פוקימון, הוא מעלה\\nאת מהירותו במצבים קריטיים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2737,12 +2737,12 @@
       "secondaryId": 0
     },
     {
-      "english": "PETAYA BERRY",
+      "english": "פרי פטיה",
       "itemId": "ITEM_PETAYA_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_SP_ATTACK_UP",
       "holdEffectParam": 4,
-      "description_english": "When held by a POKéMON, it raises\\nthe SP. ATK stat in a pinch.",
+      "description_english": "כשמוחזק על ידי פוקימון, הוא מעלה\\nאת מתקפתו המיוחדת במצבים קריטיים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2753,12 +2753,12 @@
       "secondaryId": 0
     },
     {
-      "english": "APICOT BERRY",
+      "english": "פרי אפיקוט",
       "itemId": "ITEM_APICOT_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_SP_DEFENSE_UP",
       "holdEffectParam": 4,
-      "description_english": "When held by a POKéMON, it raises\\nthe SP. DEF stat in a pinch.",
+      "description_english": "כשמוחזק על ידי פוקימון, הוא מעלה\\nאת ההגנה המיוחדת שלו במצבים קריטיים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2769,12 +2769,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LANSAT BERRY",
+      "english": "פרי לנסאט",
       "itemId": "ITEM_LANSAT_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_CRITICAL_UP",
       "holdEffectParam": 4,
-      "description_english": "When held by a POKéMON, it raises\\nthe critical-hit ratio in a pinch.",
+      "description_english": "כשמוחזק על ידי פוקימון, הוא מעלה\\nאת יחס הפגיעות הקריטיות במצבים קריטיים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2785,12 +2785,12 @@
       "secondaryId": 0
     },
     {
-      "english": "STARF BERRY",
+      "english": "פרי סטארף",
       "itemId": "ITEM_STARF_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_RANDOM_STAT_UP",
       "holdEffectParam": 4,
-      "description_english": "When held by a POKéMON, it sharply\\nraises one stat in a pinch.",
+      "description_english": "כשמוחזק על ידי פוקימון, הוא מעלה\\nבאופן חד סטטיסטיקה אחת במצבים קריטיים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2801,12 +2801,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ENIGMA BERRY",
+      "english": "פרי אניגמה",
       "itemId": "ITEM_ENIGMA_BERRY",
       "price": 20,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Can be ground up into a powder as\\nan ingredient for medicine.",
+      "description_english": "ניתן לטחון לאבקה\\nכמרכיב לתרופה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_BERRY_POUCH",
@@ -2865,12 +2865,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BRIGHTPOWDER",
+      "english": "אבקה מבריקה",
       "itemId": "ITEM_BRIGHT_POWDER",
       "price": 10,
       "holdEffect": "HOLD_EFFECT_EVASION_UP",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nIt casts a tricky glare that lowers\\nthe opponent's accuracy.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nהפוקימון המחזיק יכול לברוח\\nמכל פוקימון פראי בוודאות.\\nהיא מטילה ברק מתעתע שמוריד\\nאת הדיוק של היריב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2881,12 +2881,12 @@
       "secondaryId": 0
     },
     {
-      "english": "WHITE HERB",
+      "english": "עשב לבן",
       "itemId": "ITEM_WHITE_HERB",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_RESTORE_STATS",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nIt restores any lowered stat in\\nbattle. It can be used only once.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמשקם כל נתון שירד בקרב.\\nניתן להשתמש בו פעם אחת בלבד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2897,12 +2897,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MACHO BRACE",
+      "english": "רצועת מאצ'ו",
       "itemId": "ITEM_MACHO_BRACE",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_MACHO_BRACE",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nIt promotes strong growth but\\nlowers SPEED while it is held.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמקדם צמיחה חזקה אך\\nמוריד מהירות בזמן החזקתו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2913,12 +2913,12 @@
       "secondaryId": 0
     },
     {
-      "english": "EXP. SHARE",
+      "english": "חולק נסיון",
       "itemId": "ITEM_EXP_SHARE",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_EXP_SHARE",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nThe holder gets a share of EXP.\\npoints without having to battle.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nהמחזיק מקבל חלק מנקודות הנסיון\\nבלי להשתתף בקרב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2929,12 +2929,12 @@
       "secondaryId": 0
     },
     {
-      "english": "QUICK CLAW",
+      "english": "טופר מהיר",
       "itemId": "ITEM_QUICK_CLAW",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_QUICK_CLAW",
       "holdEffectParam": 20,
-      "description_english": "An item to be held by a POKéMON.\\nA light and sharp claw. The holder\\nmay be able to strike first.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nטופר קל וחד. המחזיק\\nעשוי להצליח לתקוף ראשון.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2945,12 +2945,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SOOTHE BELL",
+      "english": "פעמון מרגיע",
       "itemId": "ITEM_SOOTHE_BELL",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_FRIENDSHIP_UP",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nA bell with a comforting chime that\\nmakes the holder calm and friendly.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nפעמון עם צלצול מנחם שגורם\\nלמחזיק להיות רגוע וידידותי.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2961,12 +2961,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MENTAL HERB",
+      "english": "עשב נפשי",
       "itemId": "ITEM_MENTAL_HERB",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_CURE_ATTRACT",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nIt snaps the holder out of\\ninfatuation. It can be used once.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמוציא את המחזיק ממצב\\nשל משיכה. ניתן להשתמש פעם אחת.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2977,12 +2977,12 @@
       "secondaryId": 0
     },
     {
-      "english": "CHOICE BAND",
+      "english": "סרט בחירה",
       "itemId": "ITEM_CHOICE_BAND",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_CHOICE_BAND",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nIt powers up one move, which\\nbecomes the only usable one.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמעצים מהלך אחד, שהופך\\nלמהלך היחיד הניתן לשימוש.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -2993,12 +2993,12 @@
       "secondaryId": 0
     },
     {
-      "english": "KING'S ROCK",
+      "english": "סלע המלך",
       "itemId": "ITEM_KINGS_ROCK",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_FLINCH",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nIt may cause the foe to flinch\\nupon taking damage.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nעשוי לגרום ליריב להירתע\\nבעת קבלת נזק.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3009,12 +3009,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SILVERPOWDER",
+      "english": "אבקת כסף",
       "itemId": "ITEM_SILVER_POWDER",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_BUG_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA shiny silver powder that boosts\\nthe power of BUG-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nאבקת כסף מבריקה שמגבירה\\nאת עוצמת מהלכי חרק.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3025,12 +3025,12 @@
       "secondaryId": 0
     },
     {
-      "english": "AMULET COIN",
+      "english": "מטבע קמע",
       "itemId": "ITEM_AMULET_COIN",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_DOUBLE_PRIZE",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nIt doubles the battle money if the\\nholding POKéMON takes part.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמכפיל את כסף הקרב אם\\nהפוקימון המחזיק משתתף.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3041,12 +3041,12 @@
       "secondaryId": 0
     },
     {
-      "english": "CLEANSE TAG",
+      "english": "תג טיהור",
       "itemId": "ITEM_CLEANSE_TAG",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_REPEL",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nIt repels wild POKéMON if the\\nholder is first in the party.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nדוחה פוקימונים פראיים אם\\nהמחזיק ראשון בקבוצה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3057,12 +3057,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SOUL DEW",
+      "english": "טל נשמה",
       "itemId": "ITEM_SOUL_DEW",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_SOUL_DEW",
       "holdEffectParam": 0,
-      "description_english": "An orb to be held by a LATIOS or\\nLATIAS. It raises the SP. ATK\\nand SP. DEF stats.",
+      "description_english": "גולה להחזקה על-ידי לאטיוס או\\nלאטיאס. מעלה את נתוני\\nההתקפה המיוחדת וההגנה המיוחדת.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3073,12 +3073,12 @@
       "secondaryId": 0
     },
     {
-      "english": "DEEPSEATOOTH",
+      "english": "שן מצולות",
       "itemId": "ITEM_DEEP_SEA_TOOTH",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_DEEP_SEA_TOOTH",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nA fang that gleams a sharp silver.\\nIt raises the SP. ATK stat.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nשן שנוצצת בכסף חד.\\nמעלה את ההתקפה המיוחדת.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3089,12 +3089,12 @@
       "secondaryId": 0
     },
     {
-      "english": "DEEPSEASCALE",
+      "english": "קשקש מצולות",
       "itemId": "ITEM_DEEP_SEA_SCALE",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_DEEP_SEA_SCALE",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nA scale that shines a faint pink.\\nIt raises the SP. DEF stat.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nקשקש שזוהר בוורוד עדין.\\nמעלה את ההגנה המיוחדת.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3105,12 +3105,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SMOKE BALL",
+      "english": "כדור עשן",
       "itemId": "ITEM_SMOKE_BALL",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_CAN_ALWAYS_RUN",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nThe holding POKéMON can flee from\\nany wild POKéMON for sure.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nהפוקימון המחזיק בו יכול לברוח\\nמכל פוקימון בר תמיד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3121,12 +3121,12 @@
       "secondaryId": 0
     },
     {
-      "english": "EVERSTONE",
+      "english": "אבן נצח",
       "itemId": "ITEM_EVERSTONE",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_PREVENT_EVOLVE",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nThe holding POKéMON is prevented\\nfrom evolving.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמונע מהפוקימון המחזיק\\nלהתפתח.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3137,12 +3137,12 @@
       "secondaryId": 0
     },
     {
-      "english": "FOCUS BAND",
+      "english": "רצועת ריכוז",
       "itemId": "ITEM_FOCUS_BAND",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_FOCUS_BAND",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nThe holding POKéMON may endure an\\nattack, leaving just 1 HP.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nהפוקימון המחזיק עשוי לשרוד\\nמתקפה עם נקודת חיים אחת.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3153,12 +3153,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LUCKY EGG",
+      "english": "ביצת מזל",
       "itemId": "ITEM_LUCKY_EGG",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_LUCKY_EGG",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nAn egg filled with happiness that\\nearns extra EXP. points in battle.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nביצה מלאה באושר שמעניקה\\nנקודות נסיון נוספות בקרב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3169,12 +3169,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SCOPE LENS",
+      "english": "עדשת דיוק",
       "itemId": "ITEM_SCOPE_LENS",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_SCOPE_LENS",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nA lens that boosts the critical-hit\\nratio of the holding POKéMON.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nעדשה שמגבירה את סיכויי\\nהמכה הקריטית של המחזיק.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3185,12 +3185,12 @@
       "secondaryId": 0
     },
     {
-      "english": "METAL COAT",
+      "english": "ציפוי מתכת",
       "itemId": "ITEM_METAL_COAT",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_STEEL_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA special metallic film that boosts\\nthe power of STEEL-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nציפוי מתכתי מיוחד שמגביר\\nאת עוצמת מהלכי פלדה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3201,12 +3201,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LEFTOVERS",
+      "english": "שאריות",
       "itemId": "ITEM_LEFTOVERS",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_LEFTOVERS",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nThe holding POKéMON gradually\\nregains HP during battle.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nהפוקימון המחזיק משקם\\nנקודות חיים בהדרגה במהלך הקרב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3217,12 +3217,12 @@
       "secondaryId": 0
     },
     {
-      "english": "DRAGON SCALE",
+      "english": "קשקש דרקון",
       "itemId": "ITEM_DRAGON_SCALE",
       "price": 2100,
       "holdEffect": "HOLD_EFFECT_DRAGON_SCALE",
       "holdEffectParam": 10,
-      "description_english": "A thick and tough scale.\\nA DRAGON-type POKéMON may be\\nholding it.",
+      "description_english": "קשקש עבה וקשוח.\\nפוקימון מסוג דרקון עשוי\\nלהחזיק בו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3233,12 +3233,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LIGHT BALL",
+      "english": "כדור אור",
       "itemId": "ITEM_LIGHT_BALL",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_LIGHT_BALL",
       "holdEffectParam": 0,
-      "description_english": "An orb to be held by a PIKACHU\\nthat raises the SP. ATK stat.\\nTouching it may cause a shock.",
+      "description_english": "גולה להחזקה על-ידי פיקאצ'ו\\nשמעלה את ההתקפה המיוחדת.\\nנגיעה בה עלולה לגרום להלם.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3249,12 +3249,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SOFT SAND",
+      "english": "חול רך",
       "itemId": "ITEM_SOFT_SAND",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_GROUND_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA loose, silky sand that boosts the\\npower of GROUND-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nחול משיי ורך שמגביר\\nאת עוצמת מהלכי אדמה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3265,12 +3265,12 @@
       "secondaryId": 0
     },
     {
-      "english": "HARD STONE",
+      "english": "אבן קשה",
       "itemId": "ITEM_HARD_STONE",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_ROCK_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nAn unbreakable stone that boosts\\nthe power of ROCK-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nאבן בלתי שבירה שמגבירה\\nאת עוצמת מהלכי סלע.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3281,12 +3281,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MIRACLE SEED",
+      "english": "זרע פלא",
       "itemId": "ITEM_MIRACLE_SEED",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_GRASS_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA seed imbued with life that boosts\\nthe power of GRASS-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nזרע מלא בחיים שמגביר\\nאת עוצמת מהלכי דשא.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3297,12 +3297,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BLACKGLASSES",
+      "english": "משקפיים שחורים",
       "itemId": "ITEM_BLACK_GLASSES",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_DARK_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA shady-looking pair of glasses\\nthat boosts DARK-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nזוג משקפיים חשודות\\nשמגבירות מהלכי אופל.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3313,12 +3313,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BLACK BELT",
+      "english": "חגורה שחורה",
       "itemId": "ITEM_BLACK_BELT",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_FIGHTING_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA belt that boosts determination\\nand FIGHTING-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nחגורה שמגבירה נחישות\\nומהלכי קרב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3329,12 +3329,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MAGNET",
+      "english": "מגנט",
       "itemId": "ITEM_MAGNET",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_ELECTRIC_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA powerful magnet that boosts the\\npower of ELECTRIC-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמגנט חזק שמגביר\\nאת עוצמת מהלכי חשמל.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3345,12 +3345,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MYSTIC WATER",
+      "english": "מים מיסטיים",
       "itemId": "ITEM_MYSTIC_WATER",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_WATER_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA teardrop-shaped gem that boosts\\nthe power of WATER-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nאבן חן בצורת דמעה שמגבירה\\nאת עוצמת מהלכי מים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3361,12 +3361,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SHARP BEAK",
+      "english": "מקור חד",
       "itemId": "ITEM_SHARP_BEAK",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_FLYING_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA long, sharp beak that boosts the\\npower of FLYING-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמקור ארוך וחד שמגביר\\nאת עוצמת מהלכי טיסה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3377,12 +3377,12 @@
       "secondaryId": 0
     },
     {
-      "english": "POISON BARB",
+      "english": "קוץ רעיל",
       "itemId": "ITEM_POISON_BARB",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_POISON_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA small, poisonous barb that boosts\\nthe power of POISON-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nקוץ קטן ורעיל שמגביר\\nאת עוצמת מהלכי רעל.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3393,12 +3393,12 @@
       "secondaryId": 0
     },
     {
-      "english": "NEVERMELTICE",
+      "english": "קרח נצחי",
       "itemId": "ITEM_NEVER_MELT_ICE",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_ICE_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA piece of ice that repels heat\\nand boosts ICE-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nגוש קרח שדוחה חום\\nומגביר מהלכי קרח.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3409,12 +3409,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SPELL TAG",
+      "english": "קמע רוח",
       "itemId": "ITEM_SPELL_TAG",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_GHOST_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA sinister, eerie tag that boosts\\nGHOST-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nקמע מסתורי ומפחיד שמגביר\\nמהלכי רוח רפאים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3425,12 +3425,12 @@
       "secondaryId": 0
     },
     {
-      "english": "TWISTEDSPOON",
+      "english": "כף מעוקלת",
       "itemId": "ITEM_TWISTED_SPOON",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_PSYCHIC_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA spoon imbued with telekinetic\\npower boosts PSYCHIC-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nכף ספוגה בכוח טלקינטי\\nשמגבירה מהלכים פסיכיים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3441,12 +3441,12 @@
       "secondaryId": 0
     },
     {
-      "english": "CHARCOAL",
+      "english": "פחם",
       "itemId": "ITEM_CHARCOAL",
       "price": 9800,
       "holdEffect": "HOLD_EFFECT_FIRE_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA combustible fuel that boosts the\\npower of FIRE-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nדלק בעיר שמגביר\\nאת עוצמת מהלכי אש.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3457,12 +3457,12 @@
       "secondaryId": 0
     },
     {
-      "english": "DRAGON FANG",
+      "english": "ניב דרקון",
       "itemId": "ITEM_DRAGON_FANG",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_DRAGON_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA hard and sharp fang that boosts\\nthe power of DRAGON-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nניב קשה וחד שמגביר\\nאת עוצמת מהלכי דרקון.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3473,12 +3473,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SILK SCARF",
+      "english": "צעיף משי",
       "itemId": "ITEM_SILK_SCARF",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NORMAL_POWER",
       "holdEffectParam": 10,
-      "description_english": "An item to be held by a POKéMON.\\nA sumptuous scarf that boosts the\\npower of NORMAL-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nצעיף מפואר שמגביר\\nאת עוצמת מהלכים רגילים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3489,12 +3489,12 @@
       "secondaryId": 0
     },
     {
-      "english": "UP-GRADE",
+      "english": "שדרוג",
       "itemId": "ITEM_UP_GRADE",
       "price": 2100,
       "holdEffect": "HOLD_EFFECT_UP_GRADE",
       "holdEffectParam": 0,
-      "description_english": "A transparent device filled with all\\nsorts of data.\\nIt is made by SILPH CO.",
+      "description_english": "מכשיר שקוף מלא בכל\\nמיני נתונים.\\nיוצר על-ידי סילף בע״מ.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3505,12 +3505,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SHELL BELL",
+      "english": "פעמון קונכיה",
       "itemId": "ITEM_SHELL_BELL",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_SHELL_BELL",
       "holdEffectParam": 8,
-      "description_english": "An item to be held by a POKéMON.\\nThe holding POKéMON regains some\\nHP upon striking the foe.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nהפוקימון המחזיק משיב נקודות חיים\\nבעת פגיעה ביריב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3521,12 +3521,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SEA INCENSE",
+      "english": "קטורת ים",
       "itemId": "ITEM_SEA_INCENSE",
       "price": 9600,
       "holdEffect": "HOLD_EFFECT_WATER_POWER",
       "holdEffectParam": 5,
-      "description_english": "An item to be held by a POKéMON.\\nIt slightly boosts the power of\\nWATER-type moves.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמגביר מעט את העוצמה\\nשל מהלכי מים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3537,12 +3537,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LAX INCENSE",
+      "english": "קטורת רפיון",
       "itemId": "ITEM_LAX_INCENSE",
       "price": 9600,
       "holdEffect": "HOLD_EFFECT_EVASION_UP",
       "holdEffectParam": 5,
-      "description_english": "An item to be held by a POKéMON.\\nIts tricky aroma slightly reduces\\nthe foe's accuracy.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nריח ערמומי שמפחית מעט\\nאת הדיוק של היריב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3553,12 +3553,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LUCKY PUNCH",
+      "english": "כפפת מזל",
       "itemId": "ITEM_LUCKY_PUNCH",
       "price": 10,
       "holdEffect": "HOLD_EFFECT_LUCKY_PUNCH",
       "holdEffectParam": 0,
-      "description_english": "A glove to be held by a CHANSEY.\\nIt raises CHANSEY's critical-hit\\nratio.",
+      "description_english": "כפפה להחזקה על-ידי צ'אנסי.\\nמגבירה את סיכויי המכה\\nהקריטית של צ'אנסי.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3569,12 +3569,12 @@
       "secondaryId": 0
     },
     {
-      "english": "METAL POWDER",
+      "english": "אבקת מתכת",
       "itemId": "ITEM_METAL_POWDER",
       "price": 10,
       "holdEffect": "HOLD_EFFECT_METAL_POWDER",
       "holdEffectParam": 0,
-      "description_english": "A fine, hard powder to be held by\\na DITTO.\\nIt raises DITTO's DEFENSE stat.",
+      "description_english": "אבקה עדינה וקשה להחזקה\\nעל-ידי דיטו.\\nמגבירה את ההגנה של דיטו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3585,12 +3585,12 @@
       "secondaryId": 0
     },
     {
-      "english": "THICK CLUB",
+      "english": "עצם עבה",
       "itemId": "ITEM_THICK_CLUB",
       "price": 500,
       "holdEffect": "HOLD_EFFECT_THICK_CLUB",
       "holdEffectParam": 0,
-      "description_english": "A hard bone of some sort to be\\nheld by a CUBONE or MAROWAK.\\nIt raises the ATTACK stat.",
+      "description_english": "עצם קשה להחזקה על-ידי\\nקיובון או מארוואק.\\nמגבירה את ההתקפה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -3601,12 +3601,12 @@
       "secondaryId": 0
     },
     {
-      "english": "STICK",
+      "english": "מקל",
       "itemId": "ITEM_STICK",
       "price": 200,
       "holdEffect": "HOLD_EFFECT_STICK",
       "holdEffectParam": 0,
-      "description_english": "A stick of leek to be held by a\\nFARFETCH'D. It raises FARFETCH'D's\\ncritical-hit ratio.",
+      "description_english": "מקל כרישה להחזקה על-ידי\\nפארפצ'ד. מגביר את סיכויי\\nהמכה הקריטית של פארפצ'ד.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -4065,12 +4065,12 @@
       "secondaryId": 0
     },
     {
-      "english": "RED SCARF",
+      "english": "צעיף אדום",
       "itemId": "ITEM_RED_SCARF",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nCOOL condition in CONTESTS.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמגביר את מצב הקוּל\\nשל המחזיק בתחרויות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -4081,12 +4081,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BLUE SCARF",
+      "english": "צעיף כחול",
       "itemId": "ITEM_BLUE_SCARF",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nBEAUTY condition in CONTESTS.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמגביר את מצב היופי\\nשל המחזיק בתחרויות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -4097,12 +4097,12 @@
       "secondaryId": 0
     },
     {
-      "english": "PINK SCARF",
+      "english": "צעיף ורוד",
       "itemId": "ITEM_PINK_SCARF",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nCUTE condition in CONTESTS.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמגביר את מצב החמידות\\nשל המחזיק בתחרויות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -4113,12 +4113,12 @@
       "secondaryId": 0
     },
     {
-      "english": "GREEN SCARF",
+      "english": "צעיף ירוק",
       "itemId": "ITEM_GREEN_SCARF",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nSMART condition in CONTESTS.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמגביר את מצב החוכמה\\nשל המחזיק בתחרויות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -4129,12 +4129,12 @@
       "secondaryId": 0
     },
     {
-      "english": "YELLOW SCARF",
+      "english": "צעיף צהוב",
       "itemId": "ITEM_YELLOW_SCARF",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nTOUGH condition in CONTESTS.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמגביר את מצב הקשיחות\\nשל המחזיק בתחרויות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -4145,12 +4145,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MACH BIKE",
+      "english": "אופני מהירות",
       "itemId": "ITEM_MACH_BIKE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A folding bicycle that is at least\\ntwice as fast as walking.",
+      "description_english": "אופניים מתקפלים שמהירים\\nלפחות פי שניים מהליכה.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4161,12 +4161,12 @@
       "secondaryId": 0
     },
     {
-      "english": "COIN CASE",
+      "english": "ארנק מטבעות",
       "itemId": "ITEM_COIN_CASE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A case for holding COINS obtained\\nat the GAME CORNER.\\nIt holds up to 9,999 COINS.",
+      "description_english": "ארנק למטבעות שהתקבלו\\nבפינת המשחקים.\\nמכיל עד 9,999 מטבעות.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4177,12 +4177,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ITEMFINDER",
+      "english": "גלאי פריטים",
       "itemId": "ITEM_ITEMFINDER",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A device used for finding items.\\nIf there is a hidden item nearby\\nwhen it is used, it emits a signal.",
+      "description_english": "מכשיר המשמש למציאת פריטים.\\nאם יש פריט נסתר בקרבת מקום\\nבעת השימוש, הוא משדר אות.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4193,12 +4193,12 @@
       "secondaryId": 0
     },
     {
-      "english": "OLD ROD",
+      "english": "חכה ישנה",
       "itemId": "ITEM_OLD_ROD",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An old and beat-up fishing rod.\\nUse it by any body of water to \\nfish for wild POKéMON.",
+      "description_english": "חכה ישנה ובלויה.\\nהשתמש בה ליד מקור מים כדי\\nלדוג פוקימונים פראיים.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4209,12 +4209,12 @@
       "secondaryId": "OLD_ROD"
     },
     {
-      "english": "GOOD ROD",
+      "english": "חכה טובה",
       "itemId": "ITEM_GOOD_ROD",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A new, good-quality fishing rod.\\nUse it by any body of water to \\nfish for wild POKéMON.",
+      "description_english": "חכה חדשה באיכות טובה.\\nהשתמש בה ליד מקור מים כדי\\nלדוג פוקימונים פראיים.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4225,12 +4225,12 @@
       "secondaryId": "GOOD_ROD"
     },
     {
-      "english": "SUPER ROD",
+      "english": "חכת-על",
       "itemId": "ITEM_SUPER_ROD",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An awesome, high-tech fishing rod.\\nUse it by any body of water to fish\\nfor wild POKéMON.",
+      "description_english": "חכה מתקדמת ומדהימה.\\nהשתמש בה ליד מקור מים כדי\\nלדוג פוקימונים פראיים.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4241,12 +4241,12 @@
       "secondaryId": "SUPER_ROD"
     },
     {
-      "english": "S.S. TICKET",
+      "english": "כרטיס ס.ס",
       "itemId": "ITEM_SS_TICKET",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The ticket required for sailing on\\nthe ferry S.S. ANNE.\\nIt has a drawing of a ship on it.",
+      "description_english": "הכרטיס הנדרש להפלגה\\nבמעבורת ס.ס אן.\\nיש עליו ציור של ספינה.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4257,12 +4257,12 @@
       "secondaryId": 0
     },
     {
-      "english": "CONTEST PASS",
+      "english": "כרטיס תחרות",
       "itemId": "ITEM_CONTEST_PASS",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The pass required for entering\\nPOKéMON CONTESTS. It has a\\ndrawing of an award ribbon on it.",
+      "description_english": "הכרטיס הנדרש להשתתפות\\nבתחרויות פוקימון. יש עליו\\nציור של סרט פרס.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4289,12 +4289,12 @@
       "secondaryId": 0
     },
     {
-      "english": "WAILMER PAIL",
+      "english": "דלי ווילמר",
       "itemId": "ITEM_WAILMER_PAIL",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A nifty watering pail.\\nUse it to promote strong growth in\\nBERRIES planted in soft soil.",
+      "description_english": "דלי השקיה שימושי.\\nהשתמש בו כדי לקדם צמיחה חזקה\\nשל פירות שנשתלו באדמה רכה.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4305,12 +4305,12 @@
       "secondaryId": 0
     },
     {
-      "english": "DEVON GOODS",
+      "english": "מוצרי דבון",
       "itemId": "ITEM_DEVON_GOODS",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A package that contains mechanical\\nparts of some sort made by the\\nDEVON CORPORATION.",
+      "description_english": "חבילה המכילה חלקים מכניים\\nכלשהם שיוצרו על-ידי\\nתאגיד דבון.",
       "importance": 2,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4321,12 +4321,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SOOT SACK",
+      "english": "שק פיח",
       "itemId": "ITEM_SOOT_SACK",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A sack used to collect volcanic\\nash automatically during walks\\nover deep ash.",
+      "description_english": "שק המשמש לאיסוף אפר געשי\\nבאופן אוטומטי בזמן הליכה\\nמעל אפר עמוק.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4337,12 +4337,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BASEMENT KEY",
+      "english": "מפתח מרתף",
       "itemId": "ITEM_BASEMENT_KEY",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The key to NEW MAUVILLE, which\\nwas constructed beneath MAUVILLE\\nCITY.",
+      "description_english": "המפתח לניו מוביל, שנבנתה\\nמתחת לעיר מוביל.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4353,12 +4353,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ACRO BIKE",
+      "english": "אופני אקרו",
       "itemId": "ITEM_ACRO_BIKE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A folding bicycle that is capable\\nof stunts like jumps and wheelies.",
+      "description_english": "אופניים מתקפלים המסוגלים\\nלעשות פעלולים.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4369,12 +4369,12 @@
       "secondaryId": 1
     },
     {
-      "english": "{POKEBLOCK} CASE",
+      "english": "{POKEBLOCK} קופסת",
       "itemId": "ITEM_POKEBLOCK_CASE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A case for holding {POKEBLOCK}S made\\nwith a BERRY BLENDER. It releases\\none {POKEBLOCK} when shaken.",
+      "description_english": "קופסה ל{POKEBLOCK}בלוקים שנוצרו\\nעם מערבל פירות. משחררת\\n{POKEBLOCK} אחד כשמנערים.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4385,12 +4385,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LETTER",
+      "english": "מכתב",
       "itemId": "ITEM_LETTER",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An extremely important letter to\\nSTEVEN from the PRESIDENT of the\\nDEVON CORPORATION.",
+      "description_english": "מכתב חשוב במיוחד לסטיבן\\nמנשיא תאגיד דבון.",
       "importance": 2,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4401,12 +4401,12 @@
       "secondaryId": 0
     },
     {
-      "english": "EON TICKET",
+      "english": "כרטיס איון",
       "itemId": "ITEM_EON_TICKET",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The ticket required for sailing on a\\nferry to a distant southern island.\\nIt features a drawing of an island.",
+      "description_english": "הכרטיס הנדרש להפלגה במעבורת\\nלאי דרומי רחוק.\\nיש עליו ציור של אי.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4417,12 +4417,12 @@
       "secondaryId": 1
     },
     {
-      "english": "RED ORB",
+      "english": "גולה אדומה",
       "itemId": "ITEM_RED_ORB",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An orb that glows red.\\nIt is said to contain an incredible\\npower from ancient times.",
+      "description_english": "גולה שזוהרת באדום.\\nאומרים שהיא מכילה כוח\\nמדהים מימי קדם.",
       "importance": 2,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4433,12 +4433,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BLUE ORB",
+      "english": "גולה כחולה",
       "itemId": "ITEM_BLUE_ORB",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An orb that glows blue.\\nIt is said to contain an incredible\\npower from ancient times.",
+      "description_english": "גולה שזוהרת בכחול.\\nאומרים שהיא מכילה כוח\\nמדהים מימי קדם.",
       "importance": 2,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4449,12 +4449,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SCANNER",
+      "english": "סורק",
       "itemId": "ITEM_SCANNER",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A device used to search for\\nlife-forms in water.\\nIt looks too difficult to use.",
+      "description_english": "מכשיר המשמש לחיפוש\\nיצורים חיים במים.\\nנראה מסובך מדי לשימוש.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4465,12 +4465,12 @@
       "secondaryId": 0
     },
     {
-      "english": "GO-GOGGLES",
+      "english": "משקפי חול",
       "itemId": "ITEM_GO_GOGGLES",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A pair of protective goggles.\\nThey enable a TRAINER to travel\\nthrough even desert sandstorms.",
+      "description_english": "זוג משקפי מגן.\\nמאפשרים למאמן לנוע\\nגם בסופות חול במדבר.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4481,12 +4481,12 @@
       "secondaryId": 0
     },
     {
-      "english": "METEORITE",
+      "english": "מטאוריט",
       "itemId": "ITEM_METEORITE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A meteorite that fell from space\\nonto MT. MOON long ago.\\nIt is very lumpy and hard.",
+      "description_english": "מטאוריט שנפל מהחלל\\nעל הר הירח לפני זמן רב.\\nהוא גושי וקשה מאוד.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4497,12 +4497,12 @@
       "secondaryId": 0
     },
     {
-      "english": "RM. 1 KEY",
+      "english": "מפתח חדר 1",
       "itemId": "ITEM_ROOM_1_KEY",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A key that opens the door to Room\\n1 inside the ABANDONED SHIP.\\nIt is old and looks easily broken.",
+      "description_english": "מפתח שפותח את הדלת לחדר\\n1 בספינה הנטושה.\\nהוא ישן ונראה שביר.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4513,12 +4513,12 @@
       "secondaryId": 0
     },
     {
-      "english": "RM. 2 KEY",
+      "english": "מפתח חדר 2",
       "itemId": "ITEM_ROOM_2_KEY",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A key that opens the door to Room\\n2 inside the ABANDONED SHIP.\\nIt is old and looks easily broken.",
+      "description_english": "מפתח שפותח את הדלת לחדר\\n2 בספינה הנטושה.\\nהוא ישן ונראה שביר.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4529,12 +4529,12 @@
       "secondaryId": 0
     },
     {
-      "english": "RM. 4 KEY",
+      "english": "מפתח חדר 4",
       "itemId": "ITEM_ROOM_4_KEY",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A key that opens the door to Room\\n4 inside the ABANDONED SHIP.\\nIt is old and looks easily broken.",
+      "description_english": "מפתח שפותח את הדלת לחדר\\n4 בספינה הנטושה.\\nהוא ישן ונראה שביר.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4545,12 +4545,12 @@
       "secondaryId": 0
     },
     {
-      "english": "RM. 6 KEY",
+      "english": "מפתח חדר 6",
       "itemId": "ITEM_ROOM_6_KEY",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A key that opens the door to Room\\n6 inside the ABANDONED SHIP.\\nIt is old and looks easily broken.",
+      "description_english": "מפתח שפותח את הדלת לחדר\\n6 בספינה הנטושה.\\nהוא ישן ונראה שביר.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4561,12 +4561,12 @@
       "secondaryId": 0
     },
     {
-      "english": "STORAGE KEY",
+      "english": "מפתח מחסן",
       "itemId": "ITEM_STORAGE_KEY",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A key that opens the storage hold\\ninside the ABANDONED SHIP.\\nIt is old and looks easily broken.",
+      "description_english": "מפתח שפותח את מחסן\\nהספינה הנטושה.\\nהוא ישן ונראה שביר.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4577,12 +4577,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ROOT FOSSIL",
+      "english": "מאובן שורש",
       "itemId": "ITEM_ROOT_FOSSIL",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A fossil of an ancient, seafloor-\\ndwelling POKéMON. It appears to be\\npart of a plant root.",
+      "description_english": "מאובן של פוקימון עתיק\\nשחי בקרקעית הים. נראה\\nכמו חלק משורש צמח.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4593,12 +4593,12 @@
       "secondaryId": 0
     },
     {
-      "english": "CLAW FOSSIL",
+      "english": "מאובן טופר",
       "itemId": "ITEM_CLAW_FOSSIL",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A fossil of an ancient, seafloor-\\ndwelling POKéMON. It appears to be\\npart of a claw.",
+      "description_english": "מאובן של פוקימון עתיק\\nשחי בקרקעית הים. נראה\\nכמו חלק מטופר.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4609,12 +4609,12 @@
       "secondaryId": 0
     },
     {
-      "english": "DEVON SCOPE",
+      "english": "גלאי דבון",
       "itemId": "ITEM_DEVON_SCOPE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A scope that signals the presence\\nof any unseeable POKéMON.\\nIt is made by the DEVON CORP.",
+      "description_english": "גלאי שמאותת על נוכחות\\nשל פוקימונים בלתי נראים.\\nיוצר על-ידי תאגיד דבון.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -4625,12 +4625,12 @@
       "secondaryId": 0
     },
     {
-      "english": "TM01",
+      "english": "מ\"מ 01",
       "itemId": "ITEM_TM01",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An extremely powerful attack.\\nHowever, if the user is hit before\\nusing the move, they will flinch.",
+      "description_english": "התקפה חזקה במיוחד.\\nאם המשתמש נפגע לפני\\nהשימוש במהלך, הוא יירתע.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4642,12 +4642,12 @@
       "moveId": "FocusPunch"
     },
     {
-      "english": "TM02",
+      "english": "מ\"מ 02",
       "itemId": "ITEM_TM02",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Sharp, huge claws hook and slash\\nthe foe quickly and with great\\npower.",
+      "description_english": "טפרים חדים וענקיים תופסים וחותכים\\nאת היריב במהירות ובעוצמה\\nרבה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4659,12 +4659,12 @@
       "moveId": "DragonClaw"
     },
     {
-      "english": "TM03",
+      "english": "מ\"מ 03",
       "itemId": "ITEM_TM03",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The foe is hit with a pulsing blast\\nof water. It may also confuse the\\ntarget.",
+      "description_english": "היריב נפגע מפרץ פועם\\nשל מים. עשוי גם לבלבל\\nאת המטרה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4676,12 +4676,12 @@
       "moveId": "WaterPulse"
     },
     {
-      "english": "TM04",
+      "english": "מ\"מ 04",
       "itemId": "ITEM_TM04",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The user calms its spirit and\\nfocuses its mind to raise its\\nSP. ATK and SP. DEF stats.",
+      "description_english": "המשתמש מרגיע את רוחו\\nומתרכז כדי להעלות את\\nההתקפה וההגנה המיוחדות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4693,12 +4693,12 @@
       "moveId": "CalmMind"
     },
     {
-      "english": "TM05",
+      "english": "מ\"מ 05",
       "itemId": "ITEM_TM05",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A savage roar that causes the foe\\nto switch out of battle. In the\\nwild, ROAR ends the battle.",
+      "description_english": "שאגה פראית שגורמת ליריב\\nלהתחלף בקרב. בטבע,\\nשאגה מסיימת את הקרב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4710,12 +4710,12 @@
       "moveId": "Roar"
     },
     {
-      "english": "TM06",
+      "english": "מ\"מ 06",
       "itemId": "ITEM_TM06",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A move that leaves the foe badly\\npoisoned. Its poison damage worsens\\nevery turn.",
+      "description_english": "מהלך שמרעיל קשות את היריב.\\nנזק הרעל מחמיר\\nבכל תור.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4727,12 +4727,12 @@
       "moveId": "Toxic"
     },
     {
-      "english": "TM07",
+      "english": "מ\"מ 07",
       "itemId": "ITEM_TM07",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Summons a hailstorm that lasts for\\nfive turns. The hailstorm damages\\nall types except the ICE type.",
+      "description_english": "מזמן סופת ברד שנמשכת\\nחמישה תורות. הברד פוגע\\nבכל הסוגים חוץ מקרח.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4744,12 +4744,12 @@
       "moveId": "Hail"
     },
     {
-      "english": "TM08",
+      "english": "מ\"מ 08",
       "itemId": "ITEM_TM08",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The user tightens all its muscles\\nand bulks up, boosting both its\\nATTACK and DEFENSE stats.",
+      "description_english": "המשתמש מכווץ את כל שריריו\\nומתנפח, מגביר את\\nההתקפה וההגנה שלו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4761,12 +4761,12 @@
       "moveId": "BulkUp"
     },
     {
-      "english": "TM09",
+      "english": "מ\"מ 09",
       "itemId": "ITEM_TM09",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The user shoots seeds at the foe\\nin rapid succession. Two to five\\nseeds are shot at once.",
+      "description_english": "המשתמש יורה זרעים ליריב\\nבמהירות רבה. שניים עד חמישה\\nזרעים נורים בבת אחת.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4778,12 +4778,12 @@
       "moveId": "BulletSeed"
     },
     {
-      "english": "TM10",
+      "english": "מ\"מ 10",
       "itemId": "ITEM_TM10",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A variable move that changes type\\nand power depending on the POKéMON\\nusing it.",
+      "description_english": "מהלך משתנה שסוגו ועוצמתו\\nמשתנים בהתאם לפוקימון\\nשמשתמש בו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4795,12 +4795,12 @@
       "moveId": "HiddenPower"
     },
     {
-      "english": "TM11",
+      "english": "מ\"מ 11",
       "itemId": "ITEM_TM11",
       "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The weather is turned sunny for\\nfive turns. Over that time, FIRE-\\ntype moves are powered up.",
+      "description_english": "מזג האוויר הופך שמשי למשך\\nחמישה תורות. בזמן זה, מהלכי\\nאש מתחזקים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4812,12 +4812,12 @@
       "moveId": "SunnyDay"
     },
     {
-      "english": "TM12",
+      "english": "מ\"מ 12",
       "itemId": "ITEM_TM12",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A taunted foe may become enraged.\\nIt will then only be able to use\\nattack moves.",
+      "description_english": "יריב שהותגר עשוי להתרגז.\\nאז הוא יוכל להשתמש\\nרק במהלכי התקפה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4829,12 +4829,12 @@
       "moveId": "Taunt"
     },
     {
-      "english": "TM13",
+      "english": "מ\"מ 13",
       "itemId": "ITEM_TM13",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An icy-cold beam is shot at the\\nfoe. It may leave the target\\nfrozen.",
+      "description_english": "קרן קרה נורית על היריב.\\nעשויה להקפיא את\\nהמטרה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4846,12 +4846,12 @@
       "moveId": "IceBeam"
     },
     {
-      "english": "TM14",
+      "english": "מ\"מ 14",
       "itemId": "ITEM_TM14",
       "price": 5500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A vicious snow-and-wind attack that\\nstrikes all foes in battle. It may\\ncause freezing.",
+      "description_english": "התקפת שלג ורוח אכזרית\\nשפוגעת בכל היריבים. עשויה\\nלגרום להקפאה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4863,12 +4863,12 @@
       "moveId": "Blizzard"
     },
     {
-      "english": "TM15",
+      "english": "מ\"מ 15",
       "itemId": "ITEM_TM15",
       "price": 7500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A harsh attack that inflicts severe\\ndamage on the foe. However, the\\nuser must rest the next turn.",
+      "description_english": "התקפה קשה שגורמת נזק חמור\\nליריב. אך המשתמש חייב\\nלנוח בתור הבא.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4880,12 +4880,12 @@
       "moveId": "HyperBeam"
     },
     {
-      "english": "TM16",
+      "english": "מ\"מ 16",
       "itemId": "ITEM_TM16",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A wall of light is created over\\nfive turns. It reduces damage from\\nSP. ATK attacks.",
+      "description_english": "קיר אור נוצר למשך חמישה\\nתורות. הוא מפחית נזק\\nמהתקפות מיוחדות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4897,12 +4897,12 @@
       "moveId": "LightScreen"
     },
     {
-      "english": "TM17",
+      "english": "מ\"מ 17",
       "itemId": "ITEM_TM17",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The user is completely protected\\nfrom attack in the turn it is used.\\nIt may fail if used in succession.",
+      "description_english": "המשתמש מוגן לחלוטין\\nמהתקפות בתור זה. עלול\\nלהיכשל אם משתמשים ברצף.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4914,12 +4914,12 @@
       "moveId": "Protect"
     },
     {
-      "english": "TM18",
+      "english": "מ\"מ 18",
       "itemId": "ITEM_TM18",
       "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A heavy rain is summoned for five\\nturns. Over that time, WATER-type\\nmoves are powered up.",
+      "description_english": "גשם כבד יורד למשך חמישה\\nתורות. בזמן זה, מהלכי\\nמים מתחזקים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4931,12 +4931,12 @@
       "moveId": "RainDance"
     },
     {
-      "english": "TM19",
+      "english": "מ\"מ 19",
       "itemId": "ITEM_TM19",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The user strikes the foe with\\ntentacles or roots, stealing the\\ntarget's HP and healing itself.",
+      "description_english": "המשתמש מכה את היריב\\nעם זרועות או שורשים, גונב\\nאת נקודות החיים ומרפא את עצמו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4948,12 +4948,12 @@
       "moveId": "GigaDrain"
     },
     {
-      "english": "TM20",
+      "english": "מ\"מ 20",
       "itemId": "ITEM_TM20",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Protects the party with a shield\\nagainst all status problems over\\nfive turns.",
+      "description_english": "מגן על הקבוצה עם מחסום\\nנגד כל בעיות הסטטוס למשך\\nחמישה תורות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4965,12 +4965,12 @@
       "moveId": "Safeguard"
     },
     {
-      "english": "TM21",
+      "english": "מ\"מ 21",
       "itemId": "ITEM_TM21",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "This attack move grows more\\npowerful the more the POKéMON\\ndislikes its TRAINER.",
+      "description_english": "מהלך התקפה זה מתחזק\nככל שהפוקימון פחות\nאוהב את המאמן שלו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4982,12 +4982,12 @@
       "moveId": "Frustration"
     },
     {
-      "english": "TM22",
+      "english": "מ\"מ 22",
       "itemId": "ITEM_TM22",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A 2-turn attack that uses the first\\nturn for absorbing sunlight, then\\nblasting the foe in the next turn.",
+      "description_english": "התקפה של שני תורות שמשתמשת\\nבתור הראשון לספיגת אור שמש,\\nואז מפוצצת את היריב בתור הבא.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -4999,12 +4999,12 @@
       "moveId": "SolarBeam"
     },
     {
-      "english": "TM23",
+      "english": "מ\"מ 23",
       "itemId": "ITEM_TM23",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The foe is slammed with a sturdy\\ntail of steel. It may lower the\\ntarget's DEFENSE stat.",
+      "description_english": "היריב מוכה עם זנב פלדה חזק.\\nעשוי להוריד את נתון\\nההגנה של המטרה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5016,12 +5016,12 @@
       "moveId": "IronTail"
     },
     {
-      "english": "TM24",
+      "english": "מ\"מ 24",
       "itemId": "ITEM_TM24",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A massive jolt of electricity is\\nlaunched at the foe. It may cause\\nparalysis.",
+      "description_english": "זרם חשמל עצום נורה לעבר\\nהיריב. עשוי לגרום\\nלשיתוק.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5033,12 +5033,12 @@
       "moveId": "Thunderbolt"
     },
     {
-      "english": "TM25",
+      "english": "מ\"מ 25",
       "itemId": "ITEM_TM25",
       "price": 5500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Strikes the foe with a huge\\nthunderbolt. It may cause\\nparalysis.",
+      "description_english": "פוגע ביריב עם ברק ענק.\\nעשוי לגרום לשיתוק.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5050,12 +5050,12 @@
       "moveId": "Thunder"
     },
     {
-      "english": "TM26",
+      "english": "מ\"מ 26",
       "itemId": "ITEM_TM26",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Causes an earthquake that strikes\\nall POKéMON in battle, excluding\\nthe user.",
+      "description_english": "גורם לרעידת אדמה שפוגעת\\nבכל הפוקימונים בקרב,\\nחוץ מהמשתמש.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5067,12 +5067,12 @@
       "moveId": "Earthquake"
     },
     {
-      "english": "TM27",
+      "english": "מ\"מ 27",
       "itemId": "ITEM_TM27",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "This attack move grows more\\npowerful the more the POKéMON\\nlikes its TRAINER.",
+      "description_english": "מהלך התקפה זה מתחזק\\nככל שהפוקימון יותר\\nאוהב את המאמן שלו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5084,12 +5084,12 @@
       "moveId": "Return"
     },
     {
-      "english": "TM28",
+      "english": "מ\"מ 28",
       "itemId": "ITEM_TM28",
       "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A 2-turn attack in which the user\\ndigs underground, then strikes.\\nIt can be used to exit dungeons.",
+      "description_english": "התקפה של שני תורות בה המשתמש\\nחופר מתחת לאדמה, ואז תוקף.\\nניתן להשתמש ליציאה ממבוכים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5101,12 +5101,12 @@
       "moveId": "Dig"
     },
     {
-      "english": "TM29",
+      "english": "מ\"מ 29",
       "itemId": "ITEM_TM29",
       "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A powerful blast of telekinetic\\nenergy strikes the foe. It may\\nlower the target's SP. DEF stat.",
+      "description_english": "פיצוץ חזק של אנרגיה טלקינטית\\nפוגע ביריב. עשוי להוריד את\\nההגנה המיוחדת של המטרה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5118,12 +5118,12 @@
       "moveId": "Psychic"
     },
     {
-      "english": "TM30",
+      "english": "מ\"מ 30",
       "itemId": "ITEM_TM30",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The foe is attacked with a shadowy\\nlump. It may lower the target's\\nSP. DEF stat.",
+      "description_english": "היריב מותקף עם גוש צללים.\\nעשוי להוריד את ההגנה\\nהמיוחדת של המטרה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5135,12 +5135,12 @@
       "moveId": "ShadowBall"
     },
     {
-      "english": "TM31",
+      "english": "מ\"מ 31",
       "itemId": "ITEM_TM31",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Strikes the foe with a rock-hard\\nfist, etc. It shatters barriers such\\nas REFLECT and LIGHT SCREEN.",
+      "description_english": "פוגע ביריב עם אגרוף סלעי וכו'.\\nמנפץ מחסומים כמו\\nהגנה ומסך אור.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5152,12 +5152,12 @@
       "moveId": "BrickBreak"
     },
     {
-      "english": "TM32",
+      "english": "מ\"מ 32",
       "itemId": "ITEM_TM32",
       "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The user begins moving so quickly\\nthat it creates illusory copies to\\nraise its evasiveness.",
+      "description_english": "המשתמש מתחיל לנוע כל כך מהר\\nשהוא יוצר העתקים אשלייתיים\\nכדי להעלות את ההתחמקות שלו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5169,12 +5169,12 @@
       "moveId": "DoubleTeam"
     },
     {
-      "english": "TM33",
+      "english": "מ\"מ 33",
       "itemId": "ITEM_TM33",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A tough barrier is put up over five\\nturns. It reduces damage from\\nphysical attacks over that time.",
+      "description_english": "מחסום חזק מוצב למשך חמישה\\nתורות. הוא מפחית נזק\\nמהתקפות פיזיות בזמן זה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5186,12 +5186,12 @@
       "moveId": "Reflect"
     },
     {
-      "english": "TM34",
+      "english": "מ\"מ 34",
       "itemId": "ITEM_TM34",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A rapid jolt of electricity strikes\\nthe foe. This attack is impossible\\nto evade.",
+      "description_english": "זרם חשמל מהיר פוגע\\nביריב. אי אפשר להתחמק\\nמהתקפה זו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5203,12 +5203,12 @@
       "moveId": "ShockWave"
     },
     {
-      "english": "TM35",
+      "english": "מ\"מ 35",
       "itemId": "ITEM_TM35",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The foe is roasted with a heavy\\nblast of fire. It may leave the\\ntarget with a burn.",
+      "description_english": "היריב נצלה בפיצוץ כבד\\nשל אש. עשוי להשאיר\\nאת המטרה עם כוויה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5220,12 +5220,12 @@
       "moveId": "Flamethrower"
     },
     {
-      "english": "TM36",
+      "english": "מ\"מ 36",
       "itemId": "ITEM_TM36",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Toxic sludge is hurled at the foe\\nwith great force. It may also\\npoison the target.",
+      "description_english": "רעל רפש נזרק על היריב\\nבכוח רב. עשוי גם\\nלהרעיל את המטרה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5237,12 +5237,12 @@
       "moveId": "SludgeBomb"
     },
     {
-      "english": "TM37",
+      "english": "מ\"מ 37",
       "itemId": "ITEM_TM37",
       "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Summons a sandstorm that lasts for\\nfive turns. It damages all types\\nexcept ROCK, GROUND, and STEEL.",
+      "description_english": "מזמן סופת חול שנמשכת חמישה\\nתורות. פוגעת בכל הסוגים\\nחוץ מסלע, אדמה ופלדה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5254,12 +5254,12 @@
       "moveId": "Sandstorm"
     },
     {
-      "english": "TM38",
+      "english": "מ\"מ 38",
       "itemId": "ITEM_TM38",
       "price": 5500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The foe is incinerated with an\\nintense flame. It may leave the\\ntarget with a burn.",
+      "description_english": "היריב נשרף בלהבה עזה.\\nעשוי להשאיר את המטרה\\nעם כוויה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5271,12 +5271,12 @@
       "moveId": "FireBlast"
     },
     {
-      "english": "TM39",
+      "english": "מ\"מ 39",
       "itemId": "ITEM_TM39",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Boulders are hurled at the foe.\\nIt also lowers the target's SPEED\\nstat if it hits.",
+      "description_english": "סלעים מוטלים על היריב.\\nגם מוריד את מהירות המטרה\\nאם פוגע.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5288,12 +5288,12 @@
       "moveId": "RockTomb"
     },
     {
-      "english": "TM40",
+      "english": "מ\"מ 40",
       "itemId": "ITEM_TM40",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An extremely fast attack against\\none target. It is impossible to\\nevade.",
+      "description_english": "התקפה מהירה במיוחד נגד\nמטרה אחת. אי אפשר\nלהתחמק ממנה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5305,12 +5305,12 @@
       "moveId": "AerialAce"
     },
     {
-      "english": "TM41",
+      "english": "מ\"מ 41",
       "itemId": "ITEM_TM41",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "If enraged by this move, the target\\nbecomes incapable of using the same\\nmove twice in a row.",
+      "description_english": "אם המטרה מוכעסת ממהלך זה,\\nהיא לא תוכל להשתמש באותו\\nמהלך פעמיים ברצף.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5322,12 +5322,12 @@
       "moveId": "Torment"
     },
     {
-      "english": "TM42",
+      "english": "מ\"מ 42",
       "itemId": "ITEM_TM42",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An attack move that becomes very\\npowerful if the user is poisoned,\\nburned, or paralyzed.",
+      "description_english": "התקפה שנהיית חזקה מאוד\\nאם המשתמש מורעל,\\nשרוף או משותק.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5339,12 +5339,12 @@
       "moveId": "Facade"
     },
     {
-      "english": "TM43",
+      "english": "מ\"מ 43",
       "itemId": "ITEM_TM43",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An attack move that may have an\\nadditional effect depending on the\\nbattle terrain.",
+      "description_english": "מהלך התקפה שעשויה להיות\\nלו השפעה נוספת בהתאם\\nלשטח הקרב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5356,12 +5356,12 @@
       "moveId": "SecretPower"
     },
     {
-      "english": "TM44",
+      "english": "מ\"מ 44",
       "itemId": "ITEM_TM44",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A move that makes the user fall\\nasleep over two turns to restore HP\\nand heal any status problems.",
+      "description_english": "מהלך שגורם למשתמש לישון\\nבמשך שני תורות כדי לשקם נ\"פ\\nולרפא כל בעיות סטטוס.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5373,12 +5373,12 @@
       "moveId": "Rest"
     },
     {
-      "english": "TM45",
+      "english": "מ\"מ 45",
       "itemId": "ITEM_TM45",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The foe, if it is the opposite\\ngender as the user, becomes\\ninfatuated and may not attack.",
+      "description_english": "היריב, אם הוא מהמין הנגדי\\nלמשתמש, נהיה מאוהב\\nועשוי לא לתקוף.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5390,12 +5390,12 @@
       "moveId": "Attract"
     },
     {
-      "english": "TM46",
+      "english": "מ\"מ 46",
       "itemId": "ITEM_TM46",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An attack that gives the user an\\nopportunity to steal the foe's hold\\nitem.",
+      "description_english": "התקפה שנותנת למשתמש\\nהזדמנות לגנוב את החפץ\\nשהיריב מחזיק.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5407,12 +5407,12 @@
       "moveId": "Thief"
     },
     {
-      "english": "TM47",
+      "english": "מ\"מ 47",
       "itemId": "ITEM_TM47",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The foe is struck with steel-hard\\nwings. It may also raise the user's\\nDEFENSE stat.",
+      "description_english": "היריב מוכה עם כנפי פלדה.\\nעשוי גם להעלות את\\nההגנה של המשתמש.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5424,12 +5424,12 @@
       "moveId": "SteelWing"
     },
     {
-      "english": "TM48",
+      "english": "מ\"מ 48",
       "itemId": "ITEM_TM48",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A special power is transmitted to\\nthe foe, causing it to switch\\nabilities with the user.",
+      "description_english": "כוח מיוחד מועבר ליריב,\\nגורם לו להחליף יכולות\\nעם המשתמש.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5441,12 +5441,12 @@
       "moveId": "SkillSwap"
     },
     {
-      "english": "TM49",
+      "english": "מ\"מ 49",
       "itemId": "ITEM_TM49",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A move that steals the effects of\\nany status-changing or healing move\\nthat the foe tries to use.",
+      "description_english": "מהלך שגונב את ההשפעות של\\nכל מהלך משנה-סטטוס או ריפוי\\nשהיריב מנסה להשתמש בו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5458,12 +5458,12 @@
       "moveId": "Snatch"
     },
     {
-      "english": "TM50",
+      "english": "מ\"מ 50",
       "itemId": "ITEM_TM50",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A maximum-power attack of great\\nferocity, but one that also sharply\\nreduces the user's SP. ATK stat.",
+      "description_english": "התקפת מקסימום-כוח פראית,\\nאבל כזו שגם מורידה חדות\\nאת ההתקפה המיוחדת של המשתמש.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5475,12 +5475,12 @@
       "moveId": "Overheat"
     },
     {
-      "english": "HM01",
+      "english": "מ\"נ 01",
       "itemId": "ITEM_HM01",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Attacks the foe with sharp blades\\nor claws. It can also cut down thin\\ntrees and grass outside of battle.",
+      "description_english": "תוקף את היריב עם להבים\\nאו טפרים חדים. יכול גם לחתוך\\nעצים דקים ודשא מחוץ לקרב.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5492,12 +5492,12 @@
       "moveId": "Cut"
     },
     {
-      "english": "HM02",
+      "english": "מ\"נ 02",
       "itemId": "ITEM_HM02",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The user flies up on the first turn,\\nthen attacks next turn. It can be\\nused to fly to any known town.",
+      "description_english": "המשתמש מתרומם בתור הראשון,\\nואז תוקף בתור הבא. ניתן להשתמש\\nכדי לעוף לכל עיר מוכרת.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5509,12 +5509,12 @@
       "moveId": "Fly"
     },
     {
-      "english": "HM03",
+      "english": "מ\"נ 03",
       "itemId": "ITEM_HM03",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Creates a huge wave, then crashes\\nit down on the foe. It can be used\\nfor traveling on water.",
+      "description_english": "יוצר גל ענק, ואז מתרסק\\nעל היריב. ניתן להשתמש\\nלנסיעה על מים.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5526,12 +5526,12 @@
       "moveId": "Surf"
     },
     {
-      "english": "HM04",
+      "english": "מ\"נ 04",
       "itemId": "ITEM_HM04",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The user builds enormous power,\\nthen slams the foe. It can be used\\nfor moving large, round boulders.",
+      "description_english": "המשתמש בונה כוח עצום,\\nואז מכה את היריב. ניתן להשתמש\\nלהזזת סלעים גדולים ועגולים.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5543,12 +5543,12 @@
       "moveId": "Strength"
     },
     {
-      "english": "HM05",
+      "english": "מ\"נ 05",
       "itemId": "ITEM_HM05",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Looses a powerful blast of light\\nthat reduces the foe's accuracy.\\nIt also lights up dark caves.",
+      "description_english": "משחרר פרץ אור חזק\\nשמפחית את דיוק היריב.\\nגם מאיר מערות חשוכות.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5560,12 +5560,12 @@
       "moveId": "Flash"
     },
     {
-      "english": "HM06",
+      "english": "מ\"נ 06",
       "itemId": "ITEM_HM06",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Hits the foe with a rock-crushingly\\ntough attack. It can smash cracked\\nboulders.",
+      "description_english": "מכה את היריב בהתקפה חזקה\\nששוברת סלעים. יכול לנפץ\\nסלעים סדוקים.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5577,12 +5577,12 @@
       "moveId": "RockSmash"
     },
     {
-      "english": "HM07",
+      "english": "מ\"נ 07",
       "itemId": "ITEM_HM07",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A powerful charge attack. It can\\nbe used for climbing a torrential\\nwaterfall.",
+      "description_english": "התקפת הסתערות חזקה.\\nניתן להשתמש לטיפוס\\nעל מפל מים סוער.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5594,12 +5594,12 @@
       "moveId": "Waterfall"
     },
     {
-      "english": "HM08",
+      "english": "מ\"נ 08",
       "itemId": "ITEM_HM08",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A 2-turn attack in which the user\\ndives underwater on the first turn,\\nthen strikes in the next turn.",
+      "description_english": "התקפה של שני תורות בה המשתמש\\nצולל מתחת למים בתור הראשון,\\nואז תוקף בתור הבא.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -5643,12 +5643,12 @@
       "secondaryId": 0
     },
     {
-      "english": "OAK'S PARCEL",
+      "english": "חבילה לאוק",
       "itemId": "ITEM_OAKS_PARCEL",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A parcel to be delivered to PROF.\\nOAK from VIRIDIAN CITY's POKéMON\\nMART.",
+      "description_english": "חבילה שיש למסור לפרופסור\\nאוק מחנות הפוקימונים\\nבעיר ורידיאן.",
       "importance": 2,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5659,12 +5659,12 @@
       "secondaryId": 0
     },
     {
-      "english": "POK\u00e9 FLUTE",
+      "english": "חליל פוקימון",
       "itemId": "ITEM_POKE_FLUTE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A flute that is said to instantly\\nawaken any POKéMON. It has a\\nlovely tone.",
+      "description_english": "חליל שאומרים שמעיר מיד\\nכל פוקימון. יש לו\\nצליל נעים.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5675,12 +5675,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SECRET KEY",
+      "english": "מפתח סודי",
       "itemId": "ITEM_SECRET_KEY",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The key to CINNABAR ISLAND GYM's\\nfront door. It is colored red and\\ndecorated.",
+      "description_english": "המפתח לדלת הכניסה של\\nמכון סינבר. הוא צבוע\\nבאדום ומקושט.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5691,12 +5691,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BIKE VOUCHER",
+      "english": "שובר אופניים",
       "itemId": "ITEM_BIKE_VOUCHER",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Take this voucher to the BIKE SHOP\\nin CERULEAN CITY and exchange it\\nfor a bicycle.",
+      "description_english": "קח שובר זה לחנות האופניים\\nבעיר סרולין והחלף אותו\\nבאופניים.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5707,12 +5707,12 @@
       "secondaryId": 0
     },
     {
-      "english": "GOLD TEETH",
+      "english": "שיני זהב",
       "itemId": "ITEM_GOLD_TEETH",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A set of false teeth lost by the\\nSAFARI ZONE'S WARDEN. It makes his\\nsmile sparkle.",
+      "description_english": "סט שיניים תותבות שאבדו לשומר\\nאזור הספארי. הן גורמות לחיוך\\nשלו לנצנץ.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5723,12 +5723,12 @@
       "secondaryId": 0
     },
     {
-      "english": "OLD AMBER",
+      "english": "ענבר עתיק",
       "itemId": "ITEM_OLD_AMBER",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A piece of amber that contains\\nthe genes of an ancient POKéMON.\\nIt is clear with a reddish tint.",
+      "description_english": "חתיכת ענבר שמכילה\\nגנים של פוקימון עתיק.\\nהיא שקופה עם גוון אדמדם.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5739,12 +5739,12 @@
       "secondaryId": 0
     },
     {
-      "english": "CARD KEY",
+      "english": "כרטיס גישה",
       "itemId": "ITEM_CARD_KEY",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A card-type key that unlocks doors\\nin SILPH CO.'s HEAD OFFICE in\\nSAFFRON CITY.",
+      "description_english": "מפתח מסוג כרטיס שפותח דלתות\\nבמטה הראשי של סילף בע\"מ\\nבעיר זעפרן.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5755,12 +5755,12 @@
       "secondaryId": 0
     },
     {
-      "english": "LIFT KEY",
+      "english": "מפתח מעלית",
       "itemId": "ITEM_LIFT_KEY",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A key that operates the elevator\\nin TEAM ROCKET's HIDEOUT.\\nIt bears the TEAM ROCKET logo.",
+      "description_english": "מפתח שמפעיל את המעלית\\nבמחבוא של צוות רוקט.\\nיש עליו את הלוגו של צוות רוקט.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5771,12 +5771,12 @@
       "secondaryId": 0
     },
     {
-      "english": "HELIX FOSSIL",
+      "english": "מאובן סליל",
       "itemId": "ITEM_HELIX_FOSSIL",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A fossil of an ancient, seafloor-\\ndwelling POKéMON. It appears to be\\npart of a seashell.",
+      "description_english": "מאובן של פוקימון עתיק\\nשחי בקרקעית הים. נראה\\nכמו חלק מקונכייה.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5787,12 +5787,12 @@
       "secondaryId": 0
     },
     {
-      "english": "DOME FOSSIL",
+      "english": "מאובן כיפה",
       "itemId": "ITEM_DOME_FOSSIL",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A fossil of an ancient, seafloor-\\ndwelling POKéMON. It appears to be\\npart of a shell.",
+      "description_english": "מאובן של פוקימון עתיק\\nשחי בקרקעית הים. נראה\\nכמו חלק מקונכייה.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5803,12 +5803,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SILPH SCOPE",
+      "english": "משקפת סילף",
       "itemId": "ITEM_SILPH_SCOPE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A scope that makes unseeable\\nPOKéMON visible.\\nIt is made by SILPH CO.",
+      "description_english": "משקפת שהופכת פוקימונים\\nבלתי נראים לנראים.\\nיוצרה על-ידי סילף בע\"מ.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5819,12 +5819,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BICYCLE",
+      "english": "אופניים",
       "itemId": "ITEM_BICYCLE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A folding bicycle that allows\\nfaster movement than the RUNNING\\nSHOES.",
+      "description_english": "אופניים מתקפלים שמאפשרים\\nתנועה מהירה יותר מנעלי\\nהריצה.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5835,12 +5835,12 @@
       "secondaryId": 0
     },
     {
-      "english": "TOWN MAP",
+      "english": "מפת העיר",
       "itemId": "ITEM_TOWN_MAP",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A very convenient map that can be\\nviewed anytime. It even shows your \\npresent location.",
+      "description_english": "מפה שימושית מאוד שניתן\\nלראות בכל זמן. היא אפילו\\nמראה את מיקומך הנוכחי.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5851,12 +5851,12 @@
       "secondaryId": 0
     },
     {
-      "english": "VS SEEKER",
+      "english": "גלאי קרב",
       "itemId": "ITEM_VS_SEEKER",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A device that indicates TRAINERS\\nwho want to battle. The battery\\ncharges while traveling.",
+      "description_english": "מכשיר שמצביע על מאמנים\\nשרוצים להילחם. הסוללה\\nנטענת בזמן הליכה.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5867,12 +5867,12 @@
       "secondaryId": 0
     },
     {
-      "english": "FAME CHECKER",
+      "english": "בודק תהילה",
       "itemId": "ITEM_FAME_CHECKER",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A device that enables you to\\nrecall what you've heard and seen\\nabout famous people.",
+      "description_english": "מכשיר שמאפשר לך להיזכר\\nבמה ששמעת וראית\\nעל אנשים מפורסמים.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5883,12 +5883,12 @@
       "secondaryId": 0
     },
     {
-      "english": "TM CASE",
+      "english": "תיק מ\"מ",
       "itemId": "ITEM_TM_CASE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A case that holds TMs and HMs.\\nIt is attached to the BAG's\\ncompartment for important items.",
+      "description_english": "תיק שמחזיק מ\"מ ומ\"נ.\\nהוא מחובר לתא הפריטים\\nהחשובים בתיק.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5899,12 +5899,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BERRY POUCH",
+      "english": "פאוץ' פירות",
       "itemId": "ITEM_BERRY_POUCH",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A pouch for carrying BERRIES.\\nIt is attached to the BAG's\\ncompartment for important items.",
+      "description_english": "פאוץ' לנשיאת פירות.\\nהוא מחובר לתא הפריטים\\nהחשובים בתיק.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5915,12 +5915,12 @@
       "secondaryId": 0
     },
     {
-      "english": "TEACHY TV",
+      "english": "טלוויזית הדרכה",
       "itemId": "ITEM_TEACHY_TV",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A television set that is tuned to\\na program with useful tips for\\nnovice TRAINERS.",
+      "description_english": "מקלט טלוויזיה שמכוון\\nלתוכנית עם טיפים שימושיים\\nלמאמנים מתחילים.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5931,12 +5931,12 @@
       "secondaryId": 0
     },
     {
-      "english": "TRI-PASS",
+      "english": "כרטיס משולש",
       "itemId": "ITEM_TRI_PASS",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A pass for ferries between ONE,\\nTWO, and THREE ISLAND.\\nIt has a drawing of three islands.",
+      "description_english": "כרטיס למעבורות בין האיים\\nאחד, שתיים ושלוש.\\nיש עליו ציור של שלושה איים.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5947,12 +5947,12 @@
       "secondaryId": 0
     },
     {
-      "english": "RAINBOW PASS",
+      "english": "כרטיס קשת",
       "itemId": "ITEM_RAINBOW_PASS",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A pass for ferries between\\nVERMILION and the SEVII ISLANDS.\\nIt features a drawing of a rainbow.",
+      "description_english": "כרטיס למעבורות בין\\nורמיליון לאיי סבי.\\nיש עליו ציור של קשת בענן.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5963,12 +5963,12 @@
       "secondaryId": 0
     },
     {
-      "english": "TEA",
+      "english": "תה",
       "itemId": "ITEM_TEA",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An aromatic tea prepared by an old\\nlady. It will slake even the worst\\nthirst.",
+      "description_english": "תה ריחני שהוכן על-ידי\\nזקנה. הוא ירווה אפילו\\nאת הצמא הגדול ביותר.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5979,12 +5979,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MYSTICTICKET",
+      "english": "כרטיס מיסטי",
       "itemId": "ITEM_MYSTIC_TICKET",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A ticket required to board the ship\\nto NAVEL ROCK.\\nIt glows with a mystic light.",
+      "description_english": "כרטיס נדרש לעלייה לספינה\\nלסלע הטבור.\\nהוא זוהר באור מיסטי.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -5995,12 +5995,12 @@
       "secondaryId": 0
     },
     {
-      "english": "AURORATICKET",
+      "english": "כרטיס זוהר",
       "itemId": "ITEM_AURORA_TICKET",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A ticket required to board the ship\\nto BIRTH ISLAND.\\nIt glows beautifully.",
+      "description_english": "כרטיס נדרש לעלייה לספינה\\nלאי הלידה.\\nהוא זוהר ביופי.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -6011,12 +6011,12 @@
       "secondaryId": 0
     },
     {
-      "english": "POWDER JAR",
+      "english": "צנצנת אבקה",
       "itemId": "ITEM_POWDER_JAR",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A jar for storing BERRY POWDER\\nmade using a BERRY CRUSHER.",
+      "description_english": "צנצנת לאחסון אבקת פירות\\nשהוכנה במכתש פירות.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -6027,12 +6027,12 @@
       "secondaryId": 0
     },
     {
-      "english": "RUBY",
+      "english": "אודם",
       "itemId": "ITEM_RUBY",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An exquisitely beautiful gem that\\nhas a red glow.\\nIt symbolizes passion.",
+      "description_english": "אבן חן יפהפייה במיוחד\\nשזוהרת באדום.\\nהיא מסמלת תשוקה.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -6043,12 +6043,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SAPPHIRE",
+      "english": "ספיר",
       "itemId": "ITEM_SAPPHIRE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An exquisitely beautiful gem that\\nhas a blue glow.\\nIt symbolizes honesty.",
+      "description_english": "אבן חן יפהפייה במיוחד\\nשזוהרת בכחול.\\nהיא מסמלת יושר.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
