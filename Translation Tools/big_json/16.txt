@@ -1,4 +1,13 @@
-: "POCKET_TM_CASE",
+    {
+      "english": "TM22",
+      "itemId": "ITEM_TM22",
+      "price": 3000,
+      "holdEffect": "HOLD_EFFECT_NONE",
+      "holdEffectParam": 0,
+      "description_english": "A 2-turn attack that uses the first\\nturn for absorbing sunlight, then\\nblasting the foe in the next turn.",
+      "importance": 0,
+      "registrability": 0,
+      "pocket": "POCKET_TM_CASE",
       "type": "ITEM_TYPE_PARTY_MENU",
       "fieldUseFunc": "NULL",
       "battleUsage": 0,
@@ -312,9 +321,3 @@
       "secondaryId": 0,
       "moveId": "AerialAce"
     },
-    {
-      "english": "TM41",
-      "itemId": "ITEM_TM41",
-      "price": 3000,
-      "holdEffect": "HOLD_EFFECT_NONE",
-      "holdEffectParam": 0,

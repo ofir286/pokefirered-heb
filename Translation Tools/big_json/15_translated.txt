@@ -1,10 +1,10 @@
     {
-      "english": "TM04",
+      "english": "מ\"מ 04",
       "itemId": "ITEM_TM04",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The user calms its spirit and\\nfocuses its mind to raise its\\nSP. ATK and SP. DEF stats.",
+      "description_english": "המשתמש מרגיע את רוחו\\nומתרכז כדי להעלות את\\nההתקפה וההגנה המיוחדות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -16,12 +16,12 @@
       "moveId": "CalmMind"
     },
     {
-      "english": "TM05",
+      "english": "מ\"מ 05",
       "itemId": "ITEM_TM05",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A savage roar that causes the foe\\nto switch out of battle. In the\\nwild, ROAR ends the battle.",
+      "description_english": "שאגה פראית שגורמת ליריב\\nלהתחלף בקרב. בטבע,\\nשאגה מסיימת את הקרב.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -33,12 +33,12 @@
       "moveId": "Roar"
     },
     {
-      "english": "TM06",
+      "english": "מ\"מ 06",
       "itemId": "ITEM_TM06",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A move that leaves the foe badly\\npoisoned. Its poison damage worsens\\nevery turn.",
+      "description_english": "מהלך שמרעיל קשות את היריב.\\nנזק הרעל מחמיר\\nבכל תור.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -50,12 +50,12 @@
       "moveId": "Toxic"
     },
     {
-      "english": "TM07",
+      "english": "מ\"מ 07",
       "itemId": "ITEM_TM07",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Summons a hailstorm that lasts for\\nfive turns. The hailstorm damages\\nall types except the ICE type.",
+      "description_english": "מזמן סופת ברד שנמשכת\\nחמישה תורות. הברד פוגע\\nבכל הסוגים חוץ מקרח.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -67,12 +67,12 @@
       "moveId": "Hail"
     },
     {
-      "english": "TM08",
+      "english": "מ\"מ 08",
       "itemId": "ITEM_TM08",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The user tightens all its muscles\\nand bulks up, boosting both its\\nATTACK and DEFENSE stats.",
+      "description_english": "המשתמש מכווץ את כל שריריו\\nומתנפח, מגביר את\\nההתקפה וההגנה שלו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -84,12 +84,12 @@
       "moveId": "BulkUp"
     },
     {
-      "english": "TM09",
+      "english": "מ\"מ 09",
       "itemId": "ITEM_TM09",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The user shoots seeds at the foe\\nin rapid succession. Two to five\\nseeds are shot at once.",
+      "description_english": "המשתמש יורה זרעים ליריב\\nבמהירות רבה. שניים עד חמישה\\nזרעים נורים בבת אחת.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -101,12 +101,12 @@
       "moveId": "BulletSeed"
     },
     {
-      "english": "TM10",
+      "english": "מ\"מ 10",
       "itemId": "ITEM_TM10",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A variable move that changes type\\nand power depending on the POKéMON\\nusing it.",
+      "description_english": "מהלך משתנה שסוגו ועוצמתו\\nמשתנים בהתאם לפוקימון\\nשמשתמש בו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -118,12 +118,12 @@
       "moveId": "HiddenPower"
     },
     {
-      "english": "TM11",
+      "english": "מ\"מ 11",
       "itemId": "ITEM_TM11",
       "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The weather is turned sunny for\\nfive turns. Over that time, FIRE-\\ntype moves are powered up.",
+      "description_english": "מזג האוויר הופך שמשי למשך\\nחמישה תורות. בזמן זה, מהלכי\\nאש מתחזקים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -135,12 +135,12 @@
       "moveId": "SunnyDay"
     },
     {
-      "english": "TM12",
+      "english": "מ\"מ 12",
       "itemId": "ITEM_TM12",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A taunted foe may become enraged.\\nIt will then only be able to use\\nattack moves.",
+      "description_english": "יריב שהותגר עשוי להתרגז.\\nאז הוא יוכל להשתמש\\nרק במהלכי התקפה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -152,12 +152,12 @@
       "moveId": "Taunt"
     },
     {
-      "english": "TM13",
+      "english": "מ\"מ 13",
       "itemId": "ITEM_TM13",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An icy-cold beam is shot at the\\nfoe. It may leave the target\\nfrozen.",
+      "description_english": "קרן קרה נורית על היריב.\\nעשויה להקפיא את\\nהמטרה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -169,12 +169,12 @@
       "moveId": "IceBeam"
     },
     {
-      "english": "TM14",
+      "english": "מ\"מ 14",
       "itemId": "ITEM_TM14",
       "price": 5500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A vicious snow-and-wind attack that\\nstrikes all foes in battle. It may\\ncause freezing.",
+      "description_english": "התקפת שלג ורוח אכזרית\\nשפוגעת בכל היריבים. עשויה\\nלגרום להקפאה.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -186,12 +186,12 @@
       "moveId": "Blizzard"
     },
     {
-      "english": "TM15",
+      "english": "מ\"מ 15",
       "itemId": "ITEM_TM15",
       "price": 7500,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A harsh attack that inflicts severe\\ndamage on the foe. However, the\\nuser must rest the next turn.",
+      "description_english": "התקפה קשה שגורמת נזק חמור\\nליריב. אך המשתמש חייב\\nלנוח בתור הבא.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -203,12 +203,12 @@
       "moveId": "HyperBeam"
     },
     {
-      "english": "TM16",
+      "english": "מ\"מ 16",
       "itemId": "ITEM_TM16",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A wall of light is created over\\nfive turns. It reduces damage from\\nSP. ATK attacks.",
+      "description_english": "קיר אור נוצר למשך חמישה\\nתורות. הוא מפחית נזק\\nמהתקפות מיוחדות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -220,12 +220,12 @@
       "moveId": "LightScreen"
     },
     {
-      "english": "TM17",
+      "english": "מ\"מ 17",
       "itemId": "ITEM_TM17",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The user is completely protected\\nfrom attack in the turn it is used.\\nIt may fail if used in succession.",
+      "description_english": "המשתמש מוגן לחלוטין\\nמהתקפות בתור זה. עלול\\nלהיכשל אם משתמשים ברצף.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -237,12 +237,12 @@
       "moveId": "Protect"
     },
     {
-      "english": "TM18",
+      "english": "מ\"מ 18",
       "itemId": "ITEM_TM18",
       "price": 2000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A heavy rain is summoned for five\\nturns. Over that time, WATER-type\\nmoves are powered up.",
+      "description_english": "גשם כבד יורד למשך חמישה\\nתורות. בזמן זה, מהלכי\\nמים מתחזקים.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -254,12 +254,12 @@
       "moveId": "RainDance"
     },
     {
-      "english": "TM19",
+      "english": "מ\"מ 19",
       "itemId": "ITEM_TM19",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The user strikes the foe with\\ntentacles or roots, stealing the\\ntarget's HP and healing itself.",
+      "description_english": "המשתמש מכה את היריב\\nעם זרועות או שורשים, גונב\\nאת נקודות החיים ומרפא את עצמו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -271,12 +271,12 @@
       "moveId": "GigaDrain"
     },
     {
-      "english": "TM20",
+      "english": "מ\"מ 20",
       "itemId": "ITEM_TM20",
       "price": 3000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "Protects the party with a shield\\nagainst all status problems over\\nfive turns.",
+      "description_english": "מגן על הקבוצה עם מחסום\\nנגד כל בעיות הסטטוס למשך\\nחמישה תורות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",
@@ -288,12 +288,12 @@
       "moveId": "Safeguard"
     },
     {
-      "english": "TM21",
+      "english": "מ"מ 21",
       "itemId": "ITEM_TM21",
       "price": 1000,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "This attack move grows more\\npowerful the more the POKéMON\\ndislikes its TRAINER.",
+      "description_english": "מהלך התקפה זה מתחזק\nככל שהפוקימון פחות\nאוהב את המאמן שלו.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_TM_CASE",

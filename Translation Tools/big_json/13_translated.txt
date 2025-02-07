@@ -1,10 +1,10 @@
     {
-      "english": "RED SCARF",
+      "english": "צעיף אדום",
       "itemId": "ITEM_RED_SCARF",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nCOOL condition in CONTESTS.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמגביר את מצב הקוּל\\nשל המחזיק בתחרויות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -15,12 +15,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BLUE SCARF",
+      "english": "צעיף כחול",
       "itemId": "ITEM_BLUE_SCARF",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nBEAUTY condition in CONTESTS.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמגביר את מצב היופי\\nשל המחזיק בתחרויות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -31,12 +31,12 @@
       "secondaryId": 0
     },
     {
-      "english": "PINK SCARF",
+      "english": "צעיף ורוד",
       "itemId": "ITEM_PINK_SCARF",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nCUTE condition in CONTESTS.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמגביר את מצב החמידות\\nשל המחזיק בתחרויות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -47,12 +47,12 @@
       "secondaryId": 0
     },
     {
-      "english": "GREEN SCARF",
+      "english": "צעיף ירוק",
       "itemId": "ITEM_GREEN_SCARF",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nSMART condition in CONTESTS.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמגביר את מצב החוכמה\\nשל המחזיק בתחרויות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -63,12 +63,12 @@
       "secondaryId": 0
     },
     {
-      "english": "YELLOW SCARF",
+      "english": "צעיף צהוב",
       "itemId": "ITEM_YELLOW_SCARF",
       "price": 100,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An item to be held by a POKéMON.\\nIt boosts the holding POKéMON's\\nTOUGH condition in CONTESTS.",
+      "description_english": "פריט להחזקה על-ידי פוקימון.\\nמגביר את מצב הקשיחות\\nשל המחזיק בתחרויות.",
       "importance": 0,
       "registrability": 0,
       "pocket": "POCKET_ITEMS",
@@ -79,12 +79,12 @@
       "secondaryId": 0
     },
     {
-      "english": "MACH BIKE",
+      "english": "אופני מהירות",
       "itemId": "ITEM_MACH_BIKE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A folding bicycle that is at least\\ntwice as fast as walking.",
+      "description_english": "אופניים מתקפלים שמהירים\\nלפחות פי שניים מהליכה.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -95,12 +95,12 @@
       "secondaryId": 0
     },
     {
-      "english": "COIN CASE",
+      "english": "ארנק מטבעות",
       "itemId": "ITEM_COIN_CASE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A case for holding COINS obtained\\nat the GAME CORNER.\\nIt holds up to 9,999 COINS.",
+      "description_english": "ארנק למטבעות שהתקבלו\\nבפינת המשחקים.\\nמכיל עד 9,999 מטבעות.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -111,12 +111,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ITEMFINDER",
+      "english": "גלאי פריטים",
       "itemId": "ITEM_ITEMFINDER",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A device used for finding items.\\nIf there is a hidden item nearby\\nwhen it is used, it emits a signal.",
+      "description_english": "מכשיר המשמש למציאת פריטים.\\nאם יש פריט נסתר בקרבת מקום\\nבעת השימוש, הוא משדר אות.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -127,12 +127,12 @@
       "secondaryId": 0
     },
     {
-      "english": "OLD ROD",
+      "english": "חכה ישנה",
       "itemId": "ITEM_OLD_ROD",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An old and beat-up fishing rod.\\nUse it by any body of water to \\nfish for wild POKéMON.",
+      "description_english": "חכה ישנה ובלויה.\\nהשתמש בה ליד מקור מים כדי\\nלדוג פוקימונים פראיים.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -143,12 +143,12 @@
       "secondaryId": "OLD_ROD"
     },
     {
-      "english": "GOOD ROD",
+      "english": "חכה טובה",
       "itemId": "ITEM_GOOD_ROD",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A new, good-quality fishing rod.\\nUse it by any body of water to \\nfish for wild POKéMON.",
+      "description_english": "חכה חדשה באיכות טובה.\\nהשתמש בה ליד מקור מים כדי\\nלדוג פוקימונים פראיים.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -159,12 +159,12 @@
       "secondaryId": "GOOD_ROD"
     },
     {
-      "english": "SUPER ROD",
+      "english": "חכת-על",
       "itemId": "ITEM_SUPER_ROD",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "An awesome, high-tech fishing rod.\\nUse it by any body of water to fish\\nfor wild POKéMON.",
+      "description_english": "חכה מתקדמת ומדהימה.\\nהשתמש בה ליד מקור מים כדי\\nלדוג פוקימונים פראיים.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
@@ -175,12 +175,12 @@
       "secondaryId": "SUPER_ROD"
     },
     {
-      "english": "S.S. TICKET",
+      "english": "כרטיס ס.ס",
       "itemId": "ITEM_SS_TICKET",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The ticket required for sailing on\\nthe ferry S.S. ANNE.\\nIt has a drawing of a ship on it.",
+      "description_english": "הכרטיס הנדרש להפלגה\\nבמעבורת ס.ס אן.\\nיש עליו ציור של ספינה.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -191,12 +191,12 @@
       "secondaryId": 0
     },
     {
-      "english": "CONTEST PASS",
+      "english": "כרטיס תחרות",
       "itemId": "ITEM_CONTEST_PASS",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The pass required for entering\\nPOKéMON CONTESTS. It has a\\ndrawing of an award ribbon on it.",
+      "description_english": "הכרטיס הנדרש להשתתפות\\nבתחרויות פוקימון. יש עליו\\nציור של סרט פרס.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -206,7 +206,7 @@
       "battleUseFunc": "NULL",
       "secondaryId": 0
     },
-    {
+	    {
       "english": "????????",
       "itemId": "ITEM_NONE",
       "price": 0,
@@ -223,12 +223,12 @@
       "secondaryId": 0
     },
     {
-      "english": "WAILMER PAIL",
+      "english": "דלי ווילמר",
       "itemId": "ITEM_WAILMER_PAIL",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A nifty watering pail.\\nUse it to promote strong growth in\\nBERRIES planted in soft soil.",
+      "description_english": "דלי השקיה שימושי.\\nהשתמש בו כדי לקדם צמיחה חזקה\\nשל פירות שנשתלו באדמה רכה.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -239,12 +239,12 @@
       "secondaryId": 0
     },
     {
-      "english": "DEVON GOODS",
+      "english": "מוצרי דבון",
       "itemId": "ITEM_DEVON_GOODS",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A package that contains mechanical\\nparts of some sort made by the\\nDEVON CORPORATION.",
+      "description_english": "חבילה המכילה חלקים מכניים\\nכלשהם שיוצרו על-ידי\\nתאגיד דבון.",
       "importance": 2,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -255,12 +255,12 @@
       "secondaryId": 0
     },
     {
-      "english": "SOOT SACK",
+      "english": "שק פיח",
       "itemId": "ITEM_SOOT_SACK",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A sack used to collect volcanic\\nash automatically during walks\\nover deep ash.",
+      "description_english": "שק המשמש לאיסוף אפר געשי\\nבאופן אוטומטי בזמן הליכה\\nמעל אפר עמוק.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -271,12 +271,12 @@
       "secondaryId": 0
     },
     {
-      "english": "BASEMENT KEY",
+      "english": "מפתח מרתף",
       "itemId": "ITEM_BASEMENT_KEY",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "The key to NEW MAUVILLE, which\\nwas constructed beneath MAUVILLE\\nCITY.",
+      "description_english": "המפתח לניו מוביל, שנבנתה\\nמתחת לעיר מוביל.",
       "importance": 1,
       "registrability": 0,
       "pocket": "POCKET_KEY_ITEMS",
@@ -287,12 +287,12 @@
       "secondaryId": 0
     },
     {
-      "english": "ACRO BIKE",
+      "english": "אופני אקרו",
       "itemId": "ITEM_ACRO_BIKE",
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A folding bicycle that is capable\\nof stunts like jumps and wheelies.",
+      "אופניים מתקפלים המסוגלים\\nלעשות פעלולים.",
       "importance": 1,
       "registrability": 1,
       "pocket": "POCKET_KEY_ITEMS",
