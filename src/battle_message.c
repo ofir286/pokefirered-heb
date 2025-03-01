@@ -303,7 +303,7 @@ static const u8 sText_GetOutGetOut[] = _("רוח: יצאו… יצאו…");
 static const u8 sText_StatSharply[] = _("מאוד ");
 const u8 gBattleText_Rose[] = _("עלתה!");
 static const u8 sText_StatHarshly[] = _("חמור ");
-static const u8 sText_StatFell[] = _("הירד!");
+static const u8 sText_StatFell[] = _("ירדה!");
 static const u8 sText_AttackersStatRose[] = _("ה{B_BUFF1} של {B_ATK_NAME_WITH_PREFIX}\n{B_BUFF2}");
 const u8 gText_DefendersStatRose[] = _("ה{B_BUFF1} של {B_DEF_NAME_WITH_PREFIX}\n{B_BUFF2}");
 static const u8 sText_UsingItemTheStatOfPkmnRose[] = _("באמצעות {B_LAST_ITEM}, ה{B_BUFF1}\nשל {B_SCR_ACTIVE_NAME_WITH_PREFIX} {B_BUFF2}");
@@ -411,8 +411,8 @@ const u8 sText_PkmnGoodComeBack[] = _("{B_BUFF1}, טוב!\nחזור!");
 static const u8 sText_Trainer1WithdrewPkmn[] = _("{B_TRAINER1_CLASS} {B_TRAINER1_NAME}\nהחזיר את {B_BUFF1}!");
 static const u8 sText_LinkTrainer1WithdrewPkmn[] = _("{B_LINK_OPPONENT1_NAME} החזיר\nאת {B_BUFF1}!");
 static const u8 sText_LinkTrainer2WithdrewPkmn[] = _("{B_LINK_SCR_TRAINER_NAME} החזיר\nאת {B_BUFF1}!");
-static const u8 sText_WildPkmnPrefix[] = _("פראי ");
-static const u8 sText_FoePkmnPrefix[] = _("יריב ");
+static const u8 sText_WildPkmnPrefix[] = _(" פראי");
+static const u8 sText_FoePkmnPrefix[] = _(" יריב");
 static const u8 sText_FoePkmnPrefix2[] = _("יריב");
 static const u8 sText_AllyPkmnPrefix[] = _("בן ברית");
 static const u8 sText_AllyPkmnPrefix2[] = _("בן ברית");
@@ -1813,30 +1813,33 @@ static const u8 *TryGetStatusString(u8 *src)
 #define HANDLE_NICKNAME_STRING_CASE(battlerId, monIndex)                \
     if (GetBattlerSide(battlerId) != B_SIDE_PLAYER)                     \
     {                                                                   \
-        if (gBattleTypeFlags & BATTLE_TYPE_TRAINER)                     \
-            toCpy = sText_FoePkmnPrefix;                                \
-        else                                                            \
-            toCpy = sText_WildPkmnPrefix;                               \
+        GetMonData(&gEnemyParty[monIndex], MON_DATA_NICKNAME, text);    \  
+        StringGet_Nickname(text);                                       \
+        toCpy = text;                                                   \
         while (*toCpy != EOS)                                           \
         {                                                               \
             dst[dstId] = *toCpy;                                        \
             dstId++;                                                    \
             toCpy++;                                                    \
         }                                                               \
-        GetMonData(&gEnemyParty[monIndex], MON_DATA_NICKNAME, text);    \
+        if (gBattleTypeFlags & BATTLE_TYPE_TRAINER)                     \
+            toCpy = sText_FoePkmnPrefix;                                \
+        else                                                            \
+            toCpy = sText_WildPkmnPrefix;                               \
     }                                                                   \
     else                                                                \
     {                                                                   \
         GetMonData(&gPlayerParty[monIndex], MON_DATA_NICKNAME, text);   \
-    }                                                                   \
-    StringGet_Nickname(text);                                           \
-    toCpy = text;
+        StringGet_Nickname(text);                                       \
+        toCpy = text;                                                   \
+    }                                                                                                            
 
 u32 BattleStringExpandPlaceholders(const u8 *src, u8 *dst)
 {
     u32 dstId = 0; // if they used dstId, why not use srcId as well?
     const u8 *toCpy = NULL;
     u8 text[30];
+    u8 temp[256];
     u8 multiplayerId;
     s32 i;
 
