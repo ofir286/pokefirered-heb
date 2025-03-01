@@ -44,8 +44,8 @@ DayCare_Text_YourMonsAreDoingFine::
 	.string "ו{STR_VAR_2} מסתדרים פה מצויין.$"
 
 DayCare_Text_IWillKeepDoYouWantIt::
-	.string "I really will keep it.\n"
-	.string "You do want this, yes?$"
+	.string "אני אמשיך לשמור עליו.\n"
+	.string "אתה בטוח שזה מה שאתה רוצה?$"
 
 DayCare_Text_WouldYouLikeUsToRaiseMon::
 	.string "אני מנהלת במכון היום.\p"
@@ -98,8 +98,8 @@ DayCare_Text_TakeBackWhichMon::
 	.string "どっちの　ポケモンを　ひきとるかい？$"
 
 DayCare_Text_ItWillCostX::
-	.string "If you want your {STR_VAR_1} back,\n"
-	.string "it will cost ¥{STR_VAR_2}.$"
+	.string "אם אתה רוצה את {STR_VAR_1} בחזרה,\n"
+	.string "זה יעלה ¥{STR_VAR_2}.$"
 
 DayCare_Text_HeresYourMon::
 	.string "מצויין!\n"
