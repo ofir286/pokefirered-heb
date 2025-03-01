@@ -1283,7 +1283,7 @@ const u8 gText_WhatWillOldManDo[] = _("מה יעשה\nהזקן?");
 const u8 gText_LinkStandby[] = _("{PAUSE 16}המתן בקישור...");
 const u8 gText_BattleMenu[] = _("{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}תיק{CLEAR_TO 36}הילחם\nלברוח{CLEAR_TO 36}פוקימון");
 const u8 gText_SafariZoneMenu[] = _("{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}כדור{CLEAR_TO 56}פיתיון\nאבן{CLEAR_TO 56}לברוח");
-const u8 gText_MoveInterfacePP[] = _("נ”כ");
+const u8 gText_MoveInterfacePP[] = _("נכ");
 const u8 gText_MoveInterfaceType[] = _("סוג/");
 const u8 gText_MoveInterfaceDynamicColors[] = _("{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}");
 const u8 gText_WhichMoveToForget_Unused[] = _("{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW 13 14 15}איזה מהלך\nלשכוח?");
@@ -2215,6 +2215,7 @@ static void ExpandBattleTextBuffPlaceholders(const u8 *src, u8 *dst)
     u32 srcId = 1;
     u32 value = 0;
     u8 text[12];
+    u8 temp[256];
     u16 hword;
 
     *dst = EOS;
@@ -2266,7 +2267,10 @@ static void ExpandBattleTextBuffPlaceholders(const u8 *src, u8 *dst)
                 GetMonData(&gEnemyParty[src[srcId + 2]], MON_DATA_NICKNAME, text);
             }
             StringGet_Nickname(text);
-            StringAppend(dst, text);
+            //StringAppend(dst, text); Ofir Changed here
+            StringCopy(temp, text);
+            StringAppend(temp, dst);
+            StringCopy(dst, temp);
             srcId += 3;
             break;
         case B_BUFF_STAT: // stats
