@@ -427,24 +427,24 @@ const u8 gTypeEffectiveness[336] =
 
 const u8 gTypeNames[NUMBER_OF_MON_TYPES][TYPE_NAME_LENGTH + 1] =
 {
-    [TYPE_NORMAL] = _("NORMAL"),
-    [TYPE_FIGHTING] = _("FIGHT"),
-    [TYPE_FLYING] = _("FLYING"),
-    [TYPE_POISON] = _("POISON"),
-    [TYPE_GROUND] = _("GROUND"),
-    [TYPE_ROCK] = _("ROCK"),
-    [TYPE_BUG] = _("BUG"),
-    [TYPE_GHOST] = _("GHOST"),
-    [TYPE_STEEL] = _("STEEL"),
-    [TYPE_MYSTERY] = _("???"),
-    [TYPE_FIRE] = _("FIRE"),
-    [TYPE_WATER] = _("WATER"),
-    [TYPE_GRASS] = _("GRASS"),
-    [TYPE_ELECTRIC] = _("ELECTR"),
-    [TYPE_PSYCHIC] = _("PSYCHC"),
-    [TYPE_ICE] = _("ICE"),
-    [TYPE_DRAGON] = _("DRAGON"),
-    [TYPE_DARK] = _("DARK"),
+    [TYPE_NORMAL] = _("רגיל"),   // Normal
+    [TYPE_FIGHTING] = _("קרב"),  // Fighting
+    [TYPE_FLYING] = _("טיסה"),   // Flying
+    [TYPE_POISON] = _("רעל"),    // Poison
+    [TYPE_GROUND] = _("אדמה"),   // Ground
+    [TYPE_ROCK] = _("סלע"),      // Rock
+    [TYPE_BUG] = _("חרק"),       // Bug
+    [TYPE_GHOST] = _("רוח"),     // Ghost
+    [TYPE_STEEL] = _("פלדה"),    // Steel
+    [TYPE_MYSTERY] = _("???"),    // Mystery (kept as is)
+    [TYPE_FIRE] = _("אש"),       // Fire
+    [TYPE_WATER] = _("מים"),     // Water
+    [TYPE_GRASS] = _("עשב"),     // Grass
+    [TYPE_ELECTRIC] = _("חשמל"),  // Electric
+    [TYPE_PSYCHIC] = _("פסיכי"),  // Psychic
+    [TYPE_ICE] = _("קרח"),       // Ice
+    [TYPE_DRAGON] = _("דרקון"),   // Dragon
+    [TYPE_DARK] = _("אפל"),      // Dark
 };
 
 // This is a factor in how much money you get for beating a trainer.
