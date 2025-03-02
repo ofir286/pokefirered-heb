@@ -225,7 +225,8 @@ void BagPrintTextOnWindow(u8 windowId, u8 fontId, const u8 * str, u8 x, u8 y, u8
 
 void BagPrintTextOnWin1CenteredColor0(const u8 * str, u8 unused)
 {
-    u32 x = 0x48 - GetStringWidth(FONT_NORMAL_COPY_1, str, 0);
+    //u32 x = 0x48 - GetStringWidth(FONT_NORMAL_COPY_1, str, 0);
+    u32 x = 0x45 + GetStringWidth(FONT_NORMAL_COPY_1, str, 0);
     AddTextPrinterParameterized3(2, FONT_NORMAL_COPY_1, x / 2, 1, sTextColors[0], 0, str);
 }
 

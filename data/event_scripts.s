@@ -834,7 +834,7 @@ Text_WelcomeTimeCapsule::
 	.string "TIME CAPSULE.$"
 
 Text_PleaseComeAgain::
-	.string "Please come again!$"
+	.string "בבקשה בוא שוב!$"
 
 @ Unused
 Text_HavingDiscountSaleToday::
@@ -852,11 +852,11 @@ Text_MakingPreparations::
 	.string "じゅんびちゅうです！$"
 
 Text_WantWhichFloor::
-	.string "Which floor do you want?$"
+	.string "לאיזו קומה אתה רוצה?$"
 
 Text_BagItemCanBeRegistered::
-	.string "An item in the BAG can be\n"
-	.string "registered to SELECT for easy use.$"
+	.string "ניתן לרשום פריט מהתיק\n"
+	.string "ללחצן SELECT לשימוש מהיר.$"
 
 @ Unused (email from R/S Rivals computer)
 Text_TrainerSchoolEmail::
@@ -870,7 +870,7 @@ Text_TrainerSchoolEmail::
 	.string "‥‥　‥‥　‥‥$"
 
 Text_PlayerBootedUpPC::
-	.string "{PLAYER} booted up the PC.$"
+	.string "{PLAYER} הפעיל את המחשב.$"
 
 @ Unused
 Text_LinkWasCanceled::
@@ -882,25 +882,25 @@ Text_GiveNicknameToReceivedMon::
 	.string "{STR_VAR_2} you received?$"
 
 gText_PkmnFainted3::
-	.string "{STR_VAR_1} fainted…\p"
+	.string "{STR_VAR_1} התעלף...\p"
 	.string "$"
 
 Text_WelcomeWantToHealPkmn::
-	.string "Welcome to our POKéMON CENTER!\p"
-	.string "Would you like me to heal your\n"
-	.string "POKéMON back to perfect health?$"
+	.string "ברוכים הבאים למרכז הפוקימונים שלנו!\p"
+	.string "האם תרצה שאני ארפא את\n"
+	.string "הפוקימונים שלך לבריאות מושלמת?$"
 
 Text_TakeYourPkmnForFewSeconds::
-	.string "Okay, I'll take your POKéMON for a\n"
-	.string "few seconds.$"
+	.string "בסדר, אקח את הפוקימונים שלך\n"
+	.string "למספר שניות.$"
 
 Text_WeHopeToSeeYouAgain::
-	.string "We hope to see you again!$"
+	.string "אנו מקווים לראותך שוב!$"
 
 Text_RestoredPkmnToFullHealth::
-	.string "Thank you for waiting.\n"
-	.string "We've restored your POKéMON to\l"
-	.string "full health.$"
+	.string "תודה על ההמתנה.\n"
+	.string "שיקמנו את הפוקימונים שלך\l"
+	.string "לבריאות מלאה.$"
 
 	.include "data/text/surf.inc"
 
@@ -915,21 +915,21 @@ Text_BigHoleInTheWall::
 	.string "おおきな　あなが　あいている！$"
 
 Text_WirelessClubUndergoingAdjustments::
-	.string "I'm terribly sorry.\n"
-	.string "The POKéMON WIRELESS CLUB is\l"
-	.string "undergoing adjustments now.$"
+	.string "אני מצטער מאוד.\n"
+	.string "מועדון הפוקימון האלחוטי\l"
+	.string "עובר התאמות כרגע.$"
 
 Text_AppearsToBeUndergoingAdjustments::
-	.string "It appears to be undergoing\n"
-	.string "adjustments…$"
+	.string "נראה שהוא עובר\n"
+	.string "התאמות...$"
 
 Text_HandedOverItem::
-	.string "{PLAYER} handed over the\n"
-	.string "{STR_VAR_1}.$"
+	.string "{PLAYER} מסר את\n"
+	.string "ה{STR_VAR_1}.$"
 
 Text_GiveNicknameToThisMon::
-	.string "Do you want to give a nickname to\n"
-	.string "this {STR_VAR_1}?$"
+	.string "האם תרצה לתת כינוי\n"
+	.string "ל{STR_VAR_1} הזה?$"
 
 	.include "data/text/itemfinder.inc"
 	.include "data/text/route23.inc"
@@ -937,28 +937,28 @@ Text_GiveNicknameToThisMon::
 	.include "data/text/ingame_trade.inc"
 
 Text_CardKeyOpenedDoor::
-	.string "Bingo!\n"
-	.string "The CARD KEY opened the door!$"
+	.string "בינגו!\n"
+	.string "כרטיס המפתח פתח את הדלת!$"
 
 Text_ItNeedsCardKey::
-	.string "No!\n"
-	.string "It needs a CARD KEY!$"
+	.string "לא!\n"
+	.string "צריך כרטיס מפתח!$"
 
 Text_AccessedProfOaksPC::
-	.string "Accessed PROF. OAK's PC…\p"
-	.string "Accessed the POKéDEX Rating\n"
-	.string "System…$"
+	.string "התחברת למחשב של פרופ' אוק...\p"
+	.string "נכנסת למערכת דירוג\n"
+	.string "הפוקידקס...$"
 
 Text_HavePokedexRated::
-	.string "Would you like to have your\n"
-	.string "POKéDEX rated?$"
+	.string "האם תרצה לדרג את\n"
+	.string "הפוקידקס שלך?$"
 
 Text_ClosedLinkToProfOaksPC::
-	.string "Closed link to PROF. OAK's PC.$"
+	.string "סגרת את החיבור למחשב של פרופ' אוק.$"
 
 Text_VoiceRangOutDontRunAway::
-	.string "Someone's voice rang out,\n"
-	.string "“Don't run away!”$"
+	.string "קולו של מישהו נשמע,\n"
+	.string "”אל תברח!”$"
 
 @ Uncear what the below unused JP texts were for
 Text_IdLikeToSeeRequest::
@@ -997,18 +997,18 @@ Text_TheresBedLetsRest::
 	.string "やすんでいこう$"
 
 Text_FoundTMHMContainsMove::
-	.string "{PLAYER} found a {STR_VAR_2}!\n"
-	.string "It contains {STR_VAR_1}.$"
+	.string "{PLAYER} מצא {STR_VAR_2}!\n"
+	.string "הוא מכיל את {STR_VAR_1}.$"
 
 	.include "data/text/seagallop.inc"
 
 @ Call for legendary bird trio
 Text_Gyaoo::
-	.string "Gyaoo!$"
+	.string "גיאוו!$"
 
 Text_MoveCanOnlyBeLearnedOnce::
-	.string "This move can be learned only\n"
-	.string "once. Is that okay?$"
+	.string "מהלך זה ניתן ללמוד רק\n"
+	.string "פעם אחת. האם זה בסדר?$"
 
 EventScript_ResetAllMapFlags::
 	setflag FLAG_HIDE_OAK_IN_HIS_LAB
