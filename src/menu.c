@@ -479,7 +479,7 @@ void MultichoiceList_PrintItems(u8 windowId, u8 fontId, u8 left, u8 top, u8 line
     {
         // Ofir chenged this
         //AddTextPrinterParameterized5(windowId, fontId, strs[i].text, left, (lineHeight * i) + top, 0xFF, NULL, letterSpacing, lineSpacing);
-        AddTextPrinterParameterized5(windowId, fontId, strs[i].text, left + 30, (lineHeight * i) + top, 0xFF, NULL, letterSpacing, lineSpacing);
+        AddTextPrinterParameterized5(windowId, fontId, strs[i].text, left + 10, (lineHeight * i) + top, 0xFF, NULL, letterSpacing, lineSpacing);
     }
     CopyWindowToVram(windowId, COPYWIN_GFX);
 }
