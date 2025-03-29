@@ -2539,20 +2539,25 @@ static u8 DisplaySelectionWindow(u8 windowType)
     u8 cursorDimension;
     u8 fontAttribute;
     u8 i;
+    u8 additionalOffset = 0 ;
 
     switch (windowType)
     {
     case SELECTWINDOW_ACTIONS:
         window = SetWindowTemplateFields(2, 19, 19 - (sPartyMenuInternal->numActions * 2), 10, sPartyMenuInternal->numActions * 2, 14, 0x2BF);
+        additionalOffset = 59;
         break;
     case SELECTWINDOW_ITEM:
         window = sItemGiveTakeWindowTemplate;
+        additionalOffset = 41;
         break;
     case SELECTWINDOW_MAIL:
         window = sMailReadTakeWindowTemplate;
+        additionalOffset = 59;
         break;
     default: // SELECTWINDOW_MOVES
         window = sMoveSelectWindowTemplate;
+        additionalOffset = 65;
         break;
     }
     sPartyMenuInternal->windowId[0] = AddWindow(&window);
@@ -2566,7 +2571,7 @@ static u8 DisplaySelectionWindow(u8 windowType)
         u8 fontColorsId = (sPartyMenuInternal->actions[i] >= CURSOR_OPTION_FIELD_MOVES) ? 4 : 3;
         
         // Ofir Changed here    
-        AddTextPrinterParameterized4(sPartyMenuInternal->windowId[0], FONT_NORMAL, cursorDimension+65, (i * 16) + 2, fontAttribute, 0, sFontColorTable[fontColorsId], 0, sCursorOptions[sPartyMenuInternal->actions[i]].text);
+        AddTextPrinterParameterized4(sPartyMenuInternal->windowId[0], FONT_NORMAL, cursorDimension+additionalOffset, (i * 16) + 2, fontAttribute, 0, sFontColorTable[fontColorsId], 0, sCursorOptions[sPartyMenuInternal->actions[i]].text);
     }
     Menu_InitCursorInternal(sPartyMenuInternal->windowId[0], FONT_NORMAL, 0, 2, 16, sPartyMenuInternal->numActions, 0, 1);
     ScheduleBgCopyTilemapToVram(2);
