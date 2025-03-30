@@ -2510,7 +2510,7 @@ void DisplayPartyMenuStdMessage(u32 stringId)
         DrawStdFrameWithCustomTileAndPalette(*windowPtr, FALSE, 0x58, 15);
         StringExpandPlaceholders(gStringVar4, sActionStringTable[stringId]);
         // Ofir Changed here
-        AddTextPrinterParameterized(*windowPtr, FONT_NORMAL, gStringVar4, 0+120, 2, 0, 0);
+        AddTextPrinterParameterized(*windowPtr, FONT_NORMAL, gStringVar4, 0+140, 2, 0, 0);
         ScheduleBgCopyTilemapToVram(2);
     }
 }
