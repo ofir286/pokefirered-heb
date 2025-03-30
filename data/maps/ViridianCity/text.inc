@@ -100,7 +100,7 @@ ViridianCity_Text_CatchMonsForEasierBattles::
 ViridianCity_Text_MovesLimitedByPP::
     .string "טיפים למאמנים\p"
     .string "המהלכים של פוקימונים מוגבלים\l"
-    .string "בנקודות הכוח שלהם, או בקיברוק\l"
+    .string "בנקודות הכוח שלהם, או בקיצור\l"
     .string "נ”כ.\p"
     .string "כדי לשחזר נ”כ, רפא את הפוקימון\l"
     .string "במרכז הפוקימונים!$"

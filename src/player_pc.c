@@ -180,7 +180,9 @@ static void Task_DrawPlayerPcTopMenu(u8 taskId)
     else
         tWindowId = AddWindow(&sWindowTemplate_TopMenu_4Items);
     SetStdWindowBorderStyle(tWindowId, 0);
-    AddItemMenuActionTextPrinters(tWindowId, FONT_NORMAL, GetMenuCursorDimensionByFont(FONT_NORMAL, 0), 2, GetFontAttribute(FONT_NORMAL, FONTATTR_LETTER_SPACING), 16, sTopMenuItemCount, sMenuActions_TopMenu, sItemOrder);
+    // Ofir Changed Here
+    //AddItemMenuActionTextPrinters(tWindowId, FONT_NORMAL, GetMenuCursorDimensionByFont(FONT_NORMAL, 0), 2, GetFontAttribute(FONT_NORMAL, FONTATTR_LETTER_SPACING), 16, sTopMenuItemCount, sMenuActions_TopMenu, sItemOrder);
+    AddItemMenuActionTextPrinters(tWindowId, FONT_NORMAL, GetMenuCursorDimensionByFont(FONT_NORMAL, 0) + 90, 2, GetFontAttribute(FONT_NORMAL, FONTATTR_LETTER_SPACING), 16, sTopMenuItemCount, sMenuActions_TopMenu, sItemOrder);
     Menu_InitCursor(tWindowId, FONT_NORMAL, 0, 2, 16, sTopMenuItemCount, 0);
     ScheduleBgCopyTilemapToVram(0);
     gTasks[taskId].func = Task_TopMenuHandleInput;
@@ -272,7 +274,9 @@ static void Task_CreateItemStorageSubmenu(u8 taskId, u8 cursorPos)
         SetHelpContext(HELPCONTEXT_PLAYERS_PC_ITEMS);
     tWindowId = AddWindow(&sWindowTemplate_ItemStorageSubmenu);
     SetStdWindowBorderStyle(tWindowId, FALSE);
-    PrintTextArray(tWindowId, FONT_NORMAL, GetMenuCursorDimensionByFont(FONT_NORMAL, 0), 2, 16, 3, sMenuActions_ItemPc);
+    // Ofir Changed Here
+    //PrintTextArray(tWindowId, FONT_NORMAL, GetMenuCursorDimensionByFont(FONT_NORMAL, 0), 2, 16, 3, sMenuActions_ItemPc);
+    PrintTextArray(tWindowId, FONT_NORMAL, GetMenuCursorDimensionByFont(FONT_NORMAL, 0) + 90, 2, 16, 3, sMenuActions_ItemPc);
     Menu_InitCursor(tWindowId, FONT_NORMAL, 0, 2, 16, 3, cursorPos);
     ScheduleBgCopyTilemapToVram(0);
     PrintStringOnWindow0WithDialogueFrame(sItemStorageActionDescriptionPtrs[cursorPos]);
@@ -281,7 +285,9 @@ static void Task_CreateItemStorageSubmenu(u8 taskId, u8 cursorPos)
 static void PrintStringOnWindow0WithDialogueFrame(const u8 *str)
 {
     DrawDialogueFrame(0, FALSE);
-    AddTextPrinterParameterized(0, FONT_NORMAL, str, 0, 1, 0, NULL);
+    // Ofir Changed Here
+    //AddTextPrinterParameterized(0, FONT_NORMAL, str, 0, 1, 0, NULL);
+    AddTextPrinterParameterized(0, FONT_NORMAL, str, 0+200, 1, 0, NULL);
 }
 
 static void Task_TopMenu_ItemStorageSubmenu_HandleInput(u8 taskId)
@@ -455,7 +461,7 @@ static void Task_DrawMailboxPcMenu(u8 taskId)
     u8 windowId = MailboxPC_GetAddWindow(0);
     s32 width = GetStringWidth(FONT_NORMAL, gText_Mailbox, 0);
     MailboxPC_GetAddWindow(1);
-    AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_Mailbox, (80 - width) / 2, 2, 0, NULL);
+    AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_Mailbox, width, 2, 0, NULL);
     ScheduleBgCopyTilemapToVram(0);
     gTasks[taskId].tListMenuTaskId = MailboxPC_InitListMenu(&gPlayerPcMenuManager);
     MailboxPC_AddScrollIndicatorArrows(&gPlayerPcMenuManager);

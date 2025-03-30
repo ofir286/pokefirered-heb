@@ -2585,7 +2585,9 @@ static void PrintStorageMessage(u8 id)
 
     DynamicPlaceholderTextUtil_ExpandPlaceholders(gStorage->actionText, sMessages[id].text);
     FillWindowPixelBuffer(1, PIXEL_FILL(1));
-    AddTextPrinterParameterized(1, FONT_NORMAL_COPY_1, gStorage->actionText, 0, 2, TEXT_SKIP_DRAW, NULL);
+    // Ofir changed here
+    //AddTextPrinterParameterized(1, FONT_NORMAL_COPY_1, gStorage->actionText, 0, 2, TEXT_SKIP_DRAW, NULL);
+    AddTextPrinterParameterized(1, FONT_NORMAL_COPY_1, gStorage->actionText, 120, 2, TEXT_SKIP_DRAW, NULL);
     DrawTextBorderOuter(1, 2, 13);
     PutWindowTilemap(1);
     CopyWindowToVram(1, COPYWIN_GFX);
@@ -2594,7 +2596,9 @@ static void PrintStorageMessage(u8 id)
 
 static void ShowYesNoWindow(s8 cursorPos)
 {
-    CreateYesNoMenu(&sYesNoWindowTemplate, FONT_NORMAL_COPY_1, 0, 2, 11, 14, 1);
+    // Ofir changed here
+    //CreateYesNoMenu(&sYesNoWindowTemplate, FONT_NORMAL_COPY_1, 0, 2, 11, 14, 1);
+    CreateYesNoMenu(&sYesNoWindowTemplate, FONT_NORMAL_COPY_1, -8, 2, 11, 14, 1);
     Menu_MoveCursorNoWrapAround(cursorPos);
 }
 
