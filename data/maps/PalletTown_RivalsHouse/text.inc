@@ -57,8 +57,13 @@ PalletTown_RivalsHouse_Text_LookingNiceInNoTime::
     .string "ממש עוד רגע.$"
 
 PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
+#ifdef BUGFIX @ The localizers missed what should be a textcolor change in the localizations.
+    .string "{COLOR DARK_GRAY}{STR_VAR_1} נראה מרוצה מאוד…\p"
+    .string "{COLOR RED}דייזי: זהו! סיימתי.\n"
+#else @ In the JP games, gender-based text used a different font instead of different colors.
     .string "{FONT_NORMAL}{STR_VAR_1} נראה מרוצה מאוד…\p"
     .string "{FONT_FEMALE}דייזי: זהו! סיימתי.\n"
+#endif
     .string "רואה? נכון שהוא נראה טוב?\p"
     .string "זה פוקימון ממש חמוד!$"
 
