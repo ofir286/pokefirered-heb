@@ -766,7 +766,9 @@ u16 RenderText(struct TextPrinter *textPrinter)
                 if (width > 0)
                 {
                     ClearTextSpan(textPrinter, width);
-                    textPrinter->printerTemplate.currentX += width;
+                    // Ofir changed this
+                    //textPrinter->printerTemplate.currentX += width;
+                    textPrinter->printerTemplate.currentX -= width;
                     return RENDER_PRINT;
                 }
                 return RENDER_REPEAT;
