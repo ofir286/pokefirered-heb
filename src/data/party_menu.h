@@ -41,11 +41,12 @@ static const struct PartyMenuBoxInfoRects sPartyBoxInfoRects[] =
     {
         BlitBitmapToPartyWindow_LeftColumn, 
         {
+            // Ofir Changed here
             // The below are the x, y, width, and height for each of the following info
-            24, 11, 40, 13, // Nickname
-            32, 20, 32,  8, // Level
-            64, 20,  8,  8, // Gender
-            38, 36, 24,  8, // HP
+            68/*24*/, 11, 40, 13, // Nickname
+            64/*32*/, 20, 32,  8, // Level
+            24/*64*/, 20,  8,  8, // Gender
+            35, 36, 24,  8, // HP
             53, 36, 24,  8, // Max HP
             24, 35, 48,  3  // HP bar
         },
@@ -55,11 +56,12 @@ static const struct PartyMenuBoxInfoRects sPartyBoxInfoRects[] =
     {
         BlitBitmapToPartyWindow_RightColumn, 
         {
-             // The below are the x, y, width, and height for each of the following info
-             22,  3, 40, 13, // Nickname
-             32, 12, 32,  8, // Level
-             64, 12,  8,  8, // Gender
-            102, 12, 24,  8, // HP
+            // Ofir Changed here
+            // The below are the x, y, width, and height for each of the following info
+             64/*22*/,  3, 40, 13, // Nickname
+             60/*32*/, 12, 32,  8, // Level
+             38/*64*/, 12,  8,  8, // Gender
+            99, 12, 24,  8, // HP
             117, 12, 24,  8, // Max HP
              88, 10, 48,  3  // HP bar
         }, 

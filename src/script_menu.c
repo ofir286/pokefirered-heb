@@ -984,6 +984,7 @@ static void CreatePCMenuWindow(void)
     u8 windowWidth;
     u8 numItems;
     u8 windowId;
+    u8 additionalOffset = 0;
     switch (GetStringTilesWide(gText_SPc))
     {
     default:
@@ -997,14 +998,16 @@ static void CreatePCMenuWindow(void)
         windowWidth = 14;
         break;
     }
+    // Ofir Changed Here
+    additionalOffset = windowWidth*7;
     if (FlagGet(FLAG_SYS_GAME_CLEAR))
     {
         numItems = 5;
         windowId = CreateWindowFromRect(0, 0, windowWidth, 10);
         SetStdWindowBorderStyle(windowId, FALSE);
-        AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_ProfOakSPc, cursorWidth, 34, TEXT_SKIP_DRAW, NULL);
-        AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_HallOfFame_2, cursorWidth, 50, TEXT_SKIP_DRAW, NULL);
-        AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_LogOff, cursorWidth, 66, TEXT_SKIP_DRAW, NULL);
+        AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_ProfOakSPc, cursorWidth+additionalOffset, 34, TEXT_SKIP_DRAW, NULL);
+        AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_HallOfFame_2, cursorWidth+additionalOffset, 50, TEXT_SKIP_DRAW, NULL);
+        AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_LogOff, cursorWidth+additionalOffset, 66, TEXT_SKIP_DRAW, NULL);
     }
     else
     {
@@ -1015,15 +1018,15 @@ static void CreatePCMenuWindow(void)
         windowId = CreateWindowFromRect(0, 0, windowWidth, numItems * 2);
         SetStdWindowBorderStyle(windowId, FALSE);
         if (FlagGet(FLAG_SYS_POKEDEX_GET))
-            AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_ProfOakSPc, cursorWidth, 34, TEXT_SKIP_DRAW, NULL);
-        AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_LogOff, cursorWidth, 2 + 16 * (numItems - 1), TEXT_SKIP_DRAW, NULL);
+            AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_ProfOakSPc, cursorWidth+additionalOffset, 34, TEXT_SKIP_DRAW, NULL);
+        AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_LogOff, cursorWidth+additionalOffset, 2 + 16 * (numItems - 1), TEXT_SKIP_DRAW, NULL);
     }
     if (FlagGet(FLAG_SYS_NOT_SOMEONES_PC))
-        AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_BillSPc, cursorWidth, 2 , TEXT_SKIP_DRAW, NULL);
+        AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_BillSPc, cursorWidth+additionalOffset, 2 , TEXT_SKIP_DRAW, NULL);
     else
-        AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_SomeoneSPc, cursorWidth, 2 , TEXT_SKIP_DRAW, NULL);
+        AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_SomeoneSPc, cursorWidth+additionalOffset, 2 , TEXT_SKIP_DRAW, NULL);
     StringExpandPlaceholders(gStringVar4, gText_SPc);
-    Menu_PrintFormatIntlPlayerName(windowId, gStringVar4, cursorWidth, 18);
+    Menu_PrintFormatIntlPlayerName(windowId, gStringVar4, cursorWidth+additionalOffset, 18);
     Menu_InitCursor(windowId, FONT_NORMAL, 0, 2, 16, numItems, 0);
     CreateMCMenuInputHandlerTask(FALSE, numItems, windowId, MULTICHOICE_NONE);
     ScheduleBgCopyTilemapToVram(0);

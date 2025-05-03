@@ -479,7 +479,7 @@ void MultichoiceList_PrintItems(u8 windowId, u8 fontId, u8 left, u8 top, u8 line
     {
         // Ofir chenged this
         //AddTextPrinterParameterized5(windowId, fontId, strs[i].text, left, (lineHeight * i) + top, 0xFF, NULL, letterSpacing, lineSpacing);
-        AddTextPrinterParameterized5(windowId, fontId, strs[i].text, left + 30, (lineHeight * i) + top, 0xFF, NULL, letterSpacing, lineSpacing);
+        AddTextPrinterParameterized5(windowId, fontId, strs[i].text, left + 10, (lineHeight * i) + top, 0xFF, NULL, letterSpacing, lineSpacing);
     }
     CopyWindowToVram(windowId, COPYWIN_GFX);
 }
@@ -568,7 +568,9 @@ void CreateYesNoMenu(const struct WindowTemplate *window, u8 fontId, u8 left, u8
     textSubPrinter.letterSpacing = GetFontAttribute(fontId, FONTATTR_LETTER_SPACING);
     textSubPrinter.lineSpacing = GetFontAttribute(fontId, FONTATTR_LINE_SPACING);
     AddTextPrinter(&textSubPrinter, 0xFF, NULL);
-    Menu_InitCursor(sYesNoWindowId, fontId, left, top, GetFontAttribute(fontId, FONTATTR_MAX_LETTER_HEIGHT) + textSubPrinter.lineSpacing, 2, initialCursorPos);
+    // Ofir added this
+    //Menu_InitCursor(sYesNoWindowId, fontId, left, top, GetFontAttribute(fontId, FONTATTR_MAX_LETTER_HEIGHT) + textSubPrinter.lineSpacing, 2, initialCursorPos);
+    Menu_InitCursor(sYesNoWindowId, fontId, 0, top, GetFontAttribute(fontId, FONTATTR_MAX_LETTER_HEIGHT) + textSubPrinter.lineSpacing, 2, initialCursorPos);
 }
 
 // not used

@@ -2383,10 +2383,10 @@ static void DisplayPartyPokemonHPCheck(struct Pokemon *mon, struct PartyMenuBox 
 
 static void DisplayPartyPokemonHP(u16 hp, struct PartyMenuBox *menuBox)
 {
-    u8 *strOut = ConvertIntToDecimalStringN(gStringVar1, hp, STR_CONV_MODE_RIGHT_ALIGN, 3);
-
-    strOut[0] = CHAR_SLASH;
-    strOut[1] = EOS;
+    u8 *strOut = ConvertIntToDecimalStringN(gStringVar1, hp, STR_CONV_MODE_LEFT_ALIGN, 3);
+    // Ofir Changed here
+    //strOut[0] = CHAR_SLASH;
+    //strOut[0] = EOS;
     DisplayPartyPokemonBarDetail(menuBox->windowId, gStringVar1, 0, &menuBox->infoRects->dimensions[12]);
 }
 
@@ -2403,9 +2403,12 @@ static void DisplayPartyPokemonMaxHPCheck(struct Pokemon *mon, struct PartyMenuB
 
 static void DisplayPartyPokemonMaxHP(u16 maxhp, struct PartyMenuBox *menuBox)
 {
-    ConvertIntToDecimalStringN(gStringVar2, maxhp, STR_CONV_MODE_RIGHT_ALIGN, 3);
-    StringCopy(gStringVar1, gText_Slash);
-    StringAppend(gStringVar1, gStringVar2);
+    ConvertIntToDecimalStringN(gStringVar2, maxhp, STR_CONV_MODE_LEFT_ALIGN, 3);
+    // Ofir Changed here
+    //StringCopy(gStringVar1, gText_Slash);
+    //StringAppend(gStringVar1, gStringVar2);
+    StringCopy(gStringVar1, gStringVar2);
+    StringAppend(gStringVar1, gText_Slash);
     DisplayPartyPokemonBarDetail(menuBox->windowId, gStringVar1, 0, &menuBox->infoRects->dimensions[16]);
 }
 
@@ -2454,6 +2457,7 @@ static void DisplayPartyPokemonDescriptionText(u8 stringId, struct PartyMenuBox 
         menuBox->infoRects->blitFunc(menuBox->windowId, menuBox->infoRects->descTextLeft / 8, menuBox->infoRects->descTextTop / 8, menuBox->infoRects->descTextWidth / 8, menuBox->infoRects->descTextHeight / 8, TRUE);
     if (drawMenuBoxOrText != DRAW_MENU_BOX_ONLY)
         AddTextPrinterParameterized3(menuBox->windowId, FONT_NORMAL_COPY_1, menuBox->infoRects->descTextLeft, menuBox->infoRects->descTextTop, sFontColorTable[0], 0, sDescriptionStringTable[stringId]);
+
 }
 
 static void PartyMenuRemoveWindow(u8 *windowId)
@@ -2505,7 +2509,8 @@ void DisplayPartyMenuStdMessage(u32 stringId)
         }
         DrawStdFrameWithCustomTileAndPalette(*windowPtr, FALSE, 0x58, 15);
         StringExpandPlaceholders(gStringVar4, sActionStringTable[stringId]);
-        AddTextPrinterParameterized(*windowPtr, FONT_NORMAL, gStringVar4, 0, 2, 0, 0);
+        // Ofir Changed here
+        AddTextPrinterParameterized(*windowPtr, FONT_NORMAL, gStringVar4, 0+140, 2, 0, 0);
         ScheduleBgCopyTilemapToVram(2);
     }
 }
@@ -2534,20 +2539,25 @@ static u8 DisplaySelectionWindow(u8 windowType)
     u8 cursorDimension;
     u8 fontAttribute;
     u8 i;
+    u8 additionalOffset = 0 ;
 
     switch (windowType)
     {
     case SELECTWINDOW_ACTIONS:
         window = SetWindowTemplateFields(2, 19, 19 - (sPartyMenuInternal->numActions * 2), 10, sPartyMenuInternal->numActions * 2, 14, 0x2BF);
+        additionalOffset = 59;
         break;
     case SELECTWINDOW_ITEM:
         window = sItemGiveTakeWindowTemplate;
+        additionalOffset = 41;
         break;
     case SELECTWINDOW_MAIL:
         window = sMailReadTakeWindowTemplate;
+        additionalOffset = 59;
         break;
     default: // SELECTWINDOW_MOVES
         window = sMoveSelectWindowTemplate;
+        additionalOffset = 65;
         break;
     }
     sPartyMenuInternal->windowId[0] = AddWindow(&window);
@@ -2560,7 +2570,8 @@ static u8 DisplaySelectionWindow(u8 windowType)
     {
         u8 fontColorsId = (sPartyMenuInternal->actions[i] >= CURSOR_OPTION_FIELD_MOVES) ? 4 : 3;
         
-        AddTextPrinterParameterized4(sPartyMenuInternal->windowId[0], FONT_NORMAL, cursorDimension, (i * 16) + 2, fontAttribute, 0, sFontColorTable[fontColorsId], 0, sCursorOptions[sPartyMenuInternal->actions[i]].text);
+        // Ofir Changed here    
+        AddTextPrinterParameterized4(sPartyMenuInternal->windowId[0], FONT_NORMAL, cursorDimension+additionalOffset, (i * 16) + 2, fontAttribute, 0, sFontColorTable[fontColorsId], 0, sCursorOptions[sPartyMenuInternal->actions[i]].text);
     }
     Menu_InitCursorInternal(sPartyMenuInternal->windowId[0], FONT_NORMAL, 0, 2, 16, sPartyMenuInternal->numActions, 0, 1);
     ScheduleBgCopyTilemapToVram(2);
