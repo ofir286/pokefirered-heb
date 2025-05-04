@@ -143,8 +143,8 @@ static const u16 sFontSmallJapaneseGlyphs[] = INCBIN_U16("graphics/fonts/japanes
 static const u16 sFontNormalCopy1LatinGlyphs[] = INCBIN_U16("graphics/fonts/latin_normal.latfont");
 static const u8 sFontNormalCopy1LatinGlyphWidths[] =
 {
-     6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,
-     6,  6,  8,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,
+     6,  6/*א*/,  6/*ב*/,  6/*ג*/,  6/*ד*/,  6/*ה*/,  5/*ו*/,  6/*ז*/,  6/*ח*/,  6/*ט*/,  5/*י*/,  6/*כ*/,  6/*ל*/,  6/*מ*/,
+     6/*נ*/,  6/*ס*/,  6/*ע*/,  6/*פ*/,  6/*צ*/,  6/*ק*/,  6/*ר*/,  6/*ש*/,  6/*ת*/,  5/*ן*/,  6/*ם*/,  6/*ץ*/,  6/*ף*/,  6/*ך*/,
      6,  6,  6,  6,  6,  6,  6,  6,  6,  8,  6,  6,  6,  6,
      6,  6,  9,  8,  8,  6,  6,  6,  6,  6, 10,  8,  5,  6,
      6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,
@@ -186,8 +186,8 @@ static const u16 sFontTallJapaneseGlyphs[] = INCBIN_U16("graphics/fonts/japanese
 static const u16 sFontNormalLatinGlyphs[] = INCBIN_U16("graphics/fonts/latin_normal.latfont");
 static const u8 sFontNormalLatinGlyphWidths[] =
 {
-     6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,
-     6,  6,  8,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,
+     6,  6/*א*/,  6/*ב*/,  6/*ג*/,  6/*ד*/,  6/*ה*/,  6/*ו*/,  6/*ז*/,  6/*ח*/,  6/*ט*/,  5/*י*/,  6/*כ*/,  6/*ל*/,  6/*מ*/,
+     6/*נ*/,  6/*ס*/,  6/*ע*/,  6/*פ*/,  6/*צ*/,  6/*ק*/,  6/*ר*/,  6/*ש*/,  6/*ת*/,  6/*ן*/,  6/*ם*/,  6/*ץ*/,  6/*ף*/,  6/*ך*/,
      6,  6,  6,  6,  6,  6,  6,  6,  6,  8,  6,  6,  6,  6,
      6,  6,  9,  8,  8,  6,  6,  6,  6,  6, 10,  8,  5,  6,
      6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,
@@ -252,8 +252,8 @@ static const u8 sFontNormalJapaneseGlyphWidths[] =
 static const u16 sFontMaleLatinGlyphs[] = INCBIN_U16("graphics/fonts/latin_male.latfont");
 static const u8 sFontMaleLatinGlyphWidths[] =
 {
-     6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,
-     6,  6,  8,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,
+     6,  6/*א*/,  6/*ב*/,  6/*ג*/,  6/*ד*/,  6/*ה*/,  6/*ו*/,  6/*ז*/,  6/*ח*/,  6/*ט*/,  5/*י*/,  6/*כ*/,  6/*ל*/,  6/*מ*/,
+     6/*נ*/,  6/*ס*/,  6/*ע*/,  6/*פ*/,  6/*צ*/,  6/*ק*/,  6/*ר*/,  6/*ש*/,  6/*ת*/,  6/*ן*/,  6/*ם*/,  6/*ץ*/,  6/*ף*/,  6/*ך*/,
      6,  6,  6,  6,  6,  6,  6,  6,  6,  8,  6,  6,  6,  6,
      6,  6,  9,  8,  8,  6,  6,  6,  6,  6, 10,  8,  5,  6,
      6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,
@@ -318,8 +318,8 @@ static const u8 sFontMaleJapaneseGlyphWidths[] =
 static const u16 sFontFemaleLatinGlyphs[] = INCBIN_U16("graphics/fonts/latin_female.latfont");
 static const u8 sFontFemaleLatinGlyphWidths[] =
 {
-     6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,
-     6,  6,  8,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,
+     6,  6/*א*/,  6/*ב*/,  6/*ג*/,  6/*ד*/,  6/*ה*/,  6/*ו*/,  6/*ז*/,  6/*ח*/,  6/*ט*/,  5/*י*/,  6/*כ*/,  6/*ל*/,  6/*מ*/,
+     6/*נ*/,  6/*ס*/,  6/*ע*/,  6/*פ*/,  6/*צ*/,  6/*ק*/,  6/*ר*/,  6/*ש*/,  6/*ת*/,  6/*ן*/,  6/*ם*/,  6/*ץ*/,  6/*ף*/,  6/*ך*/,
      6,  6,  6,  6,  6,  6,  6,  6,  6,  8,  6,  6,  6,  6,
      6,  6,  9,  8,  8,  6,  6,  6,  6,  6, 10,  8,  5,  6,
      6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,
@@ -874,6 +874,15 @@ u16 RenderText(struct TextPrinter *textPrinter)
                 textPrinter->printerTemplate.currentX -= gGlyphInfo.width;
             }
         }
+        // Ofir added this - add litle space after wide chars in hebrew.
+        if (currChar == 0x01 /*א*/ || currChar == 0x02 /*ב*/ || currChar == 0x04 /*ד*/ || currChar == 0x05 /*ה*/
+            || currChar == 0x08 /*ח*/ || currChar == 0x09 /*ט*/ || currChar == 0x0D /*מ*/ || currChar == 0x0F /*ס*/
+            ||currChar == 0x10 /*ע*/ || currChar == 0x11 /*פ*/ || currChar == 0x15 /*ש*/ || currChar == 0x16 /*ת*/ 
+            || currChar == 0x18 /*ם*/ || currChar == 0x1A /*ף*/)
+        {
+            textPrinter->printerTemplate.currentX -= 1;
+        }
+
         return RENDER_PRINT;
     case RENDER_STATE_WAIT:
         if (TextPrinterWait(textPrinter))
