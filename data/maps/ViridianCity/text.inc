@@ -75,19 +75,19 @@ ViridianCity_Text_WatchThatToLearnBasics::
 ViridianCity_Text_WeakenMonsFirstToCatch::
     .string "הה, סוף סוף שתיתי\n"
     .string "את הקפה שלי, ואני מרגיש מצוין!\p"
-    .string "עשיתי אותה חזק מידי\n"
-    .string "הוא עשה לי כאב ראש..."
-    .string "ילד, אתה ממלא את הפוקידקס שלך?"
+    .string "עשיתי אותו חזק מידי\n"
+    .string "הוא עשה לי כאב ראש...\p"
+    .string "ילד, אתה ממלא את הפוקדקס שלך?\n"
     .string "בהתחלה, אתה צריך להחליש את\l"
     .string "הפוקימון שאתה מנסה לתפוס.$"
 
 ViridianCity_Text_HowsTeachyTVHelping::
     .string "הה, סוף סוף שתיתי\n"
     .string "את הקפה שלי, ואני מרגיש מצוין!\p"
-    .string "עשיתי אותה חזק מידי\n"
-    .string "הוא עשה לי כאב ראש..."
-    .string "זה הנכד שלי במיסטיוויזיה!\n"
-    .string "אני בטוח שהוא ילמד אותך היטב."
+    .string "עשיתי אותו חזק מידי\n"
+    .string "הוא עשה לי כאב ראש...\p"
+    .string "זה הנכד שלי בטלוויזיה!\n"
+    .string "אני בטוח שהוא ילמד אותך היטב.\p"
     .string "העיר ורידיאן גן העדן ירוק- העד$"
 
 ViridianCity_Text_CatchMonsForEasierBattles::
