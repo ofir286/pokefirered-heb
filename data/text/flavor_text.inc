@@ -1,15 +1,15 @@
 @ Flavor text for interacting with various background objects
 
 Text_Bookshelf::
-	.string "It's crammed full of POKéMON\n"
-	.string "books.$"
+	.string "המדף מלא עד אפס מקום\n"
+	.string "בספרי פוקימון.$"
 
 Text_NothingButPokemonBooks::
 	.string "ほんだなに　ならんでいるのは\n"
 	.string "ポケモンの　ほん　ばかりだ$"
 
 Text_ATownMap::
-	.string "A TOWN MAP.$"
+	.string "מפת העיר.$"
 
 Text_PokeMartShelf::
     .string "וואו!\n"

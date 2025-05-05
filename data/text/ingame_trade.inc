@@ -1,60 +1,60 @@
 Trade_Text_LookingForMonWannaTradeForMon::
-	.string "I'm looking for the POKéMON\n"
+	.string "אני מחפש את הפוקימון\n"
 	.string "{STR_VAR_1}!\p"
-	.string "Wanna trade one for my\n"
-	.string "{STR_VAR_2}?$"
+	.string "רוצה להחליף אחד תמורת\n"
+	.string "{STR_VAR_2} שלי?$"
 
 Trade_Text_AwwOhWell::
-	.string "Awww!\n"
-	.string "Oh, well…$"
+	.string "אווו!\n"
+	.string "טוב, נו...$"
 
 Trade_Text_WhatThatsNoMon::
-	.string "What?\n"
-	.string "That's no {STR_VAR_1}!$"
+	.string "מה?\n"
+	.string "זה לא {STR_VAR_1}!$"
 
 Trade_Text_HeyThanks::
-	.string "Hey, thanks!$"
+	.string "היי, תודה!$"
 
 Trade_Text_IsntMyOldMonGreat::
-	.string "Isn't my old {STR_VAR_2} great?$"
+	.string "ה{STR_VAR_2} הישן שלי נהדר, נכון?$"
 
 Trade_Text_DoYouHaveMonWouldYouTradeForMon::
-	.string "Hello, there! Do you happen to\n"
-	.string "have a {STR_VAR_1}?\p"
-	.string "Would you agree to a trade for\n"
-	.string "my {STR_VAR_2}?$"
+	.string "שלום! במקרה יש לך\n"
+	.string "{STR_VAR_1}?\p"
+	.string "תסכים להחליף אותו תמורת\n"
+	.string "{STR_VAR_2} שלי?$"
 
 Trade_Text_WellIfYouDontWantTo::
-	.string "Well, if you don't want to…$"
+	.string "טוב, אם אתה לא רוצה...$"
 
 Trade_Text_ThisIsntMon::
-	.string "Hmmm?\n"
-	.string "This isn't a {STR_VAR_1}.\p"
-	.string "Think of me if you get one.$"
+	.string "הממ?\n"
+	.string "זה לא {STR_VAR_1}.\p"
+	.string "תחשוב עליי אם תמצא אחד.$"
 
 Trade_Text_Thanks::
-	.string "Thanks!$"
+	.string "תודה!$"
 
 Trade_Text_HasTradedMonGrownStronger::
-	.string "The {STR_VAR_2} that I traded you,\n"
-	.string "has it grown stronger?$"
+	.string "ה{STR_VAR_2} שהחלפתי איתך,\n"
+	.string "הוא התחזק?$"
 
 Trade_Text_DoYouHaveMonWantToTradeForMon::
-	.string "Hi!\n"
-	.string "Do you have a {STR_VAR_1}?\p"
-	.string "Want to trade it for my\n"
-	.string "{STR_VAR_2}?$"
+	.string "היי!\n"
+	.string "יש לך {STR_VAR_1}?\p"
+	.string "רוצה להחליף אותו תמורת\n"
+	.string "{STR_VAR_2} שלי?$"
 
 Trade_Text_ThatsTooBad::
-	.string "That's too bad.$"
+	.string "איזה באסה.$"
 
 Trade_Text_ThisIsNoMon::
-	.string "…This is no {STR_VAR_1}.\p"
-	.string "If you get one, trade it with me.$"
+	.string "...זה לא {STR_VAR_1}.\p"
+	.string "אם תמצא אחד, תחליף איתי.$"
 
 Trade_Text_ThanksYoureAPal::
-	.string "Thanks, you're a pal!$"
+	.string "תודה, אתה חבר אמיתי!$"
 
 Trade_Text_HowIsMyOldMon::
-	.string "How is my old {STR_VAR_2}?\n"
-	.string "My {STR_VAR_1} is doing great!$"
+	.string "איך ה{STR_VAR_2} הישן שלי?\n"
+	.string "ה{STR_VAR_1} שלי מסתדר נהדר!$"
