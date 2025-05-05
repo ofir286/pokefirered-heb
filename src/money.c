@@ -74,8 +74,9 @@ void PrintMoneyAmountInMoneyBox(u8 windowId, int amount, u8 speed)
 {
     u8 *txtPtr;
     s32 strLength;
-
-    ConvertIntToDecimalStringN(gStringVar1, amount, STR_CONV_MODE_LEFT_ALIGN, 6);
+    // Ofir changed here
+    //ConvertIntToDecimalStringN(gStringVar1, amount, STR_CONV_MODE_LEFT_ALIGN, 6);
+    ConvertIntToDecimalStringN(gStringVar1, amount, STR_CONV_MODE_RIGHT_ALIGN, 6);
 
     strLength = 6 - StringLength(gStringVar1);
     txtPtr = gStringVar4;
@@ -92,7 +93,9 @@ void PrintMoneyAmount(u8 windowId, u8 x, u8 y, int amount, u8 speed)
     u8 *txtPtr;
     s32 strLength;
 
-    ConvertIntToDecimalStringN(gStringVar1, amount, STR_CONV_MODE_LEFT_ALIGN, 6);
+    //Ofir changed here
+    //ConvertIntToDecimalStringN(gStringVar1, amount, STR_CONV_MODE_LEFT_ALIGN, 6);
+    ConvertIntToDecimalStringN(gStringVar1, amount, STR_CONV_MODE_RIGHT_ALIGN, 6);
 
     strLength = 6 - StringLength(gStringVar1);
     txtPtr = gStringVar4;
@@ -107,7 +110,9 @@ void PrintMoneyAmount(u8 windowId, u8 x, u8 y, int amount, u8 speed)
 void PrintMoneyAmountInMoneyBoxWithBorder(u8 windowId, u16 tileStart, u8 paletteNum, int amount)
 {
     DrawStdFrameWithCustomTileAndPalette(windowId, FALSE, tileStart, paletteNum);
-    AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_TrainerCardMoney, 0, 0, 0xFF, 0);
+    // Ofir changed here
+    //AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_TrainerCardMoney, 0, 0, 0xFF, 0);
+    AddTextPrinterParameterized(windowId, FONT_NORMAL, gText_TrainerCardMoney, 55, 0, 0xFF, 0);
     PrintMoneyAmountInMoneyBox(windowId, amount, 0);
 }
 
