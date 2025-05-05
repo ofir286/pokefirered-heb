@@ -2,7 +2,7 @@ gOtherText_NewName::
     .string "שם חדש$"
 
 gNameChoice_Green::
-    .string "יונתי$"
+    .string "אופיר$"
 
 gNameChoice_Red::
     .string "אביה$"

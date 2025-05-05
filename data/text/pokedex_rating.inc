@@ -1,123 +1,121 @@
 PokedexRating_Text_HowIsPokedexComingAlong::
-	.string "OAK: Good to see you!\n"
-	.string "How is your POKéDEX coming along?\p"
-	.string "Here, let me take a look.$"
+	.string "אוק: טוב לראות אותך!\n"
+	.string "איך מתקדם הפוקדקס שלך?\p"
+	.string "הנה, תן לי להסתכל.$"
 
 PokedexRating_Text_SeenXOwnedY::
-	.string "The amount of progress you've made\n"
-	.string "on your POKéDEX is:\p"
-	.string "{STR_VAR_1} POKéMON seen and\n"
-	.string "{STR_VAR_2} POKéMON owned.\p"
-	.string "{FONT_NORMAL}PROF. OAK's rating:$"
+	.string "ההתקדמות שעשית\n"
+	.string "בפוקדקס שלך היא:\p"
+	.string "{STR_VAR_1} פוקימונים נראו ו-\n"
+	.string "{STR_VAR_2} פוקימונים בבעלותך.\p"
+	.string "{FONT_NORMAL}הדירוג של פרופ' אוק:$"
 
 PokedexRating_Text_LessThan10::
-	.string "You still have lots to do.\p"
-	.string "Go into every patch of grass you\n"
-	.string "see and look for POKéMON!$"
+	.string "יש לך עוד הרבה מה לעשות.\p"
+	.string "היכנס לכל שטח דשא שאתה\n"
+	.string "רואה וחפש פוקימונים!$"
 
 PokedexRating_Text_LessThan20::
-	.string "It looks as if you're getting on\n"
-	.string "the right track!\p"
-	.string "I've given one of my AIDES a FLASH\n"
-	.string "HM. Make sure you go get it!$"
+	.string "נראה שאתה בכיוון הנכון!\p"
+	.string "נתתי לאחד מהעוזרים שלי את\n"
+	.string "המכונה הנסתרת הבזק. וודא שאתה מקבל אותה!$"
 
 PokedexRating_Text_LessThan30::
-	.string "Your POKéDEX could use a bit more\n"
-	.string "volume still!\p"
-	.string "Try to catch other species of\n"
-	.string "POKéMON!$"
+	.string "הפוקדקס שלך עדיין יכול להיות\n"
+	.string "מלא יותר!\p"
+	.string "נסה לתפוס מינים נוספים של\n"
+	.string "פוקימונים!$"
 
 PokedexRating_Text_LessThan40::
-	.string "Good, it's apparent that you're\n"
-	.string "trying hard!\p"
-	.string "I've given one of my AIDES an\n"
-	.string "ITEMFINDER. Be sure to collect it!$"
+	.string "טוב, ניכר שאתה משתדל מאוד!\p"
+	.string "נתתי לאחד מהעוזרים שלי\n"
+	.string "גלאי פריטים. וודא שאתה אוסף אותו!$"
 
 PokedexRating_Text_LessThan50::
-	.string "Your POKéDEX is coming along quite\n"
-	.string "well!\p"
-	.string "I've given one of my AIDES an\n"
-	.string "AMULET COIN. Be sure to get it!$"
+	.string "הפוקדקס שלך מתקדם די\n"
+	.string "טוב!\p"
+	.string "נתתי לאחד מהעוזרים שלי\n"
+	.string "מטבע קמע. וודא שאתה מקבל אותו!$"
 
 PokedexRating_Text_LessThan60::
-	.string "Ah, you've finally topped 50\n"
-	.string "species!\p"
-	.string "I've given one of my AIDES an EXP.\n"
-	.string "SHARE. Be sure to go get it!$"
+	.string "אה, סוף סוף עברת את ה-50\n"
+	.string "מינים!\p"
+	.string "נתתי לאחד מהעוזרים שלי\n"
+	.string "חולק נסיון. וודא שאתה מקבל אותו!$"
 
 PokedexRating_Text_LessThan70::
-	.string "Hoho! This is turning into quite the\n"
-	.string "respectable POKéDEX!$"
+	.string "הוהו! זה הופך לפוקדקס\n"
+	.string "די מכובד!$"
 
 PokedexRating_Text_LessThan80::
-	.string "Very good!\p"
-	.string "I think you'll collect even more\n"
-	.string "POKéMON by going fishing!$"
+	.string "טוב מאוד!\p"
+	.string "אני חושב שתאסוף עוד יותר\n"
+	.string "פוקימונים אם תלך לדוג!$"
 
 PokedexRating_Text_LessThan90::
-	.string "Wonderful! Let me guess… You\n"
-	.string "like to collect things, don't you?$"
+	.string "נפלא! תן לי לנחש... אתה\n"
+	.string "אוהב לאסוף דברים, נכון?$"
 
 PokedexRating_Text_LessThan100::
-	.string "I'm impressed!\n"
-	.string "It must have been difficult to do!$"
+	.string "אני מתרשם!\n"
+	.string "זה בטח היה קשה לעשות!$"
 
 PokedexRating_Text_LessThan110::
-	.string "You've finally hit 100 species!\n"
-	.string "I can't believe how good you are!$"
+	.string "סוף סוף הגעת ל-100 מינים!\n"
+	.string "לא מאמין כמה טוב אתה!$"
 
 PokedexRating_Text_LessThan120::
-	.string "You even have the evolved forms\n"
-	.string "of POKéMON! Super!$"
+	.string "יש לך אפילו את הצורות המפותחות\n"
+	.string "של פוקימונים! מדהים!$"
 
 PokedexRating_Text_LessThan130::
-	.string "Excellent! Trade with friends to\n"
-	.string "get some more!$"
+	.string "מצוין! סחור עם חברים כדי\n"
+	.string "להשיג עוד!$"
 
 PokedexRating_Text_LessThan140::
-	.string "Outstanding!\n"
-	.string "You've become a real pro at this!$"
+	.string "יוצא מן הכלל!\n"
+	.string "הפכת למקצוען אמיתי בזה!$"
 
 PokedexRating_Text_LessThan150::
-	.string "I have nothing left to say!\n"
-	.string "You're the POKéMON PROFESSOR now!$"
+	.string "אין לי מה להגיד יותר!\n"
+	.string "אתה פרופסור הפוקימונים עכשיו!$"
 
 PokedexRating_Text_Complete::
-	.string "Your POKéDEX is entirely complete!\n"
-	.string "Congratulations!!$"
+	.string "הפוקדקס שלך הושלם לחלוטין!\n"
+	.string "מזל טוב!!$"
 
 PokedexRating_Text_NationalDexSeenXOwnedY::
-	.string "And your NATIONAL POKéDEX is:\p"
-	.string "{STR_VAR_1} POKéMON seen and\n"
-	.string "{STR_VAR_2} POKéMON owned.$"
+	.string "והפוקדקס הלאומי שלך הוא:\p"
+	.string "{STR_VAR_1} פוקימונים נראו ו-\n"
+	.string "{STR_VAR_2} פוקימונים בבעלותך.$"
 
 PokedexRating_Text_LookForwardToFilledNationalDex::
-	.string "I'll be looking forward to seeing\n"
-	.string "you fill the NATIONAL POKéDEX!$"
+	.string "אני מצפה לראות\n"
+	.string "אותך ממלא את הפוקדקס הלאומי!$"
 
 PokedexRating_Text_YouveCompletedDex::
-	.string "Finally…\p"
-	.string "You've finally completed the\n"
-	.string "POKéDEX!\p"
-	.string "It's magnificent!\n"
-	.string "Truly, this is a fantastic feat!$"
+	.string "סוף סוף...\p"
+	.string "סוף סוף השלמת את\n"
+	.string "הפוקדקס!\p"
+	.string "זה מפואר!\n"
+	.string "באמת, זה הישג מדהים!$"
 
 PokedexRating_Text_Wroooaaarrr::
-	.string "Wroooooooaaaaaarrrr!$"
+	.string "ווורררררוווווואאאאאררררר!$"
 
 PokedexRating_Text_HaHa::
-	.string "はあ はあ‥$"
+	.string "הא הא...$"
 
 PokedexRating_Text_ThankYouMadeDreamReality::
-	.string "Thank you, {PLAYER}!\n"
-	.string "Sincerely, thank you!\l"
-	.string "You've made my dream a reality!$"
+	.string "תודה, {PLAYER}!\n"
+	.string "תודה רבה, באמת!\l"
+	.string "הפכת את החלום שלי למציאות!$"
 
 PokedexRating_Text_LoveSeeingYourPokedex::
-	.string "OAK: Ah, welcome!\p"
-	.string "Tell me, how is your POKéDEX\n"
-	.string "coming along?\p"
-	.string "Wahaha!\p"
-	.string "Actually, I know how it is, but I\n"
-	.string "love seeing it anyway!\p"
-	.string "Let's see…$"
+	.string "אוק: אה, ברוך הבא!\p"
+	.string "ספר לי, איך מתקדם הפוקדקס\n"
+	.string "שלך?\p"
+	.string "וואהאהא!\p"
+	.string "למעשה, אני יודע איך הוא, אבל אני\n"
+	.string "אוהב לראות אותו בכל זאת!\p"
+	.string "בוא נראה...$"
