@@ -1,18 +1,18 @@
 @ The text here is a copy/paste from Hoenn's Safari Zone, and any unused text was left untranslated
 
 SafariZone_Text_WouldYouLikeToExit::
-	.string "Would you like to exit the SAFARI\n"
-	.string "ZONE right now?$"
+	.string "האם תרצה לצאת מאזור\n"
+	.string "הספארי כעת?$"
 
 SafariZone_Text_TimesUp::
-	.string "PA: Ding-dong!\p"
-	.string "Time's up!\p"
-	.string "PA: Your SAFARI GAME is over!$"
+	.string "כריזה: דינג-דונג!\p"
+	.string "נגמר הזמן!\p"
+	.string "כריזה: משחק הספארי שלך נגמר!$"
 
 SafariZone_Text_OutOfBalls::
-	.string "PA: Ding-dong!\p"
-	.string "You are out of SAFARI BALLS!\p"
-	.string "PA: Your SAFARI GAME is over!$"
+	.string "כריזה: דינג-דונג!\p"
+	.string "נגמרו לך כדורי הספארי!\p"
+	.string "כריזה: משחק הספארי שלך נגמר!$"
 
 SafariZone_Text_WelcomeToSafariZone::
 	.string "サファリゾーンへ　ようこそ！\p"
