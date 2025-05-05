@@ -197,7 +197,9 @@ static void MapNamePopupPrintMapNameOnWindow(u16 windowId)
         ptr = MapNamePopupAppendFloorNum(ptr, gMapHeader.floorNum);
         maxWidth = gMapHeader.floorNum != FLOOR_ROOFTOP ? 152 : 176;
     }
-    xpos = (maxWidth - GetStringWidth(FONT_NORMAL, mapName, -1)) / 2;
+    // Ofir changed here
+    //xpos = (maxWidth - GetStringWidth(FONT_NORMAL, mapName, -1)) / 2;
+    xpos = (maxWidth + GetStringWidth(FONT_NORMAL, mapName, -1)) / 2;
     FillWindowPixelBuffer(windowId, PIXEL_FILL(1));
     AddTextPrinterParameterized(windowId, FONT_NORMAL, mapName, xpos, 2, TEXT_SKIP_DRAW, NULL);
 }
