@@ -529,7 +529,9 @@ bool8 BuyMenuBuildListMenuTemplate(void)
     gMultiuseListMenuTemplate.totalItems = sShopData.itemCount + 1;
     gMultiuseListMenuTemplate.windowId = 4;
     gMultiuseListMenuTemplate.header_X = 0;
-    gMultiuseListMenuTemplate.item_X = 9;
+    // Ofir changed here
+    //gMultiuseListMenuTemplate.item_X = 9;
+    gMultiuseListMenuTemplate.item_X = 9 + 119;
     gMultiuseListMenuTemplate.cursor_X = 1;
     gMultiuseListMenuTemplate.lettersSpacing = 0;
     gMultiuseListMenuTemplate.itemVerticalPadding = 2;
@@ -586,13 +588,17 @@ static void BuyMenuPrintItemDescriptionAndShowItemIcon(s32 item, bool8 onInit, s
             CreateItemMenuIcon(ITEMS_COUNT, sShopData.itemSlot);
 
         sShopData.itemSlot ^= 1;
-        BuyMenuPrint(5, FONT_NORMAL, description, 0, 3, 2, 1, 0, 0);
+        // Ofir changed here
+        //BuyMenuPrint(5, FONT_NORMAL, description, 0, 3, 2, 1, 0, 0);
+        BuyMenuPrint(5, FONT_NORMAL, description, 190, 3, 2, 1, 0, 0);
     }
     else //TM Mart
     {
         FillWindowPixelBuffer(6, PIXEL_FILL(0));
         LoadTmHmNameInMart(item);
-        BuyMenuPrint(5, FONT_NORMAL, description, 2, 3, 1, 0, 0, 0);
+        // Ofir changed here
+        //BuyMenuPrint(5, FONT_NORMAL, description, 2, 3, 1, 0, 0, 0);
+        BuyMenuPrint(5, FONT_NORMAL, description, 190, 3, 1, 0, 0, 0);
     }
 }
 
@@ -609,7 +615,9 @@ static void BuyMenuPrintPriceInList(u8 windowId, u32 item, u8 y)
         while (x-- != 0)
             *loc++ = 0;
         StringExpandPlaceholders(loc, gText_PokedollarVar1);
-        BuyMenuPrint(windowId, FONT_SMALL, gStringVar4, 0x69, y, 0, 0, TEXT_SKIP_DRAW, 1);
+        // Ofir changed here
+        //BuyMenuPrint(windowId, FONT_SMALL, gStringVar4, 0x69, y, 0, 0, TEXT_SKIP_DRAW, 1);
+        BuyMenuPrint(windowId, FONT_SMALL, gStringVar4, 50, y, 0, 0, TEXT_SKIP_DRAW, 1);
     }
 }
 
@@ -862,10 +870,14 @@ static void BuyMenuPrintItemQuantityAndPrice(u8 taskId)
     s16 *data = gTasks[taskId].data;
 
     FillWindowPixelBuffer(3, PIXEL_FILL(1));
-    PrintMoneyAmount(3, 0x36, 0xA, sShopData.itemPrice, TEXT_SKIP_DRAW);
+    // Ofir changed here
+    //PrintMoneyAmount(3, 0x36, 0xA, sShopData.itemPrice, TEXT_SKIP_DRAW);
+    PrintMoneyAmount(3, 90, 0xA, sShopData.itemPrice, TEXT_SKIP_DRAW);
     ConvertIntToDecimalStringN(gStringVar1, tItemCount, STR_CONV_MODE_LEADING_ZEROS, 2);
     StringExpandPlaceholders(gStringVar4, gText_TimesStrVar1);
-    BuyMenuPrint(3, FONT_SMALL, gStringVar4, 2, 0xA, 0, 0, 0, 1);
+    // Ofir changed here
+    //BuyMenuPrint(3, FONT_SMALL, gStringVar4, 2, 0xA, 0, 0, 0, 1);
+    BuyMenuPrint(3, FONT_SMALL, gStringVar4, 7 + GetStringWidth(FONT_SMALL, gStringVar4, 0), 0xA, 0, 0, 0, 1);
 }
 
 static void Task_BuyMenu(u8 taskId)
@@ -915,7 +927,9 @@ static void Task_BuyHowManyDialogueInit(u8 taskId)
     BuyMenuQuantityBoxThinBorder(1, 0);
     ConvertIntToDecimalStringN(gStringVar1, quantityInBag, STR_CONV_MODE_RIGHT_ALIGN, 3);
     StringExpandPlaceholders(gStringVar4, gText_InBagVar1);
-    BuyMenuPrint(1, FONT_NORMAL, gStringVar4, 0, 2, 0, 0, 0, 1);
+    // Ofir changed here
+    //BuyMenuPrint(1, FONT_NORMAL, gStringVar4, 0, 2, 0, 0, 0, 1);
+    BuyMenuPrint(1, FONT_NORMAL, gStringVar4, 97, 2, 0, 0, 0, 1);
     tItemCount = 1;
     BuyMenuQuantityBoxNormalBorder(3, 0);
     BuyMenuPrintItemQuantityAndPrice(taskId);
