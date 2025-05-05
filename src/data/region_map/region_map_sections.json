@@ -3,6 +3,7 @@
     {
       "map_section": "MAPSEC_PALLET_TOWN",
       "name": "PALLET TOWN",
+      "hebrew_name": "העיירה פאלט",
       "x": 4,
       "y": 11,
       "width": 1,
@@ -11,6 +12,7 @@
     {
       "map_section": "MAPSEC_VIRIDIAN_CITY",
       "name": "VIRIDIAN CITY",
+      "hebrew_name": "העיר וירידיאן",
       "x": 4,
       "y": 8,
       "width": 1,
@@ -19,6 +21,7 @@
     {
       "map_section": "MAPSEC_PEWTER_CITY",
       "name": "PEWTER CITY",
+      "hebrew_name": "העיר פיוטר",
       "x": 4,
       "y": 4,
       "width": 1,
@@ -27,6 +30,7 @@
     {
       "map_section": "MAPSEC_CERULEAN_CITY",
       "name": "CERULEAN CITY",
+      "hebrew_name": "העיר סרוליאן",
       "x": 14,
       "y": 3,
       "width": 1,
@@ -35,6 +39,7 @@
     {
       "map_section": "MAPSEC_LAVENDER_TOWN",
       "name": "LAVENDER TOWN",
+      "hebrew_name": "העיירה לבנדר",
       "x": 18,
       "y": 6,
       "width": 1,
@@ -43,6 +48,7 @@
     {
       "map_section": "MAPSEC_VERMILION_CITY",
       "name": "VERMILION CITY",
+      "hebrew_name": "העיר ורמיליון",
       "x": 14,
       "y": 9,
       "width": 1,
@@ -51,6 +57,7 @@
     {
       "map_section": "MAPSEC_CELADON_CITY",
       "name": "CELADON CITY",
+      "hebrew_name": "העיר סלדון",
       "x": 11,
       "y": 6,
       "width": 1,
@@ -59,6 +66,7 @@
     {
       "map_section": "MAPSEC_FUCHSIA_CITY",
       "name": "FUCHSIA CITY",
+      "hebrew_name": "העיר פושיה",
       "x": 12,
       "y": 12,
       "width": 1,
@@ -67,6 +75,7 @@
     {
       "map_section": "MAPSEC_CINNABAR_ISLAND",
       "name": "CINNABAR ISLAND",
+      "hebrew_name": "האי סיננבר",
       "x": 4,
       "y": 14,
       "width": 1,
@@ -75,6 +84,7 @@
     {
       "map_section": "MAPSEC_INDIGO_PLATEAU",
       "name": "INDIGO PLATEAU",
+      "hebrew_name": "הרמה האדומה",
       "x": 2,
       "y": 3,
       "width": 1,
@@ -83,6 +93,7 @@
     {
       "map_section": "MAPSEC_SAFFRON_CITY",
       "name": "SAFFRON CITY",
+      "hebrew_name": "העיר סאפרון",
       "x": 14,
       "y": 6,
       "width": 1,
@@ -91,7 +102,7 @@
     {
       "map_section": "MAPSEC_ROUTE_4_POKECENTER",
       "name": "ROUTE 4",
-      "name_clone": true,
+      "hebrew_name": "דרך 4",
       "x": 8,
       "y": 3,
       "width": 1,
@@ -100,7 +111,7 @@
     {
       "map_section": "MAPSEC_ROUTE_10_POKECENTER",
       "name": "ROUTE 10",
-      "name_clone": true,
+      "hebrew_name": "דרך 10",
       "x": 18,
       "y": 3,
       "width": 1,
@@ -109,6 +120,7 @@
     {
       "map_section": "MAPSEC_ROUTE_1",
       "name": "ROUTE 1",
+      "hebrew_name": "דרך 1",
       "x": 4,
       "y": 9,
       "width": 1,
@@ -117,6 +129,7 @@
     {
       "map_section": "MAPSEC_ROUTE_2",
       "name": "ROUTE 2",
+      "hebrew_name": "דרך 2",
       "x": 4,
       "y": 5,
       "width": 1,
@@ -125,6 +138,7 @@
     {
       "map_section": "MAPSEC_ROUTE_3",
       "name": "ROUTE 3",
+      "hebrew_name": "דרך 3",
       "x": 5,
       "y": 4,
       "width": 4,
@@ -133,6 +147,7 @@
     {
       "map_section": "MAPSEC_ROUTE_4",
       "name": "ROUTE 4",
+      "hebrew_name": "דרך 4",
       "x": 8,
       "y": 3,
       "width": 6,
@@ -141,6 +156,7 @@
     {
       "map_section": "MAPSEC_ROUTE_5",
       "name": "ROUTE 5",
+      "hebrew_name": "דרך 5",
       "x": 14,
       "y": 4,
       "width": 1,
@@ -149,6 +165,7 @@
     {
       "map_section": "MAPSEC_ROUTE_6",
       "name": "ROUTE 6",
+      "hebrew_name": "דרך 6",
       "x": 14,
       "y": 7,
       "width": 1,
@@ -157,6 +174,7 @@
     {
       "map_section": "MAPSEC_ROUTE_7",
       "name": "ROUTE 7",
+      "hebrew_name": "דרך 7",
       "x": 12,
       "y": 6,
       "width": 2,
@@ -165,6 +183,7 @@
     {
       "map_section": "MAPSEC_ROUTE_8",
       "name": "ROUTE 8",
+      "hebrew_name": "דרך 8",
       "x": 15,
       "y": 6,
       "width": 3,
@@ -173,6 +192,7 @@
     {
       "map_section": "MAPSEC_ROUTE_9",
       "name": "ROUTE 9",
+      "hebrew_name": "דרך 9",
       "x": 15,
       "y": 3,
       "width": 3,
@@ -181,6 +201,7 @@
     {
       "map_section": "MAPSEC_ROUTE_10",
       "name": "ROUTE 10",
+      "hebrew_name": "דרך 10",
       "x": 18,
       "y": 3,
       "width": 1,
@@ -189,6 +210,7 @@
     {
       "map_section": "MAPSEC_ROUTE_11",
       "name": "ROUTE 11",
+      "hebrew_name": "דרך 11",
       "x": 15,
       "y": 9,
       "width": 3,
@@ -197,6 +219,7 @@
     {
       "map_section": "MAPSEC_ROUTE_12",
       "name": "ROUTE 12",
+      "hebrew_name": "דרך 12",
       "x": 18,
       "y": 7,
       "width": 1,
@@ -205,6 +228,7 @@
     {
       "map_section": "MAPSEC_ROUTE_13",
       "name": "ROUTE 13",
+      "hebrew_name": "דרך 13",
       "x": 16,
       "y": 11,
       "width": 2,
@@ -213,6 +237,7 @@
     {
       "map_section": "MAPSEC_ROUTE_14",
       "name": "ROUTE 14",
+      "hebrew_name": "דרך 14",
       "x": 15,
       "y": 11,
       "width": 1,
@@ -221,6 +246,7 @@
     {
       "map_section": "MAPSEC_ROUTE_15",
       "name": "ROUTE 15",
+      "hebrew_name": "דרך 15",
       "x": 13,
       "y": 12,
       "width": 2,
@@ -229,6 +255,7 @@
     {
       "map_section": "MAPSEC_ROUTE_16",
       "name": "ROUTE 16",
+      "hebrew_name": "דרך 16",
       "x": 7,
       "y": 6,
       "width": 4,
@@ -237,6 +264,7 @@
     {
       "map_section": "MAPSEC_ROUTE_17",
       "name": "ROUTE 17",
+      "hebrew_name": "דרך 17",
       "x": 7,
       "y": 7,
       "width": 1,
@@ -245,6 +273,7 @@
     {
       "map_section": "MAPSEC_ROUTE_18",
       "name": "ROUTE 18",
+      "hebrew_name": "דרך 18",
       "x": 7,
       "y": 12,
       "width": 5,
@@ -253,6 +282,7 @@
     {
       "map_section": "MAPSEC_ROUTE_19",
       "name": "ROUTE 19",
+      "hebrew_name": "דרך 19",
       "x": 12,
       "y": 13,
       "width": 1,
@@ -261,6 +291,7 @@
     {
       "map_section": "MAPSEC_ROUTE_20",
       "name": "ROUTE 20",
+      "hebrew_name": "דרך 20",
       "x": 5,
       "y": 14,
       "width": 7,
@@ -269,6 +300,7 @@
     {
       "map_section": "MAPSEC_ROUTE_21",
       "name": "ROUTE 21",
+      "hebrew_name": "דרך 21",
       "x": 4,
       "y": 12,
       "width": 1,
@@ -277,6 +309,7 @@
     {
       "map_section": "MAPSEC_ROUTE_22",
       "name": "ROUTE 22",
+      "hebrew_name": "דרך 22",
       "x": 2,
       "y": 8,
       "width": 2,
@@ -285,6 +318,7 @@
     {
       "map_section": "MAPSEC_ROUTE_23",
       "name": "ROUTE 23",
+      "hebrew_name": "דרך 23",
       "x": 2,
       "y": 4,
       "width": 1,
@@ -293,6 +327,7 @@
     {
       "map_section": "MAPSEC_ROUTE_24",
       "name": "ROUTE 24",
+      "hebrew_name": "דרך 24",
       "x": 14,
       "y": 1,
       "width": 1,
@@ -301,6 +336,7 @@
     {
       "map_section": "MAPSEC_ROUTE_25",
       "name": "ROUTE 25",
+      "hebrew_name": "דרך 25",
       "x": 15,
       "y": 1,
       "width": 2,
@@ -309,6 +345,7 @@
     {
       "map_section": "MAPSEC_VIRIDIAN_FOREST",
       "name": "VIRIDIAN FOREST",
+      "hebrew_name": "יער וירידיאן",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -317,6 +354,7 @@
     {
       "map_section": "MAPSEC_MT_MOON",
       "name": "MT. MOON",
+      "hebrew_name": "הר הירח",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -325,6 +363,7 @@
     {
       "map_section": "MAPSEC_S_S_ANNE",
       "name": "S.S. ANNE",
+      "hebrew_name": "ספינת אן",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -333,6 +372,7 @@
     {
       "map_section": "MAPSEC_UNDERGROUND_PATH",
       "name": "UNDERGROUND PATH",
+      "hebrew_name": "דרך תת קרקעית",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -341,7 +381,7 @@
     {
       "map_section": "MAPSEC_UNDERGROUND_PATH_2",
       "name": "UNDERGROUND PATH",
-      "name_clone": true,
+      "hebrew_name": "דרך תת קרקעית",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -350,6 +390,7 @@
     {
       "map_section": "MAPSEC_DIGLETTS_CAVE",
       "name": "DIGLETT'S CAVE",
+      "hebrew_name": "מערת דיגלט",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -358,6 +399,7 @@
     {
       "map_section": "MAPSEC_KANTO_VICTORY_ROAD",
       "name": "VICTORY ROAD",
+      "hebrew_name": "דרך הניצחון",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -366,6 +408,7 @@
     {
       "map_section": "MAPSEC_ROCKET_HIDEOUT",
       "name": "ROCKET HIDEOUT",
+      "hebrew_name": "מחבוא רוקט",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -374,6 +417,7 @@
     {
       "map_section": "MAPSEC_SILPH_CO",
       "name": "SILPH CO.",
+      "hebrew_name": "חברת סילף",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -382,6 +426,7 @@
     {
       "map_section": "MAPSEC_POKEMON_MANSION",
       "name": "POKéMON MANSION",
+      "hebrew_name": "טירת פוקימון",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -390,6 +435,7 @@
     {
       "map_section": "MAPSEC_KANTO_SAFARI_ZONE",
       "name": "SAFARI ZONE",
+      "hebrew_name": "אזור הספארי",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -398,6 +444,7 @@
     {
       "map_section": "MAPSEC_POKEMON_LEAGUE",
       "name": "POKéMON LEAGUE",
+      "hebrew_name": "ליגת הפוקימון",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -406,6 +453,7 @@
     {
       "map_section": "MAPSEC_ROCK_TUNNEL",
       "name": "ROCK TUNNEL",
+      "hebrew_name": "מערת האבן",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -414,6 +462,7 @@
     {
       "map_section": "MAPSEC_SEAFOAM_ISLANDS",
       "name": "SEAFOAM ISLANDS",
+      "hebrew_name": "איי הקצף",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -422,6 +471,7 @@
     {
       "map_section": "MAPSEC_POKEMON_TOWER",
       "name": "POKéMON TOWER",
+      "hebrew_name": "מגדל הפוקימון",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -430,6 +480,7 @@
     {
       "map_section": "MAPSEC_CERULEAN_CAVE",
       "name": "CERULEAN CAVE",
+      "hebrew_name": "מערת סרוליאן",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -438,6 +489,7 @@
     {
       "map_section": "MAPSEC_POWER_PLANT",
       "name": "POWER PLANT",
+      "hebrew_name": "מפעל החשמל",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -446,6 +498,7 @@
     {
       "map_section": "MAPSEC_ONE_ISLAND",
       "name": "ONE ISLAND",
+      "hebrew_name": "אי 1",
       "x": 1,
       "y": 8,
       "width": 1,
@@ -454,6 +507,7 @@
     {
       "map_section": "MAPSEC_TWO_ISLAND",
       "name": "TWO ISLAND",
+      "hebrew_name": "אי 2",
       "x": 9,
       "y": 9,
       "width": 1,
@@ -462,6 +516,7 @@
     {
       "map_section": "MAPSEC_THREE_ISLAND",
       "name": "THREE ISLAND",
+      "hebrew_name": "אי 3",
       "x": 18,
       "y": 12,
       "width": 1,
@@ -470,6 +525,7 @@
     {
       "map_section": "MAPSEC_FOUR_ISLAND",
       "name": "FOUR ISLAND",
+      "hebrew_name": "אי 4",
       "x": 3,
       "y": 4,
       "width": 1,
@@ -478,6 +534,7 @@
     {
       "map_section": "MAPSEC_FIVE_ISLAND",
       "name": "FIVE ISLAND",
+      "hebrew_name": "אי 5",
       "x": 16,
       "y": 11,
       "width": 1,
@@ -486,6 +543,7 @@
     {
       "map_section": "MAPSEC_SEVEN_ISLAND",
       "name": "SEVEN ISLAND",
+      "hebrew_name": "אי 7",
       "x": 5,
       "y": 8,
       "width": 1,
@@ -494,6 +552,7 @@
     {
       "map_section": "MAPSEC_SIX_ISLAND",
       "name": "SIX ISLAND",
+      "hebrew_name": "אי 6",
       "x": 17,
       "y": 5,
       "width": 1,
@@ -502,6 +561,7 @@
     {
       "map_section": "MAPSEC_KINDLE_ROAD",
       "name": "KINDLE ROAD",
+      "hebrew_name": "דרך קינדל",
       "x": 2,
       "y": 3,
       "width": 1,
@@ -510,6 +570,7 @@
     {
       "map_section": "MAPSEC_TREASURE_BEACH",
       "name": "TREASURE BEACH",
+      "hebrew_name": "חוף הזהב",
       "x": 1,
       "y": 9,
       "width": 1,
@@ -518,6 +579,7 @@
     {
       "map_section": "MAPSEC_CAPE_BRINK",
       "name": "CAPE BRINK",
+      "hebrew_name": "חוף ברינק",
       "x": 9,
       "y": 7,
       "width": 1,
@@ -526,6 +588,7 @@
     {
       "map_section": "MAPSEC_BOND_BRIDGE",
       "name": "BOND BRIDGE",
+      "hebrew_name": "גשר בונד",
       "x": 13,
       "y": 12,
       "width": 4,
@@ -534,6 +597,7 @@
     {
       "map_section": "MAPSEC_THREE_ISLE_PORT",
       "name": "THREE ISLE PORT",
+      "hebrew_name": "נמל שלושת האיים",
       "x": 18,
       "y": 13,
       "width": 2,
@@ -542,6 +606,7 @@
     {
       "map_section": "MAPSEC_SEVII_ISLE_6",
       "name": "SEVII ISLE 6",
+      "hebrew_name": "אי 6",
       "x": 4,
       "y": 3,
       "width": 1,
@@ -550,6 +615,7 @@
     {
       "map_section": "MAPSEC_SEVII_ISLE_7",
       "name": "SEVII ISLE 7",
+      "hebrew_name": "אי 7",
       "x": 5,
       "y": 4,
       "width": 1,
@@ -558,6 +624,7 @@
     {
       "map_section": "MAPSEC_SEVII_ISLE_8",
       "name": "SEVII ISLE 8",
+      "hebrew_name": "אי 8",
       "x": 1,
       "y": 4,
       "width": 3,
@@ -566,6 +633,7 @@
     {
       "map_section": "MAPSEC_SEVII_ISLE_9",
       "name": "SEVII ISLE 9",
+      "hebrew_name": "אי 9",
       "x": 4,
       "y": 5,
       "width": 1,
@@ -574,6 +642,7 @@
     {
       "map_section": "MAPSEC_RESORT_GORGEOUS",
       "name": "RESORT GORGEOUS",
+      "hebrew_name": "מלון גורגיוס",
       "x": 16,
       "y": 9,
       "width": 3,
@@ -582,6 +651,7 @@
     {
       "map_section": "MAPSEC_WATER_LABYRINTH",
       "name": "WATER LABYRINTH",
+      "hebrew_name": "מבוך מים",
       "x": 14,
       "y": 10,
       "width": 3,
@@ -590,6 +660,7 @@
     {
       "map_section": "MAPSEC_FIVE_ISLE_MEADOW",
       "name": "FIVE ISLE MEADOW",
+      "hebrew_name": "שדה אי 5",
       "x": 17,
       "y": 10,
       "width": 1,
@@ -598,6 +669,7 @@
     {
       "map_section": "MAPSEC_MEMORIAL_PILLAR",
       "name": "MEMORIAL PILLAR",
+      "hebrew_name": "אבן זכרון",
       "x": 18,
       "y": 12,
       "width": 1,
@@ -606,6 +678,7 @@
     {
       "map_section": "MAPSEC_OUTCAST_ISLAND",
       "name": "OUTCAST ISLAND",
+      "hebrew_name": "אי המנודים",
       "x": 15,
       "y": 0,
       "width": 1,
@@ -614,6 +687,7 @@
     {
       "map_section": "MAPSEC_GREEN_PATH",
       "name": "GREEN PATH",
+      "hebrew_name": "דרך הירוק",
       "x": 15,
       "y": 3,
       "width": 3,
@@ -622,6 +696,7 @@
     {
       "map_section": "MAPSEC_WATER_PATH",
       "name": "WATER PATH",
+      "hebrew_name": "דרך המים",
       "x": 18,
       "y": 3,
       "width": 1,
@@ -630,6 +705,7 @@
     {
       "map_section": "MAPSEC_RUIN_VALLEY",
       "name": "RUIN VALLEY",
+      "hebrew_name": "עמק האבדון",
       "x": 16,
       "y": 7,
       "width": 2,
@@ -638,6 +714,7 @@
     {
       "map_section": "MAPSEC_TRAINER_TOWER",
       "name": "TRAINER TOWER",
+      "hebrew_name": "מגדל המאמנים",
       "x": 5,
       "y": 6,
       "width": 1,
@@ -646,6 +723,7 @@
     {
       "map_section": "MAPSEC_CANYON_ENTRANCE",
       "name": "CANYON ENTRANCE",
+      "hebrew_name": "הכניסה לעמק",
       "x": 5,
       "y": 9,
       "width": 1,
@@ -702,6 +780,7 @@
     {
       "map_section": "MAPSEC_MT_EMBER",
       "name": "MT. EMBER",
+      "hebrew_name": "הר אמבר",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -863,6 +942,7 @@
     {
       "map_section": "MAPSEC_EMBER_SPA",
       "name": "EMBER SPA",
+      "hebrew_name": "ספא אמבר",
       "x": 0,
       "y": 0,
       "width": 1,
@@ -871,6 +951,7 @@
     {
       "map_section": "MAPSEC_SPECIAL_AREA",
       "name": "CELADON DEPT.",
+      "hebrew_name": "חנות סלאדון",
       "x": 0,
       "y": 0,
       "width": 0,
