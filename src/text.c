@@ -100,8 +100,8 @@ const u8 gKeypadIconTiles[] = INCBIN_U8("graphics/fonts/keypad_icons.4bpp");
 static const u16 sFontSmallLatinGlyphs[] = INCBIN_U16("graphics/fonts/latin_small.latfont");
 static const u8 sFontSmallLatinGlyphWidths[] = 
 {
-     5,  5,  5,  5,  5,  5,  5,  5,  5,  4,  5,  4,  4,  5, 
-     5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,
+     5,  5/*א*/,  5/*ב*/,  5/*ג*/,  5/*ד*/,  5/*ה*/,  5/*ו*/,  5/*ז*/,  5/*ח*/,  5/*ט*/,  4/*י*/,  5/*כ*/,  5/*ל*/,  5/*מ*/, 
+     5/*נ*/,  5/*ס*/,  5/*ע*/,  5/*פ*/,  5/*צ*/,  5/*ק*/,  5/*ר*/,  6/*ש*/,  5/*ת*/,  4/*ן*/,  5/*ם*/,  5/*ץ*/,  5/*ף*/,  5/*ך*/,
      5,  5,  4,  5,  4,  4,  5,  5,  5,  6,  5,  5,  5,  5,
      5,  5,  8,  7,  8,  5,  5,  5,  5,  5,  /*this is {LV}*/8,  8,  7,  5,/**/
      5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,
@@ -113,9 +113,9 @@ static const u8 sFontSmallLatinGlyphWidths[] =
      5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,
      5,  5,  5,  5,  5,  5,  8,  5,  5,  5,  5,  5,  5,  5,
      5,  5,  5,  4,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,
-     5,  8,  5,  8,  5,  5,  5,  5,  5,  5,  5,  5,  5,  /*4*/5,
-     5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  /*4*/5,  5,  5,  5,
-     5,  /*4*/6,  5,  5,  5,  5,  5,  5,  5,  5,  5,  4,  5,  5,
+     5,  8,  5,  8,  5,  5,  5,  5,  5,  5,  5,  5,  5,  4,
+     5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  4,  5,  5,  5,
+     5,  4,  5,  5,  5,  5,  5,  5,  5,  5,  5,  4,  5,  5,
      5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,
      5,  8,  7,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,  5,
      5,  5,  5,  5,  /*this is {LV_2}*/8,  8,  8,  8,  8,  8,  8,  8,  8,  8,
@@ -144,7 +144,7 @@ static const u16 sFontNormalCopy1LatinGlyphs[] = INCBIN_U16("graphics/fonts/lati
 static const u8 sFontNormalCopy1LatinGlyphWidths[] =
 {
      6,  6/*א*/,  6/*ב*/,  6/*ג*/,  6/*ד*/,  6/*ה*/,  5/*ו*/,  6/*ז*/,  6/*ח*/,  6/*ט*/,  5/*י*/,  6/*כ*/,  6/*ל*/,  6/*מ*/,
-     6/*נ*/,  6/*ס*/,  6/*ע*/,  6/*פ*/,  6/*צ*/,  6/*ק*/,  6/*ר*/,  6/*ש*/,  6/*ת*/,  5/*ן*/,  6/*ם*/,  6/*ץ*/,  6/*ף*/,  6/*ך*/,
+     5/*נ*/,  6/*ס*/,  6/*ע*/,  6/*פ*/,  6/*צ*/,  6/*ק*/,  6/*ר*/,  6/*ש*/,  6/*ת*/,  5/*ן*/,  6/*ם*/,  6/*ץ*/,  6/*ף*/,  6/*ך*/,
      6,  6,  6,  6,  6,  6,  6,  6,  6,  8,  6,  6,  6,  6,
      6,  6,  9,  8,  8,  6,  6,  6,  6,  6, 10,  8,  5,  6,
      6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,  6,
@@ -874,11 +874,12 @@ u16 RenderText(struct TextPrinter *textPrinter)
                 textPrinter->printerTemplate.currentX -= gGlyphInfo.width;
             }
         }
-        // Ofir added this - add litle space after wide chars in hebrew.
-        if (currChar == 0x01 /*א*/ || currChar == 0x02 /*ב*/ || currChar == 0x04 /*ד*/ || currChar == 0x05 /*ה*/
+        // Ofir added this - add litle space after wide chars in hebrew if the next char is not with space at the start already.
+        if ((currChar == 0x01 /*א*/ || currChar == 0x02 /*ב*/ || currChar == 0x04 /*ד*/ || currChar == 0x05 /*ה*/
             || currChar == 0x08 /*ח*/ || currChar == 0x09 /*ט*/ || currChar == 0x0D /*מ*/ || currChar == 0x0F /*ס*/
             ||currChar == 0x10 /*ע*/ || currChar == 0x11 /*פ*/ || currChar == 0x15 /*ש*/ || currChar == 0x16 /*ת*/ 
             || currChar == 0x18 /*ם*/ || currChar == 0x1A /*ף*/)
+            && (*textPrinter->printerTemplate.currentChar != 0x0A /*י*/ && *textPrinter->printerTemplate.currentChar != 0x06 /*ו*/ && *textPrinter->printerTemplate.currentChar != 0x17 /*ן*/))
         {
             textPrinter->printerTemplate.currentX -= 1;
         }
