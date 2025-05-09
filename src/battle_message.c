@@ -322,12 +322,12 @@ static const u8 sText_GotAwaySafely[] = _("{PLAY_SE SE_FLEE}ברח בטוח!\p")
 static const u8 sText_PkmnFledUsingIts[] = _("{PLAY_SE SE_FLEE}{B_ATK_NAME_WITH_PREFIX} ברח\nבאמצעות {B_LAST_ITEM}!\p");
 static const u8 sText_PkmnFledUsing[] = _("{PLAY_SE SE_FLEE}{B_ATK_NAME_WITH_PREFIX} ברח\nבאמצעות {B_ATK_ABILITY}!\p");
 static const u8 sText_WildPkmnFled[] = _("{PLAY_SE SE_FLEE}{B_BUFF1} פראי ברח!");
-static const u8 sText_PlayerDefeatedLinkTrainer[] = _("השחקן ניצח\nאת {B_LINK_OPPONENT1_NAME}!");
-static const u8 sText_TwoLinkTrainersDefeated[] = _("השחקן ניצח את {B_LINK_OPPONENT1_NAME}\nואת {B_LINK_OPPONENT2_NAME}!");
-static const u8 sText_PlayerLostAgainstLinkTrainer[] = _("השחקן הפסיד נגד\n{B_LINK_OPPONENT1_NAME}!");
-static const u8 sText_PlayerLostToTwo[] = _("השחקן הפסיד נגד\n{B_LINK_OPPONENT1_NAME} ונגד {B_LINK_OPPONENT2_NAME}!");
-static const u8 sText_PlayerBattledToDrawLinkTrainer[] = _("השחקן תיקו נגד\n{B_LINK_OPPONENT1_NAME}!");
-static const u8 sText_PlayerBattledToDrawVsTwo[] = _("השחקן תיקו נגד\n{B_LINK_OPPONENT1_NAME} ונגד {B_LINK_OPPONENT2_NAME}!");
+static const u8 sText_PlayerDefeatedLinkTrainer[] = _("{PLAYER} ניצח\nאת {B_LINK_OPPONENT1_NAME}!");
+static const u8 sText_TwoLinkTrainersDefeated[] = _("{PLAYER} ניצח את {B_LINK_OPPONENT1_NAME}\nואת {B_LINK_OPPONENT2_NAME}!");
+static const u8 sText_PlayerLostAgainstLinkTrainer[] = _("{PLAYER} הפסיד נגד\n{B_LINK_OPPONENT1_NAME}!");
+static const u8 sText_PlayerLostToTwo[] = _("{PLAYER} הפסיד נגד\n{B_LINK_OPPONENT1_NAME} ונגד {B_LINK_OPPONENT2_NAME}!");
+static const u8 sText_PlayerBattledToDrawLinkTrainer[] = _("{PLAYER} הגיע לתיקו נגד\n{B_LINK_OPPONENT1_NAME}!");
+static const u8 sText_PlayerBattledToDrawVsTwo[] = _("{PLAYER} הגיע לתיקו נגד\n{B_LINK_OPPONENT1_NAME} ונגד {B_LINK_OPPONENT2_NAME}!");
 static const u8 sText_WildFled[] = _("{PLAY_SE SE_FLEE}{B_LINK_OPPONENT1_NAME} ברח!");
 static const u8 sText_TwoWildFled[] = _("{PLAY_SE SE_FLEE}{B_LINK_OPPONENT1_NAME} ו\n{B_LINK_OPPONENT2_NAME} ברחו!");
 static const u8 sText_NoRunningFromTrainers[] = _("לא! אין בריחה\nמקרב נגד מאמין!\p");
@@ -371,7 +371,7 @@ static const u8 sText_PkmnTurnedAway[] = _("{B_ATK_NAME_WITH_PREFIX} פנה את
 static const u8 sText_PkmnPretendNotNotice[] = _("{B_ATK_NAME_WITH_PREFIX} מתנהג\nכאילו לא שים לב!");
 static const u8 sText_EnemyAboutToSwitchPkmn[] = _("{B_TRAINER1_CLASS} {B_TRAINER1_NAME} עומד\nלשלוח את {B_BUFF2}.\pהאם {B_PLAYER_NAME} רוצה\nלהחליף פוקימונים?");
 static const u8 sText_PkmnLearnedMove2[] = _("{B_ATK_NAME_WITH_PREFIX} למד\n{B_BUFF1}!");
-static const u8 sText_PlayerDefeatedLinkTrainerTrainer1[] = _("השחקן ניצח את\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!\p");
+static const u8 sText_PlayerDefeatedLinkTrainerTrainer1[] = _("{PLAYER} ניצח את\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!\p");
 static const u8 sText_ThrewARock[] = _("{B_PLAYER_NAME} הטיל אבן\nעל {B_OPPONENT_MON1_NAME}!");
 static const u8 sText_ThrewSomeBait[] = _("{B_PLAYER_NAME} הטיל מכשיש\nעל {B_OPPONENT_MON1_NAME}!");
 static const u8 sText_PkmnWatchingCarefully[] = _("{B_OPPONENT_MON1_NAME} מתרגל\nבזהירות!");
@@ -1372,8 +1372,8 @@ const u8 *const gTrainerTowerChallengeTypeTexts[NUM_TOWER_CHALLENGE_TYPES] =
 };
 
 static const u8 sText_Trainer1Fled[] = _("{PLAY_SE SE_FLEE}{B_TRAINER1_CLASS} {B_TRAINER1_NAME} ברח!");
-static const u8 sText_PlayerLostAgainstTrainer1[] = _("השחקן הפסיד נגד\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!");
-static const u8 sText_PlayerBattledToDrawTrainer1[] = _("השחקן הגיע לתיקו נגד\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!");
+static const u8 sText_PlayerLostAgainstTrainer1[] = _("{PLAYER} הפסיד נגד\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!");
+static const u8 sText_PlayerBattledToDrawTrainer1[] = _("{PLAYER} הגיע לתיקו נגד\n{B_TRAINER1_CLASS} {B_TRAINER1_NAME}!");
 
 static const u8 *const sATypeMove_Table[NUMBER_OF_MON_TYPES] =
 {
