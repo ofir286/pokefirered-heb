@@ -527,8 +527,10 @@ void DrawPreviouslyOnQuestHeader(u8 sceneNum)
         ConvertIntToDecimalStringN(gStringVar1, sceneNum, STR_CONV_MODE_LEFT_ALIGN, 1);
         StringAppend(gStringVar4, gStringVar1);
     }
-
-    AddTextPrinterParameterized4(sWindowIds[WIN_TOP_BAR], FONT_NORMAL, 2, 2, 1, 2, sTextColors, 0, gStringVar4);
+    
+    // ofir changed here
+    //AddTextPrinterParameterized4(sWindowIds[WIN_TOP_BAR], FONT_NORMAL, 2, 2, 1, 2, sTextColors, 0, gStringVar4);
+    AddTextPrinterParameterized4(sWindowIds[WIN_TOP_BAR], FONT_NORMAL, 200, 2, 1, 2, sTextColors, 0, gStringVar4);
     PutWindowTilemap(sWindowIds[WIN_TOP_BAR]);
     PutWindowTilemap(sWindowIds[WIN_BOTTOM_BAR]);
     CopyWindowToVram(sWindowIds[WIN_TOP_BAR], COPYWIN_GFX);
@@ -1036,7 +1038,9 @@ static void DrawSceneDescription(void)
 
     PutWindowTilemap(sWindowIds[WIN_DESCRIPTION]);
     CopyDescriptionWindowTiles(sWindowIds[WIN_DESCRIPTION]);
-    AddTextPrinterParameterized4(sWindowIds[WIN_DESCRIPTION], FONT_NORMAL, 2, sQuestLogTextLineYCoords[numLines], 1, 0, sTextColors, 0, gStringVar4);
+    // ofir changed here
+    //AddTextPrinterParameterized4(sWindowIds[WIN_DESCRIPTION], FONT_NORMAL, 2, sQuestLogTextLineYCoords[numLines], 1, 0, sTextColors, 0, gStringVar4);
+    AddTextPrinterParameterized4(sWindowIds[WIN_DESCRIPTION], FONT_NORMAL, 200, sQuestLogTextLineYCoords[numLines], 1, 0, sTextColors, 0, gStringVar4);
     ScheduleBgCopyTilemapToVram(0);
 }
 
