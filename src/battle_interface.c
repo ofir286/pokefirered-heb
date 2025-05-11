@@ -760,16 +760,26 @@ static void UpdateLvlInHealthbox(u8 healthboxSpriteId, u8 lvl)
 {
     u32 windowId, spriteTileNum;
     u8 *windowTileData;
-    //u8 text[16] = _("{LV_2}");
-    u8 text[16] = _("{RA}{MA}");
+    u8 text[16] = _("{LV_2}");
+    u8 lvl_str[16];
+    u8 color[3];
     u32 xPos;
     u8 *objVram;
 
-    objVram = ConvertIntToDecimalStringN(text + 4, lvl, STR_CONV_MODE_LEFT_ALIGN, 3);
-    // Ofir Test
+    // Ofir changed here
+    //objVram = ConvertIntToDecimalStringN(text + 4, lvl, STR_CONV_MODE_LEFT_ALIGN, 3);
+    ConvertIntToDecimalStringN(lvl_str, lvl, STR_CONV_MODE_RIGHT_ALIGN, 3);
     //xPos = 5 * (3 - (objVram - (text + 2)));
-    xPos = 3*5;
-    windowTileData = AddTextPrinterAndCreateWindowOnHealthbox(text, xPos, 3, &windowId);
+    xPos = 6;
+
+    // windowTileData = AddTextPrinterAndCreateWindowOnHealthbox(text, xPos, 3, &windowId);
+    windowTileData = AddTextPrinterAndCreateWindowOnHealthbox(lvl_str, xPos, 3, &windowId);
+    
+    color[0] = 2;
+    color[1] = 1;
+    color[2] = 3;
+    // we have to do this because the lvl is not showing up in the correctly unless we print it separately
+    AddTextPrinterParameterized4(windowId, FONT_NORMAL, 12, 3, 0, 0, color, -1, text);
     spriteTileNum = gSprites[healthboxSpriteId].oam.tileNum * TILE_SIZE_4BPP;
 
     if (GetBattlerSide(gSprites[healthboxSpriteId].sBattlerId) == B_SIDE_PLAYER)
