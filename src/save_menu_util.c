@@ -29,9 +29,13 @@ void SaveStatToString(u8 gameStatId, u8 *dest0, u8 color)
             dest = ConvertIntToDecimalStringN(dest, GetKantoPokedexCount(1), STR_CONV_MODE_LEFT_ALIGN, 3);
         break;
     case SAVE_STAT_TIME:
-        dest = ConvertIntToDecimalStringN(dest, gSaveBlock2Ptr->playTimeHours, STR_CONV_MODE_LEFT_ALIGN, 3);
+        // ofir changed here
+        /*dest = ConvertIntToDecimalStringN(dest, gSaveBlock2Ptr->playTimeHours, STR_CONV_MODE_LEFT_ALIGN, 3);
         *dest++ = CHAR_COLON;
-        dest = ConvertIntToDecimalStringN(dest, gSaveBlock2Ptr->playTimeMinutes, STR_CONV_MODE_LEADING_ZEROS, 2);
+        dest = ConvertIntToDecimalStringN(dest, gSaveBlock2Ptr->playTimeMinutes, STR_CONV_MODE_LEADING_ZEROS, 2);*/
+        dest = ConvertIntToDecimalStringN(dest, gSaveBlock2Ptr->playTimeMinutes, STR_CONV_MODE_RIGHT_ALIGN, 3);
+        *dest++ = CHAR_COLON;
+        dest = ConvertIntToDecimalStringN(dest, gSaveBlock2Ptr->playTimeHours, STR_CONV_MODE_LEADING_ZEROS, 2);
         break;
     case SAVE_STAT_TIME_HR_RT_ALIGN:
         dest = ConvertIntToDecimalStringN(dest, gSaveBlock2Ptr->playTimeHours, STR_CONV_MODE_RIGHT_ALIGN, 3);
@@ -48,7 +52,8 @@ void SaveStatToString(u8 gameStatId, u8 *dest0, u8 color)
                 nBadges++;
         }
         *dest++ = nBadges + CHAR_0;
-        *dest++ = 10; // 'こ'
+        // ofir changed here
+        //*dest++ = 10; // 'こ'
         *dest++ = EOS;
         break;
     }
