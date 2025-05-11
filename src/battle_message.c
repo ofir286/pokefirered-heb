@@ -1813,7 +1813,7 @@ static const u8 *TryGetStatusString(u8 *src)
 #define HANDLE_NICKNAME_STRING_CASE(battlerId, monIndex)                \
     if (GetBattlerSide(battlerId) != B_SIDE_PLAYER)                     \
     {                                                                   \
-        GetMonData(&gEnemyParty[monIndex], MON_DATA_NICKNAME, text);    \  
+        GetMonData(&gEnemyParty[monIndex], MON_DATA_NICKNAME, text);    \
         StringGet_Nickname(text);                                       \
         toCpy = text;                                                   \
         while (*toCpy != EOS)                                           \
@@ -2765,9 +2765,7 @@ void BattlePutTextOnWindow(const u8 *text, u8 windowId) {
                                  sTextOnWindowsInfo_Normal[windowId].letterSpacing)) / 2;
         break;
     default:
-        // Ofir Changed This -TODO to do it correcly we need to change the x value in the list sTextOnWindowsInfo_Normal for every type of print (movesets needs to be in diffrent indexes for example)
         x = sTextOnWindowsInfo_Normal[windowId].x;
-        //x = sTextOnWindowsInfo_Normal[windowId].x + 210;
         break;
     }
     if (x < 0)
