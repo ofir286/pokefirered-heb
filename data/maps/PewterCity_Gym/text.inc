@@ -38,7 +38,7 @@ PewterCity_Gym_Text_ReceivedTM39FromBrock::
     .string "מברוק.$"
 
 PewterCity_Gym_Text_ExplainTM39::
-    .string "מ“מ, מכונה טכנית, מכילה\n"
+    .string "מ“מ, מהלך מאמן, מכיל\n"
     .string "טכניקה לפוקימון.\p"
     .string "שימוש במ“מ מלמד את המהלך שהוא\n"
     .string "מכיל לפוקימון.\p"
