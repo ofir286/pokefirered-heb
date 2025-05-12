@@ -1,5 +1,0 @@
-Right\.
-So your name is [player].
-###Translated###
-נכון..
-שמך הוא  [player].

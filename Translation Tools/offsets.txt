@@ -1,5 +1,0 @@
-small text: 1EAF1A
-Keyboard: 1F3130
-Main: 1FF330
-Oak intro: 20F648
-hidden: 21F960

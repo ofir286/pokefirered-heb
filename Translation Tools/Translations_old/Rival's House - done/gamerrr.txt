@@ -1,9 +1,0 @@
-[player] played with the NES.
-
-\.Okay!
-It's time to go!
-###Translated###
-]reyalp[ שיחק עם הקונסולה.
-
-.\אוקי!
-הגיע הזמן לזוז!

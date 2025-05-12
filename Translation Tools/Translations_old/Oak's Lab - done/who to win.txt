@@ -1,7 +1,0 @@
-The TRAINER that makes the other
-TRAINER's POKéMON faint by lowering
-their HP to \qo0,\qc wins.
-###Translated###
-המאמן שגורם לפוקימון של
-היריב להתעלף שהוא מגיע
-לנקודות חיים oq\0cq\ מנצח.
