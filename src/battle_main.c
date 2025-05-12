@@ -429,7 +429,7 @@ const u8 gTypeNames[NUMBER_OF_MON_TYPES][TYPE_NAME_LENGTH + 1] =
 {
     [TYPE_NORMAL] = _("רגיל"),   // Normal
     [TYPE_FIGHTING] = _("קרב"),  // Fighting
-    [TYPE_FLYING] = _("טיסה"),   // Flying
+    [TYPE_FLYING] = _("תעופה"),   // Flying
     [TYPE_POISON] = _("רעל"),    // Poison
     [TYPE_GROUND] = _("אדמה"),   // Ground
     [TYPE_ROCK] = _("סלע"),      // Rock
