@@ -1,26 +1,25 @@
 SSAnne_B1F_Room1_Text_PhillipIntro::
-    .string "Matey, you're walking the plank if\n"
-    .string "you lose!$"
+    .string "חבר, אתה הולך על הקרש אם\n"
+    .string "תפסיד!$"
 
 SSAnne_B1F_Room1_Text_PhillipDefeat::
-    .string "Argh!\n"
-    .string "Beaten by a kid!$"
+    .string "ארג!\n"
+    .string "הובס על ידי ילד!$"
 
 SSAnne_B1F_Room1_Text_PhillipPostBattle::
-    .string "When we're out at sea, jellyfish\n"
-    .string "POKéMON sometimes drift by.$"
+    .string "כשאנחנו בים, פוקימוני מדוזות\n"
+    .string "לפעמים צפים על פני המים.$"
 
 SSAnne_B1F_Room1_Text_BarnyIntro::
-    .string "Hello, stranger!\p"
-    .string "I can't tell if you're from the seas\n"
-    .string "or mountains, but stop and chat.\p"
-    .string "All my POKéMON are from the sea.$"
+    .string "שלום, זר!\p"
+    .string "אני לא יכול לדעת אם אתה מהים\n"
+    .string "או מההרים, אבל בוא נדבר.\p"
+    .string "כל הפוקימונים שלי הם מהים.$"
 
 SSAnne_B1F_Room1_Text_BarnyDefeat::
-    .string "Darn!\n"
-    .string "I let that one get away!$"
+    .string "לעזאזל!\n"
+    .string "הניחה לו לברוח!$"
 
 SSAnne_B1F_Room1_Text_BarnyPostBattle::
-    .string "I was going to make you my\n"
-    .string "assistant, too!$"
-
+    .string "עמדתי למנות אותך\n"
+    .string "לעוזר שלי!$"

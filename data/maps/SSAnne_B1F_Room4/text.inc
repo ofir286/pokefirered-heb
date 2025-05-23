@@ -1,23 +1,22 @@
 SSAnne_B1F_Room4_Text_LeonardIntro::
-    .string "You know what they say about\n"
-    .string "sailors and battling!$"
+    .string "אתה יודע מה אומרים על\n"
+    .string "מלחים וקרבות!$"
 
 SSAnne_B1F_Room4_Text_LeonardDefeat::
-    .string "Right!\n"
-    .string "Good battle, mate!$"
+    .string "נכון!\n"
+    .string "קרב טוב, חבר!$"
 
 SSAnne_B1F_Room4_Text_LeonardPostBattle::
-    .string "Hahaha!\n"
-    .string "Want to be a sailor, mate?$"
+    .string "הההה!\n"
+    .string "רוצה להיות מלח, חבר?$"
 
 SSAnne_B1F_Room4_Text_DuncanIntro::
-    .string "Come on, then!\n"
-    .string "My sailor's pride is at stake!$"
+    .string "בוא, אז!\n"
+    .string "הגאווה שלי כמלח בסכנה!$"
 
 SSAnne_B1F_Room4_Text_DuncanDefeat::
-    .string "Your spirit sank me!$"
+    .string "הרוח שלך הטביעה אותי!$"
 
 SSAnne_B1F_Room4_Text_DuncanPostBattle::
-    .string "Did you see the FISHING GURU in\n"
-    .string "VERMILION CITY?$"
-
+    .string "ראית את מאסטר הדיג ב\n"
+    .string "עיר ורמיליון?$"

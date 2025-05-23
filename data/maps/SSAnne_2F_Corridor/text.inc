@@ -1,24 +1,24 @@
 SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner::
-    .string "This ship, she is a luxury liner for\n"
-    .string "TRAINERS of the world!\p"
-    .string "At every port, we hold parties with\n"
-    .string "invited TRAINERS.$"
+    .string "הספינה הזו היא ספינת פאר\n"
+    .string "למאמנים מכל העולם!\p"
+    .string "בכל נמל, אנחנו עורכים מסיבות\n"
+    .string "עם מאמנים מוזמנים.$"
 
 SSAnne_2F_Corridor_Text_RivalIntro::
-    .string "{RIVAL}: Bonjour!\n"
+    .string "{RIVAL}: בונז'ור!\n"
     .string "{PLAYER}!\p"
-    .string "Imagine seeing you here!\n"
-    .string "{PLAYER}, were you really invited?\p"
-    .string "So how's your POKéDEX coming?\p"
-    .string "I already caught 40 kinds, pal.\n"
-    .string "Different kinds are everywhere.\p"
-    .string "Crawl around in grassy areas, and\n"
-    .string "look hard for them.$"
+    .string "מי היה מאמין שנפגש כאן!\n"
+    .string "{PLAYER}, האם באמת הזמינו אותך?\p"
+    .string "אז איך מתקדם הפוקידקס שלך?\p"
+    .string "אני כבר תפסתי 40 סוגים, חבר.\n"
+    .string "סוגים שונים נמצאים בכל מקום.\p"
+    .string "זחל באזורים עם דשא,\n"
+    .string "וחפש אותם היטב.$"
 
 SSAnne_2F_Corridor_Text_RivalDefeat::
-    .string "Humph!\p"
-    .string "At least you're raising your\n"
-    .string "POKéMON!$"
+    .string "המפ!\p"
+    .string "לפחות אתה מגדל את\n"
+    .string "הפוקימונים שלך!$"
 
 SSAnne_2F_Corridor_Text_RivalVictory::
     .string "{PLAYER}‥！\n"
@@ -27,11 +27,11 @@ SSAnne_2F_Corridor_Text_RivalVictory::
     .string "きたえた　ほうが　いいぜ！$"
 
 SSAnne_2F_Corridor_Text_RivalPostBattle::
-    .string "{RIVAL}: I heard there was a CUT\n"
-    .string "master on board.\p"
-    .string "But he was just a seasick old man!\p"
-    .string "CUT itself is really useful.\n"
-    .string "Yup, it'll be handy.\p"
-    .string "You should go see him, too.\n"
-    .string "Smell ya!$"
-
+    .string "{RIVAL}: שמעתי שיש על הסיפון\n"
+    .string "אמן של חיתוך.\p"
+    .string "אבל הוא היה רק זקן\n"
+    .string "שסובל ממחלת ים!\p"
+    .string "חיתוך עצמו הוא מאוד שימושי.\n"
+    .string "כן, זה יהיה שימושי.\p"
+    .string "גם אתה צריך ללכת לראות אותו.\n"
+    .string "להתראות!$"

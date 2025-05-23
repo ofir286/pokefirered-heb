@@ -1,35 +1,34 @@
 SSAnne_Deck_Text_ShipDepartingSoon::
-    .string "The party's over.\n"
-    .string "The ship will be departing soon.$"
+    .string "המסיבה נגמרה.\n"
+    .string "הספינה תצא בקרוב.$"
 
 SSAnne_Deck_Text_ScrubbingDecksHardWork::
-    .string "Whew!\n"
-    .string "Scrubbing decks is hard work!$"
+    .string "פיו!\n"
+    .string "שפשוף הסיפון זה עבודה קשה!$"
 
 SSAnne_Deck_Text_FeelSeasick::
-    .string "Urf… I feel ill…\p"
-    .string "I got seasick, so I stepped out to\n"
-    .string "get some air…$"
+    .string "אורפ… אני מרגיש חולה…\p"
+    .string "היה לי מחלת ים, אז יצאתי\n"
+    .string "לקחת קצת אוויר…$"
 
 SSAnne_Deck_Text_EdmondIntro::
-    .string "Hey, matey!\p"
-    .string "Let's do a little jig!$"
+    .string "היי, חבר!\p"
+    .string "בוא נרקוד קצת!$"
 
 SSAnne_Deck_Text_EdmondDefeat::
-    .string "You're impressive!$"
+    .string "אתה מרשים!$"
 
 SSAnne_Deck_Text_EdmondPostBattle::
-    .string "How many kinds of POKéMON do you\n"
-    .string "think there are in this big world?$"
+    .string "כמה סוגי פוקימונים אתה חושב\n"
+    .string "שיש בעולם הגדול הזה?$"
 
 SSAnne_Deck_Text_TrevorIntro::
-    .string "Ahoy, there!\n"
-    .string "Are you seasick?$"
+    .string "אהוי, שם!\n"
+    .string "יש לך מחלת ים?$"
 
 SSAnne_Deck_Text_TrevorDefeat::
-    .string "I was just careless!$"
+    .string "פשוט הייתי רשלני!$"
 
 SSAnne_Deck_Text_TrevorPostBattle::
-    .string "My pa said there are 100 kinds of\n"
-    .string "POKéMON. I think there are more.$"
-
+    .string "אבא שלי אמר שיש 100 סוגי\n"
+    .string "פוקימונים. אני חושב שיש יותר.$"

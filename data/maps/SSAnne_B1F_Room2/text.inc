@@ -1,10 +1,9 @@
 SSAnne_B1F_Room2_Text_HueyIntro::
-    .string "Even us sailors have POKéMON, too!$"
+    .string "גם לנו המלחים יש פוקימונים!$"
 
 SSAnne_B1F_Room2_Text_HueyDefeat::
-    .string "Okay, you're not bad.$"
+    .string "אוקיי, אתה לא רע.$"
 
 SSAnne_B1F_Room2_Text_HueyPostBattle::
-    .string "We caught all our POKéMON while\n"
-    .string "we were out at sea.$"
-
+    .string "תפסנו את כל הפוקימונים שלנו\n"
+    .string "כשהיינו בים.$"

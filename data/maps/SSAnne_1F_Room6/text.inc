@@ -1,16 +1,15 @@
 SSAnne_1F_Room6_Text_TakeAShortRest::
-    .string "You look tired. Would you like to\n"
-    .string "take a short rest?$"
+    .string "אתה נראה עייף. האם תרצה\n"
+    .string "לנוח קצת?$"
 
 SSAnne_1F_Room6_Text_GladEveryoneIsRefreshed::
-    .string "I'm glad to see that everyone is\n"
-    .string "looking refreshed and chipper.$"
+    .string "אני שמח לראות שכולם נראים\n"
+    .string "רעננים ומלאי מרץ.$"
 
 SSAnne_1F_Room6_Text_SorryYouLookLikeMyBrother::
-    .string "Oh, I'm sorry for fussing over you.\n"
-    .string "You look like my little brother…$"
+    .string "אה, סליחה שהתעסקתי איתך.\n"
+    .string "אתה נראה כמו אחי הקטן…$"
 
 SSAnne_1F_Room6_Text_SorryYouLookLikeMySister::
-    .string "Oh, I'm sorry for fussing over you.\n"
-    .string "You look like my little sister…$"
-
+    .string "אה, סליחה שהתעסקתי איתך.\n"
+    .string "אתה נראה כמו אחותי הקטנה…$"

@@ -1,53 +1,52 @@
 SSAnne_CaptainsOffice_Text_CaptainIFeelSeasick::
-    .string "CAPTAIN: Ooargh…\n"
-    .string "I feel hideous…\l"
-    .string "Urrp! Seasick…$"
+    .string "קפטן: אווררר…\n"
+    .string "אני מרגיש נורא…\l"
+    .string "אורפ! מחלת ים…$"
 
 SSAnne_CaptainsOffice_Text_RubbedCaptainsBack::
-    .string "{PLAYER} rubbed the CAPTAIN's\n"
-    .string "back!\p"
-    .string "Rub-rub…\n"
-    .string "Rub-rub…$"
+    .string "{PLAYER} שפשף את גבו של\n"
+    .string "הקפטן!\p"
+    .string "שפשוף-שפשוף…\n"
+    .string "שפשוף-שפשוף…$"
 
 SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
-    .string "CAPTAIN: Whew! Thank you!\n"
-    .string "I'm feeling much better now.\p"
-    .string "You want to see my hidden CUT\n"
-    .string "technique?\p"
-    .string "I could show you my prized CUT\n"
-    .string "technique if I weren't so ill…\p"
-    .string "I know! You can have this!\n"
-    .string "This HIDDEN MACHINE!\p"
-    .string "Teach CUT to your POKéMON, and\n"
-    .string "you can see it CUT anytime!$"
+    .string "קפטן: פיו! תודה לך!\n"
+    .string "אני מרגיש הרבה יותר טוב עכשיו.\p"
+    .string "אתה רוצה לראות את טכניקת\n"
+    .string "החיתוך הנסתרת שלי?\p"
+    .string "יכולתי להראות לך את טכניקת\n"
+    .string "החיתוך היקרה שלי אם לא הייתי חולה…\p"
+    .string "אני יודע! אתה יכול לקבל את זה!\n"
+    .string "זה מהלך נסתר!\p"
+    .string "למד את החיתוך לפוקימון שלך,\n"
+    .string "ותוכל לראות אותו חותך בכל זמן!$"
 
 SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::
-    .string "{PLAYER} obtained HM01\n"
-    .string "from the CAPTAIN!$"
+    .string "{PLAYER} קיבל את מ”נ01\n"
+    .string "מהקפטן!$"
 
 SSAnne_CaptainsOffice_Text_ExplainCut::
-    .string "Using CUT, you can chop down\n"
-    .string "small trees.\p"
-    .string "Why not try it with the trees\n"
-    .string "around VERMILION CITY?$"
+    .string "באמצעות חיתוך, אתה יכול לכרות\n"
+    .string "עצים קטנים.\p"
+    .string "למה שלא תנסה את זה עם העצים\n"
+    .string "סביב עיר ורמיליון?$"
 
 SSAnne_CaptainsOffice_Text_SSAnneWillSetSailSoon::
-    .string "CAPTAIN: …Whew!\p"
-    .string "Now that I'm not sick anymore,\n"
-    .string "I guess it's time.\p"
-    .string "The S.S. ANNE will set sail soon!\p"
-    .string "Farewell, until our return to\n"
-    .string "VERMILION CITY!$"
+    .string "קפטן: …פיו!\p"
+    .string "עכשיו שאני כבר לא חולה,\n"
+    .string "אני מניח שהגיע הזמן.\p"
+    .string "ה-S.S. אן יצא להפלגה בקרוב!\p"
+    .string "להתראות, עד שנחזור\n"
+    .string "לעיר ורמיליון!$"
 
 SSAnne_CaptainsOffice_Text_YouHaveNoRoomForThis::
-    .string "Oh, no!\n"
-    .string "You have no room for this!$"
+    .string "אוי, לא!\n"
+    .string "אין לך מקום בשביל זה!$"
 
 SSAnne_CaptainsOffice_Text_YuckShouldntHaveLooked::
-    .string "Yuck!\n"
-    .string "Shouldn't have looked!$"
+    .string "איכס!\n"
+    .string "לא הייתי צריך להסתכל!$"
 
 SSAnne_CaptainsOffice_Text_HowToConquerSeasickness::
-    .string "How to Conquer Seasickness…\n"
-    .string "The CAPTAIN's reading this!$"
-
+    .string "איך להתגבר על מחלת ים…\n"
+    .string "הקפטן קורא את זה!$"

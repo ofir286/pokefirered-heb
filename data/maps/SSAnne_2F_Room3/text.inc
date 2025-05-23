@@ -1,12 +1,11 @@
 SSAnne_2F_Room3_Text_SeenMonsFerryPeople::
-    .string "Ah, yes, I have seen some POKéMON\n"
-    .string "ferry people across the water!$"
+    .string "אה, כן, ראיתי כמה פוקימונים\n"
+    .string "מעבירים אנשים מעבר למים!$"
 
 SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown::
-    .string "Small trees can be chopped down\n"
-    .string "using the move CUT.\p"
-    .string "But remember this!\n"
-    .string "CUT is an HM technique.\p"
-    .string "Once learned, it is not so easily\n"
-    .string "discarded.$"
-
+    .string "עצים קטנים אפשר לכרות\n"
+    .string "באמצעות המהלך חיתוך.\p"
+    .string "אבל זכור זאת!\n"
+    .string "חיתוך הוא טכניקת מ”מ.\p"
+    .string "ברגע שהוא נלמד, לא קל\n"
+    .string "להסיר אותו.$"

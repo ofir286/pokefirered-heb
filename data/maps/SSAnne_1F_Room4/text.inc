@@ -1,8 +1,7 @@
 SSAnne_1F_Room4_Text_WaiterCherryPiePlease::
-    .string "Waiter, I would like a cherry pie,\n"
-    .string "please!$"
+    .string "מלצר, אני רוצה פאי דובדבנים,\n"
+    .string "בבקשה!$"
 
 SSAnne_1F_Room4_Text_WaitressCherryPiePlease::
-    .string "Waitress, I would like a cherry\n"
-    .string "pie, please!$"
-
+    .string "מלצרית, אני רוצה פאי\n"
+    .string "דובדבנים, בבקשה!$"

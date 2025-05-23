@@ -1,48 +1,47 @@
 SSAnne_Kitchen_Text_BusyOutOfTheWay::
-    .string "You, mon petit!\n"
-    .string "We're busy here!\l"
-    .string "Out of the way!$"
+    .string "אתה, מון פטי!\n"
+    .string "אנחנו עסוקים כאן!\l"
+    .string "צא מהדרך!$"
 
 SSAnne_Kitchen_Text_SawOddBerryInTrash::
-    .string "I saw an odd BERRY in the trash.\n"
-    .string "I wonder what that was?$"
+    .string "ראיתי פרי מוזר בפח.\n"
+    .string "אני תוהה מה זה היה?$"
 
 SSAnne_Kitchen_Text_SoBusyImDizzy::
-    .string "I'm so busy I'm getting dizzy!\n"
-    .string "You have to give me room here!$"
+    .string "אני כל כך עסוק שאני מסתחרר!\n"
+    .string "אתה חייב לתת לי מקום כאן!$"
 
 SSAnne_Kitchen_Text_PeelSpudsEveryDay::
-    .string "Hum-de-hum-de-ho…\p"
-    .string "I peel spuds every day!\n"
-    .string "Hum-hum…$"
+    .string "האם-דה-האם-דה-הו…\p"
+    .string "אני מקלף תפוחי אדמה כל יום!\n"
+    .string "האם-האם…$"
 
 SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
-    .string "Did you hear about SNORLAX?\n"
-    .string "It's a glutton.\p"
-    .string "No other POKéMON eats and sleeps\n"
-    .string "the way SNORLAX can and does!$"
+    .string "שמעת על סנורלקס?\n"
+    .string "הוא זללן.\p"
+    .string "אין פוקימון אחר שאוכל וישן\n"
+    .string "כמו שסנורלקס יכול ועושה!$"
 
 SSAnne_Kitchen_Text_OnlyGetToPeelOnions::
-    .string "Snivel… Sniff…\p"
-    .string "I only get to peel onions…\n"
-    .string "Snivel…$"
+    .string "התייפחות… הרחה…\p"
+    .string "אני רק מקבל לקלף בצלים…\n"
+    .string "התייפחות…$"
 
 SSAnne_Kitchen_Text_IAmLeChefMainCourseIs::
-    .string "Er-hem!\n"
-    .string "Indeed I am le CHEF!\p"
-    .string "Le main course is$"
+    .string "אה-הם!\n"
+    .string "אכן אני השף!\p"
+    .string "המנה העיקרית היא$"
 
 SSAnne_Kitchen_Text_SalmonDuSalad::
-    .string "Salmon du Salad!\p"
-    .string "Les guests may gripe it's fish\n"
-    .string "again, however!$"
+    .string "סלמון בסלט!\p"
+    .string "האורחים עלולים להתלונן שזה\n"
+    .string "דג שוב, בכל אופן!$"
 
 SSAnne_Kitchen_Text_EelsAuBarbecue::
-    .string "Eels au Barbecue!\p"
-    .string "Les guests will mutiny, I fear.$"
+    .string "צלופחים על הגריל!\p"
+    .string "אני חושש שהאורחים יתמרדו.$"
 
 SSAnne_Kitchen_Text_PrimeBeefsteak::
-    .string "Prime Beefsteak!\p"
-    .string "But, have I enough fillets du\n"
-    .string "beef?$"
-
+    .string "סטייק פריים!\p"
+    .string "אבל, האם יש לי מספיק פילטים\n"
+    .string "של בקר?$"
