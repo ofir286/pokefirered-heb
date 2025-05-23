@@ -147,6 +147,9 @@ const u8 gText_SevenHyphens[] = _("-------");
 const u8 gText_MaleSymbol[] = _("♂");
 const u8 gText_FemaleSymbol[] = _("♀");
 const u8 gText_Lv[] = _("{LV_2}");
+// ofir added here
+const u8 gText_TMClear01[] = _("מ”מ{CLEAR 0x01}");
+const u8 gText_HMClear01[] = _("מ”נ{CLEAR 0x01}");
 const u8 gText_NumberClear01[] = _("{NO}{CLEAR 0x01}");
 const u8 gText_Plus[] = _("{PLUS}");
 const u8 gText_Escape3[] = _("{ESCAPE 0x03}"); // Unused, RIGHT_ARROW in pokeemerald

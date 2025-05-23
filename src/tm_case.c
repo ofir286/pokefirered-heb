@@ -659,7 +659,9 @@ static void InitTMCaseListMenuItems(void)
     gMultiuseListMenuTemplate.totalItems = sTMCaseDynamicResources->numTMs + 1; // +1 for Cancel
     gMultiuseListMenuTemplate.windowId = WIN_LIST;
     gMultiuseListMenuTemplate.header_X = 0;
-    gMultiuseListMenuTemplate.item_X = 8;
+    // Ofir changed here
+    //gMultiuseListMenuTemplate.item_X = 8;
+    gMultiuseListMenuTemplate.item_X = 145;
     gMultiuseListMenuTemplate.cursor_X = 0;
     gMultiuseListMenuTemplate.lettersSpacing = 0;
     gMultiuseListMenuTemplate.itemVerticalPadding = 2;
@@ -681,13 +683,15 @@ static void GetTMNumberAndMoveString(u8 * dest, u16 itemId)
     if (itemId >= ITEM_HM01)
     {
         StringAppend(gStringVar4, sText_ClearTo18);
-        StringAppend(gStringVar4, gText_NumberClear01);
+        //StringAppend(gStringVar4, gText_NumberClear01);
+        StringAppend(gStringVar4, gText_HMClear01);
         ConvertIntToDecimalStringN(gStringVar1, itemId - ITEM_HM01 + 1, STR_CONV_MODE_LEADING_ZEROS, 1);
         StringAppend(gStringVar4, gStringVar1);
     }
     else
     {
-        StringAppend(gStringVar4, gText_NumberClear01);
+        //StringAppend(gStringVar4, gText_NumberClear01);
+        StringAppend(gStringVar4, gText_TMClear01);
         ConvertIntToDecimalStringN(gStringVar1, itemId - ITEM_TM01 + 1, STR_CONV_MODE_LEADING_ZEROS, 2);
         StringAppend(gStringVar4, gStringVar1);
     }
@@ -721,9 +725,11 @@ static void List_ItemPrintFunc(u8 windowId, u32 itemIndex, u8 y)
     {
         if (!IS_HM(BagGetItemIdByPocketPosition(POCKET_TM_CASE, itemIndex)))
         {
-            ConvertIntToDecimalStringN(gStringVar1, BagGetQuantityByPocketPosition(POCKET_TM_CASE, itemIndex), STR_CONV_MODE_RIGHT_ALIGN, 3);
+            //ConvertIntToDecimalStringN(gStringVar1, BagGetQuantityByPocketPosition(POCKET_TM_CASE, itemIndex), STR_CONV_MODE_RIGHT_ALIGN, 3);
+            ConvertIntToDecimalStringN(gStringVar1, BagGetQuantityByPocketPosition(POCKET_TM_CASE, itemIndex), STR_CONV_MODE_LEFT_ALIGN, 3);
             StringExpandPlaceholders(gStringVar4, gText_TimesStrVar1);
-            TMCase_Print(windowId, FONT_SMALL, gStringVar4, 126, y, 0, 0, TEXT_SKIP_DRAW, COLOR_DARK);
+            //TMCase_Print(windowId, FONT_SMALL, gStringVar4, 126, y, 0, 0, TEXT_SKIP_DRAW, COLOR_DARK);
+            TMCase_Print(windowId, FONT_SMALL, gStringVar4, 20, y, 0, 0, TEXT_SKIP_DRAW, COLOR_DARK);
         }
         else
         {
@@ -740,7 +746,8 @@ static void PrintDescription(s32 itemIndex)
     else
         str = gText_TMCaseWillBePutAway;
     FillWindowPixelBuffer(WIN_DESCRIPTION, 0);
-    TMCase_Print(WIN_DESCRIPTION, FONT_NORMAL, str, 2, 3, 1, 0, 0, COLOR_LIGHT);
+    //TMCase_Print(WIN_DESCRIPTION, FONT_NORMAL, str, 2, 3, 1, 0, 0, COLOR_LIGHT);
+    TMCase_Print(WIN_DESCRIPTION, FONT_NORMAL, str, 135, 3, 1, 0, 0, COLOR_LIGHT);
 }
 
 // Darkens (or subsequently lightens) the blue bg tiles around the description window when a TM/HM is selected.
@@ -979,7 +986,8 @@ static void Task_SelectedTMHM_Field(u8 taskId)
     strbuf = Alloc(256);
     GetTMNumberAndMoveString(strbuf, gSpecialVar_ItemId);
     StringAppend(strbuf, gText_Var1IsSelected + 2); // +2 skips over the stringvar
-    TMCase_Print(WIN_SELECTED_MSG, FONT_NORMAL, strbuf, 0, 2, 1, 0, 0, COLOR_DARK);
+    //TMCase_Print(WIN_SELECTED_MSG, FONT_NORMAL, strbuf, 0, 2, 1, 0, 0, COLOR_DARK);
+    TMCase_Print(WIN_SELECTED_MSG, FONT_NORMAL, strbuf, 115, 2, 1, 0, 0, COLOR_DARK);
     Free(strbuf);
     if (IS_HM(gSpecialVar_ItemId))
     {
@@ -1524,7 +1532,9 @@ static void PrintMessageWithFollowupTask(u8 taskId, u8 fontId, const u8 * str, T
 
 static void PrintTitle(void)
 {
-    u32 distance = 72 - GetStringWidth(FONT_NORMAL_COPY_1, gText_TMCase, 0);
+    // ofir changed here
+    //u32 distance = 72 - GetStringWidth(FONT_NORMAL_COPY_1, gText_TMCase, 0);
+    u32 distance = 72 + GetStringWidth(FONT_NORMAL_COPY_1, gText_TMCase, 0);
     AddTextPrinterParameterized3(WIN_TITLE, FONT_NORMAL_COPY_1, distance / 2, 1, sTextColors[COLOR_LIGHT], 0, gText_TMCase);
 }
 
@@ -1547,7 +1557,10 @@ static void PrintMoveInfo(u16 itemId)
     if (itemId == ITEM_NONE)
     {
         for (i = 0; i < 4; i++)
-            TMCase_Print(WIN_MOVE_INFO, FONT_NORMAL_COPY_2, gText_ThreeHyphens, 7, 12 * i, 0, 0, TEXT_SKIP_DRAW, COLOR_MOVE_INFO);
+        {
+            //TMCase_Print(WIN_MOVE_INFO, FONT_NORMAL_COPY_2, gText_ThreeHyphens, 7, 12 * i, 0, 0, TEXT_SKIP_DRAW, COLOR_MOVE_INFO);
+            TMCase_Print(WIN_MOVE_INFO, FONT_NORMAL_COPY_2, gText_ThreeHyphens, 25, 12 * i, 0, 0, TEXT_SKIP_DRAW, COLOR_MOVE_INFO);
+        }
         CopyWindowToVram(WIN_MOVE_INFO, COPYWIN_GFX);
     }
     else
@@ -1564,7 +1577,8 @@ static void PrintMoveInfo(u16 itemId)
             ConvertIntToDecimalStringN(gStringVar1, gBattleMoves[move].power, STR_CONV_MODE_RIGHT_ALIGN, 3);
             str = gStringVar1;
         }
-        TMCase_Print(WIN_MOVE_INFO, FONT_NORMAL_COPY_2, str, 7, 12, 0, 0, TEXT_SKIP_DRAW, COLOR_MOVE_INFO);
+        //TMCase_Print(WIN_MOVE_INFO, FONT_NORMAL_COPY_2, str, 7, 12, 0, 0, TEXT_SKIP_DRAW, COLOR_MOVE_INFO);
+        TMCase_Print(WIN_MOVE_INFO, FONT_NORMAL_COPY_2, str, 25, 12, 0, 0, TEXT_SKIP_DRAW, COLOR_MOVE_INFO);
 
         // Print accuracy
         if (gBattleMoves[move].accuracy == 0)
@@ -1574,11 +1588,13 @@ static void PrintMoveInfo(u16 itemId)
             ConvertIntToDecimalStringN(gStringVar1, gBattleMoves[move].accuracy, STR_CONV_MODE_RIGHT_ALIGN, 3);
             str = gStringVar1;
         }
-        TMCase_Print(WIN_MOVE_INFO, FONT_NORMAL_COPY_2, str, 7, 24, 0, 0, TEXT_SKIP_DRAW, COLOR_MOVE_INFO);
+        //TMCase_Print(WIN_MOVE_INFO, FONT_NORMAL_COPY_2, str, 7, 24, 0, 0, TEXT_SKIP_DRAW, COLOR_MOVE_INFO);
+        TMCase_Print(WIN_MOVE_INFO, FONT_NORMAL_COPY_2, str, 25, 24, 0, 0, TEXT_SKIP_DRAW, COLOR_MOVE_INFO);
 
         // Print PP
         ConvertIntToDecimalStringN(gStringVar1, gBattleMoves[move].pp, STR_CONV_MODE_RIGHT_ALIGN, 3);
-        TMCase_Print(WIN_MOVE_INFO, FONT_NORMAL_COPY_2, gStringVar1, 7, 36, 0, 0, TEXT_SKIP_DRAW, COLOR_MOVE_INFO);
+        //TMCase_Print(WIN_MOVE_INFO, FONT_NORMAL_COPY_2, gStringVar1, 7, 36, 0, 0, TEXT_SKIP_DRAW, COLOR_MOVE_INFO);
+        TMCase_Print(WIN_MOVE_INFO, FONT_NORMAL_COPY_2, gStringVar1, 25, 36, 0, 0, TEXT_SKIP_DRAW, COLOR_MOVE_INFO);
 
         CopyWindowToVram(WIN_MOVE_INFO, COPYWIN_GFX);
     }

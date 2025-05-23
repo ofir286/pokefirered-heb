@@ -2456,8 +2456,11 @@ static void DisplayPartyPokemonDescriptionText(u8 stringId, struct PartyMenuBox 
     if (drawMenuBoxOrText != DRAW_TEXT_ONLY)
         menuBox->infoRects->blitFunc(menuBox->windowId, menuBox->infoRects->descTextLeft / 8, menuBox->infoRects->descTextTop / 8, menuBox->infoRects->descTextWidth / 8, menuBox->infoRects->descTextHeight / 8, TRUE);
     if (drawMenuBoxOrText != DRAW_MENU_BOX_ONLY)
-        AddTextPrinterParameterized3(menuBox->windowId, FONT_NORMAL_COPY_1, menuBox->infoRects->descTextLeft, menuBox->infoRects->descTextTop, sFontColorTable[0], 0, sDescriptionStringTable[stringId]);
-
+    {
+        // Ofir changed here
+        //AddTextPrinterParameterized3(menuBox->windowId, FONT_NORMAL_COPY_1, menuBox->infoRects->descTextLeft, menuBox->infoRects->descTextTop, sFontColorTable[0], 0, sDescriptionStringTable[stringId]);
+        AddTextPrinterParameterized3(menuBox->windowId, FONT_NORMAL_COPY_1, menuBox->infoRects->descTextLeft+55, menuBox->infoRects->descTextTop, sFontColorTable[0], 0, sDescriptionStringTable[stringId]);
+    }
 }
 
 static void PartyMenuRemoveWindow(u8 *windowId)
