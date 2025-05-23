@@ -415,10 +415,14 @@ void PSA_PrintMessage(u8 messageId)
         DynamicPlaceholderTextUtil_ExpandPlaceholders(scene->textBuf, gText_MonLearnedTMHM);
         break;
     case 4:
-        strWidth += GetStringWidth(FONT_NORMAL, gText_Counting_2And, -1);
+        // Ofir changed here
+        //strWidth += GetStringWidth(FONT_NORMAL, gText_Counting_2And, -1);
+        strWidth -= GetStringWidth(FONT_NORMAL, gText_Counting_2And, -1);
         // fallthrough
     case 3:
-        strWidth += GetStringWidth(FONT_NORMAL, gText_Counting_1, -1);
+        // Ofir changed here
+        //strWidth += GetStringWidth(FONT_NORMAL, gText_Counting_1, -1);
+        strWidth -= GetStringWidth(FONT_NORMAL, gText_Counting_1, -1);
         // fallthrough
     case 2: // 1
         StringCopy(scene->textBuf, s1_2_and_Poof_textPtrs[messageId - 2]);
@@ -443,7 +447,9 @@ void PSA_PrintMessage(u8 messageId)
         return;
     }
 
-    AddTextPrinterParameterized5(0, FONT_NORMAL, scene->textBuf, strWidth, 0, textSpeed, NULL, 0, 4);
+    // Ofir changed here
+    //AddTextPrinterParameterized5(0, FONT_NORMAL, scene->textBuf, strWidth, 0, textSpeed, NULL, 0, 4);
+    AddTextPrinterParameterized5(0, FONT_NORMAL, scene->textBuf, strWidth+215, 0, textSpeed, NULL, 0, 4);
 }
 
 void PSA_AfterPoof_ClearMessageWindow(void)
