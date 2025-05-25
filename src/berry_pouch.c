@@ -667,7 +667,9 @@ static void SetUpListMenuTemplate(void)
         gMultiuseListMenuTemplate.totalItems = sResources->listMenuNumItems;
     gMultiuseListMenuTemplate.windowId = 0;
     gMultiuseListMenuTemplate.header_X = 0;
-    gMultiuseListMenuTemplate.item_X = 9;
+    // Ofir changed here
+    //gMultiuseListMenuTemplate.item_X = 9;
+    gMultiuseListMenuTemplate.item_X = 125;
     gMultiuseListMenuTemplate.cursor_X = 1;
     gMultiuseListMenuTemplate.lettersSpacing = 0;
     gMultiuseListMenuTemplate.itemVerticalPadding = 2;
@@ -727,7 +729,9 @@ static void BerryPouchItemPrintFunc(u8 windowId, u32 itemId, u8 y)
         itemQuantity = BagGetQuantityByPocketPosition(POCKET_BERRY_POUCH, itemId);
         ConvertIntToDecimalStringN(gStringVar1, itemQuantity, STR_CONV_MODE_RIGHT_ALIGN, 3);
         StringExpandPlaceholders(gStringVar4, gText_TimesStrVar1);
-        BerryPouchPrint(windowId, FONT_SMALL, gStringVar4, 110, y, 0, 0, 0xFF, 1);
+        // Ofir changed here
+        //BerryPouchPrint(windowId, FONT_SMALL, gStringVar4, 110, y, 0, 0, 0xFF, 1);
+        BerryPouchPrint(windowId, FONT_SMALL, gStringVar4, 20, y, 0, 0, 0xFF, 1);
     }
 }
 
@@ -761,7 +765,9 @@ static void PrintSelectedBerryDescription(s32 itemIdx)
     else
         str = gText_TheBerryPouchWillBePutAway;
     FillWindowPixelBuffer(1, PIXEL_FILL(0));
-    BerryPouchPrint(1, FONT_NORMAL, str, 0, 2, 2, 0, 0, 0);
+    // Ofir changed here
+    //BerryPouchPrint(1, FONT_NORMAL, str, 0, 2, 2, 0, 0, 0);
+    BerryPouchPrint(1, FONT_NORMAL, str, 180, 2, 2, 0, 0, 0);
 }
 
 static void SetDescriptionWindowBorderPalette(s32 pal)
@@ -801,7 +807,9 @@ static void DestroyScrollIndicatorArrows(void)
 
 static void PrintBerryPouchHeaderCentered(void)
 {
-    u32 slack = 72 - GetStringWidth(FONT_NORMAL_COPY_1, gText_BerryPouch, 0);
+    // Ofir changed here
+    //u32 slack = 72 - GetStringWidth(FONT_NORMAL_COPY_1, gText_BerryPouch, 0);
+    u32 slack = 72 + GetStringWidth(FONT_NORMAL_COPY_1, gText_BerryPouch, 0);
     BerryPouchPrint(2, FONT_NORMAL_COPY_1, gText_BerryPouch, slack / 2, 1, 0, 0, 0, 0);
 }
 
@@ -1029,7 +1037,9 @@ static void CreateNormalContextMenu(u8 taskId)
     windowId2 = GetOrCreateVariableWindow(6);
     CopySelectedListMenuItemName(data[1], gStringVar1);
     StringExpandPlaceholders(gStringVar4, gText_Var1IsSelected);
-    BerryPouchPrint(windowId2, FONT_NORMAL, gStringVar4, 0, 2, 1, 2, 0, 1);
+    // Ofir changed here
+    //BerryPouchPrint(windowId2, FONT_NORMAL, gStringVar4, 0, 2, 1, 2, 0, 1);
+    BerryPouchPrint(windowId2, FONT_NORMAL, gStringVar4, 100, 2, 1, 2, 0, 1);
 }
 
 static void Task_NormalContextMenu(u8 taskId)
@@ -1105,7 +1115,9 @@ static void Task_AskTossMultiple(u8 taskId)
     s16 * data = gTasks[taskId].data;
     ConvertIntToDecimalStringN(gStringVar2, data[8], STR_CONV_MODE_LEFT_ALIGN, 3);
     StringExpandPlaceholders(gStringVar4, gText_ThrowAwayStrVar2OfThisItemQM);
-    BerryPouchPrint(GetOrCreateVariableWindow(7), FONT_NORMAL, gStringVar4, 0, 2, 1, 2, 0, 1);
+    // Ofir changed here
+    //BerryPouchPrint(GetOrCreateVariableWindow(7), FONT_NORMAL, gStringVar4, 0, 2, 1, 2, 0, 1);
+    BerryPouchPrint(GetOrCreateVariableWindow(7), FONT_NORMAL, gStringVar4, 100, 2, 1, 2, 0, 1);
     CreateYesNoMenuWin3(taskId, &sYesNoFuncs_Toss);
 }
 
@@ -1159,7 +1171,9 @@ static void Task_TossYes(u8 taskId)
     CopySelectedListMenuItemName(data[1], gStringVar1);
     ConvertIntToDecimalStringN(gStringVar2, data[8], STR_CONV_MODE_LEFT_ALIGN, 3);
     StringExpandPlaceholders(gStringVar4, gText_ThrewAwayStrVar2StrVar1s);
-    BerryPouchPrint(GetOrCreateVariableWindow(9), FONT_NORMAL, gStringVar4, 0, 2, 1, 2, 0, 1);
+    // Ofir changed here
+    //BerryPouchPrint(GetOrCreateVariableWindow(9), FONT_NORMAL, gStringVar4, 0, 2, 1, 2, 0, 1);
+    BerryPouchPrint(GetOrCreateVariableWindow(9), FONT_NORMAL, gStringVar4, 175, 2, 1, 2, 0, 1);
     gTasks[taskId].func = Task_WaitButtonThenTossBerries;
 }
 
