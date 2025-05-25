@@ -24,12 +24,13 @@ Route25_SeaCottage_Text_ImBillHelpMeOutLady::
 
 Route25_SeaCottage_Text_RunCellSeparationOnPC::
     .string "חכה עד שאכנס לטלפורטר.\n"
-    .string "כשאני שם, לך למחשב שלי והרץ את מערכת הפרדת התאים.$"
+    .string "כשאני שם, לך למחשב שלי\p"
+    .string "והרץ את מערכת הפרדת התאים.$"
 
 Route25_SeaCottage_Text_NoPleaseChief::
     .string "לא!?\n"
     .string "עכשיו אל תהיה כל כך קר!\p"
-    .string "בוא, אתה חייב לעזור לאדם בצרות רציניות!\p"
+    .string "בוא, אתה חייב לעזור לאדם בצרות!\p"
     .string "מה אתה אומר, חבר?\n"
     .string "בבקשה?\l"
     .string "בסדר?\l"
@@ -38,8 +39,8 @@ Route25_SeaCottage_Text_NoPleaseChief::
 Route25_SeaCottage_Text_NoPleaseBeautiful::
     .string "לא!?\n"
     .string "עכשיו אל תהיה כל כך קר!\p"
-    .string "בוא, אתה חייב לעזור לאדם בצרות רציניות!\p"
-    .string "מה אתה אומר, יפה?\n"
+    .string "בוא, אתה חייב לעזור לאדם בצרות!\p"
+    .string "מה אתה אומר,?\n"
     .string "בבקשה?\l"
     .string "בסדר?\l"
     .string "טוב!$"
@@ -77,7 +78,8 @@ Route25_SeaCottage_Text_SSAnnePartyYouGoInstead::
     .string "לך ותהנה.$"
 
 Route25_SeaCottage_Text_CheckOutRareMonsOnPC::
-    .string "ביל: רוצה לבדוק כמה מהפוקימונים הנדירים שלי במחשב שלי?\p"
+    .string "ביל: רוצה לבדוק כמה מהפוקימונים\n"
+    .string "הנדירים שלי במחשב שלי?\p"
     .string "לך, תבדוק את המחשב שלי.$"
 
 Route25_SeaCottage_Text_TeleporterIsDisplayed::
