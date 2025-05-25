@@ -21,7 +21,7 @@ Route11_Text_JasperPostBattle::
     .string "של פוקימונים!$"
 
 Route11_Text_EddieIntro::
-    .string "יאללה, אבל אל ת cheat!$"
+    .string "יאללה, אבל אל תרמה!$"
 
 Route11_Text_EddieDefeat::
     .string "מה?\n"
