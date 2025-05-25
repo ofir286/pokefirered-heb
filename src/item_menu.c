@@ -1437,7 +1437,9 @@ static void OpenContextMenu(u8 taskId)
     r4 = ShowBagWindow(6, 0);
     CopyItemName(gSpecialVar_ItemId, gStringVar1);
     StringExpandPlaceholders(gStringVar4, gText_Var1IsSelected);
-    BagPrintTextOnWindow(r4, FONT_NORMAL, gStringVar4, 0, 2, 1, 0, 0, 1);
+    // Ofir changed here
+    //BagPrintTextOnWindow(r4, FONT_NORMAL, gStringVar4, 0, 2, 1, 0, 0, 1);
+    BagPrintTextOnWindow(r4, FONT_NORMAL, gStringVar4, 100, 2, 1, 0, 0, 1);
 }
 
 static void Task_ItemContext_FieldOrBattle(u8 taskId)
