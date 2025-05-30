@@ -111,7 +111,7 @@
     {
       "map_section": "MAPSEC_ROUTE_10_POKECENTER",
       "name": "ROUTE 10",
-      "hebrew_name": "דרך 10",
+      "hebrew_name": "דרך 01",
       "x": 18,
       "y": 3,
       "width": 1,
@@ -201,7 +201,7 @@
     {
       "map_section": "MAPSEC_ROUTE_10",
       "name": "ROUTE 10",
-      "hebrew_name": "דרך 10",
+      "hebrew_name": "דרך 01",
       "x": 18,
       "y": 3,
       "width": 1,
@@ -219,7 +219,7 @@
     {
       "map_section": "MAPSEC_ROUTE_12",
       "name": "ROUTE 12",
-      "hebrew_name": "דרך 12",
+      "hebrew_name": "דרך 21",
       "x": 18,
       "y": 7,
       "width": 1,
@@ -228,7 +228,7 @@
     {
       "map_section": "MAPSEC_ROUTE_13",
       "name": "ROUTE 13",
-      "hebrew_name": "דרך 13",
+      "hebrew_name": "דרך 31",
       "x": 16,
       "y": 11,
       "width": 2,
@@ -237,7 +237,7 @@
     {
       "map_section": "MAPSEC_ROUTE_14",
       "name": "ROUTE 14",
-      "hebrew_name": "דרך 14",
+      "hebrew_name": "דרך 41",
       "x": 15,
       "y": 11,
       "width": 1,
@@ -246,7 +246,7 @@
     {
       "map_section": "MAPSEC_ROUTE_15",
       "name": "ROUTE 15",
-      "hebrew_name": "דרך 15",
+      "hebrew_name": "דרך 51",
       "x": 13,
       "y": 12,
       "width": 2,
@@ -255,7 +255,7 @@
     {
       "map_section": "MAPSEC_ROUTE_16",
       "name": "ROUTE 16",
-      "hebrew_name": "דרך 16",
+      "hebrew_name": "דרך 61",
       "x": 7,
       "y": 6,
       "width": 4,
@@ -264,7 +264,7 @@
     {
       "map_section": "MAPSEC_ROUTE_17",
       "name": "ROUTE 17",
-      "hebrew_name": "דרך 17",
+      "hebrew_name": "דרך 71",
       "x": 7,
       "y": 7,
       "width": 1,
@@ -273,7 +273,7 @@
     {
       "map_section": "MAPSEC_ROUTE_18",
       "name": "ROUTE 18",
-      "hebrew_name": "דרך 18",
+      "hebrew_name": "דרך 81",
       "x": 7,
       "y": 12,
       "width": 5,
@@ -282,7 +282,7 @@
     {
       "map_section": "MAPSEC_ROUTE_19",
       "name": "ROUTE 19",
-      "hebrew_name": "דרך 19",
+      "hebrew_name": "דרך 91",
       "x": 12,
       "y": 13,
       "width": 1,
@@ -291,7 +291,7 @@
     {
       "map_section": "MAPSEC_ROUTE_20",
       "name": "ROUTE 20",
-      "hebrew_name": "דרך 20",
+      "hebrew_name": "דרך 02",
       "x": 5,
       "y": 14,
       "width": 7,
@@ -300,7 +300,7 @@
     {
       "map_section": "MAPSEC_ROUTE_21",
       "name": "ROUTE 21",
-      "hebrew_name": "דרך 21",
+      "hebrew_name": "דרך 12",
       "x": 4,
       "y": 12,
       "width": 1,
@@ -318,7 +318,7 @@
     {
       "map_section": "MAPSEC_ROUTE_23",
       "name": "ROUTE 23",
-      "hebrew_name": "דרך 23",
+      "hebrew_name": "דרך 32",
       "x": 2,
       "y": 4,
       "width": 1,
@@ -327,7 +327,7 @@
     {
       "map_section": "MAPSEC_ROUTE_24",
       "name": "ROUTE 24",
-      "hebrew_name": "דרך 24",
+      "hebrew_name": "דרך 42",
       "x": 14,
       "y": 1,
       "width": 1,
@@ -336,7 +336,7 @@
     {
       "map_section": "MAPSEC_ROUTE_25",
       "name": "ROUTE 25",
-      "hebrew_name": "דרך 25",
+      "hebrew_name": "דרך 52",
       "x": 15,
       "y": 1,
       "width": 2,
