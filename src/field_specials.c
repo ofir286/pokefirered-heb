@@ -1361,6 +1361,8 @@ static void Task_CreateScriptListMenu(u8 taskId)
     sFieldSpecialsListMenuTemplate.totalItems = task->data[1];
     sFieldSpecialsListMenuTemplate.maxShowed = task->data[0];
     sFieldSpecialsListMenuTemplate.windowId = task->data[13];
+    // Ofir added this
+    sFieldSpecialsListMenuTemplate.item_X = (task->data[4] * 8) - 8;
     Task_CreateMenuRemoveScrollIndicatorArrowPair(taskId);
     task->data[14] = ListMenuInit(&sFieldSpecialsListMenuTemplate, task->data[7], task->data[8]);
     PutWindowTilemap(task->data[13]);
