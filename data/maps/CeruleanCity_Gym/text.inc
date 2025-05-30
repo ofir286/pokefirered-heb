@@ -14,7 +14,7 @@ CeruleanCity_Gym_Text_ExplainTM03::
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
     .string "תג הזהב גורם\n"
-    .string "לפוקימונים עד רמה 30 לציית לך!\p"
+    .string "לפוקימונים עד רמה 03 לציית לך!\p"
     .string "זה כולל אפילו פוקימונים שקיבלת\l"
     .string "בהחלפה!\p"
     .string "ויש אפילו עוד, עכשיו אתה יכול\l"
