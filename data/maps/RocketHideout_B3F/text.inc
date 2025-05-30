@@ -1,26 +1,25 @@
 RocketHideout_B3F_Text_Grunt1Intro::
-    .string "Stop meddling in TEAM ROCKET's\n"
-    .string "affairs or else!$"
+    .string "הפסיק להתערב בעניינים של צוות\n"
+    .string "רוקט או שתצטער!$"
 
 RocketHideout_B3F_Text_Grunt1Defeat::
-    .string "Oof!\n"
-    .string "Taken down!$"
+    .string "אוף!\n"
+    .string "הובסתי!$"
 
 RocketHideout_B3F_Text_Grunt1PostBattle::
-    .string "SILPH SCOPE?\n"
-    .string "Oh, that machine the BOSS stole.\p"
-    .string "It's here somewhere.$"
+    .string "משקפת סילף?\n"
+    .string "אה, המכונה שהבוס גנב.\p"
+    .string "היא נמצאת כאן איפשהו.$"
 
 RocketHideout_B3F_Text_Grunt2Intro::
-    .string "We got word from upstairs that you\n"
-    .string "were coming!$"
+    .string "קיבלנו הודעה מלמעלה\n"
+    .string "שאתה מגיע!$"
 
 RocketHideout_B3F_Text_Grunt2Defeat::
-    .string "What?\n"
-    .string "I lost? No!$"
+    .string "מה?\n"
+    .string "הפסדתי? לא!$"
 
 RocketHideout_B3F_Text_Grunt2PostBattle::
-    .string "Go ahead and go!\p"
-    .string "But you can't run the elevator\n"
-    .string "without the LIFT KEY.$"
-
+    .string "לך קדימה!\p"
+    .string "אבל אתה לא יכול להפעיל את המעלית\n"
+    .string "בלי מפתח המעלית.$"

@@ -1,36 +1,35 @@
 PokemonTower_3F_Text_HopeIntro::
-    .string "Urrg… Awaa…\n"
-    .string "Huhu… Graa…$"
+    .string "אררר… אוואה…\n"
+    .string "הוהו… גרא…$"
 
 PokemonTower_3F_Text_HopeDefeat::
-    .string "Hwa!\n"
-    .string "I'm saved!$"
+    .string "הואה!\n"
+    .string "ניצלתי!$"
 
 PokemonTower_3F_Text_HopePostBattle::
-    .string "The ghosts can be identified by\n"
-    .string "the SILPH SCOPE.$"
+    .string "אפשר לזהות את הרוחות\n"
+    .string "בעזרת משקפת סילף.$"
 
 PokemonTower_3F_Text_CarlyIntro::
-    .string "Kekeke…\n"
-    .string "Kwaaah!$"
+    .string "קקקק…\n"
+    .string "קוואה!$"
 
 PokemonTower_3F_Text_CarlyDefeat::
-    .string "Hmm?\n"
-    .string "What am I doing?$"
+    .string "הממ?\n"
+    .string "מה אני עושה?$"
 
 PokemonTower_3F_Text_CarlyPostBattle::
-    .string "Sorry!\n"
-    .string "I was possessed!$"
+    .string "סליחה!\n"
+    .string "הייתי אחוזת דיבוק!$"
 
 PokemonTower_3F_Text_PatriciaIntro::
-    .string "Be gone!\n"
-    .string "Malevolent spirit!$"
+    .string "לכי מכאן!\n"
+    .string "רוח רעה!$"
 
 PokemonTower_3F_Text_PatriciaDefeat::
-    .string "Whew!\n"
-    .string "The spirit left!$"
+    .string "פיו!\n"
+    .string "הרוח עזבה!$"
 
 PokemonTower_3F_Text_PatriciaPostBattle::
-    .string "The others above…\n"
-    .string "They must have been possessed.$"
-
+    .string "האחרים למעלה…\n"
+    .string "בטח גם הם אחוזי דיבוק.$"

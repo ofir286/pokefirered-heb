@@ -1,12 +1,11 @@
 RocketHideout_B2F_Text_GruntIntro::
-    .string "BOSS said you can see ghosts with\n"
-    .string "the SILPH SCOPE.$"
+    .string "הבוס אמר שאתה יכול לראות רוחות\n"
+    .string "עם משקפת סילף.$"
 
 RocketHideout_B2F_Text_GruntDefeat::
-    .string "I surrender!$"
+    .string "אני מוותר!$"
 
 RocketHideout_B2F_Text_GruntPostBattle::
-    .string "The TEAM ROCKET HQ has four\n"
-    .string "underground floors.\p"
-    .string "Think you can reach the BOSS?$"
-
+    .string "למפקדת צוות רוקט יש ארבע\n"
+    .string "קומות תת-קרקעיות.\p"
+    .string "אתה חושב שתוכל להגיע לבוס?$"

@@ -1,33 +1,32 @@
 PokemonMansion_Text_PressSecretSwitch::
-    .string "A secret switch!\p"
-    .string "Press it?$"
+    .string "מתג סודי!\p"
+    .string "ללחוץ עליו?$"
 
 PokemonMansion_Text_WhoWouldnt::
-    .string "Who wouldn't?$"
+    .string "מי לא היה?$"
 
 PokemonMansion_Text_NotQuiteYet::
-    .string "Not quite yet!$"
+    .string "עדיין לא!$"
 
 PokemonMansion_1F_Text_ArnieIntro::
-    .string "I can't get out!\n"
-    .string "This old place is one big puzzle.$"
+    .string "אני לא יכול לצאת!\n"
+    .string "המקום הישן הזה הוא פאזל אחד גדול.$"
 
 PokemonMansion_1F_Text_ArnieDefeat::
-    .string "Oh, no!\n"
-    .string "My bag of loot!$"
+    .string "אוי, לא!\n"
+    .string "שק השלל שלי!$"
 
 PokemonMansion_1F_Text_ArniePostBattle::
-    .string "The switches here open and close\n"
-    .string "alternating sets of doors.$"
+    .string "המתגים כאן פותחים וסוגרים\n"
+    .string "סטים מתחלף של דלתות.$"
 
 PokemonMansion_1F_Text_NewMonDiscoveredInGuyanaJungle::
-    .string "Diary: July 5\n"
-    .string "Guyana, South America\p"
-    .string "A new POKéMON was discovered deep\n"
-    .string "in the jungle.$"
+    .string "יומן: 5 ביולי\n"
+    .string "גיאנה, דרום אמריקה\p"
+    .string "פוקימון חדש התגלה עמוק\n"
+    .string "בג'ונגל.$"
 
 PokemonMansion_1F_Text_ChristenedDiscoveredMonMew::
-    .string "Diary: July 10\n"
-    .string "We christened the newly discovered\l"
-    .string "POKéMON, MEW.$"
-
+    .string "יומן: 10 ביולי\n"
+    .string "קראנו לפוקימון החדש\l"
+    .string "שהתגלה, מייו.$"

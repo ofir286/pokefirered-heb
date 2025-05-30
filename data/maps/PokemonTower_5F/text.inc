@@ -1,51 +1,49 @@
 PokemonTower_5F_Text_RestHereInPurifiedSpace::
-    .string "Come, child!\n"
-    .string "I have purified this space.\l"
-    .string "You can rest here.$"
+    .string "בוא, ילד!\n"
+    .string "טיהרתי את המקום הזה.\l"
+    .string "אתה יכול לנוח כאן.$"
 
 PokemonTower_5F_Text_TammyIntro::
-    .string "Give…me…\n"
-    .string "your…all…$"
+    .string "תן...לי...\n"
+    .string "את...כל...$"
 
 PokemonTower_5F_Text_TammyDefeat::
-    .string "Gasp!$"
+    .string "האהה!$"
 
 PokemonTower_5F_Text_TammyPostBattle::
-    .string "I was under possession.$"
+    .string "הייתי תחת השפעה.$"
 
 PokemonTower_5F_Text_RuthIntro::
-    .string "You…shall…\n"
-    .string "join…us…$"
+    .string "אתה...תצטרף...\n"
+    .string "אלינו...$"
 
 PokemonTower_5F_Text_RuthDefeat::
-    .string "What a nightmare!$"
+    .string "איזה סיוט!$"
 
 PokemonTower_5F_Text_RuthPostBattle::
-    .string "I was possessed.$"
+    .string "הייתי אחוזת דיבוק.$"
 
 PokemonTower_5F_Text_KarinaIntro::
-    .string "Zombies!$"
+    .string "זומבים!$"
 
 PokemonTower_5F_Text_KarinaDefeat::
-    .string "Ha?$"
+    .string "הא?$"
 
 PokemonTower_5F_Text_KarinaPostBattle::
-    .string "I regained my senses.$"
+    .string "חזרתי להכרה.$"
 
 PokemonTower_5F_Text_JanaeIntro::
-    .string "Urgah…\n"
-    .string "Urff…$"
+    .string "ארגה...\n"
+    .string "ארף...$"
 
 PokemonTower_5F_Text_JanaeDefeat::
-    .string "Whoo!$"
+    .string "וואה!$"
 
 PokemonTower_5F_Text_JanaePostBattle::
-    .string "I fell to evil spirits despite my\n"
-    .string "training in the mountains…$"
+    .string "נפלתי לידי רוחות רעות למרות\n"
+    .string "האימונים שלי בהרים...$"
 
 PokemonTower_5F_Text_PurifiedZoneMonsFullyHealed::
-    .string "Entered the purified and protected\n"
-    .string "zone.\p"
-    .string "{PLAYER}'s POKéMON were fully\n"
-    .string "healed.$"
-
+    .string "נכנסת לאזור המטוהר והמוגן.\p"
+    .string "הפוקימונים של {PLAYER} נרפאו\n"
+    .string "במלואם.$"

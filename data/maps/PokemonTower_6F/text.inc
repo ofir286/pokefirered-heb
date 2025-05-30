@@ -1,43 +1,42 @@
 PokemonTower_6F_Text_AngelicaIntro::
-    .string "Give…me…\n"
-    .string "blood…$"
+    .string "תני...לי...\n"
+    .string "דם...$"
 
 PokemonTower_6F_Text_AngelicaDefeat::
-    .string "Groan!$"
+    .string "אה...!$"
 
 PokemonTower_6F_Text_AngelicaPostBattle::
-    .string "I feel anemic and weak…$"
+    .string "אני מרגישה אנמית וחלשה...$"
 
 PokemonTower_6F_Text_EmiliaIntro::
-    .string "Urff…\n"
-    .string "Kwaah!$"
+    .string "ארף...\n"
+    .string "קוואה!$"
 
 PokemonTower_6F_Text_EmiliaDefeat::
-    .string "Something fell out!$"
+    .string "משהו נפל!$"
 
 PokemonTower_6F_Text_EmiliaPostBattle::
-    .string "My hair didn't fall out!\n"
-    .string "It was a malevolent spirit!$"
+    .string "השיער שלי לא נשר!\n"
+    .string "זו הייתה רוח רעה!$"
 
 PokemonTower_6F_Text_JenniferIntro::
-    .string "Ke…ke…ke…\n"
-    .string "ke…ke…ke!$"
+    .string "קה...קה...קה...\n"
+    .string "קה...קה...קה!$"
 
 PokemonTower_6F_Text_JenniferDefeat::
-    .string "Keee!$"
+    .string "קיייי!$"
 
 PokemonTower_6F_Text_JenniferPostBattle::
-    .string "What's going on here?$"
+    .string "מה קורה כאן?$"
 
 PokemonTower_6F_Text_BeGoneIntruders::
-    .string "Be gone…\n"
-    .string "Intruders…$"
+    .string "לכו מכאן...\n"
+    .string "פולשים...$"
 
 PokemonTower_6F_Text_GhostWasCubonesMother::
-    .string "The ghost was the restless spirit\n"
-    .string "of CUBONE's mother!$"
+    .string "הרוח הייתה הנשמה המיוסרת\n"
+    .string "של אמא של קיובון!$"
 
 PokemonTower_6F_Text_MothersSpiritWasCalmed::
-    .string "The mother's spirit was calmed.\p"
-    .string "It departed to the afterlife…$"
-
+    .string "רוח האם נרגעה.\p"
+    .string "היא עלתה לגן עדן...$"

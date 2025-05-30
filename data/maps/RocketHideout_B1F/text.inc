@@ -1,53 +1,52 @@
 RocketHideout_B1F_Text_Grunt1Intro::
-    .string "Who are you?\n"
-    .string "How did you get here?$"
+    .string "מי אתה?\n"
+    .string "איך הגעת לכאן?$"
 
 RocketHideout_B1F_Text_Grunt1Defeat::
-    .string "Oww!\n"
-    .string "Beaten!$"
+    .string "אוי!\n"
+    .string "הובסתי!$"
 
 RocketHideout_B1F_Text_Grunt1PostBattle::
-    .string "Blast it… You're dissing TEAM\n"
-    .string "ROCKET, aren't you?$"
+    .string "לעזאזל... אתה מזלזל בצוות\n"
+    .string "רוקט, נכון?$"
 
 RocketHideout_B1F_Text_Grunt2Intro::
-    .string "You broke into TEAM ROCKET's\n"
-    .string "operation? What nerve!$"
+    .string "פרצת למבצע של צוות רוקט?\n"
+    .string "איזה חוצפה!$"
 
 RocketHideout_B1F_Text_Grunt2Defeat::
-    .string "Boom!$"
+    .string "בום!$"
 
 RocketHideout_B1F_Text_Grunt2PostBattle::
-    .string "You're not going to get away with\n"
-    .string "this, brat!$"
+    .string "אתה לא תצא מזה,\n"
+    .string "ילדון!$"
 
 RocketHideout_B1F_Text_Grunt3Intro::
-    .string "Intruder alert!$"
+    .string "התראת פולש!$"
 
 RocketHideout_B1F_Text_Grunt3Defeat::
-    .string "I can't do it!$"
+    .string "אני לא יכול!$"
 
 RocketHideout_B1F_Text_Grunt3PostBattle::
-    .string "SILPH SCOPE? Humph!\n"
-    .string "I don't know where it is.$"
+    .string "משקפת סילף? חה!\n"
+    .string "אני לא יודע איפה זה.$"
 
 RocketHideout_B1F_Text_Grunt4Intro::
-    .string "Why did you come here?$"
+    .string "למה באת לכאן?$"
 
 RocketHideout_B1F_Text_Grunt4Defeat::
-    .string "This won't do!$"
+    .string "זה לא יעבוד!$"
 
 RocketHideout_B1F_Text_Grunt4PostBattle::
-    .string "Okay, I'll talk…\n"
-    .string "Take the elevator to see my BOSS.$"
+    .string "בסדר, אני אדבר...\n"
+    .string "קח את המעלית כדי לראות את הבוס שלי.$"
 
 RocketHideout_B1F_Text_Grunt5Intro::
-    .string "Are you lost, you little mouse?$"
+    .string "האם הלכת לאיבוד, עכבר קטן?$"
 
 RocketHideout_B1F_Text_Grunt5Defeat::
-    .string "Why…?$"
+    .string "למה...?$"
 
 RocketHideout_B1F_Text_Grunt5PostBattle::
-    .string "Uh-oh, that ruckus somehow opened\n"
-    .string "the door!$"
-
+    .string "אוי לא, הרעש הזה איכשהו פתח\n"
+    .string "את הדלת!$"

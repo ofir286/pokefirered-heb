@@ -1,12 +1,12 @@
 Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30::
     .string "היי! זוכר אותי?\n"
-    .string "אני אחד מהסייעים של פרופ' אוק.\n"
-    .string "אם הפוקדקס שלך מכיל נתונים מלאים\n"
-    .string "על {STR_VAR_1} מיני פוקימון, אני אמור\n"
-    .string "לתת לך פרס.\n"
+    .string "אני אחד מהסייעים של פרופ' אוק.\l"
+    .string "אם הפוקדקס שלך מכיל נתונים מלאים\l"
+    .string "על {STR_VAR_1} מיני פוקימון, אני אמור\l"
+    .string "לתת לך פרס.\p"
     .string "פרופ' אוק הטיל עליי את המשימה\n"
-    .string "לתת לך את ה-{STR_VAR_2}.\n"
-    .string "אז, {PLAYER}, תן לי לשאול אותך.\n"
+    .string "לתת לך את ה-{STR_VAR_2}.\p"
+    .string "אז, {PLAYER}, תן לי לשאול אותך.\l"
     .string "האם אספת נתונים על לפחות\n"
     .string "{STR_VAR_1} סוגי פוקימון?$"
 
