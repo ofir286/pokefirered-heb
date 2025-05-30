@@ -1529,19 +1529,25 @@ void UpdateNickInHealthbox(u8 healthboxSpriteId, struct Pokemon *mon)
     default:
         *ptr++ = TEXT_DYNAMIC_COLOR_2;
         *ptr++ = EOS;
-        windowTileData = AddTextPrinterAndCreateWindowOnHealthbox(gDisplayedStringBattle, 0 + (StringLength(nickname))*6, 3, &windowId);
+        // Ofir Changed here
+        //windowTileData = AddTextPrinterAndCreateWindowOnHealthbox(gDisplayedStringBattle, 0, 3, &windowId);
+        windowTileData = AddTextPrinterAndCreateWindowOnHealthbox(gDisplayedStringBattle, 0 + GetStringWidth(FONT_SMALL, nickname, -1)+6, 3, &windowId);
         break;
     case MON_MALE:
         *ptr++ = TEXT_DYNAMIC_COLOR_2;
         *ptr++ = CHAR_MALE;
         *ptr++ = EOS;
-        windowTileData = AddTextPrinterAndCreateWindowOnHealthbox(gDisplayedStringBattle, 0 + (StringLength(nickname))*6, 3, &windowId);
+        // Ofir Changed here
+        //windowTileData = AddTextPrinterAndCreateWindowOnHealthbox(gDisplayedStringBattle, 0, 3, &windowId);
+        windowTileData = AddTextPrinterAndCreateWindowOnHealthbox(gDisplayedStringBattle, 0 + GetStringWidth(FONT_SMALL, nickname, -1)+6, 3, &windowId);
         break;
     case MON_FEMALE:
         *ptr++ = TEXT_DYNAMIC_COLOR_1;
         *ptr++ = CHAR_FEMALE;
         *ptr++ = EOS;
-        windowTileData = AddTextPrinterAndCreateWindowOnHealthbox(gDisplayedStringBattle, 0 + (StringLength(nickname))*6, 3, &windowId);
+        // Ofir Changed here
+        //windowTileData = AddTextPrinterAndCreateWindowOnHealthbox(gDisplayedStringBattle, 0, 3, &windowId);
+        windowTileData = AddTextPrinterAndCreateWindowOnHealthbox(gDisplayedStringBattle, 0 + GetStringWidth(FONT_SMALL, nickname, -1)+6, 3, &windowId);
         break;
     }
 
